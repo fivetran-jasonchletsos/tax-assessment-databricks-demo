@@ -1,0 +1,175 @@
+{
+  "parcel": {
+    "parcel_id": "0434P00213000000",
+    "address": "BUTLER PLANK RD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1606   BUTLER PLANK RD",
+    "current_mailing_address": "1606   BUTLER PLANK RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.027,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0434P00213000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100,
+        "market_value": 100,
+        "land_value": 100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4,
+        "assessed_value_change_pct": 4.17,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 96,
+        "market_value": 96,
+        "land_value": 96,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1,
+        "assessed_value_change_pct": -1.03,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 97,
+        "market_value": 97,
+        "land_value": 97,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4,
+        "assessed_value_change_pct": 4.3,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 93,
+        "market_value": 93,
+        "land_value": 93,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3,
+        "assessed_value_change_pct": 3.33,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 90,
+        "market_value": 90,
+        "land_value": 90,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2,
+        "assessed_value_change_pct": 2.27,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 90,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88,
+        "market_value": 88,
+        "land_value": 88,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0434P00213000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0434P00213000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-26064-2018",
+        "filed_date": null,
+        "hearing_date": "27-Jun-18",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0434P00213000000",
+    "comparables": [
+      {
+        "parcel_id": "0615L00045000000",
+        "address": "MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0357J00134000000",
+        "address": "SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1115   SAXONBURG BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

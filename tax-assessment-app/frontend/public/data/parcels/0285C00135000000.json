@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0285C00135000000",
+    "address": "1030 SAXONBURG BLVD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1030   SAXONBURG BLVD",
+    "current_mailing_address": "1030   SAXONBURG BLVD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.19,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0285C00135000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 137300,
+        "market_value": 155300,
+        "land_value": 35300,
+        "improvement_value": 102000,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 6109,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 119300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 131191,
+        "market_value": 148390,
+        "land_value": 33729,
+        "improvement_value": 97462,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 113191,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 131191,
+        "market_value": 148390,
+        "land_value": 33729,
+        "improvement_value": 97462,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": -1326,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 113191,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 132517,
+        "market_value": 149889,
+        "land_value": 34070,
+        "improvement_value": 98447,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 6310,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 114517,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 126207,
+        "market_value": 142752,
+        "land_value": 32447,
+        "improvement_value": 93760,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 4854,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 108207,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 121353,
+        "market_value": 137262,
+        "land_value": 31200,
+        "improvement_value": 90153,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 103353,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0285C00135000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0285C00135000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-49166-2021",
+        "filed_date": null,
+        "hearing_date": "16-Aug-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0285C00135000000",
+    "comparables": [
+      {
+        "parcel_id": "0355A00179000000",
+        "address": "1830 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1830   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0433S00030000000",
+        "address": "1922 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1922   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136600,
+        "market_value": 136600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0520C00166000000",
+        "address": "3308 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "3308   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 138000,
+        "market_value": 156000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355A00088000000",
+        "address": "1835 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1835   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136400,
+        "market_value": 136400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0436D00130000000",
+        "address": "3332 SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "3332   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 138200,
+        "market_value": 156200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0356S00078000000",
+        "address": "1066 SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1066   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136200,
+        "market_value": 136200,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

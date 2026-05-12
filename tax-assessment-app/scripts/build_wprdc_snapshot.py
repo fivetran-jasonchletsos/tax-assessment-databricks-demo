@@ -130,7 +130,35 @@ def fetch_parcels() -> list[dict[str, Any]]:
         rows = query_sql(sql)
         print(f"  {zip_code}: {len(rows)} parcels")
         out.extend(rows)
+    # Ensure every Glenshaw street the demo presenter might reference is
+    # represented in full, regardless of value rank.
+    for street in GLENSHAW_STREETS:
+        sql = (
+            f"SELECT {PARCEL_COLS} FROM \"{ASSESSMENTS_RESOURCE}\" "
+            f"WHERE \"PROPERTYZIP\" = 15116 "
+            f"  AND \"PROPERTYADDRESS\" ILIKE '%{street}%' "
+            f"  AND \"COUNTYTOTAL\" > 0 "
+            f"LIMIT 200"
+        )
+        try:
+            rows = query_sql(sql)
+            print(f"  Glenshaw '{street}': +{len(rows)} parcels")
+            out.extend(rows)
+        except Exception as e:
+            print(f"  ({street} lookup failed: {e})")
     return out
+
+
+# Streets the demo presenter may search. Expand as needed.
+GLENSHAW_STREETS = [
+    "ANGELINE",
+    "BUTLER PLANK",
+    "MOUNT ROYAL",
+    "DELLWOOD",
+    "VALLEY BROOK",
+    "MILLERS",
+    "SAXONBURG",
+]
 
 
 def fetch_appeals_for(parcel_ids: list[str]) -> dict[str, list[dict[str, Any]]]:

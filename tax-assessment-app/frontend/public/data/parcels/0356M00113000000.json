@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0356M00113000000",
+    "address": "SAXONBURG BLVD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1101   SAXONBURG BLVD",
+    "current_mailing_address": "1101   SAXONBURG BLVD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.079,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0356M00113000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 500,
+        "market_value": 500,
+        "land_value": 500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4,
+        "assessed_value_change_pct": -0.79,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 504,
+        "market_value": 504,
+        "land_value": 504,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 504,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 480,
+        "market_value": 480,
+        "land_value": 480,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18,
+        "assessed_value_change_pct": 3.9,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 480,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 462,
+        "market_value": 462,
+        "land_value": 462,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13,
+        "assessed_value_change_pct": 2.9,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 462,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 449,
+        "market_value": 449,
+        "land_value": 449,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8,
+        "assessed_value_change_pct": 1.81,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 449,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 441,
+        "market_value": 441,
+        "land_value": 441,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 441,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0356M00113000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0356M00113000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0356M00113000000",
+    "comparables": [
+      {
+        "parcel_id": "0434E00258000000",
+        "address": "BUTLER PLANK RD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "W225 N3178 DUPLAINVILLE RD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0356J00095000000",
+        "address": "BUTLER PLANK RD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "4179   ROUTE 8",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 400,
+        "market_value": 400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0357J00020000000",
+    "address": "1119 SAXONBURG BLVD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "126   LEXINGTON AVE",
+    "current_mailing_address": "126   LEXINGTON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.288,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0357J00020000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 142900,
+        "market_value": 142900,
+        "land_value": 60600,
+        "improvement_value": 82300,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6359,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 136541,
+        "market_value": 136541,
+        "land_value": 57903,
+        "improvement_value": 78638,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136541,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 136541,
+        "market_value": 136541,
+        "land_value": 57903,
+        "improvement_value": 78638,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1380,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136541,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 137921,
+        "market_value": 137921,
+        "land_value": 58488,
+        "improvement_value": 79433,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6567,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137921,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 131354,
+        "market_value": 131354,
+        "land_value": 55703,
+        "improvement_value": 75651,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5052,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 131354,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 126302,
+        "market_value": 126302,
+        "land_value": 53561,
+        "improvement_value": 72741,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126302,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0357J00020000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0357J00020000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-63179-2022",
+        "filed_date": null,
+        "hearing_date": "20-Jul-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0357J00020000000",
+    "comparables": [
+      {
+        "parcel_id": "0520C00226000000",
+        "address": "3215 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "3215   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142900,
+        "market_value": 160900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0355A00090000000",
+        "address": "1837 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1730   CLAY PIKE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143100,
+        "market_value": 143100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0519M00203000000",
+        "address": "2917 ANGELINE DR",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "2917   ANGELINE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143900,
+        "market_value": 161900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0520C00244000000",
+        "address": "3303 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "3303   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141900,
+        "market_value": 159900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0355A00123000000",
+        "address": "1900 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1900   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141900,
+        "market_value": 141900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0355D00154000000",
+        "address": "1484 BUTLER PLANK RD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "148   WINDSOR DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 144200,
+        "market_value": 144200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

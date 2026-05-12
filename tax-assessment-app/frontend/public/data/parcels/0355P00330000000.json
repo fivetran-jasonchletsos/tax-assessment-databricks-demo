@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0355P00330000000",
+    "address": "1416 MOUNT ROYAL BLVD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1416   MT ROYAL BLVD",
+    "current_mailing_address": "1416   MT ROYAL BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.07,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0355P00330000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2550,
+        "market_value": 2550,
+        "land_value": 765,
+        "improvement_value": 1785,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 186,
+        "assessed_value_change_pct": 7.87,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2550,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2364,
+        "market_value": 2364,
+        "land_value": 709,
+        "improvement_value": 1655,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2364,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2341,
+        "market_value": 2341,
+        "land_value": 702,
+        "improvement_value": 1639,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2341,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2341,
+        "market_value": 2341,
+        "land_value": 702,
+        "improvement_value": 1639,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -24,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2341,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2365,
+        "market_value": 2365,
+        "land_value": 709,
+        "improvement_value": 1656,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 112,
+        "assessed_value_change_pct": 4.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2365,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2253,
+        "market_value": 2253,
+        "land_value": 675,
+        "improvement_value": 1578,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2253,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0355P00330000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0355P00330000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-40902-2020",
+        "filed_date": null,
+        "hearing_date": "25-Sep-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0355P00330000000",
+    "comparables": [
+      {
+        "parcel_id": "0356S00068000000",
+        "address": "SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1066   SAXONBURG BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2200,
+        "market_value": 2200,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

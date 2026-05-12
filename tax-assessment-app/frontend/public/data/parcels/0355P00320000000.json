@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0355P00320000000",
+    "address": "1402 MOUNT ROYAL BLVD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "308   MARBERRY DR",
+    "current_mailing_address": "308   MARBERRY DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.1,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0355P00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 140000,
+        "market_value": 140000,
+        "land_value": 32800,
+        "improvement_value": 107200,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6230,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 133770,
+        "market_value": 133770,
+        "land_value": 31340,
+        "improvement_value": 102430,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133770,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 133770,
+        "market_value": 133770,
+        "land_value": 31340,
+        "improvement_value": 102430,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1352,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133770,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 135122,
+        "market_value": 135122,
+        "land_value": 31657,
+        "improvement_value": 103465,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6434,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135122,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 128688,
+        "market_value": 128688,
+        "land_value": 30149,
+        "improvement_value": 98539,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4949,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128688,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 123739,
+        "market_value": 123739,
+        "land_value": 28990,
+        "improvement_value": 94749,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123739,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0355P00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0355P00320000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0355P00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0433C00058000000",
+        "address": "2605 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "2605   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 139700,
+        "market_value": 157700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0615R00165000000",
+        "address": "3710 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "3710   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 139600,
+        "market_value": 157600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0433S00043000000",
+        "address": "1913 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1913   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140600,
+        "market_value": 158600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0433S00046000000",
+        "address": "1915 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1915   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140600,
+        "market_value": 158600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0433S00063000000",
+        "address": "1927 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "9892   MOCCASIN TRL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140800,
+        "market_value": 140800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0356S00050000000",
+        "address": "1076 SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1076   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140800,
+        "market_value": 140800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}
