@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0523P00002000000",
+    "address": "4009 PARK PL",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "4009   PARK PL",
+    "current_mailing_address": "4009   PARK PL",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "GENERAL FARM",
+    "acreage": 0.598,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0523P00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 661600,
+        "market_value": 679600,
+        "land_value": 40500,
+        "improvement_value": 621100,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 47668,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 643600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 613932,
+        "market_value": 630635,
+        "land_value": 37581,
+        "improvement_value": 576351,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 6078,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 595932,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 607854,
+        "market_value": 624391,
+        "land_value": 37209,
+        "improvement_value": 570645,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 589854,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 607854,
+        "market_value": 624391,
+        "land_value": 37209,
+        "improvement_value": 570645,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": -6140,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 589854,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 613994,
+        "market_value": 630698,
+        "land_value": 37585,
+        "improvement_value": 576409,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 29237,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 595994,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 584757,
+        "market_value": 600666,
+        "land_value": 35796,
+        "improvement_value": 548961,
+        "land_value_percentage": 6.1,
+        "improvement_value_percentage": 93.9,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 566757,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0523P00002000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0523P00002000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-51734-2021",
+        "filed_date": null,
+        "hearing_date": "1-Jun-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0523P00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0523N00002000000",
+        "address": "4004 PARK PL",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "4004   PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 661100,
+        "market_value": 679100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0436B00004000000",
+        "address": "5000 SILENT MEADOW CT",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "5000   SILENT MEADOW CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 664600,
+        "market_value": 682600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0433R00120000000",
+        "address": "444 MCELHENY RD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "160  E OLENTANGY ST",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 658300,
+        "market_value": 658300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355P00095000002",
+        "address": "1500 MOUNT ROYAL BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1500   MOUNT ROYAL BLVD",
+        "land_use_description": "FUNERAL HOMES",
+        "acreage": null,
+        "assessed_value": 672100,
+        "market_value": 672100,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0523P00026000000",
+        "address": "4036 PARK PL",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "4036   PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 650000,
+        "market_value": 668000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0355H00318000000",
+        "address": "1003 CHARLES ST",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "PO BOX 152206",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 683600,
+        "market_value": 683600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

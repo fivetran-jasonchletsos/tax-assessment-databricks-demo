@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0119S00240000000",
+    "address": "5301 BUTLER ST",
+    "city": "PITTSBURGH",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5840   ELLSWORTH AVE",
+    "current_mailing_address": "5840   ELLSWORTH AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "LIGHT MANUFACTURING",
+    "acreage": 4.952,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0119S00240000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1866100,
+        "market_value": 1866100,
+        "land_value": 742800,
+        "improvement_value": 1123300,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 183923,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1866100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1682177,
+        "market_value": 1682177,
+        "land_value": 669589,
+        "improvement_value": 1012588,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32983,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1682177,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1649194,
+        "market_value": 1649194,
+        "land_value": 656460,
+        "improvement_value": 992734,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16328,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1649194,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1632866,
+        "market_value": 1632866,
+        "land_value": 649961,
+        "improvement_value": 982905,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1632866,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1632866,
+        "market_value": 1632866,
+        "land_value": 649961,
+        "improvement_value": 982905,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -16494,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1632866,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1649360,
+        "market_value": 1649360,
+        "land_value": 656526,
+        "improvement_value": 992834,
+        "land_value_percentage": 39.8,
+        "improvement_value_percentage": 60.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1649360,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119S00240000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0119S00240000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9302-2016",
+        "filed_date": null,
+        "hearing_date": "15-Jun-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0119S00240000000",
+    "comparables": [
+      {
+        "parcel_id": "0086F00053000000",
+        "address": "5605 AYLESBORO AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15217",
+        "current_owner_name": "5605   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1856700,
+        "market_value": 1874700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051S00104000000",
+        "address": "6 BROWNELL ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15232",
+        "current_owner_name": "6   BROWNELL ST",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 1880400,
+        "market_value": 1880400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052H00001000000",
+        "address": "821 S AIKEN AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15232",
+        "current_owner_name": "821  S AIKEN AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 1881700,
+        "market_value": 1881700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0318E00340000000",
+        "address": "135 ABBEYVILLE RD",
+        "city": "PITTSBURGH",
+        "zip_code": "15228",
+        "current_owner_name": "1823   PENN AVE",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 1886000,
+        "market_value": 1886000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085G00108000000",
+        "address": "5901 BRAEBURN PL",
+        "city": "PITTSBURGH",
+        "zip_code": "15232",
+        "current_owner_name": "5901   BRAEBURN PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1887000,
+        "market_value": 1905000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0120J00107000000",
+        "address": "5645 BUTLER ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15201",
+        "current_owner_name": "5645   BUTLER ST",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 1887200,
+        "market_value": 1887200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

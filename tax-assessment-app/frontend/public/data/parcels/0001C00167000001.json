@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0001C00167000001",
+    "address": "401 LIBERTY AVE",
+    "city": "PITTSBURGH",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "15303   VENTURA BLVD  STE 800",
+    "current_mailing_address": "15303   VENTURA BLVD  STE 800",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 5.604,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0001C00167000001",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35560000,
+        "market_value": 35560000,
+        "land_value": 9412500,
+        "improvement_value": 26147500,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 562465,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35560000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34997535,
+        "market_value": 34997535,
+        "land_value": 9263619,
+        "improvement_value": 25733916,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -353511,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34997535,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 35351046,
+        "market_value": 35351046,
+        "land_value": 9357191,
+        "improvement_value": 25993855,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1683383,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35351046,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 33667663,
+        "market_value": 33667663,
+        "land_value": 8911610,
+        "improvement_value": 24756053,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1294910,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33667663,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32372753,
+        "market_value": 32372753,
+        "land_value": 8568856,
+        "improvement_value": 23803897,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 942895,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32372753,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31429858,
+        "market_value": 31429858,
+        "land_value": 8319278,
+        "improvement_value": 23110580,
+        "land_value_percentage": 26.5,
+        "improvement_value_percentage": 73.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31429858,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001C00167000001",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001C00167000001",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-55468-2022",
+        "filed_date": null,
+        "hearing_date": "6-Jun-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-71460-2023",
+        "filed_date": null,
+        "hearing_date": "6-Jun-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001C00167000001",
+    "comparables": [
+      {
+        "parcel_id": "0008R00010000000",
+        "address": "500 10TH STREET BYP",
+        "city": "PITTSBURGH",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 35576300,
+        "market_value": 35576300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028C00154000000",
+        "address": "3800 FORBES AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15213",
+        "current_owner_name": "403   NORTH AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 35673200,
+        "market_value": 35673200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001D00257000000",
+        "address": "249 5TH AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15222",
+        "current_owner_name": "PO BOX 850",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 35950300,
+        "market_value": 35950300,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051P00208000000",
+        "address": "5150 CENTRE AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15232",
+        "current_owner_name": "600   GRANT ST  FL 60",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 36278500,
+        "market_value": 42184300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001H00371000000",
+        "address": "212 WOOD ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15222",
+        "current_owner_name": "201   WOOD ST",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 36342100,
+        "market_value": 36342100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008H00211000000",
+        "address": "30 ISABELLA ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15212",
+        "current_owner_name": "3310  W END AVE  STE 700",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 36384700,
+        "market_value": 36384700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

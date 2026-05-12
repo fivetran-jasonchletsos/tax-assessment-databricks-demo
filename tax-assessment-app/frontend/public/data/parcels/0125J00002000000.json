@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0125J00002000000",
+    "address": "134 BAKERY SQUARE BLVD",
+    "city": "PITTSBURGH",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1000   CONTINENTAL DR  STE 550",
+    "current_mailing_address": "1000   CONTINENTAL DR  STE 550",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "HOTELS",
+    "acreage": 0.572,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0125J00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 12302500,
+        "market_value": 12302500,
+        "land_value": 0,
+        "improvement_value": 12302500,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 547251,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12302500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 11755249,
+        "market_value": 11755249,
+        "land_value": 0,
+        "improvement_value": 11755249,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11755249,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 11755249,
+        "market_value": 11755249,
+        "land_value": 0,
+        "improvement_value": 11755249,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -118740,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11755249,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 11873989,
+        "market_value": 11873989,
+        "land_value": 0,
+        "improvement_value": 11873989,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 565428,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11873989,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 11308561,
+        "market_value": 11308561,
+        "land_value": 0,
+        "improvement_value": 11308561,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 434944,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11308561,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 10873617,
+        "market_value": 10873617,
+        "land_value": 0,
+        "improvement_value": 10873617,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10873617,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0125J00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0125J00002000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30494-2019",
+        "filed_date": null,
+        "hearing_date": "31-May-19",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-46991-2021",
+        "filed_date": null,
+        "hearing_date": "6-Aug-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0125J00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0125J00008000000",
+        "address": "237 BAKERY SQUARE BLVD",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 12298300,
+        "market_value": 12298300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0027D00060000000",
+        "address": "4500 CENTRE AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15213",
+        "current_owner_name": "999  S SHADY GROVE RD  STE 600",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 12325990,
+        "market_value": 37986100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0027S00074000000",
+        "address": "315 S BELLEFIELD AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 12243300,
+        "market_value": 12243300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084S00180000000",
+        "address": "6425 5TH AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "6425   5TH AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 12238600,
+        "market_value": 12238600,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087P00286000000",
+        "address": "6502 LILAC ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15217",
+        "current_owner_name": "341  S BELLEFIELD AVE",
+        "land_use_description": "OWNED BY BOARD OF EDUCATION",
+        "acreage": null,
+        "assessed_value": 12447700,
+        "market_value": 12447700,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049J00401000000",
+        "address": "220 37TH ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15201",
+        "current_owner_name": "220   37TH ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 12134900,
+        "market_value": 12134900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

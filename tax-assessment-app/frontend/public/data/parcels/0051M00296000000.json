@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051M00296000000",
+    "address": "550 S NEGLEY AVE",
+    "city": "PITTSBURGH",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "45  E CITY AVE  STE 433",
+    "current_mailing_address": "45  E CITY AVE  STE 433",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "NURSING HOME/PRIVATE HOS",
+    "acreage": 1.884,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0051M00296000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3760500,
+        "market_value": 3760500,
+        "land_value": 752100,
+        "improvement_value": 3008400,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 370632,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3760500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3389868,
+        "market_value": 3389868,
+        "land_value": 677973,
+        "improvement_value": 2711895,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 66468,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3389868,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3323400,
+        "market_value": 3323400,
+        "land_value": 664680,
+        "improvement_value": 2658720,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32904,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3323400,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3290496,
+        "market_value": 3290496,
+        "land_value": 658099,
+        "improvement_value": 2632397,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3290496,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3290496,
+        "market_value": 3290496,
+        "land_value": 658099,
+        "improvement_value": 2632397,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -33238,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3290496,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3323734,
+        "market_value": 3323734,
+        "land_value": 664746,
+        "improvement_value": 2658988,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3323734,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051M00296000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051M00296000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-82742-2024",
+        "filed_date": null,
+        "hearing_date": "13-Jun-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051M00296000000",
+    "comparables": [
+      {
+        "parcel_id": "0141N00161000000",
+        "address": "900 WASHINGTON RD",
+        "city": "PITTSBURGH",
+        "zip_code": "15228",
+        "current_owner_name": "900   WASHINGTON RD",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 3709800,
+        "market_value": 4753800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085E00094000000",
+        "address": "5609 5TH AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15232",
+        "current_owner_name": "4500   DORR ST",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 3688800,
+        "market_value": 3688800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086L00013000000",
+        "address": "1700 MURRAY AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15217",
+        "current_owner_name": "357   LINCOLN HWY",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 3611400,
+        "market_value": 3611400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124J00266000000",
+        "address": "504 LARIMER AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 3915300,
+        "market_value": 3915300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083N00124000000",
+        "address": "5601 PENN AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "33   ARCH ST  FL 10",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 3957900,
+        "market_value": 3957900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0089C00045000000",
+        "address": "52 GARETTA ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15217",
+        "current_owner_name": "52   GARETTA ST",
+        "land_use_description": "INDEPENDENT LIVING (SENIORS)",
+        "acreage": null,
+        "assessed_value": 3961100,
+        "market_value": 3961100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

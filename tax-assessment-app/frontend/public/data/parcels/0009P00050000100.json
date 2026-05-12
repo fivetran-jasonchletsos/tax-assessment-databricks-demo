@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0009P00050000100",
+    "address": "1000 PENN AVE",
+    "city": "PITTSBURGH",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "591  W PUTNAM AVE",
+    "current_mailing_address": "591  W PUTNAM AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM UNIT",
+    "acreage": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0009P00050000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 29430000,
+        "market_value": 29430000,
+        "land_value": 0,
+        "improvement_value": 29430000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 724640,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29430000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 28705360,
+        "market_value": 28705360,
+        "land_value": 0,
+        "improvement_value": 28705360,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1104052,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28705360,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 27601308,
+        "market_value": 27601308,
+        "land_value": 0,
+        "improvement_value": 27601308,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 803921,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27601308,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 26797387,
+        "market_value": 26797387,
+        "land_value": 0,
+        "improvement_value": 26797387,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 525438,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26797387,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 26271949,
+        "market_value": 26271949,
+        "land_value": 0,
+        "improvement_value": 26271949,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 260118,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26271949,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 26011831,
+        "market_value": 26011831,
+        "land_value": 0,
+        "improvement_value": 26011831,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26011831,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0009P00050000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0009P00050000100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-37069-2020",
+        "filed_date": null,
+        "hearing_date": "9-Oct-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0009P00050000100",
+    "comparables": [
+      {
+        "parcel_id": "0008S00068000000",
+        "address": "107 6TH ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15222",
+        "current_owner_name": "7373   WISCONSIN AVE  STE 1500",
+        "land_use_description": "HOTELS",
+        "acreage": null,
+        "assessed_value": 29487500,
+        "market_value": 29487500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080R00001000002",
+        "address": "4734 BUTLER ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15201",
+        "current_owner_name": "4734   BUTLER ST",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 29577100,
+        "market_value": 29577100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028F00038000000",
+        "address": "110 MCKEE PL",
+        "city": "PITTSBURGH",
+        "zip_code": "15213",
+        "current_owner_name": "600   GRANT ST  FL 60",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 29808000,
+        "market_value": 29808000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088S00150000000",
+        "address": "100 JHF DR",
+        "city": "PITTSBURGH",
+        "zip_code": "15217",
+        "current_owner_name": "200   JHF DR",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 30487100,
+        "market_value": 30487100,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001C00058000000",
+        "address": "501 PENN AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15222",
+        "current_owner_name": "3310  W END AVE  STE 700",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 30566000,
+        "market_value": 30566000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008E00245000000",
+        "address": "845 RIDGE AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15212",
+        "current_owner_name": "800   ALLEGHENY AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 28230300,
+        "market_value": 28230300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

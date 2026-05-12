@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0434E00051000000",
+    "address": "1642 BUTLER PLANK RD",
+    "city": "GLENSHAW",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 255",
+    "current_mailing_address": "PO BOX 255",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "DISTRIBUTION WAREHOUSE",
+    "acreage": 1.185,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0434E00051000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 617100,
+        "market_value": 617100,
+        "land_value": 149800,
+        "improvement_value": 467300,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 60823,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 617100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 556277,
+        "market_value": 556277,
+        "land_value": 135035,
+        "improvement_value": 421242,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10907,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 556277,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 545370,
+        "market_value": 545370,
+        "land_value": 132387,
+        "improvement_value": 412983,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5399,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 545370,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 539971,
+        "market_value": 539971,
+        "land_value": 131077,
+        "improvement_value": 408894,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 539971,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 539971,
+        "market_value": 539971,
+        "land_value": 131077,
+        "improvement_value": 408894,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5455,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 539971,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 545426,
+        "market_value": 545426,
+        "land_value": 132401,
+        "improvement_value": 413025,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 545426,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0434E00051000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0434E00051000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-64580-2022",
+        "filed_date": null,
+        "hearing_date": "25-Jul-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0434E00051000000",
+    "comparables": [
+      {
+        "parcel_id": "0434K00120000000",
+        "address": "1644 BUTLER PLANK RD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1401   CHISLETT ST",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 619800,
+        "market_value": 619800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0436B00012000000",
+        "address": "5016 SILENT MEADOW CT",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "5016   SILENT MEADOW CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 622000,
+        "market_value": 640000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0436B00020000000",
+        "address": "5013 SILENT MEADOW CT",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "5013   SILENT MEADOW CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 608300,
+        "market_value": 626300,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0523P00004000000",
+        "address": "4012 PARK PL",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "4012   PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 607800,
+        "market_value": 625800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0436B00010000000",
+        "address": "5012 SILENT MEADOW CT",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "5012   SILENT MEADOW CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 606300,
+        "market_value": 624300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0357C00040000000",
+        "address": "1193 SAXONBURG BLVD",
+        "city": "GLENSHAW",
+        "zip_code": "15116",
+        "current_owner_name": "1193   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 602000,
+        "market_value": 620000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

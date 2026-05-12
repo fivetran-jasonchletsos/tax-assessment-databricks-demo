@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023M00010000A00",
+    "address": "1301 JAMES ST",
+    "city": "PITTSBURGH",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "120   5TH AVE  STE 2900",
+    "current_mailing_address": "120   5TH AVE  STE 2900",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.0,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0023M00010000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 9511500,
+        "market_value": 9511500,
+        "land_value": 0,
+        "improvement_value": 9511500,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 937443,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9511500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8574057,
+        "market_value": 8574057,
+        "land_value": 0,
+        "improvement_value": 8574057,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 168118,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8574057,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8405939,
+        "market_value": 8405939,
+        "land_value": 0,
+        "improvement_value": 8405939,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 83227,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8405939,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8322712,
+        "market_value": 8322712,
+        "land_value": 0,
+        "improvement_value": 8322712,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8322712,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8322712,
+        "market_value": 8322712,
+        "land_value": 0,
+        "improvement_value": 8322712,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -84068,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8322712,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8406780,
+        "market_value": 8406780,
+        "land_value": 0,
+        "improvement_value": 8406780,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8406780,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023M00010000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023M00010000A00",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15405-2017",
+        "filed_date": null,
+        "hearing_date": "19-Jun-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023M00010000A00",
+    "comparables": [
+      {
+        "parcel_id": "0084B00121000000",
+        "address": "116 S HIGHLAND AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "116  S HIGHLAND AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 9556400,
+        "market_value": 9556400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0008E00185000000",
+        "address": "807 RIDGE AVE",
+        "city": "PITTSBURGH",
+        "zip_code": "15212",
+        "current_owner_name": "800   ALLEGHENY AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 9432600,
+        "market_value": 9432600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0008C00236000200",
+        "address": "100 S COMMONS",
+        "city": "PITTSBURGH",
+        "zip_code": "15212",
+        "current_owner_name": "1   ALLEGHENY SQ  STE 300",
+        "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+        "acreage": null,
+        "assessed_value": 9397800,
+        "market_value": 9397800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048R00075000000",
+        "address": "50 33RD ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15201",
+        "current_owner_name": "925   LIBERTY AVE  FL 8",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 9652000,
+        "market_value": 9652000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008F00118000000",
+        "address": "501 MARTINDALE ST",
+        "city": "PITTSBURGH",
+        "zip_code": "15212",
+        "current_owner_name": "501   MARTINDALE ST",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 9770600,
+        "market_value": 9770600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084M00130000B00",
+        "address": "6454 LIVING PL",
+        "city": "PITTSBURGH",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 9784920,
+        "market_value": 24462300,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}
