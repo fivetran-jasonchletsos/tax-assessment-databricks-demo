@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:06:31+00:00",
+  "generated_at": "2026-05-12T23:33:33+00:00",
   "fivetran": {
     "connectors": [
       {
@@ -12,7 +12,7 @@
         "update_state": "on_schedule",
         "setup_state": "connected",
         "is_historical_sync": false,
-        "succeeded_at": "2026-05-12T21:41:18.842000Z",
+        "succeeded_at": "2026-05-12T23:06:59.095000Z",
         "failed_at": null,
         "sync_frequency_minutes": 360,
         "schedule_type": "auto",
@@ -30,7 +30,7 @@
         "update_state": "on_schedule",
         "setup_state": "connected",
         "is_historical_sync": false,
-        "succeeded_at": "2026-05-12T21:38:23.868000Z",
+        "succeeded_at": "2026-05-12T23:06:50.276000Z",
         "failed_at": null,
         "sync_frequency_minutes": 360,
         "schedule_type": "auto",
@@ -53,34 +53,34 @@
       "error": null
     },
     "project": {
-      "id": "hanky_capitalism",
+      "id": "waggon_reflective",
       "type": "DBT_CORE",
-      "status": "READY",
-      "created_at": "2026-04-29T20:59:28.193000Z",
-      "git_remote_url": "https://github.com/fivetran-jasonchletsos/jason-chletsos-fivetran-pogo.git",
-      "folder_path": "databricks_app/dbt_databricks",
+      "status": "NOT_READY",
+      "created_at": "2026-05-12T23:33:18.655000Z",
+      "git_remote_url": "https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo.git",
+      "folder_path": "tax-assessment-app/dbt_project/jason_chletsos_tax_assessment",
       "git_branch": "main",
-      "default_schema": "pokemon_marts",
+      "default_schema": "jason_chletsos_marts",
       "dbt_version": "1.10.3"
     },
     "transformations": [
       {
-        "id": "suffrage_screened",
-        "name": "jason_chletsos_pogo_dbx_transformations",
-        "project_id": "hanky_capitalism",
+        "id": "semicircle_inscription",
+        "name": "jason_chletsos_tax_assessment_run",
+        "project_id": "waggon_reflective",
         "type": "DBT_CORE",
-        "status": "PARTIALLY_SUCCEEDED",
+        "status": "NEW",
         "paused": false,
-        "last_started_at": "2026-05-12T17:06:52.363000Z",
-        "last_ended_at": "2026-05-12T17:07:34.921000Z",
+        "last_started_at": null,
+        "last_ended_at": null,
         "schedule": {
           "schedule_type": "INTEGRATED",
           "connection_ids": [
-            "aversion_order"
+            "equilibrium_safely"
           ]
         },
         "output_model_names": [
-          "jason_chletsos_pogo_dbx_transformations"
+          "jason_chletsos_tax_assessment_run"
         ]
       }
     ]
@@ -90,9 +90,9 @@
     "status": null,
     "build_type": null,
     "https_enforced": null,
-    "last_deploy_at": "2026-05-12T22:05:35Z",
-    "last_deploy_sha": "f597667",
-    "last_deploy_message": "Residential-only snapshot + use municipality for grouping",
+    "last_deploy_at": "2026-05-12T22:37:07Z",
+    "last_deploy_sha": "6517031",
+    "last_deploy_message": "Neighborhood percentile widget on parcel detail",
     "runs_url": "https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo/actions/workflows/deploy.yml"
   }
 }
