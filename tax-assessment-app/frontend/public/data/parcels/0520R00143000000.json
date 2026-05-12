@@ -2,7 +2,7 @@
   "parcel": {
     "parcel_id": "0520R00143000000",
     "address": "2705 MOUNT ROYAL BLVD",
-    "city": "GLENSHAW",
+    "city": "Shaler",
     "zip_code": "15116",
     "county": "Allegheny",
     "current_owner_name": "2705   MOUNT ROYAL BLVD",
@@ -174,9 +174,61 @@
     "parcel_id": "0520R00143000000",
     "comparables": [
       {
+        "parcel_id": "0285A00017000000",
+        "address": "514 GLEN MALCOLM DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "514   GLEN MALCOLM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129800,
+        "market_value": 147800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0353G00009000000",
+        "address": "826 VILSACK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "826   VILSACK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129900,
+        "market_value": 129900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0285E00004000000",
+        "address": "103 CANDLEWYCK DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "103   CANDLEWYCK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129200,
+        "market_value": 147200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0353D00241000000",
+        "address": "806 VILSACK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "806   VILSACK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130300,
+        "market_value": 148300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0433S00072000000",
         "address": "1933 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1933   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -184,12 +236,12 @@
         "assessed_value": 128900,
         "market_value": 146900,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355E00213000000",
         "address": "1809 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1809   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -197,58 +249,6 @@
         "assessed_value": 128900,
         "market_value": 146900,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0433H00012000000",
-        "address": "2209 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "2209   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130400,
-        "market_value": 148400,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0356S00030000000",
-        "address": "1073 SAXONBURG BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "1073   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130400,
-        "market_value": 148400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0524A00248000000",
-        "address": "3370 SAXONBURG BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "3370   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130600,
-        "market_value": 148600,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520L00180000000",
-        "address": "2819 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "2819   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 128300,
-        "market_value": 146300,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

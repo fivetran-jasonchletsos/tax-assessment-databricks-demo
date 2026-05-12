@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0051D00047000000",
+    "address": "350 S GRAHAM ST",
+    "city": "10801",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "2029   MURRAY AVE",
+    "current_mailing_address": "2029   MURRAY AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.258,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0051D00047000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 407000,
+        "market_value": 407000,
+        "land_value": 65900,
+        "improvement_value": 341100,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29325,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 407000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 377675,
+        "market_value": 377675,
+        "land_value": 61151,
+        "improvement_value": 316524,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3739,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 377675,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 373936,
+        "market_value": 373936,
+        "land_value": 60546,
+        "improvement_value": 313390,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 373936,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 373936,
+        "market_value": 373936,
+        "land_value": 60546,
+        "improvement_value": 313390,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3778,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 373936,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 377714,
+        "market_value": 377714,
+        "land_value": 61158,
+        "improvement_value": 316556,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17986,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 377714,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 359728,
+        "market_value": 359728,
+        "land_value": 58245,
+        "improvement_value": 301483,
+        "land_value_percentage": 16.2,
+        "improvement_value_percentage": 83.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 359728,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051D00047000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051D00047000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-37635-2020",
+        "filed_date": null,
+        "hearing_date": "31-Jul-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051D00047000000",
+    "comparables": [
+      {
+        "parcel_id": "0051C00273000000",
+        "address": "5403 FRIENDSHIP AVE",
+        "city": "10801",
+        "zip_code": "15232",
+        "current_owner_name": "5403   FRIENDSHIP AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 305800,
+        "market_value": 323800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

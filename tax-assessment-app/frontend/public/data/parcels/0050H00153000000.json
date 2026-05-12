@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0050H00153000000",
+    "address": "411 N AIKEN AVE",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "2121   OLD GATESBURG RD",
+    "current_mailing_address": "2121   OLD GATESBURG RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.06,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0050H00153000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 121300,
+        "market_value": 121300,
+        "land_value": 26700,
+        "improvement_value": 94600,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11958,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 109342,
+        "market_value": 109342,
+        "land_value": 24067,
+        "improvement_value": 85275,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2143,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 109342,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 107199,
+        "market_value": 107199,
+        "land_value": 23596,
+        "improvement_value": 83603,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1061,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107199,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 106138,
+        "market_value": 106138,
+        "land_value": 23362,
+        "improvement_value": 82776,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106138,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 106138,
+        "market_value": 106138,
+        "land_value": 23362,
+        "improvement_value": 82776,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1073,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106138,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 107211,
+        "market_value": 107211,
+        "land_value": 23598,
+        "improvement_value": 83613,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107211,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050H00153000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050H00153000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-88899-2025",
+        "filed_date": null,
+        "hearing_date": "20-May-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0050H00153000000",
+    "comparables": [
+      {
+        "parcel_id": "0050H00154000000",
+        "address": "415 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 119400,
+        "market_value": 119400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050H00161000000",
+        "address": "425 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 119400,
+        "market_value": 119400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050H00158000000",
+        "address": "419 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 119000,
+        "market_value": 119000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050H00162000000",
+        "address": "429 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 117000,
+        "market_value": 117000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050H00164000000",
+        "address": "433 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 126400,
+        "market_value": 126400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050H00151000000",
+        "address": "405 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129600,
+        "market_value": 129600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

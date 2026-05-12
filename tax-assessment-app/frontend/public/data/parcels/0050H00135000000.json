@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0050H00135000000",
+    "address": "413 N GRAHAM ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "413  N GRAHAM ST",
+    "current_mailing_address": "413  N GRAHAM ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.093,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0050H00135000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 217600,
+        "market_value": 217600,
+        "land_value": 40700,
+        "improvement_value": 176900,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21448,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 217600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 196152,
+        "market_value": 196152,
+        "land_value": 36688,
+        "improvement_value": 159464,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3846,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196152,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 192306,
+        "market_value": 192306,
+        "land_value": 35968,
+        "improvement_value": 156338,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1904,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 192306,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 190402,
+        "market_value": 190402,
+        "land_value": 35612,
+        "improvement_value": 154790,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190402,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 190402,
+        "market_value": 190402,
+        "land_value": 35612,
+        "improvement_value": 154790,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1924,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190402,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 192326,
+        "market_value": 192326,
+        "land_value": 35972,
+        "improvement_value": 156354,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 192326,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050H00135000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050H00135000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050H00135000000",
+    "comparables": [
+      {
+        "parcel_id": "0050H00119000000",
+        "address": "5409 COLUMBO ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "129   PERVIS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 206900,
+        "market_value": 206900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050H00071000000",
+        "address": "402 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "402  N GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191100,
+        "market_value": 209100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050H00057000000",
+        "address": "315 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "901   BINGHAM",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 177600,
+        "market_value": 177600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

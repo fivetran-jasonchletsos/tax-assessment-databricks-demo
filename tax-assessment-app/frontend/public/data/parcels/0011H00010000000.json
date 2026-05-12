@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00010000000",
+    "address": "3107 TERRACE ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "106   CHARLESTOWN HUNT DR",
+    "current_mailing_address": "106   CHARLESTOWN HUNT DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.063,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0011H00010000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 105400,
+        "market_value": 105400,
+        "land_value": 21100,
+        "improvement_value": 84300,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1474,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 106874,
+        "market_value": 106874,
+        "land_value": 21395,
+        "improvement_value": 85479,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5089,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106874,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101785,
+        "market_value": 101785,
+        "land_value": 20376,
+        "improvement_value": 81409,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3914,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101785,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 97871,
+        "market_value": 97871,
+        "land_value": 19592,
+        "improvement_value": 78279,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2850,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97871,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 95021,
+        "market_value": 95021,
+        "land_value": 19022,
+        "improvement_value": 75999,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1863,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95021,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 93158,
+        "market_value": 93158,
+        "land_value": 18649,
+        "improvement_value": 74509,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93158,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00010000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00010000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-88584-2025",
+        "filed_date": null,
+        "hearing_date": "4-Nov-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0011H00010000000",
+    "comparables": [
+      {
+        "parcel_id": "0011D00076000000",
+        "address": "2544 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1047   HERITAGE LAKE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102700,
+        "market_value": 102700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00062000000",
+        "address": "2522 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1400   FOX CHAPEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011D00063000000",
+        "address": "2524 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1400   FOX CHAPEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011D00016000000",
+        "address": "3126 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3124   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112800,
+        "market_value": 112800,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011D00018000000",
+        "address": "3124 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3124   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114600,
+        "market_value": 114600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011D00031000000",
+        "address": "3149 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3149   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80600,
+        "market_value": 98600,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

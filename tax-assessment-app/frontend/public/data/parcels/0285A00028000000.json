@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0285A00028000000",
+    "address": "207 WADSWORTH DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "207   WADSWORTH DR",
+    "current_mailing_address": "207   WADSWORTH DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.207,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0285A00028000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 222900,
+        "market_value": 222900,
+        "land_value": 43800,
+        "improvement_value": 179100,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3528,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 219372,
+        "market_value": 219372,
+        "land_value": 43106,
+        "improvement_value": 176266,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2216,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 219372,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 221588,
+        "market_value": 221588,
+        "land_value": 43542,
+        "improvement_value": 178046,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10551,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 221588,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 211037,
+        "market_value": 211037,
+        "land_value": 41468,
+        "improvement_value": 169569,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8116,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211037,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 202921,
+        "market_value": 202921,
+        "land_value": 39874,
+        "improvement_value": 163047,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5910,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 202921,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 197011,
+        "market_value": 197011,
+        "land_value": 38712,
+        "improvement_value": 158299,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197011,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0285A00028000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0285A00028000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-24991-2018",
+        "filed_date": null,
+        "hearing_date": "15-Jun-18",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0285A00028000000",
+    "comparables": [
+      {
+        "parcel_id": "0285F00298000000",
+        "address": "313 S MAGNOLIA DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "313  E MAGNOLIA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 221700,
+        "market_value": 239700,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434P00202000000",
+        "address": "1602 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "132   BERRYHILL RD",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 220000,
+        "market_value": 220000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0285F00110000000",
+        "address": "1013 SAXONBURG BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1013   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 218800,
+        "market_value": 236800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355D00150000000",
+        "address": "1486 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1002   CHARLES ST",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 218200,
+        "market_value": 218200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0433C00050000000",
+        "address": "2607 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2607   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 228200,
+        "market_value": 246200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0520G00106000000",
+        "address": "3208 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3200   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216900,
+        "market_value": 216900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

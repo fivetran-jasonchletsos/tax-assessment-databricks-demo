@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0025D00211000000",
+    "address": "3352 SPRING WAY",
+    "city": "10601",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "3353   LIGONIER ST",
+    "current_mailing_address": "3353   LIGONIER ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.028,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0025D00211000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 74300,
+        "market_value": 74300,
+        "land_value": 17400,
+        "improvement_value": 56900,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7324,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 66976,
+        "market_value": 66976,
+        "land_value": 15684,
+        "improvement_value": 51292,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1313,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66976,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 65663,
+        "market_value": 65663,
+        "land_value": 15377,
+        "improvement_value": 50286,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 650,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65663,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 65013,
+        "market_value": 65013,
+        "land_value": 15225,
+        "improvement_value": 49788,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65013,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 65013,
+        "market_value": 65013,
+        "land_value": 15225,
+        "improvement_value": 49788,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -657,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65013,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 65670,
+        "market_value": 65670,
+        "land_value": 15378,
+        "improvement_value": 50292,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65670,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025D00211000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025D00211000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0025D00211000000",
+    "comparables": [
+      {
+        "parcel_id": "0025D00199000000",
+        "address": "3334 SPRING WAY",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 99815",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 68900,
+        "market_value": 68900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025D00227000000",
+        "address": "307 34TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2173   REIS RUN RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 80500,
+        "market_value": 80500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025D00209000000",
+        "address": "3351 LIGONIER ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3351   LIGONIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 56500,
+        "market_value": 74500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

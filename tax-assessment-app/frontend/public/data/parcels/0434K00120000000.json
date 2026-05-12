@@ -2,7 +2,7 @@
   "parcel": {
     "parcel_id": "0434K00120000000",
     "address": "1644 BUTLER PLANK RD",
-    "city": "GLENSHAW",
+    "city": "Shaler",
     "zip_code": "15116",
     "county": "Allegheny",
     "current_owner_name": "1401   CHISLETT ST",
@@ -122,22 +122,9 @@
     "parcel_id": "0434K00120000000",
     "comparables": [
       {
-        "parcel_id": "0436B00012000000",
-        "address": "5016 SILENT MEADOW CT",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "5016   SILENT MEADOW CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 622000,
-        "market_value": 640000,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
-      },
-      {
         "parcel_id": "0434E00051000000",
         "address": "1642 BUTLER PLANK RD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "PO BOX 255",
         "land_use_description": "DISTRIBUTION WAREHOUSE",
@@ -145,51 +132,12 @@
         "assessed_value": 617100,
         "market_value": 617100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0436B00020000000",
-        "address": "5013 SILENT MEADOW CT",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "5013   SILENT MEADOW CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 608300,
-        "market_value": 626300,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0523P00004000000",
-        "address": "4012 PARK PL",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "4012   PARK PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 607800,
-        "market_value": 625800,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0434E00266000000",
-        "address": "1659 E SUTTER RD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 322",
-        "land_use_description": "LIGHT MANUFACTURING",
-        "acreage": null,
-        "assessed_value": 632300,
-        "market_value": 632300,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
+        "distance_miles": 0.1
       },
       {
         "parcel_id": "0434E00045000000",
         "address": "1660 BUTLER PLANK RD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1800   MOUNT ROYAL BLVD",
         "land_use_description": "OWNED BY BOARD OF EDUCATION",
@@ -197,6 +145,58 @@
         "assessed_value": 632600,
         "market_value": 632600,
         "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0355P00095000002",
+        "address": "1500 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1500   MOUNT ROYAL BLVD",
+        "land_use_description": "FUNERAL HOMES",
+        "acreage": null,
+        "assessed_value": 672100,
+        "market_value": 672100,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0615L00016000000",
+        "address": "3724 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "130   7TH ST  STE 300",
+        "land_use_description": "GROUP HOME",
+        "acreage": null,
+        "assessed_value": 544800,
+        "market_value": 544800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0433H00020000000",
+        "address": "2208 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2208   MOUNT ROYAL BLVD",
+        "land_use_description": "FUNERAL HOMES",
+        "acreage": null,
+        "assessed_value": 517300,
+        "market_value": 517300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0520S00200000000",
+        "address": "2702 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "PO BOX 207",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 725800,
+        "market_value": 725800,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

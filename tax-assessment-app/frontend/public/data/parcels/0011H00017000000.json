@@ -1,0 +1,201 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00017000000",
+    "address": "3119 TERRACE ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "417   MCKEAN DR",
+    "current_mailing_address": "417   MCKEAN DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0011H00017000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "land_value": 16000,
+        "improvement_value": 144000,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2238,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 162238,
+        "market_value": 162238,
+        "land_value": 16223,
+        "improvement_value": 146015,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7725,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162238,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 154513,
+        "market_value": 154513,
+        "land_value": 15451,
+        "improvement_value": 139062,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5942,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 154513,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 148571,
+        "market_value": 148571,
+        "land_value": 14857,
+        "improvement_value": 133714,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4327,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148571,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 144244,
+        "market_value": 144244,
+        "land_value": 14424,
+        "improvement_value": 129820,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2828,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144244,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 141416,
+        "market_value": 141416,
+        "land_value": 14141,
+        "improvement_value": 127275,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141416,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00017000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00017000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-255-2015",
+        "filed_date": null,
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0011H00017000000",
+    "comparables": [
+      {
+        "parcel_id": "0011D00045000000",
+        "address": "20 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "816   WESTERN AVE  # 3",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 149000,
+        "market_value": 149000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00042000000",
+        "address": "3119 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "816   WESTERN AVE  UNIT 3",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 179700,
+        "market_value": 179700,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011D00043000000",
+        "address": "3117 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "816   WESTERN AVE  UNIT 3",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 179700,
+        "market_value": 179700,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00030000000",
+        "address": "3134 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "2114   NORTH VILLA CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 188700,
+        "market_value": 188700,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

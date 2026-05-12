@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "0001C01662010400",
+    "address": "320 FORT DUQUESNE BLVD",
+    "city": "Pennhouse & Gateway Tower",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "3322   QUILCENE LN",
+    "current_mailing_address": "3322   QUILCENE LN",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0001C01662010400",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 501900,
+        "market_value": 501900,
+        "land_value": 0,
+        "improvement_value": 501900,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12360,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 501900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 489540,
+        "market_value": 489540,
+        "land_value": 0,
+        "improvement_value": 489540,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18828,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 489540,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 470712,
+        "market_value": 470712,
+        "land_value": 0,
+        "improvement_value": 470712,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13710,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 470712,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 457002,
+        "market_value": 457002,
+        "land_value": 0,
+        "improvement_value": 457002,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8960,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 457002,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 448042,
+        "market_value": 448042,
+        "land_value": 0,
+        "improvement_value": 448042,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4436,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 448042,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 443606,
+        "market_value": 443606,
+        "land_value": 0,
+        "improvement_value": 443606,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 443606,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001C01662010400",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001C01662010400",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-55474-2022",
+        "filed_date": null,
+        "hearing_date": "12-Dec-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001C01662010400",
+    "comparables": []
+  }
+}

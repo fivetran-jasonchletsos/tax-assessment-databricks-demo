@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122C00016000000",
+    "address": "220 2ND ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "220   2ND ST",
+    "current_mailing_address": "220   2ND ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0122C00016000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 177900,
+        "market_value": 177900,
+        "land_value": 35600,
+        "improvement_value": 142300,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17536,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 177900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 160364,
+        "market_value": 160364,
+        "land_value": 32090,
+        "improvement_value": 128274,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3144,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160364,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 157220,
+        "market_value": 157220,
+        "land_value": 31461,
+        "improvement_value": 125759,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1556,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 157220,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 155664,
+        "market_value": 155664,
+        "land_value": 31150,
+        "improvement_value": 124514,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155664,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 155664,
+        "market_value": 155664,
+        "land_value": 31150,
+        "improvement_value": 124514,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1573,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155664,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 157237,
+        "market_value": 157237,
+        "land_value": 31465,
+        "improvement_value": 125772,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 157237,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122C00016000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122C00016000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-93566-2026",
+        "filed_date": null,
+        "hearing_date": "23-Oct-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122C00016000000",
+    "comparables": [
+      {
+        "parcel_id": "0122C00081000000",
+        "address": "223 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "163   CAMP TREES RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 178800,
+        "market_value": 178800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122C00030000000",
+        "address": "124 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "220   LORI RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 176000,
+        "market_value": 176000,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0122C00116000000",
+        "address": "124 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1819   MIDDLE RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 180000,
+        "market_value": 180000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122C00011000000",
+        "address": "217 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "217   2ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 180500,
+        "market_value": 198500,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122C00118000000",
+        "address": "120 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1819   MIDDLE RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 175000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0122C00110000000",
+        "address": "136 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "4228   MONTRACHET CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173900,
+        "market_value": 173900,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

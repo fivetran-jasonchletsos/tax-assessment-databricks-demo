@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00023000000",
+    "address": "3129 TERRACE ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 7438",
+    "current_mailing_address": "PO BOX 7438",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.079,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0011H00023000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 61200,
+        "market_value": 61200,
+        "land_value": 16900,
+        "improvement_value": 44300,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6034,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 55166,
+        "market_value": 55166,
+        "land_value": 15233,
+        "improvement_value": 39933,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1081,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55166,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 54085,
+        "market_value": 54085,
+        "land_value": 14935,
+        "improvement_value": 39150,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 535,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54085,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 53550,
+        "market_value": 53550,
+        "land_value": 14787,
+        "improvement_value": 38763,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53550,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 53550,
+        "market_value": 53550,
+        "land_value": 14787,
+        "improvement_value": 38763,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -541,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53550,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 54091,
+        "market_value": 54091,
+        "land_value": 14936,
+        "improvement_value": 39155,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54091,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00023000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00023000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-37080-2020",
+        "filed_date": null,
+        "hearing_date": "14-Oct-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0011H00023000000",
+    "comparables": [
+      {
+        "parcel_id": "0011D00035000000",
+        "address": "3135 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3135   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60600,
+        "market_value": 60600,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011H00024000000",
+        "address": "3131 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3131   TERRACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58200,
+        "market_value": 58200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011D00020000000",
+        "address": "3134 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3134   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 65400,
+        "market_value": 65400,
+        "assessed_value_change_pct": 12.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011D00072000000",
+        "address": "2534 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "550   NORMANDY CT",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 53800,
+        "market_value": 53800,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00022000000",
+        "address": "3127 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1954   ALLEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 53400,
+        "market_value": 53400,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011D00009000000",
+        "address": "3114 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3114   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69600,
+        "market_value": 69600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

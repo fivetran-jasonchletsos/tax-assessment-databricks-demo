@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0353D00066000000",
+    "address": "201 ANDERSON PL",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "201   ANDERSON PL",
+    "current_mailing_address": "201   ANDERSON PL",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.249,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0353D00066000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 144800,
+        "market_value": 144800,
+        "land_value": 42800,
+        "improvement_value": 102000,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6442,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 138358,
+        "market_value": 138358,
+        "land_value": 40895,
+        "improvement_value": 97463,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 138358,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 138358,
+        "market_value": 138358,
+        "land_value": 40895,
+        "improvement_value": 97463,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1398,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 138358,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 139756,
+        "market_value": 139756,
+        "land_value": 41309,
+        "improvement_value": 98447,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6655,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 139756,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 133101,
+        "market_value": 133101,
+        "land_value": 39342,
+        "improvement_value": 93759,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5119,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133101,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 127982,
+        "market_value": 127982,
+        "land_value": 37828,
+        "improvement_value": 90154,
+        "land_value_percentage": 29.6,
+        "improvement_value_percentage": 70.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127982,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0353D00066000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0353D00066000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-40857-2020",
+        "filed_date": null,
+        "hearing_date": "5-Oct-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0353D00066000000",
+    "comparables": [
+      {
+        "parcel_id": "0355E00216000000",
+        "address": "1811 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1811   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144600,
+        "market_value": 162600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0355D00154000000",
+        "address": "1484 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "148   WINDSOR DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 144200,
+        "market_value": 144200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0285A00015000000",
+        "address": "512 GLEN MALCOLM DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "512   GLEN MALCOLM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144100,
+        "market_value": 144100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0353H00032000000",
+        "address": "118 PARK LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "118   PARK LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144100,
+        "market_value": 144100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0353C00026000000",
+        "address": "102 FORLIVIEW RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "102   FORLIVIEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143900,
+        "market_value": 161900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0353D00206000000",
+        "address": "803 VILSACK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "803   VILSACK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 145700,
+        "market_value": 163700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

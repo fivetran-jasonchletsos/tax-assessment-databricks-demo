@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0051C00266000000",
+    "address": "301 S AIKEN AVE",
+    "city": "10801",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "301  S AIKEN AVE",
+    "current_mailing_address": "301  S AIKEN AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.103,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0051C00266000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 213100,
+        "market_value": 213100,
+        "land_value": 61800,
+        "improvement_value": 151300,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13243,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 199857,
+        "market_value": 199857,
+        "land_value": 57959,
+        "improvement_value": 141898,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5821,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 199857,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 194036,
+        "market_value": 194036,
+        "land_value": 56271,
+        "improvement_value": 137765,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3804,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 194036,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 190232,
+        "market_value": 190232,
+        "land_value": 55168,
+        "improvement_value": 135064,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1883,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190232,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 188349,
+        "market_value": 188349,
+        "land_value": 54622,
+        "improvement_value": 133727,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 188349,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 188349,
+        "market_value": 188349,
+        "land_value": 54622,
+        "improvement_value": 133727,
+        "land_value_percentage": 29.0,
+        "improvement_value_percentage": 71.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 188349,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051C00266000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051C00266000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0051C00266000000",
+    "comparables": [
+      {
+        "parcel_id": "0051C00211000000",
+        "address": "300 S AIKEN AVE",
+        "city": "10801",
+        "zip_code": "15232",
+        "current_owner_name": "1418  N CANAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051C00271000000",
+        "address": "5405 FRIENDSHIP AVE",
+        "city": "10801",
+        "zip_code": "15232",
+        "current_owner_name": "5405   FRIENDSHIP AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 194000,
+        "market_value": 212000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051D00001000000",
+        "address": "5407 FRIENDSHIP AVE",
+        "city": "10801",
+        "zip_code": "15232",
+        "current_owner_name": "5407   FRIENDSHIP AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 185400,
+        "market_value": 203400,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

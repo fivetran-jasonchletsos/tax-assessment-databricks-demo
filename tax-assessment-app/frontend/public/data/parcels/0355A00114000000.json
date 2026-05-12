@@ -2,7 +2,7 @@
   "parcel": {
     "parcel_id": "0355A00114000000",
     "address": "1906 MOUNT ROYAL BLVD",
-    "city": "GLENSHAW",
+    "city": "Shaler",
     "zip_code": "15116",
     "county": "Allegheny",
     "current_owner_name": "1906   MOUNT ROYAL BLVD",
@@ -147,7 +147,7 @@
       {
         "parcel_id": "0355A00082000000",
         "address": "1831 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1831   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -158,9 +158,22 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0353D00123000000",
+        "address": "102 ANDERSON PL",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "102   ANDERSON PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213900,
+        "market_value": 231900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0520L00036000000",
         "address": "2911 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "2909   MOUNT ROYAL BLVD",
         "land_use_description": "RETL/OFF OVER",
@@ -168,12 +181,38 @@
         "assessed_value": 214300,
         "market_value": 214300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0285E00008000000",
+        "address": "107 CANDLEWYCK DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "107   CANDLEWYCK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 204400,
+        "market_value": 204400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0285A00050000000",
+        "address": "103 MARK TWAIN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "103   MARK TWAIN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 204000,
+        "market_value": 204000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0520C00236000000",
         "address": "3301 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "3301   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -181,45 +220,6 @@
         "assessed_value": 203500,
         "market_value": 203500,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0520G00106000000",
-        "address": "3208 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "3200   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 216900,
-        "market_value": 216900,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0355D00150000000",
-        "address": "1486 BUTLER PLANK RD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "1002   CHARLES ST",
-        "land_use_description": "OFFICE/APARTMENTS OVER",
-        "acreage": null,
-        "assessed_value": 218200,
-        "market_value": 218200,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285F00110000000",
-        "address": "1013 SAXONBURG BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "1013   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 218800,
-        "market_value": 236800,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

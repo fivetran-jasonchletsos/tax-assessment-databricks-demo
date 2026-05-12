@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0050H00043000000",
+    "address": "337 N AIKEN AVE",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "337  N AIKEN AVE",
+    "current_mailing_address": "337  N AIKEN AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.049,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0050H00043000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41900,
+        "market_value": 59900,
+        "land_value": 24999,
+        "improvement_value": 16901,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 1866,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 23900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 40034,
+        "market_value": 57232,
+        "land_value": 23886,
+        "improvement_value": 16148,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 22034,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 40034,
+        "market_value": 57232,
+        "land_value": 23886,
+        "improvement_value": 16148,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": -405,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 22034,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 40439,
+        "market_value": 57811,
+        "land_value": 24128,
+        "improvement_value": 16311,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 1925,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 22439,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 38514,
+        "market_value": 55059,
+        "land_value": 22979,
+        "improvement_value": 15535,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 1481,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 20514,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 37033,
+        "market_value": 52942,
+        "land_value": 22096,
+        "improvement_value": 14937,
+        "land_value_percentage": 59.7,
+        "improvement_value_percentage": 40.3,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19033,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050H00043000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0050H00043000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050H00043000000",
+    "comparables": [
+      {
+        "parcel_id": "0050H00046000000",
+        "address": "331 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "422   CAVITT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050H00048000000",
+        "address": "327 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "327  N AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 48900,
+        "market_value": 48900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050H00182000000",
+        "address": "522 ELORA WAY",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "4111   SALINE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 32900,
+        "market_value": 32900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050H00185000000",
+        "address": "527 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "527  N AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32000,
+        "market_value": 50000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

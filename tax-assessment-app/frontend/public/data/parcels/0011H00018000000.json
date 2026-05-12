@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00018000000",
+    "address": "3121 TERRACE ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "3121   TERRACE ST",
+    "current_mailing_address": "3121   TERRACE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0011H00018000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 31000,
+        "market_value": 49000,
+        "land_value": 16000,
+        "improvement_value": 15000,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": 494,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 30506,
+        "market_value": 48219,
+        "land_value": 15745,
+        "improvement_value": 14761,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": -309,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12506,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30815,
+        "market_value": 48707,
+        "land_value": 15904,
+        "improvement_value": 14911,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": 1467,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12815,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29348,
+        "market_value": 46388,
+        "land_value": 15147,
+        "improvement_value": 14201,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": 1128,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11348,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 28220,
+        "market_value": 44605,
+        "land_value": 14565,
+        "improvement_value": 13655,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": 821,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10220,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 27399,
+        "market_value": 43308,
+        "land_value": 14141,
+        "improvement_value": 13258,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.58,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 9399,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00018000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0011H00018000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011H00018000000",
+    "comparables": [
+      {
+        "parcel_id": "0011D00047000000",
+        "address": "16 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1151   FREEPORT RD  STE 202",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 31500,
+        "market_value": 31500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00032000000",
+        "address": "3143 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1923   MARY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32700,
+        "market_value": 32700,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011D00019000000",
+        "address": "3142 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3142   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36200,
+        "market_value": 54200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00025000000",
+        "address": "3141 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3141   TERRACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38600,
+        "market_value": 56600,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

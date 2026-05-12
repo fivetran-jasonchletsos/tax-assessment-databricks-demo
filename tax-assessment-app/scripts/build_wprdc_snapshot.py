@@ -117,14 +117,18 @@ PARCEL_COLS = ",".join(
 
 def fetch_parcels() -> list[dict[str, Any]]:
     out: list[dict[str, Any]] = []
+    # Residential parcels only — commercial/industrial mega-parcels (steel
+    # mills, downtown high-rises, hospitals) at >$50M distort medians and
+    # histograms. Community-facing portal serves homeowners.
     for zip_code in FEATURED_ZIPS:
         limit = PER_ZIP_LIMIT.get(zip_code, DEFAULT_PER_ZIP)
         sql = (
             f"SELECT {PARCEL_COLS} FROM \"{ASSESSMENTS_RESOURCE}\" "
             f"WHERE \"PROPERTYZIP\" = {zip_code} "
-            f"  AND \"COUNTYTOTAL\" > 0 "
+            f"  AND \"CLASS\" = 'R' "
+            f"  AND \"COUNTYTOTAL\" BETWEEN 30000 AND 2000000 "
             f"  AND \"PROPERTYADDRESS\" IS NOT NULL "
-            f"ORDER BY \"COUNTYTOTAL\" DESC NULLS LAST "
+            f"ORDER BY \"PARID\" "
             f"LIMIT {limit}"
         )
         rows = query_sql(sql)
@@ -198,6 +202,27 @@ def _to_int(v) -> int:
         return 0
 
 
+def _muni_label(r: dict[str, Any]) -> str:
+    """Compact municipality label. WPRDC's MUNIDESC looks like
+    '1st Ward  - PITTSBURGH' for Pittsburgh wards and 'Shaler Twp' for
+    suburban townships. Normalize so Pittsburgh wards roll up to
+    'Pittsburgh - <neighborhood-or-ward>', suburbs keep their own name."""
+    muni = (r.get("MUNIDESC") or "").strip()
+    if not muni:
+        return (r.get("PROPERTYCITY") or "Unknown").title()
+    if "PITTSBURGH" in muni.upper():
+        # Use neighborhood when available; fall back to ward
+        neigh = (r.get("NEIGHDESC") or "").strip()
+        if neigh and neigh.upper() not in ("PITTSBURGH URBAN", "NONE"):
+            return _titlecase(neigh)
+        return _titlecase(muni.replace("- PITTSBURGH", "").strip()) + " (Pittsburgh)"
+    return _titlecase(muni)
+
+
+def _titlecase(s: str) -> str:
+    return " ".join(w.capitalize() if not w.isdigit() else w for w in s.lower().split())
+
+
 def _fmt_address(r: dict[str, Any]) -> str:
     house = r.get("PROPERTYHOUSENUM")
     street = (r.get("PROPERTYADDRESS") or "").strip()
@@ -241,7 +266,12 @@ def transform_parcels(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         out.append({
             "parcel_id": pid,
             "address": _fmt_address(r),
-            "city": (r.get("PROPERTYCITY") or "").strip(),
+            # Use municipality (MUNIDESC) for grouping — PROPERTYCITY just
+            # echoes the post-office city, so 80% of metro parcels become
+            # "PITTSBURGH". MUNIDESC distinguishes Squirrel Hill, Shaler,
+            # Aspinwall, Mt Lebanon, etc.
+            "city": _muni_label(r),
+            "post_office_city": (r.get("PROPERTYCITY") or "").strip(),
             "zip_code": str(_to_int(r.get("PROPERTYZIP")) or "").rjust(5, "0"),
             "current_owner_name": _owner_from_change_notice(r),
             "land_use_description": r.get("USEDESC") or r.get("CLASSDESC") or "Property",

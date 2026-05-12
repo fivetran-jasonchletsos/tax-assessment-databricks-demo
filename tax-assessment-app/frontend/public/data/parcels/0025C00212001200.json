@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0025C00212001200",
+    "address": "3080 SMALLMAN ST",
+    "city": "Strip Loft",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "3080   SMALLMAN ST",
+    "current_mailing_address": "3080   SMALLMAN ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDO DEVELOPMENTAL LAND",
+    "acreage": null,
+    "latitude": null,
+    "longitude": null
+  },
+  "assessments": {
+    "parcel_id": "0025C00212001200",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 118700,
+        "market_value": 118700,
+        "land_value": 118700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1660,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 118700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 120360,
+        "market_value": 120360,
+        "land_value": 120360,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5731,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120360,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 114629,
+        "market_value": 114629,
+        "land_value": 114629,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4408,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114629,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 110221,
+        "market_value": 110221,
+        "land_value": 110221,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3210,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110221,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 107011,
+        "market_value": 107011,
+        "land_value": 107011,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2098,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107011,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 104913,
+        "market_value": 104913,
+        "land_value": 104913,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 104913,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025C00212001200",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025C00212001200",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0025C00212001200",
+    "comparables": [
+      {
+        "parcel_id": "0025C00212001000",
+        "address": "3080 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15201",
+        "current_owner_name": "3080   SMALLMAN ST  UNIT 10",
+        "land_use_description": "CONDO DEVELOPMENTAL LAND",
+        "acreage": null,
+        "assessed_value": 118700,
+        "market_value": 118700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025C00212000600",
+        "address": "3080 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15201",
+        "current_owner_name": "3080   SMALLMAN ST",
+        "land_use_description": "CONDO DEVELOPMENTAL LAND",
+        "acreage": null,
+        "assessed_value": 118200,
+        "market_value": 118200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025C00212000800",
+        "address": "3080 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15201",
+        "current_owner_name": "3080   SMALLMAN ST",
+        "land_use_description": "CONDO DEVELOPMENTAL LAND",
+        "acreage": null,
+        "assessed_value": 118200,
+        "market_value": 118200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "parcel": {
     "parcel_id": "0433S00063000000",
     "address": "1927 MOUNT ROYAL BLVD",
-    "city": "GLENSHAW",
+    "city": "Shaler",
     "zip_code": "15116",
     "county": "Allegheny",
     "current_owner_name": "9892   MOCCASIN TRL",
@@ -122,22 +122,22 @@
     "parcel_id": "0433S00063000000",
     "comparables": [
       {
-        "parcel_id": "0356S00050000000",
-        "address": "1076 SAXONBURG BLVD",
-        "city": "GLENSHAW",
+        "parcel_id": "0285A00022000000",
+        "address": "201 WADSWORTH DR",
+        "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "1076   SAXONBURG BLVD",
+        "current_owner_name": "201   WADSWORTH DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 140800,
-        "market_value": 140800,
-        "assessed_value_change_pct": -1.1,
+        "market_value": 158800,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.1
       },
       {
         "parcel_id": "0433S00043000000",
         "address": "1913 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1913   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -150,7 +150,7 @@
       {
         "parcel_id": "0433S00046000000",
         "address": "1915 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "1915   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
@@ -161,9 +161,22 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0353D00089000000",
+        "address": "207 TARTLINE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "207   TARTLINE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141200,
+        "market_value": 159200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0355P00320000000",
         "address": "1402 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "city": "Shaler",
         "zip_code": "15116",
         "current_owner_name": "308   MARBERRY DR",
         "land_use_description": "THREE FAMILY",
@@ -171,32 +184,19 @@
         "assessed_value": 140000,
         "market_value": 140000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0433C00058000000",
-        "address": "2605 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
-        "zip_code": "15116",
-        "current_owner_name": "2605   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 139700,
-        "market_value": 157700,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0520C00244000000",
-        "address": "3303 MOUNT ROYAL BLVD",
-        "city": "GLENSHAW",
+        "parcel_id": "0353D00105000000",
+        "address": "218 TARTLINE DR",
+        "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "3303   MOUNT ROYAL BLVD",
+        "current_owner_name": "218   TARTLINE DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 141900,
-        "market_value": 159900,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 139800,
+        "market_value": 157800,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]
