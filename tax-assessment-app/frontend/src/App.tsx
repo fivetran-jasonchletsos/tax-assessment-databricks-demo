@@ -7,6 +7,7 @@ import ParcelDetailPage from './pages/ParcelDetailPage';
 import InsightsPage from './pages/InsightsPage';
 import AnalyticsPage from './pages/AnalyticsPage';
 import AgentPage from './pages/AgentPage';
+import PipelinePage from './pages/PipelinePage';
 import AboutPage from './pages/AboutPage';
 import NotFoundPage from './pages/NotFoundPage';
 
@@ -28,6 +29,7 @@ export default function App() {
             <Route path="/insights" element={<InsightsPage />} />
             <Route path="/analytics" element={<AnalyticsPage />} />
             <Route path="/agent" element={<AgentPage />} />
+            <Route path="/pipeline" element={<PipelinePage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Route>

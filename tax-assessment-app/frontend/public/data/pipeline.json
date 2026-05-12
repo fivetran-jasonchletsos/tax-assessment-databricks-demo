@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-05-12T22:06:31+00:00",
+  "fivetran": {
+    "connectors": [
+      {
+        "id": "equilibrium_safely",
+        "schema": "jason_chletsos_wprdc",
+        "name": "WPRDC custom connector",
+        "service": "connector_sdk",
+        "paused": false,
+        "sync_state": "scheduled",
+        "update_state": "on_schedule",
+        "setup_state": "connected",
+        "is_historical_sync": false,
+        "succeeded_at": "2026-05-12T21:41:18.842000Z",
+        "failed_at": null,
+        "sync_frequency_minutes": 360,
+        "schedule_type": "auto",
+        "data_delay_threshold": 0,
+        "dashboard_url": "https://fivetran.com/dashboard/connectors/equilibrium_safely",
+        "error": null
+      },
+      {
+        "id": "manifesto_surer",
+        "schema": "jason_chletsos_alleghenyre",
+        "name": "Allegheny RE custom connector",
+        "service": "connector_sdk",
+        "paused": false,
+        "sync_state": "scheduled",
+        "update_state": "on_schedule",
+        "setup_state": "connected",
+        "is_historical_sync": false,
+        "succeeded_at": "2026-05-12T21:38:23.868000Z",
+        "failed_at": null,
+        "sync_frequency_minutes": 360,
+        "schedule_type": "auto",
+        "data_delay_threshold": 0,
+        "dashboard_url": "https://fivetran.com/dashboard/connectors/manifesto_surer",
+        "error": null
+      }
+    ],
+    "destination": {
+      "id": "unduly_parental",
+      "name": "jason_chletsos_databricks",
+      "service": "databricks",
+      "region": "AWS_US_EAST_1",
+      "setup_status": "connected",
+      "networking_method": "Directly",
+      "host": "dbc-c48d38b1-67f3.cloud.databricks.com",
+      "http_path": "/sql/1.0/warehouses/3e84683f91b0ee83",
+      "catalog": "jason_chletsos",
+      "auth_type": "PERSONAL_ACCESS_TOKEN",
+      "error": null
+    },
+    "project": {
+      "id": "hanky_capitalism",
+      "type": "DBT_CORE",
+      "status": "READY",
+      "created_at": "2026-04-29T20:59:28.193000Z",
+      "git_remote_url": "https://github.com/fivetran-jasonchletsos/jason-chletsos-fivetran-pogo.git",
+      "folder_path": "databricks_app/dbt_databricks",
+      "git_branch": "main",
+      "default_schema": "pokemon_marts",
+      "dbt_version": "1.10.3"
+    },
+    "transformations": [
+      {
+        "id": "suffrage_screened",
+        "name": "jason_chletsos_pogo_dbx_transformations",
+        "project_id": "hanky_capitalism",
+        "type": "DBT_CORE",
+        "status": "PARTIALLY_SUCCEEDED",
+        "paused": false,
+        "last_started_at": "2026-05-12T17:06:52.363000Z",
+        "last_ended_at": "2026-05-12T17:07:34.921000Z",
+        "schedule": {
+          "schedule_type": "INTEGRATED",
+          "connection_ids": [
+            "aversion_order"
+          ]
+        },
+        "output_model_names": [
+          "jason_chletsos_pogo_dbx_transformations"
+        ]
+      }
+    ]
+  },
+  "pages": {
+    "html_url": null,
+    "status": null,
+    "build_type": null,
+    "https_enforced": null,
+    "last_deploy_at": "2026-05-12T22:05:35Z",
+    "last_deploy_sha": "f597667",
+    "last_deploy_message": "Residential-only snapshot + use municipality for grouping",
+    "runs_url": "https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo/actions/workflows/deploy.yml"
+  }
+}

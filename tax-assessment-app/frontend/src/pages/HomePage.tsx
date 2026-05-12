@@ -99,12 +99,19 @@ export default function HomePage() {
             value={stats ? formatCurrency(stats.total_exemptions) : '—'}
             caption="Homestead + senior + veteran"
           />
-          <StatTile
-            label="Pipeline Status"
-            value="Healthy"
-            caption="Fivetran sync · 6 hrs ago"
-            tone="success"
-          />
+          <button
+            onClick={() => navigate('/pipeline')}
+            className="text-left rounded-xl bg-white border border-slate-200 shadow-md p-5 hover:border-emerald-300 hover:shadow-lg transition-all"
+          >
+            <div className="text-xs uppercase tracking-wider text-slate-500 font-medium">
+              Pipeline Status
+            </div>
+            <div className="mt-2 text-2xl font-bold text-emerald-600 flex items-center gap-2">
+              <span className="inline-block h-2.5 w-2.5 rounded-full bg-emerald-500 animate-pulse" />
+              Live
+            </div>
+            <div className="mt-1 text-xs text-slate-400">View details →</div>
+          </button>
         </div>
       </section>
 
