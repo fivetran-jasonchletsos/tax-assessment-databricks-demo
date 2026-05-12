@@ -1,11 +1,12 @@
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { api, getSnapshotTime, subscribeSource, type DataSource } from '../api/queries';
+import * as watchlist from '../watchlist';
 
 const NAV_ITEMS: [string, string][] = [
   ['/', 'Home'],
   ['/search', 'Properties'],
-  ['/analytics', 'Analytics'],
+  ['/dashboard', 'Dashboard'],
   ['/agent', 'Ask AI'],
   ['/pipeline', 'Pipeline'],
   ['/about', 'About'],
@@ -16,13 +17,18 @@ export default function Layout() {
   const [snapshotAt, setSnapshotAt] = useState<string | null>(null);
   const [query, setQuery] = useState('');
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [watchCount, setWatchCount] = useState(0);
   const navigate = useNavigate();
   const location = useLocation();
 
   useEffect(() => {
     const unsub = subscribeSource(setSource);
     api.getSummary().finally(() => setSnapshotAt(getSnapshotTime()));
-    return unsub;
+    const wsub = watchlist.subscribe((ids) => setWatchCount(ids.length));
+    return () => {
+      unsub();
+      wsub();
+    };
   }, []);
 
   // Close mobile drawer on route change.
@@ -90,6 +96,21 @@ export default function Layout() {
             </nav>
 
             <div className="flex items-center gap-2">
+              <button
+                onClick={() => navigate('/watchlist')}
+                className="relative inline-flex h-9 w-9 items-center justify-center rounded-md hover:bg-primary-700/70"
+                aria-label="Watchlist"
+                title="Watchlist"
+              >
+                <svg viewBox="0 0 24 24" className="h-5 w-5" fill={watchCount > 0 ? '#fbbf24' : 'none'} stroke="currentColor" strokeWidth="2" strokeLinejoin="round">
+                  <path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
+                </svg>
+                {watchCount > 0 && (
+                  <span className="absolute -top-0.5 -right-0.5 h-4 min-w-4 px-1 inline-flex items-center justify-center rounded-full bg-amber-500 text-[10px] font-bold text-slate-900">
+                    {watchCount}
+                  </span>
+                )}
+              </button>
               <SourceBadge source={source} snapshotAt={snapshotAt} />
               {/* Mobile menu toggle */}
               <button

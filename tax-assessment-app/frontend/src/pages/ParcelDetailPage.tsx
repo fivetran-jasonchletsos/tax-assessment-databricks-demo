@@ -17,6 +17,8 @@ import {
 import { MapContainer, Marker, Popup, TileLayer, Circle } from 'react-leaflet';
 import L from 'leaflet';
 import { api, formatCurrency, formatPercent } from '../api/queries';
+import TaxEstimator from '../components/TaxEstimator';
+import WatchlistButton from '../components/WatchlistButton';
 import type {
   AppealsResponse,
   AssessmentsResponse,
@@ -103,10 +105,11 @@ export default function ParcelDetailPage() {
             <div className="mt-1 text-primary-100">
               {parcel.city}, PA {parcel.zip_code} · {parcel.county} County
             </div>
-            <div className="mt-3 flex flex-wrap gap-2 text-xs">
+            <div className="mt-3 flex flex-wrap items-center gap-2 text-xs">
               <Pill>{parcel.land_use_description ?? 'Unspecified use'}</Pill>
               {parcel.acreage && <Pill>{parcel.acreage} acres</Pill>}
               {parcel.current_ownership_type && <Pill>{parcel.current_ownership_type}</Pill>}
+              <WatchlistButton parcelId={parcel.parcel_id} />
             </div>
           </div>
           <div className="grid grid-cols-3 gap-3 lg:gap-4">
@@ -276,6 +279,14 @@ export default function ParcelDetailPage() {
             </div>
           </div>
         </section>
+      </div>
+
+      <div className="mt-6">
+        <TaxEstimator
+          assessedValue={latest.assessed_value}
+          exemptionAmount={latest.total_exemption_amount ?? 0}
+          municipalityHint={parcel.city}
+        />
       </div>
 
       <section className="mt-6 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
