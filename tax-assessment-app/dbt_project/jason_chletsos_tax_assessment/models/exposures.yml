@@ -1,0 +1,35 @@
+# ============================================================
+# Owner: jason_chletsos
+# Project: Allegheny County Tax Assessment Application
+# Exposures Definition
+# ============================================================
+
+version: 2
+
+exposures:
+  - name: community_tax_portal
+    label: Community Tax Assessment Portal
+    type: application
+    maturity: high
+    url: https://tax-portal.alleghenycounty.local
+    description: |
+      Public-facing web application for community members to view and
+      interact with their property tax assessment data.
+      
+      Features:
+      - Property search by address or parcel ID
+      - Assessment history and trends
+      - Exemption information
+      - Appeal tracking
+      - Comparable properties analysis
+      
+    owner:
+      name: jason_chletsos
+      email: jason.chletsos@example.com
+      
+    depends_on:
+      - ref('dim_parcels')
+      - ref('dim_tax_years')
+      - ref('fct_assessments')
+      - ref('fct_exemptions_summary')
+      - ref('fct_appeals_summary')

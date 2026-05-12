@@ -1,0 +1,108 @@
+# ============================================================
+# Owner: jason_chletsos
+# Project: Allegheny County Tax Assessment Application
+# Source Definitions
+# ============================================================
+
+version: 2
+
+sources:
+  - name: jason_chletsos_raw_wprdc
+    description: Raw data from WPRDC (Western Pennsylvania Regional Data Center)
+    catalog: jason_chletsos_allegheny_tax
+    schema: jason_chletsos_raw_wprdc
+    tables:
+      - name: parcels
+        description: Property parcel information
+        columns:
+          - name: parcel_id
+            description: Unique parcel identifier
+            data_tests:
+              - not_null
+              - unique
+          - name: address
+          - name: city
+          - name: zip
+          - name: county
+          - name: land_use_code
+          - name: acreage
+          - name: latitude
+          - name: longitude
+          - name: created_at
+          - name: updated_at
+            
+      - name: assessments
+        description: Tax assessment records by year
+        columns:
+          - name: assessment_id
+            description: Unique assessment identifier
+            data_tests:
+              - not_null
+              - unique
+          - name: parcel_id
+          - name: tax_year
+          - name: assessed_value
+          - name: market_value
+          - name: land_value
+          - name: improvement_value
+          - name: assessment_date
+          - name: assessor_id
+          - name: created_at
+          - name: updated_at
+            
+      - name: owners
+        description: Property ownership records
+        columns:
+          - name: owner_id
+            data_tests:
+              - not_null
+              - unique
+          - name: parcel_id
+          - name: owner_name
+          - name: mailing_address
+          - name: ownership_type
+          - name: effective_date
+          - name: created_at
+          - name: updated_at
+            
+      - name: exemptions
+        description: Tax exemption records
+        columns:
+          - name: exemption_id
+            data_tests:
+              - not_null
+              - unique
+          - name: parcel_id
+          - name: exemption_type
+          - name: exemption_amount
+          - name: tax_year
+          - name: status
+          - name: created_at
+          - name: updated_at
+            
+      - name: appeals
+        description: Assessment appeal records
+        columns:
+          - name: appeal_id
+            data_tests:
+              - not_null
+              - unique
+          - name: assessment_id
+          - name: parcel_id
+          - name: filed_date
+          - name: hearing_date
+          - name: appeal_status
+          - name: original_value
+          - name: requested_value
+          - name: final_value
+          - name: resolution_notes
+          - name: created_at
+          - name: updated_at
+
+  - name: jason_chletsos_raw_alleghenyre
+    description: Raw data from Allegheny County Real Estate
+    catalog: jason_chletsos_allegheny_tax
+    schema: jason_chletsos_raw_alleghenyre
+    tables:
+      - name: property_data
+        description: Additional property data from county source

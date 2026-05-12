@@ -1,0 +1,53 @@
+# ============================================================
+# Owner: jason_chletsos
+# Project: Allegheny County Tax Assessment Application
+# dbt Project Configuration
+# ============================================================
+
+name: 'jason_chletsos_tax_assessment'
+version: '1.0.0'
+config-version: 2
+
+profile: 'jason_chletsos_tax_assessment'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+  - "logs"
+
+# Model configurations
+models:
+  jason_chletsos_tax_assessment:
+    # Staging models - views for efficiency
+    staging:
+      +materialized: view
+      +schema: jason_chletsos_staging
+      
+    # Mart models - tables for performance
+    marts:
+      +materialized: table
+      +schema: jason_chletsos_marts
+      +file_format: delta  # Databricks Delta format
+
+# Test configurations
+tests:
+  jason_chletsos_tax_assessment:
+    +store_failures: true
+    +schema: jason_chletsos_staging
+
+# Seed configurations
+seeds:
+  jason_chletsos_tax_assessment:
+    +schema: jason_chletsos_staging
+
+# Snapshot configurations
+snapshots:
+  jason_chletsos_tax_assessment:
+    +target_schema: jason_chletsos_staging
