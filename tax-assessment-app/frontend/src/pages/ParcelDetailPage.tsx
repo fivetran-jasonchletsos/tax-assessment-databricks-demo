@@ -19,6 +19,7 @@ import L from 'leaflet';
 import { api, formatCurrency, formatPercent } from '../api/queries';
 import TaxEstimator from '../components/TaxEstimator';
 import WatchlistButton from '../components/WatchlistButton';
+import NeighborhoodPercentile from '../components/NeighborhoodPercentile';
 import type {
   AppealsResponse,
   AssessmentsResponse,
@@ -281,7 +282,12 @@ export default function ParcelDetailPage() {
         </section>
       </div>
 
-      <div className="mt-6">
+      <div className="mt-6 grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <NeighborhoodPercentile
+          parcelId={parcel.parcel_id}
+          zipCode={parcel.zip_code}
+          assessedValue={latest.assessed_value}
+        />
         <TaxEstimator
           assessedValue={latest.assessed_value}
           exemptionAmount={latest.total_exemption_amount ?? 0}
