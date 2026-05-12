@@ -75,22 +75,37 @@ export function groupByLandUse(parcels: ParcelSearchResult[]) {
     .sort((a, b) => b.total_assessed - a.total_assessed);
 }
 
-export function valueHistogram(parcels: ParcelSearchResult[], bins = 12) {
+// Property-value bins aligned to natural homeowner brackets, not equal
+// widths. Equal-width binning over a heavy-tailed distribution piles
+// the bulk into one column and leaves the others empty — useless for
+// reading the shape of the data.
+const DEFAULT_BINS: Array<[number, number, string]> = [
+  [0, 50_000, '<$50k'],
+  [50_000, 100_000, '$50–100k'],
+  [100_000, 150_000, '$100–150k'],
+  [150_000, 200_000, '$150–200k'],
+  [200_000, 250_000, '$200–250k'],
+  [250_000, 300_000, '$250–300k'],
+  [300_000, 400_000, '$300–400k'],
+  [400_000, 500_000, '$400–500k'],
+  [500_000, 750_000, '$500–750k'],
+  [750_000, 1_000_000, '$750k–1M'],
+  [1_000_000, 1_500_000, '$1–1.5M'],
+  [1_500_000, Number.POSITIVE_INFINITY, '$1.5M+'],
+];
+
+export function valueHistogram(parcels: ParcelSearchResult[], _legacy?: number) {
   const values = parcels.map((p) => p.assessed_value).filter((v) => v > 0);
-  if (values.length === 0) return [];
-  const min = Math.min(...values);
-  const max = Math.max(...values);
-  if (max === min) return [{ label: `$${Math.round(min / 1000)}k`, count: values.length, mid: min }];
-  const width = (max - min) / bins;
-  const buckets = Array.from({ length: bins }, (_, i) => ({
-    label: `$${Math.round((min + width * i) / 1000)}k`,
+  const buckets = DEFAULT_BINS.map(([lo, hi, label]) => ({
+    label,
     count: 0,
-    mid: min + width * (i + 0.5),
+    lo,
+    hi,
+    mid: hi === Number.POSITIVE_INFINITY ? lo * 1.5 : (lo + hi) / 2,
   }));
   for (const v of values) {
-    let idx = Math.min(bins - 1, Math.floor((v - min) / width));
-    if (idx < 0) idx = 0;
-    buckets[idx].count += 1;
+    const idx = DEFAULT_BINS.findIndex(([lo, hi]) => v >= lo && v < hi);
+    if (idx >= 0) buckets[idx].count += 1;
   }
   return buckets;
 }

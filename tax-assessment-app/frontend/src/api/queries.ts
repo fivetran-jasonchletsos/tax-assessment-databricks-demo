@@ -130,6 +130,15 @@ export function formatNumber(n: number | null | undefined): string {
   return new Intl.NumberFormat('en-US').format(n);
 }
 
+// Compact, axis-friendly currency formatting:  1,234 → $1.2k,  1,500,000 → $1.5M
+export function formatCurrencyShort(n: number | null | undefined): string {
+  if (n === null || n === undefined || Number.isNaN(n)) return '—';
+  const abs = Math.abs(n);
+  if (abs >= 1_000_000) return `$${(n / 1_000_000).toFixed(abs >= 10_000_000 ? 0 : 1)}M`;
+  if (abs >= 1_000) return `$${Math.round(n / 1_000)}k`;
+  return `$${Math.round(n)}`;
+}
+
 export function formatPercent(n: number | null | undefined, digits = 1): string {
   if (n === null || n === undefined || Number.isNaN(n)) return '—';
   return `${n >= 0 ? '+' : ''}${n.toFixed(digits)}%`;

@@ -4,6 +4,7 @@ import {
   BarChart,
   CartesianGrid,
   Cell,
+  ReferenceLine,
   ResponsiveContainer,
   Tooltip,
   XAxis,
@@ -12,7 +13,7 @@ import {
   Scatter,
   ZAxis,
 } from 'recharts';
-import { api, formatCurrency, formatNumber } from '../api/queries';
+import { api, formatCurrency, formatCurrencyShort, formatNumber } from '../api/queries';
 import {
   exemptionCoverage,
   groupByCity,
@@ -23,6 +24,22 @@ import {
   valueHistogram,
 } from '../analytics';
 import type { ParcelSearchResult } from '../types';
+
+// Tufte: small multiples-style restraint. Single accent color (primary-700)
+// varied by saturation. Light gridlines. No tooltip border. Median is
+// annotated directly in-chart rather than discussed in caption.
+const ACCENT = '#1d4ed8';
+const ACCENT_SOFT = '#93c5fd';
+const RISING = '#b91c1c';
+const FALLING = '#047857';
+
+const TOOLTIP_STYLE = {
+  border: 'none',
+  borderRadius: 6,
+  fontSize: 12,
+  boxShadow: '0 4px 12px rgba(15, 23, 42, 0.08)',
+  padding: '8px 10px',
+} as const;
 
 export default function AnalyticsPage() {
   const [parcels, setParcels] = useState<ParcelSearchResult[]>([]);
@@ -38,13 +55,17 @@ export default function AnalyticsPage() {
   const byCity = useMemo(() => groupByCity(parcels), [parcels]);
   const byZip = useMemo(() => groupByZip(parcels), [parcels]);
   const byUse = useMemo(() => groupByLandUse(parcels), [parcels]);
-  const histogram = useMemo(() => valueHistogram(parcels, 14), [parcels]);
+  const histogram = useMemo(() => valueHistogram(parcels), [parcels]);
   const movers = useMemo(() => outliers(parcels, 5), [parcels]);
   const exemption = useMemo(() => exemptionCoverage(parcels), [parcels]);
 
   const median = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.5) ?? 0, [parcels]);
   const p90 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.9) ?? 0, [parcels]);
   const p10 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.1) ?? 0, [parcels]);
+
+  // Find which histogram bucket contains the median, for the reference line
+  const medianBucketIdx = histogram.findIndex((b) => median >= b.lo && median < b.hi);
+  const medianLabel = medianBucketIdx >= 0 ? histogram[medianBucketIdx].label : null;
 
   const scatter = useMemo(
     () =>
@@ -54,133 +75,206 @@ export default function AnalyticsPage() {
           x: p.assessed_value,
           y: p.market_value,
           z: 1,
-          city: p.city,
         })),
     [parcels],
   );
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-      <header className="mb-6">
+      <header className="mb-8 max-w-3xl">
         <div className="inline-flex items-center rounded-full bg-primary-100 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
           Advanced Analytics
         </div>
-        <h1 className="text-3xl font-bold text-slate-900">County-wide deep dive</h1>
-        <p className="text-sm text-slate-500 mt-1">
-          Aggregations across the gold-layer marts. All numbers computed in your browser from the
-          published snapshot — no roundtrips to Databricks.
+        <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
+        <p className="text-sm text-slate-500 mt-2">
+          Residential parcels across {byCity.length} municipalities, derived from the gold-layer marts.
+          All aggregations run in your browser; nothing roundtrips to Databricks.
         </p>
       </header>
 
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-3 mb-8">
-        <KPI label="Parcels" value={loading ? '—' : formatNumber(parcels.length)} />
-        <KPI label="Median assessed" value={loading ? '—' : formatCurrency(median)} />
-        <KPI label="P90 assessed" value={loading ? '—' : formatCurrency(p90)} />
-        <KPI label="P10 assessed" value={loading ? '—' : formatCurrency(p10)} />
+      {/* KPIs — vary visual weight so the eye lands on the most informative one. */}
+      <div className="grid grid-cols-2 md:grid-cols-5 gap-2 mb-10">
+        <KPI label="Parcels" value={loading ? '—' : formatNumber(parcels.length)} muted />
+        <KPI
+          label="Median assessed"
+          value={loading ? '—' : formatCurrency(median)}
+          caption="50th percentile"
+          primary
+        />
+        <KPI label="P10 — P90" value={loading ? '—' : `${formatCurrencyShort(p10)} – ${formatCurrencyShort(p90)}`} caption="Middle 80%" />
+        <KPI
+          label="Avg YoY change"
+          value={
+            loading
+              ? '—'
+              : `${parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length) >= 0 ? '+' : ''}${(parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length)).toFixed(1)}%`
+          }
+          caption="Across all parcels"
+        />
         <KPI
           label="Exemption coverage"
-          value={loading ? '—' : `${exemption.coverage_pct.toFixed(1)}%`}
-          caption={`${formatNumber(exemption.with_exemption)} of ${formatNumber(exemption.total)}`}
+          value={loading ? '—' : `${exemption.coverage_pct.toFixed(0)}%`}
+          caption={`${formatNumber(exemption.with_exemption)} parcels`}
         />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <Panel title="Assessed value distribution" subtitle="Histogram across all parcels in snapshot">
-          <div className="h-64">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={histogram}>
-                <CartesianGrid stroke="#e2e8f0" vertical={false} />
-                <XAxis dataKey="label" tick={{ fill: '#64748b', fontSize: 11 }} interval={1} />
-                <YAxis tick={{ fill: '#64748b', fontSize: 11 }} />
-                <Tooltip
-                  contentStyle={{ border: '1px solid #e2e8f0', borderRadius: 8, fontSize: 12 }}
-                  formatter={(v: any) => `${v} parcels`}
+      {/* Lead with the headline distribution chart; everything below is supporting. */}
+      <Panel
+        title="Assessed value distribution"
+        subtitle={medianLabel ? `Median falls in the ${medianLabel} bucket` : undefined}
+      >
+        <div className="h-72">
+          <ResponsiveContainer width="100%" height="100%">
+            <BarChart data={histogram} margin={{ top: 24, right: 16, left: 0, bottom: 0 }}>
+              <CartesianGrid stroke="#f1f5f9" vertical={false} />
+              <XAxis
+                dataKey="label"
+                tick={{ fill: '#475569', fontSize: 11 }}
+                axisLine={{ stroke: '#cbd5e1' }}
+                tickLine={false}
+                interval={0}
+                angle={-30}
+                textAnchor="end"
+                height={56}
+              />
+              <YAxis
+                tick={{ fill: '#475569', fontSize: 11 }}
+                axisLine={false}
+                tickLine={false}
+                width={36}
+              />
+              <Tooltip
+                cursor={{ fill: 'rgba(29,78,216,0.06)' }}
+                contentStyle={TOOLTIP_STYLE}
+                formatter={(v: any) => [`${v} parcels`, '']}
+                separator=""
+              />
+              <Bar dataKey="count" fill={ACCENT} radius={[3, 3, 0, 0]} maxBarSize={56}>
+                {histogram.map((_, i) => (
+                  <Cell key={i} fill={i === medianBucketIdx ? '#1e40af' : ACCENT} />
+                ))}
+              </Bar>
+              {medianBucketIdx >= 0 && (
+                <ReferenceLine
+                  x={histogram[medianBucketIdx].label}
+                  stroke="#f59e0b"
+                  strokeDasharray="3 3"
+                  label={{ value: 'Median', position: 'top', fill: '#b45309', fontSize: 11 }}
                 />
-                <Bar dataKey="count" fill="#0284c7" radius={[4, 4, 0, 0]} />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-        </Panel>
+              )}
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+      </Panel>
 
-        <Panel title="Assessed vs market value" subtitle="Each dot is one parcel">
-          <div className="h-64">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6">
+        <Panel title="Assessed vs market value" subtitle="Each dot is one parcel — closer to the diagonal = better-calibrated assessment">
+          <div className="h-72">
             <ResponsiveContainer width="100%" height="100%">
-              <ScatterChart margin={{ left: 12, right: 12, top: 6, bottom: 6 }}>
-                <CartesianGrid stroke="#e2e8f0" />
+              <ScatterChart margin={{ left: 12, right: 16, top: 8, bottom: 8 }}>
+                <CartesianGrid stroke="#f1f5f9" />
                 <XAxis
                   dataKey="x"
                   type="number"
                   name="Assessed"
-                  tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`}
-                  tick={{ fill: '#64748b', fontSize: 11 }}
+                  tickFormatter={formatCurrencyShort}
+                  tick={{ fill: '#475569', fontSize: 11 }}
+                  axisLine={{ stroke: '#cbd5e1' }}
+                  tickLine={false}
                 />
                 <YAxis
                   dataKey="y"
                   type="number"
                   name="Market"
-                  tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`}
-                  tick={{ fill: '#64748b', fontSize: 11 }}
+                  tickFormatter={formatCurrencyShort}
+                  tick={{ fill: '#475569', fontSize: 11 }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={48}
                 />
-                <ZAxis dataKey="z" range={[40, 40]} />
+                <ZAxis dataKey="z" range={[24, 24]} />
                 <Tooltip
-                  cursor={{ strokeDasharray: '3 3' }}
-                  contentStyle={{ border: '1px solid #e2e8f0', borderRadius: 8, fontSize: 12 }}
+                  cursor={{ strokeDasharray: '3 3', stroke: '#94a3b8' }}
+                  contentStyle={TOOLTIP_STYLE}
                   formatter={(v: any, n: any) => [formatCurrency(v as number), n]}
                   labelFormatter={() => ''}
                 />
-                <Scatter data={scatter} fill="#0ea5e9" fillOpacity={0.45} />
+                <Scatter data={scatter} fill={ACCENT_SOFT} stroke={ACCENT} strokeOpacity={0.5} fillOpacity={0.6} />
               </ScatterChart>
             </ResponsiveContainer>
           </div>
         </Panel>
 
-        <Panel title="Top cities by total assessed value" subtitle="Sized by parcel count">
+        <Panel title="Top municipalities" subtitle="By total assessed value in the snapshot">
           <div className="h-72">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
                 data={[...byCity].sort((a, b) => b.total_assessed - a.total_assessed).slice(0, 10)}
                 layout="vertical"
-                margin={{ left: 60 }}
+                margin={{ left: 8, right: 16, top: 4, bottom: 4 }}
               >
-                <CartesianGrid stroke="#e2e8f0" horizontal={false} />
+                <CartesianGrid stroke="#f1f5f9" horizontal={false} />
                 <XAxis
                   type="number"
-                  tickFormatter={(v) => `$${(v / 1_000_000).toFixed(1)}M`}
-                  tick={{ fill: '#64748b', fontSize: 11 }}
+                  tickFormatter={formatCurrencyShort}
+                  tick={{ fill: '#475569', fontSize: 11 }}
+                  axisLine={{ stroke: '#cbd5e1' }}
+                  tickLine={false}
                 />
-                <YAxis dataKey="city" type="category" tick={{ fill: '#64748b', fontSize: 11 }} width={120} />
+                <YAxis
+                  dataKey="city"
+                  type="category"
+                  tick={{ fill: '#334155', fontSize: 11 }}
+                  width={150}
+                  axisLine={false}
+                  tickLine={false}
+                />
                 <Tooltip
-                  formatter={(v: any) => formatCurrency(v as number)}
-                  contentStyle={{ border: '1px solid #e2e8f0', borderRadius: 8, fontSize: 12 }}
+                  cursor={{ fill: 'rgba(29,78,216,0.06)' }}
+                  contentStyle={TOOLTIP_STYLE}
+                  formatter={(v: any) => [formatCurrency(v as number), '']}
+                  separator=""
                 />
-                <Bar dataKey="total_assessed" fill="#0284c7" radius={[0, 6, 6, 0]} />
+                <Bar dataKey="total_assessed" fill={ACCENT} radius={[0, 3, 3, 0]} maxBarSize={20} />
               </BarChart>
             </ResponsiveContainer>
           </div>
         </Panel>
 
-        <Panel title="Assessment change by city" subtitle="Average YoY % — red = rising, green = falling">
+        <Panel title="Year-over-year assessment change" subtitle="Average % change per municipality">
           <div className="h-72">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
                 data={[...byCity].sort((a, b) => b.avg_change_pct - a.avg_change_pct).slice(0, 10)}
                 layout="vertical"
-                margin={{ left: 60 }}
+                margin={{ left: 8, right: 16, top: 4, bottom: 4 }}
               >
-                <CartesianGrid stroke="#e2e8f0" horizontal={false} />
+                <CartesianGrid stroke="#f1f5f9" horizontal={false} />
                 <XAxis
                   type="number"
                   tickFormatter={(v) => `${v.toFixed(1)}%`}
-                  tick={{ fill: '#64748b', fontSize: 11 }}
+                  tick={{ fill: '#475569', fontSize: 11 }}
+                  axisLine={{ stroke: '#cbd5e1' }}
+                  tickLine={false}
                 />
-                <YAxis dataKey="city" type="category" tick={{ fill: '#64748b', fontSize: 11 }} width={120} />
+                <YAxis
+                  dataKey="city"
+                  type="category"
+                  tick={{ fill: '#334155', fontSize: 11 }}
+                  width={150}
+                  axisLine={false}
+                  tickLine={false}
+                />
                 <Tooltip
-                  formatter={(v: any) => `${(v as number).toFixed(2)}%`}
-                  contentStyle={{ border: '1px solid #e2e8f0', borderRadius: 8, fontSize: 12 }}
+                  cursor={{ fill: 'rgba(29,78,216,0.06)' }}
+                  contentStyle={TOOLTIP_STYLE}
+                  formatter={(v: any) => [`${(v as number).toFixed(2)}%`, '']}
+                  separator=""
                 />
-                <Bar dataKey="avg_change_pct">
+                <ReferenceLine x={0} stroke="#94a3b8" />
+                <Bar dataKey="avg_change_pct" radius={[0, 3, 3, 0]} maxBarSize={20}>
                   {byCity.map((c, i) => (
-                    <Cell key={i} fill={c.avg_change_pct >= 0 ? '#e11d48' : '#059669'} />
+                    <Cell key={i} fill={c.avg_change_pct >= 0 ? RISING : FALLING} />
                   ))}
                 </Bar>
               </BarChart>
@@ -188,63 +282,26 @@ export default function AnalyticsPage() {
           </div>
         </Panel>
 
-        <Panel title="ZIP code performance" subtitle="Median assessed value and YoY change">
-          <div className="overflow-x-auto -mx-2 px-2">
-            <table className="min-w-full text-sm">
-              <thead className="bg-slate-50 text-xs uppercase tracking-wider text-slate-500">
-                <tr>
-                  <th className="px-3 py-2 text-left">ZIP</th>
-                  <th className="px-3 py-2 text-right">Parcels</th>
-                  <th className="px-3 py-2 text-right">Median</th>
-                  <th className="px-3 py-2 text-right">P90</th>
-                  <th className="px-3 py-2 text-right">YoY</th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-slate-100">
-                {[...byZip].sort((a, b) => b.count - a.count).slice(0, 10).map((z) => (
-                  <tr key={z.zip}>
-                    <td className="px-3 py-2 font-mono text-slate-700">{z.zip}</td>
-                    <td className="px-3 py-2 text-right">{formatNumber(z.count)}</td>
-                    <td className="px-3 py-2 text-right">{formatCurrency(z.median_assessed)}</td>
-                    <td className="px-3 py-2 text-right">{formatCurrency(z.p90_assessed)}</td>
-                    <td className="px-3 py-2 text-right">
-                      <span
-                        className={`font-semibold ${
-                          z.avg_change_pct >= 0 ? 'text-rose-600' : 'text-emerald-600'
-                        }`}
-                      >
-                        {z.avg_change_pct >= 0 ? '+' : ''}
-                        {z.avg_change_pct.toFixed(2)}%
-                      </span>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </Panel>
-
-        <Panel title="Composition by land use" subtitle="Where the value sits">
-          <div className="space-y-2">
+        <Panel title="Land use mix" subtitle="Composition of assessed value across property types">
+          <div className="space-y-2 pt-2">
             {byUse.slice(0, 6).map((u, i) => {
               const totalAll = byUse.reduce((s, x) => s + x.total_assessed, 0);
               const pct = totalAll === 0 ? 0 : (u.total_assessed / totalAll) * 100;
               return (
                 <div key={u.use}>
                   <div className="flex justify-between text-xs mb-1">
-                    <span className="font-medium text-slate-700">{u.use}</span>
-                    <span className="text-slate-500">
-                      {formatCurrency(u.total_assessed)} · {pct.toFixed(1)}%
+                    <span className="font-medium text-slate-700 truncate pr-2">{u.use}</span>
+                    <span className="text-slate-500 tabular-nums whitespace-nowrap">
+                      {formatCurrencyShort(u.total_assessed)} · {pct.toFixed(1)}%
                     </span>
                   </div>
-                  <div className="h-2 rounded-full bg-slate-100 overflow-hidden">
+                  <div className="h-2 rounded bg-slate-100 overflow-hidden">
                     <div
-                      className="h-full rounded-full"
+                      className="h-full"
                       style={{
                         width: `${pct}%`,
-                        backgroundColor: ['#0284c7', '#0ea5e9', '#38bdf8', '#7dd3fc', '#f59e0b', '#10b981'][
-                          i % 6
-                        ],
+                        backgroundColor: i === 0 ? ACCENT : ACCENT_SOFT,
+                        opacity: 1 - i * 0.12,
                       }}
                     />
                   </div>
@@ -253,63 +310,121 @@ export default function AnalyticsPage() {
             })}
           </div>
         </Panel>
+      </div>
 
-        <Panel
-          title="Biggest YoY movers"
-          subtitle="Parcels with the largest absolute assessed-value change"
-          className="lg:col-span-2"
-        >
-          <div className="overflow-x-auto -mx-2 px-2">
-            <table className="min-w-full text-sm">
-              <thead className="bg-slate-50 text-xs uppercase tracking-wider text-slate-500">
-                <tr>
-                  <th className="px-3 py-2 text-left">Parcel</th>
-                  <th className="px-3 py-2 text-left">Address</th>
-                  <th className="px-3 py-2 text-left">City</th>
-                  <th className="px-3 py-2 text-right">Assessed</th>
-                  <th className="px-3 py-2 text-right">YoY</th>
+      <Panel title="ZIP code performance" subtitle="Median assessed value and YoY change" className="mt-6">
+        <div className="overflow-x-auto -mx-2 px-2">
+          <table className="min-w-full text-sm tabular-nums">
+            <thead className="text-[11px] uppercase tracking-wider text-slate-500">
+              <tr className="border-b border-slate-200">
+                <th className="px-3 py-2 text-left font-medium">ZIP</th>
+                <th className="px-3 py-2 text-right font-medium">Parcels</th>
+                <th className="px-3 py-2 text-right font-medium">Median</th>
+                <th className="px-3 py-2 text-right font-medium">P90</th>
+                <th className="px-3 py-2 text-right font-medium">Avg YoY</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-slate-100">
+              {[...byZip].sort((a, b) => b.count - a.count).slice(0, 10).map((z) => (
+                <tr key={z.zip}>
+                  <td className="px-3 py-2.5 font-mono text-slate-700">{z.zip}</td>
+                  <td className="px-3 py-2.5 text-right">{formatNumber(z.count)}</td>
+                  <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(z.median_assessed)}</td>
+                  <td className="px-3 py-2.5 text-right text-slate-600">{formatCurrency(z.p90_assessed)}</td>
+                  <td className="px-3 py-2.5 text-right">
+                    <span
+                      className={`font-medium ${
+                        z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
+                      }`}
+                    >
+                      {z.avg_change_pct >= 0 ? '+' : ''}
+                      {z.avg_change_pct.toFixed(2)}%
+                    </span>
+                  </td>
                 </tr>
-              </thead>
-              <tbody className="divide-y divide-slate-100">
-                {movers.slice(0, 10).map((p) => (
-                  <tr key={p.parcel_id}>
-                    <td className="px-3 py-2 text-xs font-mono text-slate-600">{p.parcel_id}</td>
-                    <td className="px-3 py-2">{p.address}</td>
-                    <td className="px-3 py-2 text-slate-500">{p.city}</td>
-                    <td className="px-3 py-2 text-right">{formatCurrency(p.assessed_value)}</td>
-                    <td className="px-3 py-2 text-right">
-                      <span
-                        className={`font-semibold ${
-                          (p.assessed_value_change_pct ?? 0) >= 0 ? 'text-rose-600' : 'text-emerald-600'
-                        }`}
-                      >
-                        {(p.assessed_value_change_pct ?? 0) >= 0 ? '+' : ''}
-                        {(p.assessed_value_change_pct ?? 0).toFixed(1)}%
-                      </span>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </Panel>
-      </div>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </Panel>
 
-      <div className="mt-8 rounded-xl border border-amber-200 bg-amber-50 p-4 text-sm text-amber-900">
-        <strong>Methodology:</strong> All charts are computed client-side from the published JSON snapshot.
-        For trends spanning multiple tax years, see individual parcel pages — the snapshot persists per-year
-        history.
-      </div>
+      <Panel title="Biggest YoY movers" subtitle="Parcels with the largest absolute assessed-value change" className="mt-6">
+        <div className="overflow-x-auto -mx-2 px-2">
+          <table className="min-w-full text-sm tabular-nums">
+            <thead className="text-[11px] uppercase tracking-wider text-slate-500">
+              <tr className="border-b border-slate-200">
+                <th className="px-3 py-2 text-left font-medium">Parcel</th>
+                <th className="px-3 py-2 text-left font-medium">Address</th>
+                <th className="px-3 py-2 text-left font-medium">Municipality</th>
+                <th className="px-3 py-2 text-right font-medium">Assessed</th>
+                <th className="px-3 py-2 text-right font-medium">YoY</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-slate-100">
+              {movers.slice(0, 10).map((p) => (
+                <tr key={p.parcel_id}>
+                  <td className="px-3 py-2.5 text-xs font-mono text-slate-500">{p.parcel_id}</td>
+                  <td className="px-3 py-2.5 text-slate-900">{p.address}</td>
+                  <td className="px-3 py-2.5 text-slate-500">{p.city}</td>
+                  <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(p.assessed_value)}</td>
+                  <td className="px-3 py-2.5 text-right">
+                    <span
+                      className={`font-medium ${
+                        (p.assessed_value_change_pct ?? 0) >= 0 ? 'text-rose-700' : 'text-emerald-700'
+                      }`}
+                    >
+                      {(p.assessed_value_change_pct ?? 0) >= 0 ? '+' : ''}
+                      {(p.assessed_value_change_pct ?? 0).toFixed(1)}%
+                    </span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </Panel>
+
+      <p className="mt-8 text-xs text-slate-500 max-w-3xl">
+        <strong className="text-slate-700">Methodology:</strong> Distribution bins are aligned to natural property
+        brackets (not equal-width) so the shape of a heavy-tailed dataset reads correctly. Per-year history is
+        synthesized deterministically per parcel — for live multi-year history, see individual parcel pages.
+      </p>
     </div>
   );
 }
 
-function KPI({ label, value, caption }: { label: string; value: string; caption?: string }) {
+function KPI({
+  label,
+  value,
+  caption,
+  primary,
+  muted,
+}: {
+  label: string;
+  value: string;
+  caption?: string;
+  primary?: boolean;
+  muted?: boolean;
+}) {
   return (
-    <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
-      <div className="text-[11px] uppercase tracking-wider text-slate-500 font-medium">{label}</div>
-      <div className="mt-1 text-xl font-bold text-slate-900">{value}</div>
-      {caption && <div className="mt-0.5 text-xs text-slate-400">{caption}</div>}
+    <div
+      className={`rounded-lg p-4 ${
+        primary
+          ? 'bg-primary-700 text-white shadow-md'
+          : muted
+          ? 'bg-slate-100 text-slate-700'
+          : 'bg-white border border-slate-200'
+      }`}
+    >
+      <div className={`text-[10px] uppercase tracking-wider font-medium ${primary ? 'text-primary-100' : 'text-slate-500'}`}>
+        {label}
+      </div>
+      <div className={`mt-1 text-xl sm:text-2xl font-semibold tabular-nums ${primary ? 'text-white' : 'text-slate-900'}`}>
+        {value}
+      </div>
+      {caption && (
+        <div className={`mt-0.5 text-[11px] ${primary ? 'text-primary-100' : 'text-slate-400'}`}>{caption}</div>
+      )}
     </div>
   );
 }
@@ -326,8 +441,8 @@ function Panel({
   className?: string;
 }) {
   return (
-    <section className={`rounded-xl border border-slate-200 bg-white p-5 shadow-sm ${className}`}>
-      <div className="mb-3">
+    <section className={`rounded-lg border border-slate-200 bg-white p-5 ${className}`}>
+      <div className="mb-4">
         <h2 className="text-base font-semibold text-slate-900">{title}</h2>
         {subtitle && <p className="text-xs text-slate-500 mt-0.5">{subtitle}</p>}
       </div>
