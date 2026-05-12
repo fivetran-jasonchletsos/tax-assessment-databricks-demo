@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = ROOT / "frontend" / "public" / "data"
 PARCEL_DIR = OUTPUT_DIR / "parcels"
 
-CATALOG = os.getenv("DATABRICKS_CATALOG", "jason_chletsos_allegheny_tax")
+CATALOG = os.getenv("DATABRICKS_CATALOG", "jason_chletsos")
 MARTS_SCHEMA = os.getenv("DATABRICKS_MARTS_SCHEMA", "jason_chletsos_marts")
 
 # Cap the snapshot so the static site stays lean.

@@ -7,7 +7,7 @@
 #}
 
 with source as (
-    select * from {{ source('jason_chletsos_raw_wprdc', 'assessments') }}
+    select * from {{ source('jason_chletsos_wprdc', 'assessments') }}
 ),
 
 cleaned as (

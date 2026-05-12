@@ -7,10 +7,10 @@
 version: 2
 
 sources:
-  - name: jason_chletsos_raw_wprdc
-    description: Raw data from WPRDC (Western Pennsylvania Regional Data Center)
-    catalog: jason_chletsos_allegheny_tax
-    schema: jason_chletsos_raw_wprdc
+  - name: jason_chletsos_wprdc
+    description: Raw data landed by the Fivetran custom connector (jason_chletsos_wprdc)
+    catalog: jason_chletsos
+    schema: jason_chletsos_wprdc
     tables:
       - name: parcels
         description: Property parcel information
@@ -99,10 +99,3 @@ sources:
           - name: created_at
           - name: updated_at
 
-  - name: jason_chletsos_raw_alleghenyre
-    description: Raw data from Allegheny County Real Estate
-    catalog: jason_chletsos_allegheny_tax
-    schema: jason_chletsos_raw_alleghenyre
-    tables:
-      - name: property_data
-        description: Additional property data from county source

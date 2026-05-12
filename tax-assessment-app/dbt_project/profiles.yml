@@ -12,7 +12,7 @@ jason_chletsos_tax_assessment:
       host: "{{ env_var('DATABRICKS_HOST') }}"
       http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
       token: "{{ env_var('DATABRICKS_TOKEN') }}"
-      catalog: jason_chletsos_allegheny_tax
+      catalog: jason_chletsos
       schema: jason_chletsos_staging  # Default target schema
       threads: 4
       
@@ -21,6 +21,6 @@ jason_chletsos_tax_assessment:
       host: "{{ env_var('DATABRICKS_HOST') }}"
       http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
       token: "{{ env_var('DATABRICKS_TOKEN') }}"
-      catalog: jason_chletsos_allegheny_tax
+      catalog: jason_chletsos
       schema: jason_chletsos_staging
       threads: 8

@@ -43,7 +43,7 @@ DATABRICKS_CONFIG = {
     "access_token": os.getenv("DATABRICKS_TOKEN"),
 }
 
-CATALOG = os.getenv("DATABRICKS_CATALOG", "jason_chletsos_allegheny_tax")
+CATALOG = os.getenv("DATABRICKS_CATALOG", "jason_chletsos")
 MARTS_SCHEMA = os.getenv("DATABRICKS_MARTS_SCHEMA", "jason_chletsos_marts")
 
 
