@@ -1,25 +1,5 @@
 {
-  "properties": {
-    "api_url": {
-      "title": "API URL",
-      "description": "Base URL for the tax assessment data API",
-      "type": "string",
-      "default": "https://api.example.com/tax-data"
-    },
-    "api_key": {
-      "title": "API Key",
-      "description": "Authentication key for API access",
-      "type": "string",
-      "secret": true
-    },
-    "start_date": {
-      "title": "Start Date",
-      "description": "Initial date to begin syncing data (YYYY-MM-DD)",
-      "type": "string",
-      "format": "date",
-      "default": "2020-01-01"
-    }
-  },
-  "required": ["api_key"],
-  "additionalProperties": false
+  "api_url": "https://api.example.com/tax-data",
+  "api_key": "demo_key_replace_in_production",
+  "start_date": "2020-01-01"
 }

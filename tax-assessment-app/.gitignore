@@ -69,6 +69,10 @@ logs/
 *.sqlite
 *.sqlite3
 
+# Fivetran connector tester output (created by `fivetran debug`)
+fivetran_connector/files/
+fivetran_connector/warehouse.db
+
 # Credentials and secrets (extra safety)
 *credentials*
 *secrets*

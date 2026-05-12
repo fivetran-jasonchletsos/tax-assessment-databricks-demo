@@ -296,7 +296,7 @@ async def get_parcel_appeals(parcel_id: str):
         value_reduction,
         reduction_percentage,
         resolution_notes
-    FROM {CATALOG}.{MARTS_SCHEMA}.stg_appeals
+    FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals
     WHERE parcel_id = '{parcel_id}'
     ORDER BY filed_date DESC
     """

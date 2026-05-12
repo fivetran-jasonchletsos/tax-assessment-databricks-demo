@@ -1,0 +1,72 @@
+version: 2
+
+models:
+  - name: dim_parcels
+    description: "Parcel dimension with current owner and location."
+    columns:
+      - name: parcel_id
+        description: "County parcel identifier."
+        data_tests:
+          - unique
+          - not_null
+      - name: address
+        data_tests: [not_null]
+      - name: city
+        data_tests: [not_null]
+      - name: latitude
+      - name: longitude
+
+  - name: dim_tax_years
+    description: "Tax year dimension."
+    columns:
+      - name: tax_year
+        data_tests: [unique, not_null]
+
+  - name: fct_assessments
+    description: "Per-parcel, per-year assessment fact with YoY changes and exemption rollup."
+    columns:
+      - name: assessment_id
+        data_tests: [unique, not_null]
+      - name: parcel_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_parcels')
+              field: parcel_id
+      - name: tax_year
+        data_tests: [not_null]
+      - name: assessed_value
+        data_tests: [not_null]
+      - name: market_value
+        data_tests: [not_null]
+
+  - name: fct_appeals
+    description: "Per-appeal fact — gold layer of stg_appeals."
+    columns:
+      - name: appeal_id
+        data_tests: [unique, not_null]
+      - name: parcel_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('dim_parcels')
+              field: parcel_id
+      - name: appeal_status
+        data_tests:
+          - not_null
+          - accepted_values:
+              values: ['filed', 'scheduled', 'approved', 'denied', 'withdrawn']
+
+  - name: fct_appeals_summary
+    description: "Per-parcel summary of appeal outcomes."
+    columns:
+      - name: parcel_id
+        data_tests: [unique, not_null]
+
+  - name: fct_exemptions_summary
+    description: "Per-parcel, per-year exemption aggregates by type."
+    columns:
+      - name: parcel_id
+        data_tests: [not_null]
+      - name: tax_year
+        data_tests: [not_null]

@@ -159,7 +159,7 @@ def extract_from_databricks() -> dict[str, Any]:
                 SELECT appeal_id, filed_date, hearing_date, appeal_status,
                        original_value, requested_value, final_value,
                        value_reduction, reduction_percentage, resolution_notes
-                FROM {CATALOG}.{MARTS_SCHEMA}.stg_appeals
+                FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals
                 WHERE parcel_id = '{pid}' ORDER BY filed_date DESC
                 """
             )
