@@ -7,6 +7,7 @@ import ParcelDetailPage from './pages/ParcelDetailPage';
 import InsightsPage from './pages/InsightsPage';
 import DashboardPage from './pages/DashboardPage';
 import AgentPage from './pages/AgentPage';
+import AboutAgentPage from './pages/AboutAgentPage';
 import PipelinePage from './pages/PipelinePage';
 import WatchlistPage from './pages/WatchlistPage';
 import AboutPage from './pages/AboutPage';
@@ -32,6 +33,7 @@ export default function App() {
             {/* Backward-compat: keep /analytics resolving */}
             <Route path="/analytics" element={<DashboardPage />} />
             <Route path="/agent" element={<AgentPage />} />
+            <Route path="/about-agent" element={<AboutAgentPage />} />
             <Route path="/pipeline" element={<PipelinePage />} />
             <Route path="/watchlist" element={<WatchlistPage />} />
             <Route path="/about" element={<AboutPage />} />

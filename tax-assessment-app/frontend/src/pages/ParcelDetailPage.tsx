@@ -182,7 +182,8 @@ export default function ParcelDetailPage() {
         <section className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
           <h2 className="text-lg font-semibold text-slate-900 mb-2">Location</h2>
           <p className="text-sm text-slate-500 mb-3">
-            Coordinates from <code className="font-mono text-xs bg-slate-100 px-1 rounded">dim_parcels</code>.
+            Approximate location (ZIP centroid) — WPRDC's public assessment dataset doesn't ship
+            parcel-level geometry.
           </p>
           <div className="h-72 overflow-hidden rounded-lg border border-slate-200">
             {parcel.latitude && parcel.longitude ? (

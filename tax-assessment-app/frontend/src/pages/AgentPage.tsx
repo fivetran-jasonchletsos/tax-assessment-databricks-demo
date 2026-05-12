@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react';
-import { useNavigate, useSearchParams } from 'react-router-dom';
+import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import {
   Bar,
   BarChart,
@@ -104,7 +104,15 @@ export default function AgentPage() {
         <div className="inline-flex items-center rounded-full bg-violet-100 text-violet-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
           Property Insight Agent
         </div>
-        <h1 className="text-3xl font-bold text-slate-900">Ask anything about the data</h1>
+        <div className="flex items-start justify-between gap-4">
+          <h1 className="text-3xl font-bold text-slate-900">Ask anything about the data</h1>
+          <Link
+            to="/about-agent"
+            className="hidden sm:inline-flex shrink-0 items-center gap-1 text-sm text-violet-700 hover:text-violet-900 font-medium"
+          >
+            How it works <span aria-hidden>→</span>
+          </Link>
+        </div>
         <p className="text-sm text-slate-500 mt-1">
           Type a question in plain English. The agent answers from the published snapshot —
           aggregations, comparisons, filters, lookups. Optionally route through Claude for richer

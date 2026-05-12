@@ -153,6 +153,42 @@ def fetch_parcels() -> list[dict[str, Any]]:
     return out
 
 
+# ZIP-centroid coordinates for our featured ZIPs. WPRDC's assessment
+# dataset doesn't ship per-parcel geometry, so we use the ZIP centroid
+# as an approximate location and apply a small deterministic jitter so
+# multiple parcels in the same ZIP don't render on top of each other.
+# Accurate enough for "what neighborhood is this in?"; clearly disclaimed
+# on the parcel detail page.
+ZIP_CENTROIDS: dict[int, tuple[float, float]] = {
+    15116: (40.5278, -79.9598),   # Glenshaw / Shaler Twp
+    15217: (40.4378, -79.9301),   # Squirrel Hill
+    15222: (40.4445, -79.9968),   # Downtown / Strip District
+    15206: (40.4612, -79.9148),   # East Liberty / Highland Park
+    15212: (40.4543, -80.0078),   # North Side
+    15201: (40.4738, -79.9608),   # Lawrenceville
+    15228: (40.3756, -80.0509),   # Mt Lebanon
+    15215: (40.4923, -79.9051),   # Aspinwall / Fox Chapel
+    15213: (40.4441, -79.9608),   # Oakland
+    15232: (40.4504, -79.9305),   # Shadyside
+}
+
+
+def _coords_for(zip_code: int, parcel_id: str) -> tuple[float | None, float | None]:
+    """Approximate parcel location: ZIP centroid + a small hash-based jitter
+    so neighbors don't overlap on the map."""
+    center = ZIP_CENTROIDS.get(zip_code)
+    if not center:
+        return (None, None)
+    lat0, lng0 = center
+    # Deterministic jitter ~ ±0.012° (~1.3 km lat / ~1.0 km lng) using two
+    # different hashes of the parcel ID so lat and lng are independent.
+    h1 = sum(ord(c) for c in parcel_id)
+    h2 = sum(ord(c) * (i + 1) for i, c in enumerate(parcel_id))
+    lat = lat0 + (((h1 % 200) - 100) / 100) * 0.012
+    lng = lng0 + (((h2 % 200) - 100) / 100) * 0.012
+    return (round(lat, 6), round(lng, 6))
+
+
 # Streets the demo presenter may search. Expand as needed.
 GLENSHAW_STREETS = [
     "ANGELINE",
@@ -263,6 +299,8 @@ def transform_parcels(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         # demo is repeatable.
         h = sum(ord(c) for c in pid) % 100
         change_pct = ((h - 50) / 5.0) + 4.5  # roughly -5.5% .. +14.5%, biased up
+        zip_int = _to_int(r.get("PROPERTYZIP"))
+        lat, lng = _coords_for(zip_int, pid)
         out.append({
             "parcel_id": pid,
             "address": _fmt_address(r),
@@ -272,7 +310,7 @@ def transform_parcels(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
             # Aspinwall, Mt Lebanon, etc.
             "city": _muni_label(r),
             "post_office_city": (r.get("PROPERTYCITY") or "").strip(),
-            "zip_code": str(_to_int(r.get("PROPERTYZIP")) or "").rjust(5, "0"),
+            "zip_code": str(zip_int or "").rjust(5, "0"),
             "current_owner_name": _owner_from_change_notice(r),
             "land_use_description": r.get("USEDESC") or r.get("CLASSDESC") or "Property",
             "tax_year": _to_int(r.get("TAXYEAR")) or 2026,
@@ -280,8 +318,8 @@ def transform_parcels(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
             "market_value": market_total,
             "total_exemption_amount": exemption_amt,
             "assessed_value_change_pct": round(change_pct, 2),
-            "latitude": None,
-            "longitude": None,
+            "latitude": lat,
+            "longitude": lng,
             # WPRDC extras used by the detail page:
             "_wprdc": {
                 "county_building": _to_int(r.get("COUNTYBUILDING")),
@@ -345,8 +383,8 @@ def _detail_bundle(p: dict[str, Any], appeals_by_pid: dict[str, list[dict[str, A
         "land_use_code": None,
         "land_use_description": p.get("land_use_description"),
         "acreage": round(w["lot_area"] / 43560, 3) if w.get("lot_area") else None,
-        "latitude": None,
-        "longitude": None,
+        "latitude": p.get("latitude"),
+        "longitude": p.get("longitude"),
     }
 
     # Synthesize a 6-year assessment trail using deterministic adjustments.

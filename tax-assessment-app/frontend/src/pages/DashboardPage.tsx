@@ -312,77 +312,97 @@ export default function DashboardPage() {
         </Panel>
       </div>
 
-      <Panel title="ZIP code performance" subtitle="Median assessed value and YoY change" className="mt-6">
-        <div className="overflow-x-auto -mx-2 px-2">
-          <table className="min-w-full text-sm tabular-nums">
-            <thead className="text-[11px] uppercase tracking-wider text-slate-500">
-              <tr className="border-b border-slate-200">
-                <th className="px-3 py-2 text-left font-medium">ZIP</th>
-                <th className="px-3 py-2 text-right font-medium">Parcels</th>
-                <th className="px-3 py-2 text-right font-medium">Median</th>
-                <th className="px-3 py-2 text-right font-medium">P90</th>
-                <th className="px-3 py-2 text-right font-medium">Avg YoY</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-slate-100">
-              {[...byZip].sort((a, b) => b.count - a.count).slice(0, 10).map((z) => (
-                <tr key={z.zip}>
-                  <td className="px-3 py-2.5 font-mono text-slate-700">{z.zip}</td>
-                  <td className="px-3 py-2.5 text-right">{formatNumber(z.count)}</td>
-                  <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(z.median_assessed)}</td>
-                  <td className="px-3 py-2.5 text-right text-slate-600">{formatCurrency(z.p90_assessed)}</td>
-                  <td className="px-3 py-2.5 text-right">
-                    <span
-                      className={`font-medium ${
-                        z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
-                      }`}
-                    >
-                      {z.avg_change_pct >= 0 ? '+' : ''}
-                      {z.avg_change_pct.toFixed(2)}%
-                    </span>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </Panel>
+      {(() => {
+        const rows = [...byZip].sort((a, b) => b.count - a.count).slice(0, 10);
+        const maxP90 = Math.max(0, ...rows.map((r) => r.p90_assessed));
+        return (
+          <Panel
+            title="ZIP code performance"
+            subtitle="Bullet shows median (filled bar) and P90 (outline) relative to the highest in the table"
+            className="mt-6"
+          >
+            <div className="overflow-x-auto -mx-2 px-2">
+              <table className="min-w-full text-sm tabular-nums">
+                <thead className="text-[11px] uppercase tracking-wider text-slate-500">
+                  <tr className="border-b border-slate-200">
+                    <th className="px-3 py-2 text-left font-medium">ZIP</th>
+                    <th className="px-3 py-2 text-right font-medium">Parcels</th>
+                    <th className="px-3 py-2 text-left font-medium w-[40%]">Median · P90</th>
+                    <th className="px-3 py-2 text-right font-medium">Median</th>
+                    <th className="px-3 py-2 text-right font-medium">Avg YoY</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100">
+                  {rows.map((z) => (
+                    <tr key={z.zip}>
+                      <td className="px-3 py-2.5 font-mono text-slate-700">{z.zip}</td>
+                      <td className="px-3 py-2.5 text-right">{formatNumber(z.count)}</td>
+                      <td className="px-3 py-2.5">
+                        <BulletBar median={z.median_assessed} p90={z.p90_assessed} max={maxP90} />
+                      </td>
+                      <td className="px-3 py-2.5 text-right text-slate-900 font-medium">
+                        {formatCurrency(z.median_assessed)}
+                      </td>
+                      <td className="px-3 py-2.5 text-right">
+                        <span
+                          className={`font-medium ${
+                            z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
+                          }`}
+                        >
+                          {z.avg_change_pct >= 0 ? '+' : ''}
+                          {z.avg_change_pct.toFixed(2)}%
+                        </span>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </Panel>
+        );
+      })()}
 
-      <Panel title="Biggest YoY movers" subtitle="Parcels with the largest absolute assessed-value change" className="mt-6">
-        <div className="overflow-x-auto -mx-2 px-2">
-          <table className="min-w-full text-sm tabular-nums">
-            <thead className="text-[11px] uppercase tracking-wider text-slate-500">
-              <tr className="border-b border-slate-200">
-                <th className="px-3 py-2 text-left font-medium">Parcel</th>
-                <th className="px-3 py-2 text-left font-medium">Address</th>
-                <th className="px-3 py-2 text-left font-medium">Municipality</th>
-                <th className="px-3 py-2 text-right font-medium">Assessed</th>
-                <th className="px-3 py-2 text-right font-medium">YoY</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-slate-100">
-              {movers.slice(0, 10).map((p) => (
-                <tr key={p.parcel_id}>
-                  <td className="px-3 py-2.5 text-xs font-mono text-slate-500">{p.parcel_id}</td>
-                  <td className="px-3 py-2.5 text-slate-900">{p.address}</td>
-                  <td className="px-3 py-2.5 text-slate-500">{p.city}</td>
-                  <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(p.assessed_value)}</td>
-                  <td className="px-3 py-2.5 text-right">
-                    <span
-                      className={`font-medium ${
-                        (p.assessed_value_change_pct ?? 0) >= 0 ? 'text-rose-700' : 'text-emerald-700'
-                      }`}
-                    >
-                      {(p.assessed_value_change_pct ?? 0) >= 0 ? '+' : ''}
-                      {(p.assessed_value_change_pct ?? 0).toFixed(1)}%
-                    </span>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </Panel>
+      {(() => {
+        const top = movers.slice(0, 10);
+        const maxAbs = Math.max(0, ...top.map((p) => Math.abs(p.assessed_value_change_pct ?? 0)));
+        return (
+          <Panel
+            title="Biggest YoY movers"
+            subtitle="Bar shows the change direction and magnitude; red = rising, green = falling"
+            className="mt-6"
+          >
+            <div className="overflow-x-auto -mx-2 px-2">
+              <table className="min-w-full text-sm tabular-nums">
+                <thead className="text-[11px] uppercase tracking-wider text-slate-500">
+                  <tr className="border-b border-slate-200">
+                    <th className="px-3 py-2 text-left font-medium">Parcel</th>
+                    <th className="px-3 py-2 text-left font-medium">Address</th>
+                    <th className="px-3 py-2 text-left font-medium">Municipality</th>
+                    <th className="px-3 py-2 text-right font-medium">Assessed</th>
+                    <th className="px-3 py-2 text-center font-medium w-[28%]">YoY change</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100">
+                  {top.map((p) => (
+                    <tr key={p.parcel_id}>
+                      <td className="px-3 py-2.5 text-xs font-mono text-slate-500">{p.parcel_id}</td>
+                      <td className="px-3 py-2.5 text-slate-900">{p.address}</td>
+                      <td className="px-3 py-2.5 text-slate-500">{p.city}</td>
+                      <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(p.assessed_value)}</td>
+                      <td className="px-3 py-2.5">
+                        <DirectionalBar
+                          pct={p.assessed_value_change_pct ?? 0}
+                          maxAbs={maxAbs}
+                        />
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </Panel>
+        );
+      })()}
 
       <p className="mt-8 text-xs text-slate-500 max-w-3xl">
         <strong className="text-slate-700">Methodology:</strong> Distribution bins are aligned to natural property
@@ -425,6 +445,74 @@ function KPI({
       {caption && (
         <div className={`mt-0.5 text-[11px] ${primary ? 'text-primary-100' : 'text-slate-400'}`}>{caption}</div>
       )}
+    </div>
+  );
+}
+
+// Inline bullet: filled bar = median; outlined bar = P90. Both scaled to
+// the column max so eye can compare rows at a glance.
+function BulletBar({
+  median,
+  p90,
+  max,
+}: {
+  median: number;
+  p90: number;
+  max: number;
+}) {
+  if (max <= 0) return null;
+  const medianPct = Math.max(0, Math.min(100, (median / max) * 100));
+  const p90Pct = Math.max(0, Math.min(100, (p90 / max) * 100));
+  return (
+    <div className="relative h-5 w-full">
+      {/* track */}
+      <div className="absolute inset-y-1.5 left-0 right-0 rounded bg-slate-100" />
+      {/* P90 outline range */}
+      <div
+        className="absolute inset-y-1.5 left-0 rounded border border-primary-300 bg-primary-100/40"
+        style={{ width: `${p90Pct}%` }}
+      />
+      {/* Median fill */}
+      <div
+        className="absolute inset-y-0.5 left-0 rounded bg-primary-700"
+        style={{ width: `${medianPct}%` }}
+      />
+    </div>
+  );
+}
+
+// Diverging bar centered on zero. Right = rising (rose), left = falling
+// (emerald). Width scaled to maxAbs in the table.
+function DirectionalBar({ pct, maxAbs }: { pct: number; maxAbs: number }) {
+  if (maxAbs <= 0) {
+    return (
+      <div className="text-center text-xs text-slate-500 font-medium tabular-nums">
+        {pct.toFixed(1)}%
+      </div>
+    );
+  }
+  const w = Math.min(50, (Math.abs(pct) / maxAbs) * 50);
+  const isUp = pct >= 0;
+  return (
+    <div className="flex items-center gap-2 w-full">
+      <div className="relative flex-1 h-3.5">
+        {/* center line */}
+        <div className="absolute inset-y-0 left-1/2 -translate-x-1/2 w-px bg-slate-300" />
+        <div
+          className={`absolute inset-y-0 ${
+            isUp ? 'left-1/2 bg-rose-600' : 'right-1/2 bg-emerald-600'
+          } rounded-sm`}
+          style={{ width: `${w}%` }}
+        />
+      </div>
+      <span
+        className={`text-xs font-semibold tabular-nums w-12 text-right ${
+          isUp ? 'text-rose-700' : 'text-emerald-700'
+        }`}
+      >
+        {isUp ? '+' : ''}
+        {pct.toFixed(1)}%
+      </span>
     </div>
   );
 }

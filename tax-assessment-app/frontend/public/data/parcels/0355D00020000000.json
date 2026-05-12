@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.609,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.51616,
+    "longitude": -79.96136
   },
   "assessments": {
     "parcel_id": "0355D00020000000",
@@ -213,19 +213,6 @@
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0355B00055000000",
-        "address": "1532 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1532   BUTLER PLANK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80300,
-        "market_value": 98300,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
         "parcel_id": "0355B00098000000",
         "address": "1537 BUTLER PLANK RD",
         "city": "Shaler",
@@ -236,6 +223,19 @@
         "assessed_value": 80300,
         "market_value": 98300,
         "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0355B00055000000",
+        "address": "1532 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1532   BUTLER PLANK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80300,
+        "market_value": 98300,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {

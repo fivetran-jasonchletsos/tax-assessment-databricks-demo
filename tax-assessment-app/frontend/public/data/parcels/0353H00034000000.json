@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.258,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.517,
+    "longitude": -79.95404
   },
   "assessments": {
     "parcel_id": "0353H00034000000",
@@ -187,19 +187,6 @@
         "distance_miles": 0.1
       },
       {
-        "parcel_id": "0355A00090000000",
-        "address": "1837 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1730   CLAY PIKE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 143100,
-        "market_value": 143100,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
-      },
-      {
         "parcel_id": "0520C00226000000",
         "address": "3215 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -210,6 +197,19 @@
         "assessed_value": 142900,
         "market_value": 160900,
         "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0355A00090000000",
+        "address": "1837 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1730   CLAY PIKE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143100,
+        "market_value": 143100,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.5
       },
       {

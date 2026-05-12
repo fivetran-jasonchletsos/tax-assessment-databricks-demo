@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": null,
-    "longitude": null
+    "latitude": 40.51724,
+    "longitude": -79.95512
   },
   "assessments": {
     "parcel_id": "0434N00021000000",
@@ -226,19 +226,6 @@
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0433S00057000000",
-        "address": "1921 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1921   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 145000,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
         "parcel_id": "0520G00006000000",
         "address": "3002 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -249,6 +236,19 @@
         "assessed_value": 127000,
         "market_value": 145000,
         "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0433S00057000000",
+        "address": "1921 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1921   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 127000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]
