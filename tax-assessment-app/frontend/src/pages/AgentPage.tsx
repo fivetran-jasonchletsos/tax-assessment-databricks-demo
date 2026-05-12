@@ -1,5 +1,5 @@
-import { useEffect, useState, type FormEvent } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useEffect, useRef, useState, type FormEvent } from 'react';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import {
   Bar,
   BarChart,
@@ -34,6 +34,8 @@ export default function AgentPage() {
   const [apiKeyInput, setApiKeyInput] = useState('');
   const [hasKey, setHasKey] = useState(false);
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const autoAskedRef = useRef<string | null>(null);
 
   useEffect(() => {
     api
@@ -42,6 +44,16 @@ export default function AgentPage() {
       .finally(() => setLoading(false));
     setHasKey(!!getApiKey());
   }, []);
+
+  // Auto-ask when arriving with ?q=...  (e.g. from the homepage spotlight)
+  useEffect(() => {
+    const preset = searchParams.get('q');
+    if (!preset || loading || autoAskedRef.current === preset) return;
+    autoAskedRef.current = preset;
+    ask(preset);
+    setSearchParams({}, { replace: true });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [loading, searchParams]);
 
   const ask = async (question: string) => {
     const text = question.trim();
