@@ -5,6 +5,8 @@ import HomePage from './pages/HomePage';
 import SearchPage from './pages/SearchPage';
 import ParcelDetailPage from './pages/ParcelDetailPage';
 import InsightsPage from './pages/InsightsPage';
+import AnalyticsPage from './pages/AnalyticsPage';
+import AgentPage from './pages/AgentPage';
 import AboutPage from './pages/AboutPage';
 import NotFoundPage from './pages/NotFoundPage';
 
@@ -24,6 +26,8 @@ export default function App() {
             <Route path="/search" element={<SearchPage />} />
             <Route path="/parcels/:parcelId" element={<ParcelDetailPage />} />
             <Route path="/insights" element={<InsightsPage />} />
+            <Route path="/analytics" element={<AnalyticsPage />} />
+            <Route path="/agent" element={<AgentPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Route>

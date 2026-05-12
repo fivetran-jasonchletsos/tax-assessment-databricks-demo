@@ -55,6 +55,16 @@ export default function HomePage() {
               </button>
             </form>
 
+            <div className="mt-3">
+              <button
+                onClick={() => navigate('/agent')}
+                className="inline-flex items-center gap-2 rounded-full bg-violet-500/20 hover:bg-violet-500/30 text-violet-100 px-4 py-1.5 text-sm font-medium transition-colors"
+              >
+                <span aria-hidden>✨</span>
+                Ask the Property Insight Agent
+              </button>
+            </div>
+
             <div className="mt-4 text-sm text-primary-200">
               Popular searches:{' '}
               {['Squirrel Hill', 'Mt Lebanon', 'Northside', 'Downtown'].map((label, i) => (

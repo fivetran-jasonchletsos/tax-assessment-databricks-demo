@@ -56,7 +56,8 @@ export default function Layout() {
               {[
                 ['/', 'Home'],
                 ['/search', 'Properties'],
-                ['/insights', 'Insights'],
+                ['/analytics', 'Analytics'],
+                ['/agent', 'Ask AI'],
                 ['/about', 'About'],
               ].map(([to, label]) => (
                 <NavLink
