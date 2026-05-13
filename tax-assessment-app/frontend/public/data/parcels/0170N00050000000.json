@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0170N00050000000",
+    "address": "702 4TH ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "230   HAUGH DR",
+    "current_mailing_address": "230   HAUGH DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.49412,
+    "longitude": -79.90828
+  },
+  "assessments": {
+    "parcel_id": "0170N00050000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 262200,
+        "market_value": 262200,
+        "land_value": 62800,
+        "improvement_value": 199400,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11666,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 262200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 250534,
+        "market_value": 250534,
+        "land_value": 60005,
+        "improvement_value": 190529,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 250534,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 250534,
+        "market_value": 250534,
+        "land_value": 60005,
+        "improvement_value": 190529,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2531,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 250534,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 253065,
+        "market_value": 253065,
+        "land_value": 60612,
+        "improvement_value": 192453,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12050,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 253065,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 241015,
+        "market_value": 241015,
+        "land_value": 57725,
+        "improvement_value": 183290,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9269,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 241015,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 231746,
+        "market_value": 231746,
+        "land_value": 55505,
+        "improvement_value": 176241,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 231746,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170N00050000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170N00050000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jul-19",
+      "most_recent_appeal_date": "12-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30985-2019",
+        "filed_date": "12-Jul-19",
+        "hearing_date": "12-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 190000,
+        "requested_value": 190000,
+        "final_value": 262200,
+        "value_reduction": 0,
+        "reduction_percentage": -38.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0170N00050000000",
+    "comparables": [
+      {
+        "parcel_id": "0169R00293000000",
+        "address": "127 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "400   HASTINGS ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 262200,
+        "market_value": 262200,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0171E00037000000",
+        "address": "118 LEXINGTON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "430   CHAPEL HARBOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262200,
+        "market_value": 262200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0169L00238000000",
+        "address": "113 5TH ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "113   5TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262000,
+        "market_value": 280000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0169R00103000000",
+        "address": "401 CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "188   SHADOW RIDGE DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 262400,
+        "market_value": 262400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0169S00316000000",
+        "address": "213 4TH ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "213   4TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262000,
+        "market_value": 280000,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0169S00327000000",
+        "address": "403 EASTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "403   EASTERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262000,
+        "market_value": 280000,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

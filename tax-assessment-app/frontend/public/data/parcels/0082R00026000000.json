@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0082R00026000000",
+    "address": "923 MELLON ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "923   MELLON ST",
+    "current_mailing_address": "923   MELLON ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.061,
+    "latitude": 40.4627,
+    "longitude": -79.92424
+  },
+  "assessments": {
+    "parcel_id": "0082R00026000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 305400,
+        "market_value": 305400,
+        "land_value": 22500,
+        "improvement_value": 282900,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30101,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 305400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 275299,
+        "market_value": 275299,
+        "land_value": 20282,
+        "improvement_value": 255017,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5398,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 275299,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 269901,
+        "market_value": 269901,
+        "land_value": 19884,
+        "improvement_value": 250017,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2672,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 269901,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 267229,
+        "market_value": 267229,
+        "land_value": 19687,
+        "improvement_value": 247542,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267229,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 267229,
+        "market_value": 267229,
+        "land_value": 19687,
+        "improvement_value": 247542,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2700,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267229,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 269929,
+        "market_value": 269929,
+        "land_value": 19886,
+        "improvement_value": 250043,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 269929,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082R00026000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082R00026000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "30-Jun-17",
+      "most_recent_appeal_date": "30-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16242-2017",
+        "filed_date": "30-Jun-17",
+        "hearing_date": "30-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 49400,
+        "requested_value": 49400,
+        "final_value": 276100,
+        "value_reduction": 0,
+        "reduction_percentage": -458.91,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082R00026000000",
+    "comparables": [
+      {
+        "parcel_id": "0083F00302000000",
+        "address": "512 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "512  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 305200,
+        "market_value": 323200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083B00322000000",
+        "address": "723 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "723  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 305100,
+        "market_value": 323100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083B00218000000",
+        "address": "709 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "709  N NEGLEY AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 304600,
+        "market_value": 322600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083K00163000000",
+        "address": "422 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "422  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 306600,
+        "market_value": 324600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082R00152000000",
+        "address": "5910 WELLESLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5910   WELLESLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 303300,
+        "market_value": 321300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083B00222000000",
+        "address": "705 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "705  N NEGLEY AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 303200,
+        "market_value": 321200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

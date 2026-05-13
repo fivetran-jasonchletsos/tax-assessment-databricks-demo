@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0028G00184000000",
+    "address": "258 ATWOOD ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1014   PERRY HWY",
+    "current_mailing_address": "1014   PERRY HWY",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.43368,
+    "longitude": -79.96708
+  },
+  "assessments": {
+    "parcel_id": "0028G00184000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "land_value": 32400,
+        "improvement_value": 67600,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6216,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 93784,
+        "market_value": 93784,
+        "land_value": 30386,
+        "improvement_value": 63398,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2731,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93784,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 91053,
+        "market_value": 91053,
+        "land_value": 29501,
+        "improvement_value": 61552,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1785,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91053,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 89268,
+        "market_value": 89268,
+        "land_value": 28922,
+        "improvement_value": 60346,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 883,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89268,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 28636,
+        "improvement_value": 59749,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 28636,
+        "improvement_value": 59749,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028G00184000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028G00184000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0028G00184000000",
+    "comparables": [
+      {
+        "parcel_id": "0028G00077000000",
+        "address": "308 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "123   CROFTON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028K00038000000",
+        "address": "302 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "302   COLTART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 118000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028L00318000000",
+        "address": "3451 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1101  S CAPITAL OF TEXAS HWY  STE B-220",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028M00057000000",
+        "address": "426 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "428   ATWOOD ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028N00065000000",
+        "address": "314 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3321   COMANCHE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028S00036000000",
+        "address": "3436 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3605   DAWSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

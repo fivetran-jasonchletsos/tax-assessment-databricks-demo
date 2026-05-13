@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087D00239000000",
+    "address": "6338 PHILLIPS AVE",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "6338   PHILLIPS AVE",
+    "current_mailing_address": "6338   PHILLIPS AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.088,
+    "latitude": 40.42084,
+    "longitude": -79.93094
+  },
+  "assessments": {
+    "parcel_id": "0087D00239000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 294000,
+        "market_value": 294000,
+        "land_value": 79500,
+        "improvement_value": 214500,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4653,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 294000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 289347,
+        "market_value": 289347,
+        "land_value": 78241,
+        "improvement_value": 211106,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2923,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 289347,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 292270,
+        "market_value": 292270,
+        "land_value": 79032,
+        "improvement_value": 213238,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13917,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 292270,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 278353,
+        "market_value": 278353,
+        "land_value": 75268,
+        "improvement_value": 203085,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10705,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 278353,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 267648,
+        "market_value": 267648,
+        "land_value": 72374,
+        "improvement_value": 195274,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7795,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267648,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 259853,
+        "market_value": 259853,
+        "land_value": 70266,
+        "improvement_value": 189587,
+        "land_value_percentage": 27.0,
+        "improvement_value_percentage": 73.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 259853,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087D00239000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087D00239000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-Jul-15",
+      "most_recent_appeal_date": "14-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2257-2015",
+        "filed_date": "14-Jul-15",
+        "hearing_date": "14-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 197700,
+        "requested_value": 197700,
+        "final_value": 294000,
+        "value_reduction": 0,
+        "reduction_percentage": -48.71,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087D00239000000",
+    "comparables": [
+      {
+        "parcel_id": "0087D00240000000",
+        "address": "6342 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2200   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 294000,
+        "market_value": 294000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087D00262000000",
+        "address": "6327 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6327   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 293800,
+        "market_value": 311800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087A00304000000",
+        "address": "5475 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6608   KALGAN RD NE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 293200,
+        "market_value": 293200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087B00002000000",
+        "address": "2022 WIGHTMAN ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2024   WIGHTMAN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 292400,
+        "market_value": 310400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086S00114000000",
+        "address": "6346 DOUGLAS ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6346   DOUGLAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 292000,
+        "market_value": 310000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087D00276000000",
+        "address": "2235 SHADY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2235   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 292000,
+        "market_value": 310000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

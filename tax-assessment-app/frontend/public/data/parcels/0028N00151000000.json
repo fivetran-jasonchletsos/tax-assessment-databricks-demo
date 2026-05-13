@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028N00151000000",
+    "address": "335 LAWN ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "9207   CROSBY RD",
+    "current_mailing_address": "9207   CROSBY RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.053,
+    "latitude": 40.4338,
+    "longitude": -79.94572
+  },
+  "assessments": {
+    "parcel_id": "0028N00151000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 182700,
+        "market_value": 182700,
+        "land_value": 32900,
+        "improvement_value": 149800,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4502,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 182700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 178198,
+        "market_value": 178198,
+        "land_value": 32089,
+        "improvement_value": 146109,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6853,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 178198,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 171345,
+        "market_value": 171345,
+        "land_value": 30855,
+        "improvement_value": 140490,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4990,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 171345,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 166355,
+        "market_value": 166355,
+        "land_value": 29956,
+        "improvement_value": 136399,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3261,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 166355,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 163094,
+        "market_value": 163094,
+        "land_value": 29369,
+        "improvement_value": 133725,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1614,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163094,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 161480,
+        "market_value": 161480,
+        "land_value": 29078,
+        "improvement_value": 132402,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 161480,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028N00151000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028N00151000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jun-18",
+      "most_recent_appeal_date": "8-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22559-2018",
+        "filed_date": "8-Jun-18",
+        "hearing_date": "8-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 182700,
+        "requested_value": 182700,
+        "final_value": 182700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028N00151000000",
+    "comparables": [
+      {
+        "parcel_id": "0028G00177000000",
+        "address": "306 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "117   BAKER DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 183000,
+        "market_value": 183000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028G00119000000",
+        "address": "247 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1014   PERRY HWY  FL 2",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 183400,
+        "market_value": 183400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028P00052000000",
+        "address": "3201 KENNETT SQ",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "4747   WALLINGFORD ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 184200,
+        "market_value": 184200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028H00185000000",
+        "address": "379 S BOUQUET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "160   FERNBROOK AVE",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 181100,
+        "market_value": 181100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0027H00098000000",
+        "address": "229 N DITHRIDGE ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "372  N CRAIG ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 180600,
+        "market_value": 180600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028P00051000000",
+        "address": "3203 KENNETT SQ",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "4747   WALLINGFORD ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 180500,
+        "market_value": 180500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0080G00284000000",
+    "address": "5110 KEYSTONE ST",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5110   KEYSTONE ST",
+    "current_mailing_address": "5110   KEYSTONE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.017,
+    "latitude": 40.46476,
+    "longitude": -79.9414
+  },
+  "assessments": {
+    "parcel_id": "0080G00284000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 114600,
+        "market_value": 114600,
+        "land_value": 7500,
+        "improvement_value": 107100,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11297,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 103303,
+        "market_value": 103303,
+        "land_value": 6760,
+        "improvement_value": 96543,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2025,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 103303,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101278,
+        "market_value": 101278,
+        "land_value": 6628,
+        "improvement_value": 94650,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1002,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101278,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 100276,
+        "market_value": 100276,
+        "land_value": 6562,
+        "improvement_value": 93714,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100276,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 100276,
+        "market_value": 100276,
+        "land_value": 6562,
+        "improvement_value": 93714,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1013,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100276,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 101289,
+        "market_value": 101289,
+        "land_value": 6628,
+        "improvement_value": 94661,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101289,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080G00284000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080G00284000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080G00284000000",
+    "comparables": [
+      {
+        "parcel_id": "0081G00049000000",
+        "address": "1146 BRINTELL ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1146   BRINTELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114600,
+        "market_value": 132600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081G00042000000",
+        "address": "1145 BRINTELL ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1145   BRINTELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114800,
+        "market_value": 132800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081C00123000000",
+        "address": "4447 COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4447   COLERIDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114300,
+        "market_value": 132300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081D00002000000",
+        "address": "1187 BRINTELL ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1187   BRINTELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114300,
+        "market_value": 132300,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081D00090000000",
+        "address": "4702 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4702   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114200,
+        "market_value": 132200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081H00098000000",
+        "address": "4923 SOMERVILLE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4923   SOMERVILLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114200,
+        "market_value": 132200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

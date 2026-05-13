@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0024B00322000000",
+    "address": "1200 HIGH ST",
+    "city": "Ward 24 - Spring Garden",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1004   CONSTANCE",
+    "current_mailing_address": "1004   CONSTANCE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.138,
+    "latitude": 40.44008,
+    "longitude": -80.07476
+  },
+  "assessments": {
+    "parcel_id": "0024B00322000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 303100,
+        "market_value": 303100,
+        "land_value": 18100,
+        "improvement_value": 285000,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29874,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 303100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 273226,
+        "market_value": 273226,
+        "land_value": 16316,
+        "improvement_value": 256910,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5357,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 273226,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 267869,
+        "market_value": 267869,
+        "land_value": 15996,
+        "improvement_value": 251873,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2652,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267869,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 265217,
+        "market_value": 265217,
+        "land_value": 15837,
+        "improvement_value": 249380,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 265217,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 265217,
+        "market_value": 265217,
+        "land_value": 15837,
+        "improvement_value": 249380,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2679,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 265217,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 267896,
+        "market_value": 267896,
+        "land_value": 15997,
+        "improvement_value": 251899,
+        "land_value_percentage": 6.0,
+        "improvement_value_percentage": 94.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267896,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024B00322000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024B00322000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0024B00322000000",
+    "comparables": [
+      {
+        "parcel_id": "0024C00007000000",
+        "address": "1301 ITIN ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1301   ITIN ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 299500,
+        "market_value": 317500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024B00155000000",
+        "address": "1206 ITIN ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1206   ITIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 287900,
+        "market_value": 305900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

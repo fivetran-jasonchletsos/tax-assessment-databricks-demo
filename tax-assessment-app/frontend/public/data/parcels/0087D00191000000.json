@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087D00191000000",
+    "address": "6320 WALDRON ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "6320   WALDRON ST",
+    "current_mailing_address": "6320   WALDRON ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.42048,
+    "longitude": -79.91102
+  },
+  "assessments": {
+    "parcel_id": "0087D00191000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 163600,
+        "market_value": 163600,
+        "land_value": 42600,
+        "improvement_value": 121000,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10169,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 153431,
+        "market_value": 153431,
+        "land_value": 39952,
+        "improvement_value": 113479,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4468,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153431,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 148963,
+        "market_value": 148963,
+        "land_value": 38788,
+        "improvement_value": 110175,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2920,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148963,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 146043,
+        "market_value": 146043,
+        "land_value": 38028,
+        "improvement_value": 108015,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1445,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 146043,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 144598,
+        "market_value": 144598,
+        "land_value": 37652,
+        "improvement_value": 106946,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144598,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 144598,
+        "market_value": 144598,
+        "land_value": 37652,
+        "improvement_value": 106946,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144598,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087D00191000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087D00191000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "11-Jun-15",
+      "most_recent_appeal_date": "11-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2254-2015",
+        "filed_date": "11-Jun-15",
+        "hearing_date": "11-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 130000,
+        "requested_value": 130000,
+        "final_value": 163600,
+        "value_reduction": 0,
+        "reduction_percentage": -25.85,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087D00191000000",
+    "comparables": [
+      {
+        "parcel_id": "0087G00301000000",
+        "address": "2327 PITTOCK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2327   PITTOCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163600,
+        "market_value": 181600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087E00043000000",
+        "address": "5554 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5554   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163700,
+        "market_value": 181700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087E00019000000",
+        "address": "5516 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "7   STAGE COACH CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163400,
+        "market_value": 163400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087D00167000000",
+        "address": "6329 CROMBIE ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6329   CROMBIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163900,
+        "market_value": 181900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086P00095000000",
+        "address": "5622 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5425   ALBEMARLE AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 164000,
+        "market_value": 164000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087C00237000000",
+        "address": "5851 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5851   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163100,
+        "market_value": 181100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

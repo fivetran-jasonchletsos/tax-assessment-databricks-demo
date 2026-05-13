@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0050M00252000000",
+    "address": "5437 KINCAID ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5437   KINCAID ST",
+    "current_mailing_address": "5437   KINCAID ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.46162,
+    "longitude": -79.90492
+  },
+  "assessments": {
+    "parcel_id": "0050M00252000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 63000,
+        "market_value": 63000,
+        "land_value": 33800,
+        "improvement_value": 29200,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2805,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 60195,
+        "market_value": 60195,
+        "land_value": 32295,
+        "improvement_value": 27900,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60195,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 60195,
+        "market_value": 60195,
+        "land_value": 32295,
+        "improvement_value": 27900,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -609,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60195,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 60804,
+        "market_value": 60804,
+        "land_value": 32621,
+        "improvement_value": 28183,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2895,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60804,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 57909,
+        "market_value": 57909,
+        "land_value": 31068,
+        "improvement_value": 26841,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2227,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 57909,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 55682,
+        "market_value": 55682,
+        "land_value": 29873,
+        "improvement_value": 25809,
+        "land_value_percentage": 53.7,
+        "improvement_value_percentage": 46.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55682,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050M00252000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050M00252000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 19000,
+      "total_value_reduction": 19000,
+      "first_appeal_date": "26-Jul-16",
+      "most_recent_appeal_date": "26-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8497-2016",
+        "filed_date": "26-Jul-16",
+        "hearing_date": "26-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 57800,
+        "requested_value": 57800,
+        "final_value": 38800,
+        "value_reduction": 19000,
+        "reduction_percentage": 32.87,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0050M00252000000",
+    "comparables": [
+      {
+        "parcel_id": "0083J00036000000",
+        "address": "5473 ROSETTA ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5473   ROSETTA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63000,
+        "market_value": 81000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082P00286000000",
+        "address": "914 PORTLAND ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "199   UNDERHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63100,
+        "market_value": 63100,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083C00292000000",
+        "address": "5901 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1001  N NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62900,
+        "market_value": 62900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083D00088000000",
+        "address": "819 FARRAGUT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "819   FARRAGUT ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 62900,
+        "market_value": 80900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083F00332000000",
+        "address": "617 N EUCLID AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "617   NORTH EUCLID AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 63100,
+        "market_value": 63100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083G00137000000",
+        "address": "741 N BEATTY ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "741  N BEATTY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 63100,
+        "market_value": 81100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

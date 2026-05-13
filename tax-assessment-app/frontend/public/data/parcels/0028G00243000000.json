@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028G00243000000",
+    "address": "347 ATWOOD ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "516   FARNSWORTH ST",
+    "current_mailing_address": "516   FARNSWORTH ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.037,
+    "latitude": 40.4332,
+    "longitude": -79.94764
+  },
+  "assessments": {
+    "parcel_id": "0028G00243000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 162400,
+        "market_value": 162400,
+        "land_value": 18500,
+        "improvement_value": 143900,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2572,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 159828,
+        "market_value": 159828,
+        "land_value": 18207,
+        "improvement_value": 141621,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1615,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 159828,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 161443,
+        "market_value": 161443,
+        "land_value": 18390,
+        "improvement_value": 143053,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7687,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 161443,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 153756,
+        "market_value": 153756,
+        "land_value": 17515,
+        "improvement_value": 136241,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5913,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153756,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 147843,
+        "market_value": 147843,
+        "land_value": 16841,
+        "improvement_value": 131002,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4306,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147843,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 143537,
+        "market_value": 143537,
+        "land_value": 16351,
+        "improvement_value": 127186,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143537,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028G00243000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028G00243000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-773-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 87400,
+        "requested_value": 87400,
+        "final_value": 160000,
+        "value_reduction": 0,
+        "reduction_percentage": -83.07,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028G00243000000",
+    "comparables": [
+      {
+        "parcel_id": "0028G00298000000",
+        "address": "246 OAKLAND AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 162000,
+        "market_value": 162000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00030000000",
+        "address": "363 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "107   ASHLEY HILLS DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 162900,
+        "market_value": 162900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028L00132000000",
+        "address": "345 MCKEE PL",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3559   FOXWOOD CT",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 163200,
+        "market_value": 163200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028M00136000000",
+        "address": "3615 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3615   PARKVIEW AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 163900,
+        "market_value": 181900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028R00054000000",
+        "address": "3328 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "264   VEE LYNN DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 164000,
+        "market_value": 164000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029H00095000000",
+        "address": "3233 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3233   PARKVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160800,
+        "market_value": 160800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

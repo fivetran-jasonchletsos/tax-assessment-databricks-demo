@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0520A00052000000",
+    "address": "152 ELMWOOD DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "611   EDISON DR",
+    "current_mailing_address": "611   EDISON DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.307,
+    "latitude": 40.54938,
+    "longitude": -79.96512
+  },
+  "assessments": {
+    "parcel_id": "0520A00052000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 95100,
+        "market_value": 95100,
+        "land_value": 45100,
+        "improvement_value": 50000,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9375,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 85725,
+        "market_value": 85725,
+        "land_value": 40654,
+        "improvement_value": 45071,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1680,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85725,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 84045,
+        "market_value": 84045,
+        "land_value": 39857,
+        "improvement_value": 44188,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 832,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 84045,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 83213,
+        "market_value": 83213,
+        "land_value": 39462,
+        "improvement_value": 43751,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83213,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 83213,
+        "market_value": 83213,
+        "land_value": 39462,
+        "improvement_value": 43751,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -841,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83213,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 84054,
+        "market_value": 84054,
+        "land_value": 39861,
+        "improvement_value": 44193,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 84054,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0520A00052000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0520A00052000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0520A00052000000",
+    "comparables": [
+      {
+        "parcel_id": "0355L00077000000",
+        "address": "1492 ELM AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1492   ELM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0432H00230000000",
+        "address": "430 SANDY DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "430   SANDY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0432M00081000000",
+        "address": "101 MCGINLEY DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "101   MCGINLEY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0520C00211000000",
+        "address": "3214 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3214   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520J00230000000",
+        "address": "2815 HAMILTON AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2815   HAMILTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0521A00144000000",
+        "address": "405 ROSEBRIAR DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "405   ROSEBRIAR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

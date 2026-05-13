@@ -115,59 +115,36 @@
   },
   "appeals": {
     "parcel_id": "0436H00329000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-33320-2019",
-        "filed_date": null,
-        "hearing_date": "6-May-19",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0436H00329000000",
     "comparables": [
       {
-        "parcel_id": "0957B00278000000",
-        "address": "2 HAYS ST",
+        "parcel_id": "0523N00360000000",
+        "address": "2000 MIDDLE RD",
         "city": "Indiana",
-        "zip_code": "15075",
-        "current_owner_name": "PO BOX 137",
+        "zip_code": "15116",
+        "current_owner_name": "2000   MIDDLE RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 111800,
-        "market_value": 129800,
-        "assessed_value_change_pct": -0.7,
+        "assessed_value": 112000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.1
       },
       {
-        "parcel_id": "0957B00248000000",
-        "address": "10 HAYS ST",
+        "parcel_id": "0523H00186000000",
+        "address": "1327 BIGLER DR",
         "city": "Indiana",
-        "zip_code": "15075",
-        "current_owner_name": "10   HAYS ST",
+        "zip_code": "15116",
+        "current_owner_name": "1327   BIGLER DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 112700,
-        "market_value": 112700,
-        "assessed_value_change_pct": -1.3,
+        "assessed_value": 111600,
+        "market_value": 129600,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.3
       },
       {
@@ -184,6 +161,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0435H00066000000",
+        "address": "106 OAKWOOD DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "106   OAKWOOD DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 112900,
+        "market_value": 112900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0436D00181000000",
         "address": "3338 SAXONBURG BLVD",
         "city": "Indiana",
@@ -194,32 +184,19 @@
         "assessed_value": 111000,
         "market_value": 129000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0725B00283000000",
-        "address": "52 PEACE WAY",
-        "city": "Indiana",
-        "zip_code": "15051",
-        "current_owner_name": "50   VICTORY WAY",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 109100,
-        "market_value": 109100,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0725B00174000000",
-        "address": "8 CREST DR",
+        "parcel_id": "0435H00162000000",
+        "address": "109 BERRYHILL RD",
         "city": "Indiana",
-        "zip_code": "15051",
-        "current_owner_name": "8   CREST DR",
+        "zip_code": "15116",
+        "current_owner_name": "109   BERRYHILL RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 108700,
-        "market_value": 126700,
-        "assessed_value_change_pct": -3.1,
+        "assessed_value": 110700,
+        "market_value": 128700,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

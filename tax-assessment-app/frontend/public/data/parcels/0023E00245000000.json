@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0023E00245000000",
+    "address": "520 ALPINE AVE",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "520   ALPINE AVE",
+    "current_mailing_address": "520   ALPINE AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.034,
+    "latitude": 40.4168,
+    "longitude": -80.06864
+  },
+  "assessments": {
+    "parcel_id": "0023E00245000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 155600,
+        "market_value": 155600,
+        "land_value": 15800,
+        "improvement_value": 139800,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11213,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 144387,
+        "market_value": 144387,
+        "land_value": 14661,
+        "improvement_value": 129726,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1429,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144387,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 142958,
+        "market_value": 142958,
+        "land_value": 14516,
+        "improvement_value": 128442,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142958,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 142958,
+        "market_value": 142958,
+        "land_value": 14516,
+        "improvement_value": 128442,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1445,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142958,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 144403,
+        "market_value": 144403,
+        "land_value": 14663,
+        "improvement_value": 129740,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6876,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144403,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 137527,
+        "market_value": 137527,
+        "land_value": 13964,
+        "improvement_value": 123563,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137527,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023E00245000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023E00245000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0023E00245000000",
+    "comparables": [
+      {
+        "parcel_id": "0023K00003000000",
+        "address": "411 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "411   JACKSONIA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 155600,
+        "market_value": 173600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023G00029000000",
+        "address": "1506 FEDERAL ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1506   FEDERAL ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 155400,
+        "market_value": 173400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023E00285000A00",
+        "address": "1521 WOLPERT WAY",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1521   WOLPERT WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 156000,
+        "market_value": 174000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023C00199000000",
+        "address": "1619 MYLER ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1621   MYLER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023E00213000000",
+        "address": "1522 GARFIELD AVE",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1522   GARFIELD AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 156700,
+        "market_value": 174700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023G00086000000",
+        "address": "1502 BOYLE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1502   BOYLE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 157400,
+        "market_value": 175400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

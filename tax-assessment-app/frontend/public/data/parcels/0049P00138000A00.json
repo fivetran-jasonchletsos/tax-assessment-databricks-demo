@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0049P00138000A00",
+    "address": "3825 MINTWOOD ST",
+    "city": "10601",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "21   EUCLID AVE",
+    "current_mailing_address": "21   EUCLID AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.048,
+    "latitude": 40.46824,
+    "longitude": -79.95412
+  },
+  "assessments": {
+    "parcel_id": "0049P00138000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 255600,
+        "market_value": 255600,
+        "land_value": 51100,
+        "improvement_value": 204500,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15883,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 255600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 239717,
+        "market_value": 239717,
+        "land_value": 47924,
+        "improvement_value": 191793,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6982,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 239717,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 232735,
+        "market_value": 232735,
+        "land_value": 46528,
+        "improvement_value": 186207,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4563,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 232735,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 228172,
+        "market_value": 228172,
+        "land_value": 45616,
+        "improvement_value": 182556,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2259,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 228172,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 225913,
+        "market_value": 225913,
+        "land_value": 45164,
+        "improvement_value": 180749,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225913,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 225913,
+        "market_value": 225913,
+        "land_value": 45164,
+        "improvement_value": 180749,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225913,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049P00138000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049P00138000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0049P00138000A00",
+    "comparables": [
+      {
+        "parcel_id": "0049N00225000000",
+        "address": "3491 DENNY ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3491   DENNY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 255000,
+        "market_value": 255000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049N00070000000",
+        "address": "3705 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3705   PENN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 254200,
+        "market_value": 272200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049E00029000000",
+        "address": "180 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "180   38TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 254000,
+        "market_value": 272000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049N00277000000",
+        "address": "326 37TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "326   37TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 258900,
+        "market_value": 276900,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049N00159000000",
+        "address": "3455 LIGONIER ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "5641   CARNEGIE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 252100,
+        "market_value": 252100,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049N00068000000",
+        "address": "3707 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3707   PENN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 251900,
+        "market_value": 269900,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

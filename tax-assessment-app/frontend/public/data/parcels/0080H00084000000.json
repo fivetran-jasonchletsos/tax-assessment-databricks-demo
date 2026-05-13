@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0080H00084000000",
+    "address": "5133 HOLMES ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1035   WASHINGTON RD",
+    "current_mailing_address": "1035   WASHINGTON RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.46464,
+    "longitude": -79.94272
+  },
+  "assessments": {
+    "parcel_id": "0080H00084000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 158500,
+        "market_value": 158500,
+        "land_value": 24500,
+        "improvement_value": 134000,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11421,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 158500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 147079,
+        "market_value": 147079,
+        "land_value": 22734,
+        "improvement_value": 124345,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1456,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147079,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 145623,
+        "market_value": 145623,
+        "land_value": 22509,
+        "improvement_value": 123114,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 145623,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 145623,
+        "market_value": 145623,
+        "land_value": 22509,
+        "improvement_value": 123114,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1471,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 145623,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 147094,
+        "market_value": 147094,
+        "land_value": 22736,
+        "improvement_value": 124358,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7004,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147094,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 140090,
+        "market_value": 140090,
+        "land_value": 21654,
+        "improvement_value": 118436,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140090,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080H00084000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080H00084000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080H00084000000",
+    "comparables": [
+      {
+        "parcel_id": "0081A00008000B00",
+        "address": "520 54TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "520   54TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 158500,
+        "market_value": 176500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082A00138000000",
+        "address": "1417 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1417   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 158500,
+        "market_value": 176500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080C00163000000",
+        "address": "5248 HARRISON ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5248   HARRISON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 158800,
+        "market_value": 176800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081E00041000000",
+        "address": "919 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "919   MCCANDLESS AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 158100,
+        "market_value": 158100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082A00084000000",
+        "address": "1258 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1258   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159000,
+        "market_value": 159000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121F00254000000",
+        "address": "1741 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1741   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159700,
+        "market_value": 159700,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0051C00211000000",
     "comparables": [
       {
+        "parcel_id": "0050R00106000000",
+        "address": "226 S AIKEN AVE",
+        "city": "10801",
+        "zip_code": "15206",
+        "current_owner_name": "204  S AIKEN AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 214700,
+        "market_value": 214700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0051C00266000000",
         "address": "301 S AIKEN AVE",
         "city": "10801",
@@ -132,33 +145,59 @@
         "assessed_value": 213100,
         "market_value": 213100,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0051C00271000000",
-        "address": "5405 FRIENDSHIP AVE",
-        "city": "10801",
-        "zip_code": "15232",
-        "current_owner_name": "5405   FRIENDSHIP AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 194000,
-        "market_value": 212000,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.3
       },
       {
-        "parcel_id": "0051D00001000000",
-        "address": "5407 FRIENDSHIP AVE",
+        "parcel_id": "0051D00197000000",
+        "address": "220 S FAIRMOUNT ST",
         "city": "10801",
-        "zip_code": "15232",
-        "current_owner_name": "5407   FRIENDSHIP AVE",
+        "zip_code": "15206",
+        "current_owner_name": "2015   MARY ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 218000,
+        "market_value": 218000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050R00110000000",
+        "address": "220 S AIKEN AVE",
+        "city": "10801",
+        "zip_code": "15206",
+        "current_owner_name": "600   WATERFRONT DR  STE 215",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 185400,
-        "market_value": 203400,
-        "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.5
+        "assessed_value": 220100,
+        "market_value": 220100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050R00112000000",
+        "address": "216 S AIKEN AVE",
+        "city": "10801",
+        "zip_code": "15206",
+        "current_owner_name": "216  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 220500,
+        "market_value": 238500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051C00278000000",
+        "address": "223 S AIKEN AVE",
+        "city": "10801",
+        "zip_code": "15206",
+        "current_owner_name": "223  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222600,
+        "market_value": 240600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
       }
     ]
   }

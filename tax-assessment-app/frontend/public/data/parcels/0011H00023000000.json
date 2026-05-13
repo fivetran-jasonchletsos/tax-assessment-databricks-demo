@@ -115,35 +115,25 @@
   },
   "appeals": {
     "parcel_id": "0011H00023000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-37080-2020",
-        "filed_date": null,
-        "hearing_date": "14-Oct-20",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0011H00023000000",
     "comparables": [
+      {
+        "parcel_id": "0028A00068000000",
+        "address": "246 ROBINSON ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "246   ROBINSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60700,
+        "market_value": 60700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
       {
         "parcel_id": "0011D00035000000",
         "address": "3135 ELLERS ST",
@@ -155,71 +145,58 @@
         "assessed_value": 60600,
         "market_value": 60600,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0011H00024000000",
-        "address": "3131 TERRACE ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "3131   TERRACE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 58200,
-        "market_value": 58200,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 0.3
       },
       {
-        "parcel_id": "0011D00020000000",
-        "address": "3134 ELLERS ST",
+        "parcel_id": "0028A00075000000",
+        "address": "232 ROBINSON ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "3134   ELLERS ST",
+        "current_owner_name": "232   ROBINSON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 65400,
-        "market_value": 65400,
-        "assessed_value_change_pct": 12.9,
+        "assessed_value": 60600,
+        "market_value": 60600,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0011H00035000000",
-        "address": "3124 TERRACE ST",
+        "parcel_id": "0028E00219000000",
+        "address": "179 ROBINSON ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "3124   TERRACE ST",
+        "current_owner_name": "316   PARKWAY DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 65400,
-        "market_value": 65400,
-        "assessed_value_change_pct": -5.1,
+        "assessed_value": 60500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0011D00072000000",
-        "address": "2534 ALLEQUIPPA ST",
+        "parcel_id": "0028A00081000000",
+        "address": "220 ROBINSON ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "550   NORMANDY CT",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "110   BAYSHORE RD",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 53800,
-        "market_value": 53800,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 60300,
+        "market_value": 60300,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0011H00022000000",
-        "address": "3127 TERRACE ST",
+        "parcel_id": "0028E00210000000",
+        "address": "3138 TERRACE ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "1954   ALLEN AVE",
+        "current_owner_name": "5127   ROSECREST PL",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 53400,
-        "market_value": 53400,
-        "assessed_value_change_pct": 14.1,
+        "assessed_value": 62200,
+        "market_value": 62200,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

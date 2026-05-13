@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0052B00098090100",
+    "address": "5 BAYARD RD",
+    "city": "Amberson Towers",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5   BAYARD RD  UNIT 900",
+    "current_mailing_address": "5   BAYARD RD  UNIT 900",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.4344,
+    "longitude": -79.95232
+  },
+  "assessments": {
+    "parcel_id": "0052B00098090100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41800,
+        "market_value": 41800,
+        "land_value": 0,
+        "improvement_value": 41800,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4122,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37678,
+        "market_value": 37678,
+        "land_value": 0,
+        "improvement_value": 37678,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 738,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37678,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 36940,
+        "market_value": 36940,
+        "land_value": 0,
+        "improvement_value": 36940,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 365,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36940,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 36575,
+        "market_value": 36575,
+        "land_value": 0,
+        "improvement_value": 36575,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36575,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 36575,
+        "market_value": 36575,
+        "land_value": 0,
+        "improvement_value": 36575,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -370,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36575,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36945,
+        "market_value": 36945,
+        "land_value": 0,
+        "improvement_value": 36945,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36945,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052B00098090100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052B00098090100",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0052B00098090100",
+    "comparables": [
+      {
+        "parcel_id": "0052B00098030200",
+        "address": "5 BAYARD RD",
+        "city": "Amberson Towers",
+        "zip_code": "15213",
+        "current_owner_name": "5   BAYARD RD  UNIT 303",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 42000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052B00098041100",
+        "address": "5 BAYARD RD",
+        "city": "Amberson Towers",
+        "zip_code": "15213",
+        "current_owner_name": "5   BAYARD RD  UNIT 411",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 52000,
+        "market_value": 70000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

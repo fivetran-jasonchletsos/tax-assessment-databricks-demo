@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0049L00100000000",
+    "address": "321 MAIN ST",
+    "city": "10902",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "321   MAIN ST",
+    "current_mailing_address": "321   MAIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.4644,
+    "longitude": -79.94992
+  },
+  "assessments": {
+    "parcel_id": "0049L00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "land_value": 18000,
+        "improvement_value": 67000,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1347,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 83653,
+        "market_value": 83653,
+        "land_value": 17714,
+        "improvement_value": 65939,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -845,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83653,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 84498,
+        "market_value": 84498,
+        "land_value": 17893,
+        "improvement_value": 66605,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4023,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 84498,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 80475,
+        "market_value": 80475,
+        "land_value": 17041,
+        "improvement_value": 63434,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3095,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80475,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 77380,
+        "market_value": 77380,
+        "land_value": 16386,
+        "improvement_value": 60994,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2253,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77380,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 75127,
+        "market_value": 75127,
+        "land_value": 15909,
+        "improvement_value": 59218,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75127,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049L00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049L00100000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jun-15",
+      "most_recent_appeal_date": "9-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1167-2015",
+        "filed_date": "9-Jun-15",
+        "hearing_date": "9-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 85000,
+        "requested_value": 85000,
+        "final_value": 85000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049L00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0049A00137000000",
+        "address": "159 41ST ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "157   41ST ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049A00151000B00",
+        "address": "132 BANNER WAY",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "11367   DROP RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049F00344000000",
+        "address": "265 42ND ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 40334 AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049L00204000000",
+        "address": "369 MAIN ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080K00162000000",
+        "address": "4708 HATFIELD ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080P00167000000",
+        "address": "184 46TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "184   46TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 103000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0055C00232000000",
+    "address": "517 LORETTO RD",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "517   LORETTO RD",
+    "current_mailing_address": "517   LORETTO RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.119,
+    "latitude": 40.41928,
+    "longitude": -79.91798
+  },
+  "assessments": {
+    "parcel_id": "0055C00232000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 92300,
+        "market_value": 92300,
+        "land_value": 45000,
+        "improvement_value": 47300,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4107,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 88193,
+        "market_value": 88193,
+        "land_value": 42997,
+        "improvement_value": 45196,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88193,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 88193,
+        "market_value": 88193,
+        "land_value": 42997,
+        "improvement_value": 45196,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -891,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88193,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 89084,
+        "market_value": 89084,
+        "land_value": 43432,
+        "improvement_value": 45652,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4242,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89084,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 84842,
+        "market_value": 84842,
+        "land_value": 41363,
+        "improvement_value": 43479,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3263,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 84842,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 81579,
+        "market_value": 81579,
+        "land_value": 39773,
+        "improvement_value": 41806,
+        "land_value_percentage": 48.8,
+        "improvement_value_percentage": 51.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81579,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0055C00232000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0055C00232000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 30100,
+      "total_value_reduction": 30100,
+      "first_appeal_date": "24-May-16",
+      "most_recent_appeal_date": "24-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8574-2016",
+        "filed_date": "24-May-16",
+        "hearing_date": "24-May-16",
+        "appeal_status": "approved",
+        "original_value": 122400,
+        "requested_value": 122400,
+        "final_value": 92300,
+        "value_reduction": 30100,
+        "reduction_percentage": 24.59,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0055C00232000000",
+    "comparables": [
+      {
+        "parcel_id": "0055H00094000000",
+        "address": "625 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "625   MONTCLAIR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92300,
+        "market_value": 110300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0055D00179000000",
+        "address": "4124 MILLINGTON RD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4124   MILLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92400,
+        "market_value": 110400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087J00257000000",
+        "address": "1014 MIRROR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "1014   MIRROR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92200,
+        "market_value": 110200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087J00262000100",
+        "address": "1002 MIRROR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "5828   HOLDEN ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 92100,
+        "market_value": 92100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0054H00014000000",
+        "address": "3904 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "3904   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0055D00342000000",
+        "address": "922 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "1011   HARVARD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 92000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

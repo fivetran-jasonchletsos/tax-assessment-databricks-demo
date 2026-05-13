@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087F00040000000",
+    "address": "2216 WIGHTMAN ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "2216   WIGHTMAN ST",
+    "current_mailing_address": "2216   WIGHTMAN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.056,
+    "latitude": 40.41988,
+    "longitude": -79.91738
+  },
+  "assessments": {
+    "parcel_id": "0087F00040000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 130800,
+        "market_value": 130800,
+        "land_value": 44400,
+        "improvement_value": 86400,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1830,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 132630,
+        "market_value": 132630,
+        "land_value": 45021,
+        "improvement_value": 87609,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6315,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132630,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 126315,
+        "market_value": 126315,
+        "land_value": 42877,
+        "improvement_value": 83438,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4858,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126315,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 121457,
+        "market_value": 121457,
+        "land_value": 41228,
+        "improvement_value": 80229,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3537,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121457,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 117920,
+        "market_value": 117920,
+        "land_value": 40027,
+        "improvement_value": 77893,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2312,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117920,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 115608,
+        "market_value": 115608,
+        "land_value": 39243,
+        "improvement_value": 76365,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115608,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087F00040000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087F00040000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-May-17",
+      "most_recent_appeal_date": "3-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16401-2017",
+        "filed_date": "3-May-17",
+        "hearing_date": "3-May-17",
+        "appeal_status": "approved",
+        "original_value": 130800,
+        "requested_value": 130800,
+        "final_value": 130800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087F00040000000",
+    "comparables": [
+      {
+        "parcel_id": "0087C00019000000",
+        "address": "5718 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1656   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130900,
+        "market_value": 130900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087G00115000000",
+        "address": "6316 FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6316   FORWARD AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 130900,
+        "market_value": 148900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087C00220000000",
+        "address": "5858 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5858   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130600,
+        "market_value": 148600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087E00090000000",
+        "address": "5456 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1308  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130600,
+        "market_value": 130600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087F00111000000",
+        "address": "5673 MELVIN ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5673   MELVIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131000,
+        "market_value": 149000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086P00119000000",
+        "address": "5719 MUNHALL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5719   MUNHALL RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 131200,
+        "market_value": 149200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0048A00151000000",
+    "address": "2059 PITTVIEW AVE",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2059   PITTVIEW AVE",
+    "current_mailing_address": "2059   PITTVIEW AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.089,
+    "latitude": 40.41668,
+    "longitude": -80.0726
+  },
+  "assessments": {
+    "parcel_id": "0048A00151000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 144100,
+        "market_value": 144100,
+        "land_value": 17700,
+        "improvement_value": 126400,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6412,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 137688,
+        "market_value": 137688,
+        "land_value": 16912,
+        "improvement_value": 120776,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137688,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 137688,
+        "market_value": 137688,
+        "land_value": 16912,
+        "improvement_value": 120776,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1391,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137688,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 139079,
+        "market_value": 139079,
+        "land_value": 17083,
+        "improvement_value": 121996,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6622,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 139079,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 132457,
+        "market_value": 132457,
+        "land_value": 16269,
+        "improvement_value": 116188,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5094,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132457,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 127363,
+        "market_value": 127363,
+        "land_value": 15644,
+        "improvement_value": 111719,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127363,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0048A00151000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0048A00151000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jul-18",
+      "most_recent_appeal_date": "26-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22746-2018",
+        "filed_date": "26-Jul-18",
+        "hearing_date": "26-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 59400,
+        "requested_value": 59400,
+        "final_value": 144100,
+        "value_reduction": 0,
+        "reduction_percentage": -142.59,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0048A00151000000",
+    "comparables": [
+      {
+        "parcel_id": "0048A00157000000",
+        "address": "2128 PITTVIEW AVE",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "145   SAXONY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144400,
+        "market_value": 144400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047H00324000000",
+        "address": "1963 PITTVIEW AVE",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "170  E 88TH ST  APT 2A",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 145600,
+        "market_value": 145600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048A00028000000",
+        "address": "1 HIGHLAND AVE",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "1   HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141500,
+        "market_value": 159500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048E00034000000",
+        "address": "1971 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "1971   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141000,
+        "market_value": 141000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0048A00093000000",
+        "address": "2107 E BECKERT AVE",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2107  E BECKERT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152000,
+        "market_value": 170000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048E00003000000",
+        "address": "1966 W BECKERT AVE",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "1966  W BECKERT ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 135100,
+        "market_value": 135100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

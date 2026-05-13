@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0083F00176000000",
+    "address": "617 MELLON ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "196   CHESTNUT AVE  APT N",
+    "current_mailing_address": "196   CHESTNUT AVE  APT N",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.076,
+    "latitude": 40.4621,
+    "longitude": -79.9246
+  },
+  "assessments": {
+    "parcel_id": "0083F00176000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 162000,
+        "market_value": 162000,
+        "land_value": 60600,
+        "improvement_value": 101400,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3991,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 158009,
+        "market_value": 158009,
+        "land_value": 59107,
+        "improvement_value": 98902,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6077,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 158009,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 151932,
+        "market_value": 151932,
+        "land_value": 56833,
+        "improvement_value": 95099,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4425,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 151932,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 147507,
+        "market_value": 147507,
+        "land_value": 55178,
+        "improvement_value": 92329,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2892,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147507,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 144615,
+        "market_value": 144615,
+        "land_value": 54096,
+        "improvement_value": 90519,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1431,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144615,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 143184,
+        "market_value": 143184,
+        "land_value": 53561,
+        "improvement_value": 89623,
+        "land_value_percentage": 37.4,
+        "improvement_value_percentage": 62.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143184,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083F00176000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083F00176000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jun-15",
+      "most_recent_appeal_date": "16-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1957-2015",
+        "filed_date": "16-Jun-15",
+        "hearing_date": "16-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 100000,
+        "requested_value": 100000,
+        "final_value": 162000,
+        "value_reduction": 0,
+        "reduction_percentage": -62.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083F00176000000",
+    "comparables": [
+      {
+        "parcel_id": "0083D00078000000",
+        "address": "841 FARRAGUT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "841   FARRAGUT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 162000,
+        "market_value": 180000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083F00181000000",
+        "address": "5617 HAYS ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5617   HAYS ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 162000,
+        "market_value": 162000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082K00285000000",
+        "address": "1115 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6236   5TH AVE  STE 105C",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 162100,
+        "market_value": 162100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083M00021000000",
+        "address": "546 N SHERIDAN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "546  N SHERIDAN AVE  APT 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 161900,
+        "market_value": 179900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082P00229000000",
+        "address": "828 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "828  N NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 161800,
+        "market_value": 161800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083B00105000000",
+        "address": "5549 HAYS ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5905   ELGIN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 162400,
+        "market_value": 162400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

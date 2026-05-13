@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0081L00183000000",
+    "address": "145 SCHENLEY MANOR DR",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "110   DOUGLAS DR",
+    "current_mailing_address": "110   DOUGLAS DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.111,
+    "latitude": 40.46524,
+    "longitude": -79.96408
+  },
+  "assessments": {
+    "parcel_id": "0081L00183000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 54300,
+        "market_value": 54300,
+        "land_value": 11700,
+        "improvement_value": 42600,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 861,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 53439,
+        "market_value": 53439,
+        "land_value": 11514,
+        "improvement_value": 41925,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -540,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53439,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 53979,
+        "market_value": 53979,
+        "land_value": 11630,
+        "improvement_value": 42349,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2570,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53979,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 51409,
+        "market_value": 51409,
+        "land_value": 11077,
+        "improvement_value": 40332,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1977,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51409,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 49432,
+        "market_value": 49432,
+        "land_value": 10651,
+        "improvement_value": 38781,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1439,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49432,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 47993,
+        "market_value": 47993,
+        "land_value": 10341,
+        "improvement_value": 37652,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47993,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081L00183000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0081L00183000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 42100,
+      "total_value_reduction": 42100,
+      "first_appeal_date": "9-Jul-19",
+      "most_recent_appeal_date": "9-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29916-2019",
+        "filed_date": "9-Jul-19",
+        "hearing_date": "9-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 96400,
+        "requested_value": 96400,
+        "final_value": 54300,
+        "value_reduction": 42100,
+        "reduction_percentage": 43.67,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0081L00183000000",
+    "comparables": [
+      {
+        "parcel_id": "0081F00133000000",
+        "address": "943 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "729   PACKSADDLE TRL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54300,
+        "market_value": 54300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081F00129000000",
+        "address": "933 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "933   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54200,
+        "market_value": 54200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081F00135000000",
+        "address": "949 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54400,
+        "market_value": 54400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081M00311000000",
+        "address": "926 ORANMORE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 40205",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54500,
+        "market_value": 54500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081F00195000A00",
+        "address": "4334 COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4334   COLERIDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54600,
+        "market_value": 54600,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081G00158000000",
+        "address": "1028 BRINTELL ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1028   BRINTELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 54600,
+        "market_value": 72600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

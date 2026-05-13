@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0170J00051000000",
+    "address": "105 FAHNESTOCK RD",
+    "city": "O''hara",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "105   FAHNESTOCK RD",
+    "current_mailing_address": "105   FAHNESTOCK RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.201,
+    "latitude": 40.49376,
+    "longitude": -79.90948
+  },
+  "assessments": {
+    "parcel_id": "0170J00051000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 283000,
+        "market_value": 283000,
+        "land_value": 39500,
+        "improvement_value": 243500,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6971,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 283000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 276029,
+        "market_value": 276029,
+        "land_value": 38527,
+        "improvement_value": 237502,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10616,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 276029,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 265413,
+        "market_value": 265413,
+        "land_value": 37045,
+        "improvement_value": 228368,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7730,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 265413,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 257683,
+        "market_value": 257683,
+        "land_value": 35966,
+        "improvement_value": 221717,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5052,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 257683,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 252631,
+        "market_value": 252631,
+        "land_value": 35261,
+        "improvement_value": 217370,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2501,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 252631,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 250130,
+        "market_value": 250130,
+        "land_value": 34912,
+        "improvement_value": 215218,
+        "land_value_percentage": 14.0,
+        "improvement_value_percentage": 86.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 250130,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170J00051000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170J00051000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-May-16",
+      "most_recent_appeal_date": "4-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9756-2016",
+        "filed_date": "4-May-16",
+        "hearing_date": "4-May-16",
+        "appeal_status": "approved",
+        "original_value": 190200,
+        "requested_value": 190200,
+        "final_value": 271400,
+        "value_reduction": 0,
+        "reduction_percentage": -42.69,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0170J00051000000",
+    "comparables": [
+      {
+        "parcel_id": "0286J00078000000",
+        "address": "15 ALSOP RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "15   ALSOP RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 282800,
+        "market_value": 300800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0170N00162000000",
+        "address": "605 LEXINGTON AVE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "605   LEXINGTON AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 282500,
+        "market_value": 300500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0223F00175000000",
+        "address": "10 GEORGIAN PL",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "10   GEORGIAN PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283500,
+        "market_value": 301500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0435S00073000000",
+        "address": "1503 KELLY RD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "1503   KELLY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 282400,
+        "market_value": 300400,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0286L00028000000",
+        "address": "110 GREYFRIAR DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "110   GREYFRIAR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283600,
+        "market_value": 301600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0356D00048000000",
+        "address": "1410 KELLY RD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "1410   KELLY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283700,
+        "market_value": 301700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

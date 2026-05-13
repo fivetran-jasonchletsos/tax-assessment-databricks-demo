@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0356L00015000000",
+    "address": "213 RIDGEVIEW CIR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "213   RIDGEVIEW CIR",
+    "current_mailing_address": "213   RIDGEVIEW CIR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.215,
+    "latitude": 40.52742,
+    "longitude": -79.95576
+  },
+  "assessments": {
+    "parcel_id": "0356L00015000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 271800,
+        "market_value": 271800,
+        "land_value": 44600,
+        "improvement_value": 227200,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3805,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 271800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 275605,
+        "market_value": 275605,
+        "land_value": 45224,
+        "improvement_value": 230381,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13124,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 275605,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 262481,
+        "market_value": 262481,
+        "land_value": 43070,
+        "improvement_value": 219411,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10095,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 262481,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 252386,
+        "market_value": 252386,
+        "land_value": 41414,
+        "improvement_value": 210972,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7351,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 252386,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 245035,
+        "market_value": 245035,
+        "land_value": 40208,
+        "improvement_value": 204827,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4804,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 245035,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 240231,
+        "market_value": 240231,
+        "land_value": 39419,
+        "improvement_value": 200812,
+        "land_value_percentage": 16.4,
+        "improvement_value_percentage": 83.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 240231,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0356L00015000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0356L00015000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "31-Jul-18",
+      "most_recent_appeal_date": "31-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-25473-2018",
+        "filed_date": "31-Jul-18",
+        "hearing_date": "31-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 227300,
+        "requested_value": 227300,
+        "final_value": 271800,
+        "value_reduction": 0,
+        "reduction_percentage": -19.58,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0356L00015000000",
+    "comparables": [
+      {
+        "parcel_id": "0354C00206000000",
+        "address": "485 GLENHAVEN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "485   GLENHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272000,
+        "market_value": 272000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434L00209000000",
+        "address": "908 SPENCER RIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "908   SPENCER RIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272000,
+        "market_value": 290000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0435P00042000000",
+        "address": "135 CHERRYWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "135   CHERRYWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272000,
+        "market_value": 290000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0356L00113000000",
+        "address": "122 OLD FARM CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "122   OLD FARM CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 271300,
+        "market_value": 289300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435K00141000000",
+        "address": "311 LAURELWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "311   LAURELWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272300,
+        "market_value": 290300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0355C00238000000",
+        "address": "1526 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1526   BUTLER PLANK RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 272400,
+        "market_value": 272400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

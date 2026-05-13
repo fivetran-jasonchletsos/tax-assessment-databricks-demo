@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0053S00034000000",
+    "address": "5406 BARTLETT ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5401   BARTLETT ST",
+    "current_mailing_address": "5401   BARTLETT ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.245,
+    "latitude": 40.42096,
+    "longitude": -79.90886
+  },
+  "assessments": {
+    "parcel_id": "0053S00034000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 337800,
+        "market_value": 337800,
+        "land_value": 101300,
+        "improvement_value": 236500,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15029,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 337800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 322771,
+        "market_value": 322771,
+        "land_value": 96793,
+        "improvement_value": 225978,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 322771,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 322771,
+        "market_value": 322771,
+        "land_value": 96793,
+        "improvement_value": 225978,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3261,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 322771,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 326032,
+        "market_value": 326032,
+        "land_value": 97770,
+        "improvement_value": 228262,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15525,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 326032,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 310507,
+        "market_value": 310507,
+        "land_value": 93115,
+        "improvement_value": 217392,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11942,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 310507,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 298565,
+        "market_value": 298565,
+        "land_value": 89534,
+        "improvement_value": 209031,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 298565,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0053S00034000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0053S00034000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0053S00034000000",
+    "comparables": [
+      {
+        "parcel_id": "0085R00282000000",
+        "address": "1309 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1309   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 337800,
+        "market_value": 355800,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086P00040000000",
+        "address": "1940 WIGHTMAN ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1940   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 338400,
+        "market_value": 356400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085D00166000000",
+        "address": "130 W LYNDHURST DR",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "130  W LYNDHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 338500,
+        "market_value": 356500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085M00002000000",
+        "address": "1288 DENNISTON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1288   DENNISTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 338500,
+        "market_value": 356500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086J00175000000",
+        "address": "5534 FORBES AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5534   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 338500,
+        "market_value": 356500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086N00041000000",
+        "address": "5477 BARTLETT ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5477   BARTLETT ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 337100,
+        "market_value": 355100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

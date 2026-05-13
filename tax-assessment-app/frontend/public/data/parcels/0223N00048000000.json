@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0223N00048000000",
+    "address": "713 MIDWAY DR",
+    "city": "O''hara",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "713   MIDWAY DR",
+    "current_mailing_address": "713   MIDWAY DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.268,
+    "latitude": 40.49484,
+    "longitude": -79.92388
+  },
+  "assessments": {
+    "parcel_id": "0223N00048000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 201000,
+        "market_value": 201000,
+        "land_value": 26600,
+        "improvement_value": 174400,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3182,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 201000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 197818,
+        "market_value": 197818,
+        "land_value": 26178,
+        "improvement_value": 171640,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1999,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197818,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 199817,
+        "market_value": 199817,
+        "land_value": 26443,
+        "improvement_value": 173374,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9515,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 199817,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 190302,
+        "market_value": 190302,
+        "land_value": 25184,
+        "improvement_value": 165118,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7319,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190302,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 182983,
+        "market_value": 182983,
+        "land_value": 24215,
+        "improvement_value": 158768,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5329,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 182983,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 177654,
+        "market_value": 177654,
+        "land_value": 23510,
+        "improvement_value": 154144,
+        "land_value_percentage": 13.2,
+        "improvement_value_percentage": 86.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 177654,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0223N00048000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0223N00048000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-May-19",
+      "most_recent_appeal_date": "16-May-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-31534-2019",
+        "filed_date": "16-May-19",
+        "hearing_date": "16-May-19",
+        "appeal_status": "approved",
+        "original_value": 178000,
+        "requested_value": 178000,
+        "final_value": 201000,
+        "value_reduction": 0,
+        "reduction_percentage": -12.92,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0223N00048000000",
+    "comparables": [
+      {
+        "parcel_id": "0169H00226000000",
+        "address": "612 W WALDHEIM RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "612  W WALDHEIM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 201000,
+        "market_value": 201000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0223G00032000000",
+        "address": "20 COLLINWOOD DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "20   COLLINWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 201500,
+        "market_value": 219500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0436P00020000000",
+        "address": "190 BERRYHILL RD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "190   BERRY HILL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200400,
+        "market_value": 218400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0169M00224000000",
+        "address": "607 VIRGINIA AVENUE EXT",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "607   VIRGINIA AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 201600,
+        "market_value": 219600,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0170S00014000000",
+        "address": "144 WOODSHIRE DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "144   WOODSHIRE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200400,
+        "market_value": 218400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0223L00080000000",
+        "address": "51 COLLINWOOD DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "51   COLLINWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 201700,
+        "market_value": 219700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0120J00046000000",
+    "address": "5638 HARRISON ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5638   HARRISON ST",
+    "current_mailing_address": "5638   HARRISON ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.073,
+    "latitude": 40.46404,
+    "longitude": -79.94536
+  },
+  "assessments": {
+    "parcel_id": "0120J00046000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 56000,
+        "market_value": 56000,
+        "land_value": 11200,
+        "improvement_value": 44800,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3483,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 52517,
+        "market_value": 52517,
+        "land_value": 10503,
+        "improvement_value": 42014,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1529,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 52517,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 50988,
+        "market_value": 50988,
+        "land_value": 10197,
+        "improvement_value": 40791,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 999,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50988,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 49989,
+        "market_value": 49989,
+        "land_value": 9997,
+        "improvement_value": 39992,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 494,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49989,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 49495,
+        "market_value": 49495,
+        "land_value": 9899,
+        "improvement_value": 39596,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49495,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 49495,
+        "market_value": 49495,
+        "land_value": 9899,
+        "improvement_value": 39596,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49495,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0120J00046000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0120J00046000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0120J00046000000",
+    "comparables": [
+      {
+        "parcel_id": "0082A00235000000",
+        "address": "1234 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1234   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 56000,
+        "market_value": 74000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080D00116000000",
+        "address": "5234 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 56100,
+        "market_value": 56100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080D00293000000",
+        "address": "5204 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5204   KEYSTONE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55900,
+        "market_value": 73900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081E00152000000",
+        "address": "5321 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5321   MCCANDLESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 56100,
+        "market_value": 74100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081F00026000000",
+        "address": "4263 STANTON AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "4231   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55900,
+        "market_value": 55900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0119S00070000000",
+        "address": "5416 DRESDEN WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5416 1/2  DRESDEN WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55900,
+        "market_value": 73900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025N00101020600",
+    "address": "2554 SMALLMAN ST",
+    "city": "1000 Grandview",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "2554   SMALLMAN ST",
+    "current_mailing_address": "2554   SMALLMAN ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.4375,
+    "longitude": -80.0017
+  },
+  "assessments": {
+    "parcel_id": "0025N00101020600",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 315200,
+        "market_value": 315200,
+        "land_value": 0,
+        "improvement_value": 315200,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7764,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 315200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 307436,
+        "market_value": 307436,
+        "land_value": 0,
+        "improvement_value": 307436,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11824,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 307436,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 295612,
+        "market_value": 295612,
+        "land_value": 0,
+        "improvement_value": 295612,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8610,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295612,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 287002,
+        "market_value": 287002,
+        "land_value": 0,
+        "improvement_value": 287002,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5627,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 287002,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 281375,
+        "market_value": 281375,
+        "land_value": 0,
+        "improvement_value": 281375,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2785,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 281375,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 278590,
+        "market_value": 278590,
+        "land_value": 0,
+        "improvement_value": 278590,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 278590,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025N00101020600",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025N00101020600",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 14700,
+      "total_value_reduction": 14700,
+      "first_appeal_date": "3-Dec-20",
+      "most_recent_appeal_date": "3-Dec-20",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29194-2019",
+        "filed_date": "3-Dec-20",
+        "hearing_date": "3-Dec-20",
+        "appeal_status": "approved",
+        "original_value": 35000,
+        "requested_value": 35000,
+        "final_value": 20300,
+        "value_reduction": 14700,
+        "reduction_percentage": 42.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025N00101020600",
+    "comparables": [
+      {
+        "parcel_id": "0025K00162020400",
+        "address": "2635 PENN AVE",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "2635   PENN AVE  UNIT 204",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 313200,
+        "market_value": 313200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025K00162021700",
+        "address": "2635 PENN AVE",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "2635   PENN AVE  UNIT 217",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 317200,
+        "market_value": 335200,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025N00101040600",
+        "address": "2554 SMALLMAN ST",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "2554   SMALLMAN ST  UNIT 406",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 313200,
+        "market_value": 331200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025N00101050500",
+        "address": "2554 SMALLMAN ST",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "2554   SMALLMAN ST  UNIT 505",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 313000,
+        "market_value": 331000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025K00162030100",
+        "address": "2635 PENN AVE",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "2176   TRUXTON DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 312500,
+        "market_value": 312500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0025K00162040100",
+        "address": "2635 PENN AVE",
+        "city": "1000 Grandview",
+        "zip_code": "15222",
+        "current_owner_name": "335  E 7TH AVE",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 311900,
+        "market_value": 311900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024F00042000000",
+    "address": "941 ITIN ST",
+    "city": "Ward 23 - East Allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "34  N FRANKLIN AVE  STE 687 1836",
+    "current_mailing_address": "34  N FRANKLIN AVE  STE 687 1836",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.035,
+    "latitude": 40.41644,
+    "longitude": -80.07308
+  },
+  "assessments": {
+    "parcel_id": "0024F00042000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 36300,
+        "market_value": 36300,
+        "land_value": 22200,
+        "improvement_value": 14100,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -505,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 36805,
+        "market_value": 36805,
+        "land_value": 22508,
+        "improvement_value": 14297,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1752,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36805,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 35053,
+        "market_value": 35053,
+        "land_value": 21437,
+        "improvement_value": 13616,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1348,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35053,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 33705,
+        "market_value": 33705,
+        "land_value": 20612,
+        "improvement_value": 13093,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 981,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33705,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32724,
+        "market_value": 32724,
+        "land_value": 20013,
+        "improvement_value": 12711,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 641,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32724,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 32083,
+        "market_value": 32083,
+        "land_value": 19621,
+        "improvement_value": 12462,
+        "land_value_percentage": 61.2,
+        "improvement_value_percentage": 38.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32083,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024F00042000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024F00042000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-May-18",
+      "most_recent_appeal_date": "14-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22477-2018",
+        "filed_date": "14-May-18",
+        "hearing_date": "14-May-18",
+        "appeal_status": "approved",
+        "original_value": 36300,
+        "requested_value": 36300,
+        "final_value": 36300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024F00042000000",
+    "comparables": [
+      {
+        "parcel_id": "0024E00113000000",
+        "address": "838 SPRING GARDEN AVE",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "415   CHERRYWOOD DR",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 36100,
+        "market_value": 36100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024F00031000000",
+        "address": "917 ITIN ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "917   ITIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36500,
+        "market_value": 54500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024J00429000000",
+        "address": "830 PERALTA ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "922   WESTERN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 36000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024J00031000000",
+        "address": "613 TRIPOLI ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "613   TRIPOLI ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 35900,
+        "market_value": 35900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024E00187000000",
+        "address": "837 VISTA ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "837   VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35600,
+        "market_value": 53600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024E00191000000",
+        "address": "845 VISTA ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "845   VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 37000,
+        "market_value": 37000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028K00016000000",
+    "address": "301 COLTART AVE",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "2445   PIN OAK DR",
+    "current_mailing_address": "2445   PIN OAK DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.062,
+    "latitude": 40.43344,
+    "longitude": -79.9468
+  },
+  "assessments": {
+    "parcel_id": "0028K00016000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 154400,
+        "market_value": 154400,
+        "land_value": 34700,
+        "improvement_value": 119700,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11125,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 154400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 143275,
+        "market_value": 143275,
+        "land_value": 32199,
+        "improvement_value": 111076,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1418,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143275,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 141857,
+        "market_value": 141857,
+        "land_value": 31881,
+        "improvement_value": 109976,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141857,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 141857,
+        "market_value": 141857,
+        "land_value": 31881,
+        "improvement_value": 109976,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1433,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141857,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 143290,
+        "market_value": 143290,
+        "land_value": 32203,
+        "improvement_value": 111087,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6823,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143290,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 136467,
+        "market_value": 136467,
+        "land_value": 30669,
+        "improvement_value": 105798,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136467,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028K00016000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028K00016000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Jun-15",
+      "most_recent_appeal_date": "22-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-778-2015",
+        "filed_date": "22-Jun-15",
+        "hearing_date": "22-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 116600,
+        "requested_value": 116600,
+        "final_value": 154400,
+        "value_reduction": 0,
+        "reduction_percentage": -32.42,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028K00016000000",
+    "comparables": [
+      {
+        "parcel_id": "0028K00113000000",
+        "address": "309 HALKET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "300   KENT CT",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 154400,
+        "market_value": 154400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028M00254000000",
+        "address": "20 OAKLAND SQ",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "137   COUNTRYVIEW DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 153700,
+        "market_value": 153700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028E00094000000",
+        "address": "119 CHESTERFIELD RD",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1522   CELEBRATION CIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 155300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028F00265000000",
+        "address": "204 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 1609",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 153300,
+        "market_value": 153300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0029G00043000000",
+        "address": "3630 FRAZIER ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "210   WOODHAVEN DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155600,
+        "market_value": 155600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028G00187000000",
+        "address": "250 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1014   PERRY HWY",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 153100,
+        "market_value": 153100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0121G00074000000",
+    "address": "7322 BUTLER ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "7322   BUTLER ST",
+    "current_mailing_address": "7322   BUTLER ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.044,
+    "latitude": 40.46102,
+    "longitude": -79.90624
+  },
+  "assessments": {
+    "parcel_id": "0121G00074000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 68400,
+        "market_value": 68400,
+        "land_value": 24200,
+        "improvement_value": 44200,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6744,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 61656,
+        "market_value": 61656,
+        "land_value": 21813,
+        "improvement_value": 39843,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1208,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61656,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 60448,
+        "market_value": 60448,
+        "land_value": 21386,
+        "improvement_value": 39062,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 598,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60448,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 59850,
+        "market_value": 59850,
+        "land_value": 21175,
+        "improvement_value": 38675,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59850,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 59850,
+        "market_value": 59850,
+        "land_value": 21175,
+        "improvement_value": 38675,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -605,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59850,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 60455,
+        "market_value": 60455,
+        "land_value": 21389,
+        "improvement_value": 39066,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60455,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121G00074000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121G00074000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0121G00074000000",
+    "comparables": [
+      {
+        "parcel_id": "0082E00062000000",
+        "address": "1115 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1115   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68400,
+        "market_value": 86400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080D00108000000",
+        "address": "5244 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5244   CARNEGIE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 68500,
+        "market_value": 86500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121J00350000000",
+        "address": "1668 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1668   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68500,
+        "market_value": 86500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121K00062000000",
+        "address": "1726 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1726   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68500,
+        "market_value": 86500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080D00396000000",
+        "address": "5262 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5262   DUNCAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68600,
+        "market_value": 86600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082A00156000000",
+        "address": "1254 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1254   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68200,
+        "market_value": 86200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

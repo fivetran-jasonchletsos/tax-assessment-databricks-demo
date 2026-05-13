@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051S00165000000",
+    "address": "522 ROSLYN PL",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "522   ROSLYN PL",
+    "current_mailing_address": "522   ROSLYN PL",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.117,
+    "latitude": 40.44302,
+    "longitude": -79.93982
+  },
+  "assessments": {
+    "parcel_id": "0051S00165000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 651900,
+        "market_value": 651900,
+        "land_value": 200000,
+        "improvement_value": 451900,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40510,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 651900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 611390,
+        "market_value": 611390,
+        "land_value": 187571,
+        "improvement_value": 423819,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17807,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 611390,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 593583,
+        "market_value": 593583,
+        "land_value": 182108,
+        "improvement_value": 411475,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11638,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 593583,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 581945,
+        "market_value": 581945,
+        "land_value": 178538,
+        "improvement_value": 403407,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5761,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 581945,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 576184,
+        "market_value": 576184,
+        "land_value": 176770,
+        "improvement_value": 399414,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 576184,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 576184,
+        "market_value": 576184,
+        "land_value": 176770,
+        "improvement_value": 399414,
+        "land_value_percentage": 30.7,
+        "improvement_value_percentage": 69.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 576184,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051S00165000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051S00165000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 108800,
+      "total_value_reduction": 108800,
+      "first_appeal_date": "21-Jun-19",
+      "most_recent_appeal_date": "21-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29518-2019",
+        "filed_date": "21-Jun-19",
+        "hearing_date": "21-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 356800,
+        "requested_value": 356800,
+        "final_value": 248000,
+        "value_reduction": 108800,
+        "reduction_percentage": 30.49,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051S00165000000",
+    "comparables": [
+      {
+        "parcel_id": "0052G00173000000",
+        "address": "5126 WESTMINSTER PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5126   WESTMINSTER PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 650400,
+        "market_value": 668400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052A00100000000",
+        "address": "4904 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4904   WALLINGFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 650000,
+        "market_value": 668000,
+        "assessed_value_change_pct": 13.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052B00195000000",
+        "address": "4903 ELLSWORTH AVE",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "623   DEVONSHIRE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 650000,
+        "market_value": 650000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052F00068000000",
+        "address": "623 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "301   GRANT ST  FL 14",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 655400,
+        "market_value": 655400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052H00060000000",
+        "address": "925 S AIKEN AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5401   KENTUCKY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 648300,
+        "market_value": 648300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051P00123000000",
+        "address": "4941 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4941   WALLINGFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 656500,
+        "market_value": 674500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

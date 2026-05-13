@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085J00226000000",
+    "address": "5427 WILKINS AVE",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5427   WILKINS AVE",
+    "current_mailing_address": "5427   WILKINS AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.195,
+    "latitude": 40.42084,
+    "longitude": -79.90898
+  },
+  "assessments": {
+    "parcel_id": "0085J00226000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 674000,
+        "market_value": 674000,
+        "land_value": 100800,
+        "improvement_value": 573200,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10664,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 674000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 663336,
+        "market_value": 663336,
+        "land_value": 99205,
+        "improvement_value": 564131,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6701,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 663336,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 670037,
+        "market_value": 670037,
+        "land_value": 100207,
+        "improvement_value": 569830,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 31906,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 670037,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 638131,
+        "market_value": 638131,
+        "land_value": 95435,
+        "improvement_value": 542696,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24543,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 638131,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 613588,
+        "market_value": 613588,
+        "land_value": 91765,
+        "improvement_value": 521823,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17871,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 613588,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 595717,
+        "market_value": 595717,
+        "land_value": 89092,
+        "improvement_value": 506625,
+        "land_value_percentage": 15.0,
+        "improvement_value_percentage": 85.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 595717,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085J00226000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085J00226000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "30-Jun-15",
+      "most_recent_appeal_date": "30-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2105-2015",
+        "filed_date": "30-Jun-15",
+        "hearing_date": "30-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 674000,
+        "requested_value": 674000,
+        "final_value": 674000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085J00226000000",
+    "comparables": [
+      {
+        "parcel_id": "0085K00073000000",
+        "address": "1117 S NEGLEY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1117  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679600,
+        "market_value": 697600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085H00064000000",
+        "address": "1229 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1229   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 681200,
+        "market_value": 699200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085C00408000000",
+        "address": "200 N WOODLAND RD",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "200  N WOODLAND RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 682000,
+        "market_value": 700000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085G00043000000",
+        "address": "1088 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "1088   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 682000,
+        "market_value": 700000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085G00016000000",
+        "address": "1137 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "1137   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 665700,
+        "market_value": 683700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085K00065000000",
+        "address": "1110 S NEGLEY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1110  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 663300,
+        "market_value": 681300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

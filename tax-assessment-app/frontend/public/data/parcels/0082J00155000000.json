@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0082J00155000000",
+    "address": "1004 JANCEY ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "919   JANCEY ST",
+    "current_mailing_address": "919   JANCEY ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.044,
+    "latitude": 40.4621,
+    "longitude": -79.90204
+  },
+  "assessments": {
+    "parcel_id": "0082J00155000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 75700,
+        "market_value": 75700,
+        "land_value": 15400,
+        "improvement_value": 60300,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1867,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 73833,
+        "market_value": 73833,
+        "land_value": 15020,
+        "improvement_value": 58813,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2839,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73833,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 70994,
+        "market_value": 70994,
+        "land_value": 14442,
+        "improvement_value": 56552,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2067,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70994,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 68927,
+        "market_value": 68927,
+        "land_value": 14022,
+        "improvement_value": 54905,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1351,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68927,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 67576,
+        "market_value": 67576,
+        "land_value": 13747,
+        "improvement_value": 53829,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 669,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67576,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 66907,
+        "market_value": 66907,
+        "land_value": 13611,
+        "improvement_value": 53296,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66907,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082J00155000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082J00155000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0082J00155000000",
+    "comparables": [
+      {
+        "parcel_id": "0080D00356000000",
+        "address": "5252 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5252   HOLMES ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 75700,
+        "market_value": 75700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0119S00049000000",
+        "address": "5321 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "2305   CHALET CT",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 75800,
+        "market_value": 75800,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082A00059000000",
+        "address": "1231 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1231   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75800,
+        "market_value": 93800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082A00116000000",
+        "address": "1227 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1227   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75800,
+        "market_value": 93800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082A00212000000",
+        "address": "1427 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1427   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75800,
+        "market_value": 93800,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082E00295000000",
+        "address": "1147 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1147   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75800,
+        "market_value": 93800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

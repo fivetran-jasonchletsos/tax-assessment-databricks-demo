@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028S00079000000",
+    "address": "3375 PARKVIEW AVE",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "134  S HIGHLAND AVE  STE 18",
+    "current_mailing_address": "134  S HIGHLAND AVE  STE 18",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.046,
+    "latitude": 40.43548,
+    "longitude": -79.95592
+  },
+  "assessments": {
+    "parcel_id": "0028S00079000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 136200,
+        "market_value": 136200,
+        "land_value": 48000,
+        "improvement_value": 88200,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3357,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 132843,
+        "market_value": 132843,
+        "land_value": 46816,
+        "improvement_value": 86027,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5109,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132843,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 127734,
+        "market_value": 127734,
+        "land_value": 45016,
+        "improvement_value": 82718,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3720,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127734,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 124014,
+        "market_value": 124014,
+        "land_value": 43705,
+        "improvement_value": 80309,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2431,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124014,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 121583,
+        "market_value": 121583,
+        "land_value": 42848,
+        "improvement_value": 78735,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1203,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121583,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 120380,
+        "market_value": 120380,
+        "land_value": 42424,
+        "improvement_value": 77956,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120380,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028S00079000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028S00079000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-818-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 63400,
+        "requested_value": 63400,
+        "final_value": 136200,
+        "value_reduction": 0,
+        "reduction_percentage": -114.83,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028S00079000000",
+    "comparables": [
+      {
+        "parcel_id": "0028G00190000000",
+        "address": "244 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1014   PERRY HWY  FL 2",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 136000,
+        "market_value": 136000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028G00289000000",
+        "address": "260 OAKLAND AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 135800,
+        "market_value": 135800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028K00023000000",
+        "address": "212 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "6236   5TH AVE  STE 105C",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 135800,
+        "market_value": 135800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028G00270000000",
+        "address": "338 OAKLAND AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5031   LYTLE ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 136700,
+        "market_value": 136700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028K00100000000",
+        "address": "237 HALKET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "233   HALKET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136700,
+        "market_value": 136700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028L00212000000",
+        "address": "374 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "208   FIELDGATE DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 136700,
+        "market_value": 136700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

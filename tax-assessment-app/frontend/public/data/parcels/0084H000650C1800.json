@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084H000650C1800",
+    "address": "100 DENNISTON ST",
+    "city": "Shadyside",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "100   DENNISTON ST  UNIT 82",
+    "current_mailing_address": "100   DENNISTON ST  UNIT 82",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.051,
+    "latitude": 40.46546,
+    "longitude": -79.9078
+  },
+  "assessments": {
+    "parcel_id": "0084H000650C1800",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 475000,
+        "market_value": 475000,
+        "land_value": 144000,
+        "improvement_value": 331000,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11698,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 475000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 463302,
+        "market_value": 463302,
+        "land_value": 140453,
+        "improvement_value": 322849,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17819,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 463302,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 445483,
+        "market_value": 445483,
+        "land_value": 135051,
+        "improvement_value": 310432,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12975,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 445483,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 432508,
+        "market_value": 432508,
+        "land_value": 131118,
+        "improvement_value": 301390,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8480,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 432508,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 424028,
+        "market_value": 424028,
+        "land_value": 128547,
+        "improvement_value": 295481,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4198,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 424028,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 419830,
+        "market_value": 419830,
+        "land_value": 127274,
+        "improvement_value": 292556,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 419830,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084H000650C1800",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084H000650C1800",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "31-May-16",
+      "most_recent_appeal_date": "31-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8960-2016",
+        "filed_date": "31-May-16",
+        "hearing_date": "31-May-16",
+        "appeal_status": "approved",
+        "original_value": 322300,
+        "requested_value": 322300,
+        "final_value": 492300,
+        "value_reduction": 0,
+        "reduction_percentage": -52.75,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084H000650C1800",
+    "comparables": [
+      {
+        "parcel_id": "0084G00114000000",
+        "address": "250 EMERSON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "250   EMERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 475000,
+        "market_value": 493000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084M00361000000",
+        "address": "6457 MELISSA ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6457   MELISSA ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 475100,
+        "market_value": 493100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084K00237000000",
+        "address": "358 S HIGHLAND AVE",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "358  S HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 474700,
+        "market_value": 492700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084M00424000000",
+        "address": "6408 MELISSA ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6408   MELISSA ST  # 107A",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 475300,
+        "market_value": 493300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052A00119000000",
+        "address": "4770 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4770   WALLINGFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 474500,
+        "market_value": 474500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052C00053000000",
+        "address": "5121 ELLSWORTH AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5121   ELLSWORTH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 474100,
+        "market_value": 492100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

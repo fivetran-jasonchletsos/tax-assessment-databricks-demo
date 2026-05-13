@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085R00214000000",
+    "address": "118 WOODLAND RD",
+    "city": "11401",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "107   PATTON DR",
+    "current_mailing_address": "107   PATTON DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.225,
+    "latitude": 40.44314,
+    "longitude": -79.94306
+  },
+  "assessments": {
+    "parcel_id": "0085R00214000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 524400,
+        "market_value": 524400,
+        "land_value": 125300,
+        "improvement_value": 399100,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12915,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 524400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 511485,
+        "market_value": 511485,
+        "land_value": 122214,
+        "improvement_value": 389271,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19672,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 511485,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 491813,
+        "market_value": 491813,
+        "land_value": 117513,
+        "improvement_value": 374300,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14324,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 491813,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 477489,
+        "market_value": 477489,
+        "land_value": 114091,
+        "improvement_value": 363398,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9362,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 477489,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 468127,
+        "market_value": 468127,
+        "land_value": 111854,
+        "improvement_value": 356273,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4634,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 468127,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 463493,
+        "market_value": 463493,
+        "land_value": 110746,
+        "improvement_value": 352747,
+        "land_value_percentage": 23.9,
+        "improvement_value_percentage": 76.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 463493,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085R00214000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085R00214000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "21-May-18",
+      "most_recent_appeal_date": "21-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23225-2018",
+        "filed_date": "21-May-18",
+        "hearing_date": "21-May-18",
+        "appeal_status": "approved",
+        "original_value": 200000,
+        "requested_value": 200000,
+        "final_value": 524400,
+        "value_reduction": 0,
+        "reduction_percentage": -162.2,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085R00214000000",
+    "comparables": [
+      {
+        "parcel_id": "0086C00085000000",
+        "address": "1524 ASBURY PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1524   ASBURY PL",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 524700,
+        "market_value": 524700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053D00132000000",
+        "address": "1301 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1301   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 524800,
+        "market_value": 542800,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085N00101000000",
+        "address": "1211 INVERNESS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1211   INVERNESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 523600,
+        "market_value": 541600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0053H00242000000",
+        "address": "212 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "212   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 523000,
+        "market_value": 523000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085P00119000000",
+        "address": "5738 WILKINS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2862   FERNWALD RD",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 525900,
+        "market_value": 525900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086C00250000000",
+        "address": "5854 SOLWAY ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5854   SOLWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 526600,
+        "market_value": 544600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

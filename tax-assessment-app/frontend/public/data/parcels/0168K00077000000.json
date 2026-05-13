@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0168K00077000000",
+    "address": "1412 MAIN ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "1412   MAIN ST  APT 2",
+    "current_mailing_address": "1412   MAIN ST  APT 2",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.108,
+    "latitude": 40.49568,
+    "longitude": -79.92004
+  },
+  "assessments": {
+    "parcel_id": "0168K00077000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "land_value": 22300,
+        "improvement_value": 78900,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1603,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 99597,
+        "market_value": 99597,
+        "land_value": 21946,
+        "improvement_value": 77651,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1007,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 99597,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 100604,
+        "market_value": 100604,
+        "land_value": 22168,
+        "improvement_value": 78436,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4790,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100604,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 95814,
+        "market_value": 95814,
+        "land_value": 21113,
+        "improvement_value": 74701,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3685,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95814,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 92129,
+        "market_value": 92129,
+        "land_value": 20301,
+        "improvement_value": 71828,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2683,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92129,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 89446,
+        "market_value": 89446,
+        "land_value": 19709,
+        "improvement_value": 69737,
+        "land_value_percentage": 22.0,
+        "improvement_value_percentage": 78.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89446,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0168K00077000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0168K00077000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0168K00077000000",
+    "comparables": [
+      {
+        "parcel_id": "0167H00018000000",
+        "address": "318 9TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "181  W WALDHEIM RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 101000,
+        "market_value": 101000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0168H00021000000",
+        "address": "1861 NOBLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1861   NOBLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100900,
+        "market_value": 118900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168L00178000000",
+        "address": "1721 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "205   WILSHIRE CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100700,
+        "market_value": 100700,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168M00270000000",
+        "address": "1871 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "24   4TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100600,
+        "market_value": 100600,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168K00161000000",
+        "address": "1325 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "4839   BAYFIELD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 100500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168J00010000000",
+        "address": "306 ROOSEVELT ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "306   ROOSEVELT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100100,
+        "market_value": 118100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0080H00046000000",
+    "address": "5150 KEYSTONE ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5150   KEYSTONE ST",
+    "current_mailing_address": "5150   KEYSTONE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.028,
+    "latitude": 40.4644,
+    "longitude": -79.94464
+  },
+  "assessments": {
+    "parcel_id": "0080H00046000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 206000,
+        "market_value": 206000,
+        "land_value": 21800,
+        "improvement_value": 184200,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3261,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 206000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 202739,
+        "market_value": 202739,
+        "land_value": 21454,
+        "improvement_value": 181285,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2048,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 202739,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 204787,
+        "market_value": 204787,
+        "land_value": 21671,
+        "improvement_value": 183116,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9751,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 204787,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 195036,
+        "market_value": 195036,
+        "land_value": 20639,
+        "improvement_value": 174397,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7501,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 195036,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 187535,
+        "market_value": 187535,
+        "land_value": 19845,
+        "improvement_value": 167690,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5462,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 187535,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 182073,
+        "market_value": 182073,
+        "land_value": 19267,
+        "improvement_value": 162806,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 182073,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080H00046000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080H00046000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jun-15",
+      "most_recent_appeal_date": "15-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1821-2015",
+        "filed_date": "15-Jun-15",
+        "hearing_date": "15-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 49500,
+        "requested_value": 49500,
+        "final_value": 210700,
+        "value_reduction": 0,
+        "reduction_percentage": -325.66,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0080H00046000000",
+    "comparables": [
+      {
+        "parcel_id": "0080H00211000000",
+        "address": "5218 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5218   DUNCAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 206500,
+        "market_value": 224500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082J00274000000",
+        "address": "911 HIGHVIEW ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "911   HIGHVIEW ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 206800,
+        "market_value": 224800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082J00111000000",
+        "address": "909 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "909   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207000,
+        "market_value": 225000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080D00141000000",
+        "address": "5206 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5206   CARNEGIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207500,
+        "market_value": 225500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081E00146000000",
+        "address": "5311 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5311   MCCANDLESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 204500,
+        "market_value": 204500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121G00268000000",
+        "address": "1921 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1921   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207700,
+        "market_value": 225700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

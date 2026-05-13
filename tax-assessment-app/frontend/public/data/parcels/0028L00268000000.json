@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028L00268000000",
+    "address": "3608 BATES ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "112   WASHINGTON PL  STE 1E",
+    "current_mailing_address": "112   WASHINGTON PL  STE 1E",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.11,
+    "latitude": 40.43464,
+    "longitude": -79.96048
+  },
+  "assessments": {
+    "parcel_id": "0028L00268000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 270000,
+        "market_value": 270000,
+        "land_value": 45000,
+        "improvement_value": 225000,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6651,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 270000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 263349,
+        "market_value": 263349,
+        "land_value": 43891,
+        "improvement_value": 219458,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10128,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 263349,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 253221,
+        "market_value": 253221,
+        "land_value": 42203,
+        "improvement_value": 211018,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7375,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 253221,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 245846,
+        "market_value": 245846,
+        "land_value": 40974,
+        "improvement_value": 204872,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4820,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 245846,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 241026,
+        "market_value": 241026,
+        "land_value": 40171,
+        "improvement_value": 200855,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2386,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 241026,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 238640,
+        "market_value": 238640,
+        "land_value": 39773,
+        "improvement_value": 198867,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 238640,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028L00268000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028L00268000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-Aug-15",
+      "most_recent_appeal_date": "25-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-784-2015",
+        "filed_date": "25-Aug-15",
+        "hearing_date": "25-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 182500,
+        "requested_value": 182500,
+        "final_value": 325000,
+        "value_reduction": 0,
+        "reduction_percentage": -78.08,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028L00268000000",
+    "comparables": [
+      {
+        "parcel_id": "0028M00110000000",
+        "address": "3442 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2015   BABCOCK BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 270000,
+        "market_value": 270000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00222000000",
+        "address": "359 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "154   PLEASANT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 269900,
+        "market_value": 269900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028M00055000000",
+        "address": "422 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5101   KEYSTONE ST  # 3",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 270300,
+        "market_value": 270300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028H00180000000",
+        "address": "18 S BOUQUET CT",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "160   FERNBROOK AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 268400,
+        "market_value": 268400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0027H00100000000",
+        "address": "235 N DITHRIDGE ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "372  N CRAIG ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 273400,
+        "market_value": 273400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029G00232000000",
+        "address": "3204 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "14 -16  ORCHARD ST  APT 21",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 273700,
+        "market_value": 273700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

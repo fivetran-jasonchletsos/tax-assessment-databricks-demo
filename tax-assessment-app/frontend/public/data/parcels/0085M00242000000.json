@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0085M00242000000",
+    "address": "708 HASTINGS ST",
+    "city": "11403",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "708   HASTINGS ST",
+    "current_mailing_address": "708   HASTINGS ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.054,
+    "latitude": 40.46246,
+    "longitude": -79.90252
+  },
+  "assessments": {
+    "parcel_id": "0085M00242000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 285000,
+        "market_value": 303000,
+        "land_value": 60000,
+        "improvement_value": 225000,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 12680,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 267000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 272320,
+        "market_value": 289519,
+        "land_value": 57330,
+        "improvement_value": 214990,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 254320,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 272320,
+        "market_value": 289519,
+        "land_value": 57330,
+        "improvement_value": 214990,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": -2751,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 254320,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 275071,
+        "market_value": 292443,
+        "land_value": 57909,
+        "improvement_value": 217162,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 13098,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 257071,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 261973,
+        "market_value": 278518,
+        "land_value": 55152,
+        "improvement_value": 206821,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 10075,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 243973,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 251898,
+        "market_value": 267807,
+        "land_value": 53031,
+        "improvement_value": 198867,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 233898,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085M00242000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0085M00242000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2118-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 178000,
+        "requested_value": 178000,
+        "final_value": 303000,
+        "value_reduction": 0,
+        "reduction_percentage": -70.22,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085M00242000000",
+    "comparables": [
+      {
+        "parcel_id": "0087G00259000000",
+        "address": "2351 SHERBROOK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 81917",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 285000,
+        "market_value": 285000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087A00064000000",
+        "address": "5403 GUARINO RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5403   GUARINO RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 284600,
+        "market_value": 302600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086R00251000000",
+        "address": "5826 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5826   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 284300,
+        "market_value": 302300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085M00247000000",
+        "address": "644 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "5   WATERSIDE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 285800,
+        "market_value": 285800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086N00244000000",
+        "address": "2005 WENDOVER ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2005   WENDOVER ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 286200,
+        "market_value": 304200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086R00190000000",
+        "address": "5808 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5806   HOBART ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 286200,
+        "market_value": 286200,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

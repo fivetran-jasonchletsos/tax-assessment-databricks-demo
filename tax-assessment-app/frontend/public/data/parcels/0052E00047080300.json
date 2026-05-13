@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052E00047080300",
+    "address": "540 N NEVILLE ST",
+    "city": "Winchester Associates",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "540  N NEVILLE ST  UNIT 803",
+    "current_mailing_address": "540  N NEVILLE ST  UNIT 803",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43416,
+    "longitude": -79.9552
+  },
+  "assessments": {
+    "parcel_id": "0052E00047080300",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 265000,
+        "market_value": 265000,
+        "land_value": 0,
+        "improvement_value": 265000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11790,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 265000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 253210,
+        "market_value": 253210,
+        "land_value": 0,
+        "improvement_value": 253210,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 253210,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 253210,
+        "market_value": 253210,
+        "land_value": 0,
+        "improvement_value": 253210,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2558,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 253210,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 255768,
+        "market_value": 255768,
+        "land_value": 0,
+        "improvement_value": 255768,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12179,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 255768,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 243589,
+        "market_value": 243589,
+        "land_value": 0,
+        "improvement_value": 243589,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9368,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 243589,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 234221,
+        "market_value": 234221,
+        "land_value": 0,
+        "improvement_value": 234221,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 234221,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052E00047080300",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052E00047080300",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1357-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 206800,
+        "requested_value": 206800,
+        "final_value": 265000,
+        "value_reduction": 0,
+        "reduction_percentage": -28.14,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052E00047080300",
+    "comparables": [
+      {
+        "parcel_id": "0052E00047090600",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "540  N NEVILLE ST  APT 906",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 276100,
+        "market_value": 294100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052E00047050500",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "229   LAKEVIEW DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 242000,
+        "market_value": 260000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052E00047050100",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "540  N NEVILLE ST  # 501",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 240400,
+        "market_value": 240400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052E00047040600",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "67   EDINBURGH DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 239900,
+        "market_value": 239900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052E00047080200",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "540  N NEVILLE ST  UNIT 802",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 292100,
+        "market_value": 310100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052E00047050600",
+        "address": "540 N NEVILLE ST",
+        "city": "Winchester Associates",
+        "zip_code": "15213",
+        "current_owner_name": "540  N NEVILLE ST  UNIT 506",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 224400,
+        "market_value": 242400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

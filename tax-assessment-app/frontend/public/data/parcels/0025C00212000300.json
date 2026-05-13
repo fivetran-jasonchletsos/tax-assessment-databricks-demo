@@ -122,6 +122,19 @@
     "parcel_id": "0025C00212000300",
     "comparables": [
       {
+        "parcel_id": "0025N00030050300",
+        "address": "2419 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "2419   SMALLMAN ST  UNIT 503",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 236800,
+        "market_value": 254800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0025F00177000500",
         "address": "2901 SMALLMAN ST",
         "city": "Strip Loft",
@@ -132,7 +145,46 @@
         "assessed_value": 235900,
         "market_value": 253900,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025N00080042000",
+        "address": "2434 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "2434   SMALLMAN ST  UNIT 420",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 242000,
+        "market_value": 260000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025N00030050900",
+        "address": "2419 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "2419   SMALLMAN ST  UNIT 509",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 244000,
+        "market_value": 244000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025N00080021600",
+        "address": "2434 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "2434   SMALLMAN ST  UNIT 216",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 232000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0025C00212000200",
@@ -145,58 +197,6 @@
         "assessed_value": 231300,
         "market_value": 231300,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0025C00212000700",
-        "address": "3080 SMALLMAN ST",
-        "city": "Strip Loft",
-        "zip_code": "15201",
-        "current_owner_name": "3080   SMALLMAN ST  UNIT 7",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 247600,
-        "market_value": 265600,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0025F0017700D300",
-        "address": "2901 SMALLMAN ST",
-        "city": "Strip Loft",
-        "zip_code": "15201",
-        "current_owner_name": "2901   SMALLMAN ST  UNIT 3D",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 248000,
-        "market_value": 266000,
-        "assessed_value_change_pct": 1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0025C00212001400",
-        "address": "3080 SMALLMAN ST",
-        "city": "Strip Loft",
-        "zip_code": "15201",
-        "current_owner_name": "3080   SMALLMAN ST  UNIT 14",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 226500,
-        "market_value": 226500,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0025C00212000400",
-        "address": "3080 SMALLMAN ST",
-        "city": "Strip Loft",
-        "zip_code": "15201",
-        "current_owner_name": "3080   SMALLMAN ST  UNIT 4",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 255200,
-        "market_value": 255200,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

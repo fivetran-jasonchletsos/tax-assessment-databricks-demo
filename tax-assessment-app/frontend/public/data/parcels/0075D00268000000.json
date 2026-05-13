@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0075D00268000000",
+    "address": "3540 GERBER AVE",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3540   GERBER AVE",
+    "current_mailing_address": "3540   GERBER AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.41812,
+    "longitude": -80.08472
+  },
+  "assessments": {
+    "parcel_id": "0075D00268000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 126700,
+        "market_value": 126700,
+        "land_value": 18000,
+        "improvement_value": 108700,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1771,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 128471,
+        "market_value": 128471,
+        "land_value": 18251,
+        "improvement_value": 110220,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6117,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128471,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 122354,
+        "market_value": 122354,
+        "land_value": 17382,
+        "improvement_value": 104972,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4705,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 122354,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 117649,
+        "market_value": 117649,
+        "land_value": 16714,
+        "improvement_value": 100935,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3426,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117649,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 114223,
+        "market_value": 114223,
+        "land_value": 16227,
+        "improvement_value": 97996,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2239,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114223,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 111984,
+        "market_value": 111984,
+        "land_value": 15909,
+        "improvement_value": 96075,
+        "land_value_percentage": 14.2,
+        "improvement_value_percentage": 85.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111984,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075D00268000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075D00268000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0075D00268000000",
+    "comparables": [
+      {
+        "parcel_id": "0045A00266000000",
+        "address": "1250 DICKSON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126200,
+        "market_value": 126200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075D00066000000",
+        "address": "3549 MCCLURE AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3549   MCCLURE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 127900,
+        "market_value": 145900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045F00014000000",
+        "address": "1201 WOODLAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3080   BABCOCK BLVD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 125300,
+        "market_value": 125300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075C00065000000",
+        "address": "3535 FLEMING AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "107   WILLIAMS AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 125200,
+        "market_value": 125200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075F00007000000",
+        "address": "3537 CALIFORNIA AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "523   LIME LN",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 124100,
+        "market_value": 124100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075H00290000000",
+        "address": "3462 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3462   SHADELAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123800,
+        "market_value": 141800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,17 +174,30 @@
     "parcel_id": "0353D00060000000",
     "comparables": [
       {
-        "parcel_id": "0434D00284000000",
-        "address": "907 TIDAL TERRACE DR",
+        "parcel_id": "0355F00105000000",
+        "address": "1013 GARDEN PL",
         "city": "Shaler",
-        "zip_code": "15101",
-        "current_owner_name": "907   TIDAL TERRACE DR",
+        "zip_code": "15116",
+        "current_owner_name": "1013   GARDEN PL",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 101100,
-        "market_value": 119100,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 101000,
+        "market_value": 101000,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0355L00208000000",
+        "address": "1483 MAPLE AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1483   MAPLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101000,
+        "market_value": 119000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0353D00114000000",
@@ -197,7 +210,33 @@
         "assessed_value": 100900,
         "market_value": 118900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0356P00287000000",
+        "address": "206 S MAGNOLIA DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "206  S MAGNOLIA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101100,
+        "market_value": 119100,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520B00261000000",
+        "address": "134 IDA DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "134   IDA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101100,
+        "market_value": 119100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353D00046000000",
@@ -210,45 +249,6 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0166C00060000000",
-        "address": "206 SEAVEY RD",
-        "city": "Shaler",
-        "zip_code": "15223",
-        "current_owner_name": "206   SEAVEY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101200,
-        "market_value": 119200,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00057000000",
-        "address": "109 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "109   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100700,
-        "market_value": 100700,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355B00100000000",
-        "address": "1535 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "602   GLENN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101300,
-        "market_value": 119300,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 1.1
       }
     ]

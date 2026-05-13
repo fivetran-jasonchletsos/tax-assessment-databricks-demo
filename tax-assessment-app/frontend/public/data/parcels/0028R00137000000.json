@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0028R00137000000",
+    "address": "3310 JULIET ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "3310   JULIET ST",
+    "current_mailing_address": "3310   JULIET ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.083,
+    "latitude": 40.43476,
+    "longitude": -79.96228
+  },
+  "assessments": {
+    "parcel_id": "0028R00137000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 81300,
+        "market_value": 81300,
+        "land_value": 22600,
+        "improvement_value": 58700,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1136,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 82436,
+        "market_value": 82436,
+        "land_value": 22915,
+        "improvement_value": 59521,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3925,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82436,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 78511,
+        "market_value": 78511,
+        "land_value": 21824,
+        "improvement_value": 56687,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3019,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78511,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 75492,
+        "market_value": 75492,
+        "land_value": 20985,
+        "improvement_value": 54507,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2198,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75492,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73294,
+        "market_value": 73294,
+        "land_value": 20374,
+        "improvement_value": 52920,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1437,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73294,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 71857,
+        "market_value": 71857,
+        "land_value": 19975,
+        "improvement_value": 51882,
+        "land_value_percentage": 27.8,
+        "improvement_value_percentage": 72.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71857,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028R00137000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028R00137000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0028R00137000000",
+    "comparables": [
+      {
+        "parcel_id": "0028K00009000000",
+        "address": "311 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "311   COLTART ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 81300,
+        "market_value": 81300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028P00050000000",
+        "address": "3205 KENNETT SQ",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1212   BALMORAL DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81300,
+        "market_value": 81300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028G00182000000",
+        "address": "300 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "300   ATWOOD ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81200,
+        "market_value": 99200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028H00026000000",
+        "address": "362 S BOUQUET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "204   CENTER OAK DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81200,
+        "market_value": 81200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028H00154000000",
+        "address": "17 BOUNDARY ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5881   ELLSWORTH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81400,
+        "market_value": 81400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028G00162000000",
+        "address": "336 ATWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 13444",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81500,
+        "market_value": 81500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

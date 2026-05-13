@@ -122,6 +122,19 @@
     "parcel_id": "0011D00107000000",
     "comparables": [
       {
+        "parcel_id": "0027C00309000000",
+        "address": "4415 CENTRE AVE",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "515  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83100,
+        "market_value": 83100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0011D00099000000",
         "address": "2523 ALLEQUIPPA ST",
         "city": "10503",
@@ -132,7 +145,20 @@
         "assessed_value": 86000,
         "market_value": 86000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026S00178000000",
+        "address": "344 MELWOOD AVE",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "8   CHURCHILL RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 78700,
+        "market_value": 78700,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0011D00346000000",
@@ -145,20 +171,33 @@
         "assessed_value": 88700,
         "market_value": 88700,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
-        "parcel_id": "0011D00342000000",
-        "address": "211 WHITRIDGE ST",
+        "parcel_id": "0026S00177000000",
+        "address": "342 MELWOOD AVE",
         "city": "10503",
         "zip_code": "15213",
-        "current_owner_name": "211   WHITRIDGE ST",
-        "land_use_description": "TOWNHOUSE",
+        "current_owner_name": "8   CHURCHILL RD",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 63600,
-        "market_value": 81600,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
+        "assessed_value": 92600,
+        "market_value": 92600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0027D00152000000",
+        "address": "311 MELWOOD AVE",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "311   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 74000,
+        "market_value": 74000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
       }
     ]
   }

@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0028P00165013100",
+    "address": "3271 NIAGARA SQ",
+    "city": "Niagra Court",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "10641   CHARBONO WAY",
+    "current_mailing_address": "10641   CHARBONO WAY",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43524,
+    "longitude": -79.95484
+  },
+  "assessments": {
+    "parcel_id": "0028P00165013100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 39400,
+        "market_value": 39400,
+        "land_value": 0,
+        "improvement_value": 39400,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3886,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 35514,
+        "market_value": 35514,
+        "land_value": 0,
+        "improvement_value": 35514,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 696,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35514,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34818,
+        "market_value": 34818,
+        "land_value": 0,
+        "improvement_value": 34818,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 344,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34818,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 34474,
+        "market_value": 34474,
+        "land_value": 0,
+        "improvement_value": 34474,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34474,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 34474,
+        "market_value": 34474,
+        "land_value": 0,
+        "improvement_value": 34474,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -349,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34474,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 34823,
+        "market_value": 34823,
+        "land_value": 0,
+        "improvement_value": 34823,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34823,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028P00165013100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028P00165013100",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0028P00165013100",
+    "comparables": [
+      {
+        "parcel_id": "0028P00165043200",
+        "address": "3237 NIAGARA SQ",
+        "city": "Niagra Court",
+        "zip_code": "15213",
+        "current_owner_name": "3237   NIAGARA SQ",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 58100,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028P00165028100",
+        "address": "3249 NIAGARA SQ",
+        "city": "Niagra Court",
+        "zip_code": "15213",
+        "current_owner_name": "3249   NIAGARA SQ  UNIT 281",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 38500,
+        "market_value": 56500,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028P00165020100",
+        "address": "3259 NIAGARA SQ",
+        "city": "Niagra Court",
+        "zip_code": "15213",
+        "current_owner_name": "3259   NIAGARA SQ",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 41700,
+        "market_value": 59700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0085F00073000000",
+    "address": "1030 MURRAY HILL AVE",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1030   MURRAY HILL AVE",
+    "current_mailing_address": "1030   MURRAY HILL AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.163,
+    "latitude": 40.42036,
+    "longitude": -79.9115
+  },
+  "assessments": {
+    "parcel_id": "0085F00073000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 751100,
+        "market_value": 769100,
+        "land_value": 100500,
+        "improvement_value": 650600,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": 74030,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 733100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 677070,
+        "market_value": 693295,
+        "land_value": 90594,
+        "improvement_value": 586476,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": 13275,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 659070,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 663795,
+        "market_value": 679702,
+        "land_value": 88818,
+        "improvement_value": 574977,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": 6572,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 645795,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 657223,
+        "market_value": 672973,
+        "land_value": 87938,
+        "improvement_value": 569285,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 639223,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 657223,
+        "market_value": 672973,
+        "land_value": 87938,
+        "improvement_value": 569285,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": -6639,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 639223,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 663862,
+        "market_value": 679771,
+        "land_value": 88827,
+        "improvement_value": 575035,
+        "land_value_percentage": 13.4,
+        "improvement_value_percentage": 86.6,
+        "market_to_assessed_ratio": 1.02,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 645862,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085F00073000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0085F00073000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 131900,
+      "total_value_reduction": 131900,
+      "first_appeal_date": "24-Aug-15",
+      "most_recent_appeal_date": "24-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2091-2015",
+        "filed_date": "24-Aug-15",
+        "hearing_date": "24-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 381600,
+        "requested_value": 381600,
+        "final_value": 249700,
+        "value_reduction": 131900,
+        "reduction_percentage": 34.56,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085F00073000000",
+    "comparables": [
+      {
+        "parcel_id": "0086P00221000000",
+        "address": "1925 WIGHTMAN ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1925   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 749000,
+        "market_value": 749000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085J00027000000",
+        "address": "5455 DUNMOYLE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5455   DUNMOYLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 748100,
+        "market_value": 766100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085D00004000000",
+        "address": "1085 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "1085   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 746900,
+        "market_value": 764900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085D00001000000",
+        "address": "4 SHADY COURT DR",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "4   SHADY COURT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 756000,
+        "market_value": 756000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085M00129000000",
+        "address": "1280 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1280   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 756500,
+        "market_value": 774500,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085J00126000000",
+        "address": "5524 DUNMOYLE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5524   DUNMOYLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 757000,
+        "market_value": 775000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

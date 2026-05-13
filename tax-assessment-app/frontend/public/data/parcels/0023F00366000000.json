@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0023F00366000000",
+    "address": "20 JACKSONIA ST",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "20   JACKSONIA ST",
+    "current_mailing_address": "20   JACKSONIA ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.037,
+    "latitude": 40.4174,
+    "longitude": -80.06372
+  },
+  "assessments": {
+    "parcel_id": "0023F00366000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 198200,
+        "market_value": 216200,
+        "land_value": 74900,
+        "improvement_value": 123300,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 3138,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 180200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 195062,
+        "market_value": 212777,
+        "land_value": 73714,
+        "improvement_value": 121348,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": -1971,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 177062,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 197033,
+        "market_value": 214927,
+        "land_value": 74458,
+        "improvement_value": 122575,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 9382,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 179033,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 187651,
+        "market_value": 204692,
+        "land_value": 70913,
+        "improvement_value": 116738,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 7217,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 169651,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 180434,
+        "market_value": 196820,
+        "land_value": 68186,
+        "improvement_value": 112248,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 5255,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 162434,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 175179,
+        "market_value": 191088,
+        "land_value": 66200,
+        "improvement_value": 108979,
+        "land_value_percentage": 37.8,
+        "improvement_value_percentage": 62.2,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 157179,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023F00366000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0023F00366000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jul-15",
+      "most_recent_appeal_date": "6-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-570-2015",
+        "filed_date": "6-Jul-15",
+        "hearing_date": "6-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 58100,
+        "requested_value": 58100,
+        "final_value": 220000,
+        "value_reduction": 0,
+        "reduction_percentage": -278.66,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023F00366000000",
+    "comparables": [
+      {
+        "parcel_id": "0023H00235000000",
+        "address": "1404 JAMES ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1404   JAMES ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 198200,
+        "market_value": 198200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023F00335000000",
+        "address": "1514 ARCH ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1514   ARCH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 198700,
+        "market_value": 216700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023K00311000000",
+        "address": "1405 ARCH ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "12   HICKORY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 197600,
+        "market_value": 197600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023J00135000000",
+        "address": "1415 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1415   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 197300,
+        "market_value": 215300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023G00046000000",
+        "address": "1503 BOYLE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1503   BOYLE ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 196400,
+        "market_value": 196400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023F00289000000",
+        "address": "211 ALPINE AVE",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "211   MARWOOD TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200700,
+        "market_value": 200700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

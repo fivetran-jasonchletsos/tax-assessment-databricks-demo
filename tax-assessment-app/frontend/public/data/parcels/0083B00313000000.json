@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0083B00313000000",
+    "address": "724 MELLON ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "201   SHADY HOLLOW LN",
+    "current_mailing_address": "201   SHADY HOLLOW LN",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.074,
+    "latitude": 40.46078,
+    "longitude": -79.91116
+  },
+  "assessments": {
+    "parcel_id": "0083B00313000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 121800,
+        "market_value": 121800,
+        "land_value": 37100,
+        "improvement_value": 84700,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5420,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 116380,
+        "market_value": 116380,
+        "land_value": 35449,
+        "improvement_value": 80931,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116380,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 116380,
+        "market_value": 116380,
+        "land_value": 35449,
+        "improvement_value": 80931,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1176,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116380,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 117556,
+        "market_value": 117556,
+        "land_value": 35807,
+        "improvement_value": 81749,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5597,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117556,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 111959,
+        "market_value": 111959,
+        "land_value": 34102,
+        "improvement_value": 77857,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4306,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111959,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 107653,
+        "market_value": 107653,
+        "land_value": 32790,
+        "improvement_value": 74863,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107653,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083B00313000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083B00313000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083B00313000000",
+    "comparables": [
+      {
+        "parcel_id": "0082R00113000000",
+        "address": "5804 WELLESLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5804   WELLESLEY AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 121800,
+        "market_value": 121800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082N00254000000",
+        "address": "747 CHISLETT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "304  S NEGLEY AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 121900,
+        "market_value": 121900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083A00119000000",
+        "address": "5427 BAYWOOD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5427   BAYWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083A00207000000",
+        "address": "5508 HAYS ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5508   HAYS ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082J00097000000",
+        "address": "829 JANCEY ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6126   CALLERY ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 122100,
+        "market_value": 122100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083A00100000000",
+        "address": "735 CHISLETT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "908   GLENOVER PL",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 121500,
+        "market_value": 121500,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

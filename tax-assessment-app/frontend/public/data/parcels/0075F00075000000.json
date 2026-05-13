@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0075F00075000000",
+    "address": "3517 MEXICO ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3375  S RAINBOW BLVD  STE 80611",
+    "current_mailing_address": "3375  S RAINBOW BLVD  STE 80611",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.41788,
+    "longitude": -80.06396
+  },
+  "assessments": {
+    "parcel_id": "0075F00075000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 58500,
+        "market_value": 58500,
+        "land_value": 14800,
+        "improvement_value": 43700,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3637,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 54863,
+        "market_value": 54863,
+        "land_value": 13879,
+        "improvement_value": 40984,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1597,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54863,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 53266,
+        "market_value": 53266,
+        "land_value": 13475,
+        "improvement_value": 39791,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1044,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53266,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 52222,
+        "market_value": 52222,
+        "land_value": 13211,
+        "improvement_value": 39011,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 517,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 52222,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 51705,
+        "market_value": 51705,
+        "land_value": 13080,
+        "improvement_value": 38625,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51705,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 51705,
+        "market_value": 51705,
+        "land_value": 13080,
+        "improvement_value": 38625,
+        "land_value_percentage": 25.3,
+        "improvement_value_percentage": 74.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51705,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075F00075000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075F00075000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0075F00075000000",
+    "comparables": [
+      {
+        "parcel_id": "0044H00092000000",
+        "address": "2680 WOODLAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2680   WOODLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58500,
+        "market_value": 58500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075L00313000000",
+        "address": "3328 SAVOY ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3328   SAVOY ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 58500,
+        "market_value": 76500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045F00294000000",
+        "address": "2643 BRIGHTON RD",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "203   BONAIRE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58600,
+        "market_value": 58600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075L00118000000",
+        "address": "1605 ANTRIM ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "340   GIRARD AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 58400,
+        "market_value": 58400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0076A00148000000",
+        "address": "3500 CAMPUS ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3500   CAMPUS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58600,
+        "market_value": 76600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045A00105000000",
+        "address": "2914 MULLINS ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2914   MULLINS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58700,
+        "market_value": 76700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

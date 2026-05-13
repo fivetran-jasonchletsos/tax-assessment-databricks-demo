@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0029D00052000000",
+    "address": "3275 PARKVIEW AVE",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "117   BAKER DR",
+    "current_mailing_address": "117   BAKER DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.121,
+    "latitude": 40.43272,
+    "longitude": -79.951
+  },
+  "assessments": {
+    "parcel_id": "0029D00052000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 145000,
+        "market_value": 145000,
+        "land_value": 70200,
+        "improvement_value": 74800,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14294,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 145000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 130706,
+        "market_value": 130706,
+        "land_value": 63279,
+        "improvement_value": 67427,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2562,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130706,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 128144,
+        "market_value": 128144,
+        "land_value": 62039,
+        "improvement_value": 66105,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1268,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128144,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 126876,
+        "market_value": 126876,
+        "land_value": 61425,
+        "improvement_value": 65451,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126876,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 126876,
+        "market_value": 126876,
+        "land_value": 61425,
+        "improvement_value": 65451,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1282,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126876,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 128158,
+        "market_value": 128158,
+        "land_value": 62046,
+        "improvement_value": 66112,
+        "land_value_percentage": 48.4,
+        "improvement_value_percentage": 51.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128158,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0029D00052000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0029D00052000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-825-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 102600,
+        "requested_value": 102600,
+        "final_value": 160000,
+        "value_reduction": 0,
+        "reduction_percentage": -55.95,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0029D00052000000",
+    "comparables": [
+      {
+        "parcel_id": "0028N00141000000",
+        "address": "315 LAWN ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "138   STRATFORD AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 145000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028R00015000000",
+        "address": "3426 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3712   ALLENDALE CIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 145100,
+        "market_value": 145100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028R00101000000",
+        "address": "3321 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5433   CARNEGIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144600,
+        "market_value": 144600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028N00070000000",
+        "address": "310 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2445   PINE OAK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 145600,
+        "market_value": 145600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0029D00083000000",
+        "address": "3353 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "116   ERICSON CIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 144400,
+        "market_value": 144400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028A00095000000",
+        "address": "213 DUNSEITH ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "213   DUNSEITH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144300,
+        "market_value": 144300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

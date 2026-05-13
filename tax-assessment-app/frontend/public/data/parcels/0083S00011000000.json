@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0083S00011000000",
+    "address": "51 AUBURN ST",
+    "city": "11201",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+    "current_mailing_address": "412   BLVD OF THE ALLIES   FL 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.149,
+    "latitude": 40.46222,
+    "longitude": -79.90624
+  },
+  "assessments": {
+    "parcel_id": "0083S00011000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 239800,
+        "market_value": 239800,
+        "land_value": 14100,
+        "improvement_value": 225700,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3355,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 239800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 243155,
+        "market_value": 243155,
+        "land_value": 14297,
+        "improvement_value": 228858,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11578,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 243155,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 231577,
+        "market_value": 231577,
+        "land_value": 13616,
+        "improvement_value": 217961,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8906,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 231577,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 222671,
+        "market_value": 222671,
+        "land_value": 13092,
+        "improvement_value": 209579,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6485,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222671,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 216186,
+        "market_value": 216186,
+        "land_value": 12711,
+        "improvement_value": 203475,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4238,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 216186,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 211948,
+        "market_value": 211948,
+        "land_value": 12462,
+        "improvement_value": 199486,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211948,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083S00011000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083S00011000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083S00011000000",
+    "comparables": [
+      {
+        "parcel_id": "0083S00009000000",
+        "address": "57 AUBURN ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 244700,
+        "market_value": 244700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083S00007000000",
+        "address": "67 AUBURN ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 253200,
+        "market_value": 253200,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083S00005000000",
+        "address": "77 AUBURN ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 219400,
+        "market_value": 219400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

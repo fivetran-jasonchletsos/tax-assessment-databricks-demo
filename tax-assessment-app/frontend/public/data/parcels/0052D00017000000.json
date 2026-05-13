@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052D00017000000",
+    "address": "5305 PEMBROKE PL",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5305   PEMBROKE PL",
+    "current_mailing_address": "5305   PEMBROKE PL",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.044,
+    "latitude": 40.44086,
+    "longitude": -79.9283
+  },
+  "assessments": {
+    "parcel_id": "0052D00017000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 480700,
+        "market_value": 480700,
+        "land_value": 124799,
+        "improvement_value": 355901,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7606,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 480700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 473094,
+        "market_value": 473094,
+        "land_value": 122825,
+        "improvement_value": 350269,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4779,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 473094,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 477873,
+        "market_value": 477873,
+        "land_value": 124066,
+        "improvement_value": 353807,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22755,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 477873,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 455118,
+        "market_value": 455118,
+        "land_value": 118158,
+        "improvement_value": 336960,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17504,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 455118,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 437614,
+        "market_value": 437614,
+        "land_value": 113613,
+        "improvement_value": 324001,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12746,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 437614,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 424868,
+        "market_value": 424868,
+        "land_value": 110304,
+        "improvement_value": 314564,
+        "land_value_percentage": 26.0,
+        "improvement_value_percentage": 74.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 424868,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052D00017000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052D00017000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Aug-19",
+      "most_recent_appeal_date": "13-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29529-2019",
+        "filed_date": "13-Aug-19",
+        "hearing_date": "13-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 316100,
+        "requested_value": 316100,
+        "final_value": 480700,
+        "value_reduction": 0,
+        "reduction_percentage": -52.07,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052D00017000000",
+    "comparables": [
+      {
+        "parcel_id": "0052A00116000000",
+        "address": "404 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "404   DEVONSHIRE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 480900,
+        "market_value": 498900,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085B00216000000",
+        "address": "5819 KENTUCKY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5819   KENTUCKY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 480500,
+        "market_value": 498500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084N00082000000",
+        "address": "633 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "633  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 481000,
+        "market_value": 499000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084G00104000000",
+        "address": "224 EMERSON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "224   EMERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 480200,
+        "market_value": 498200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052B00274000000",
+        "address": "7 SHADYSIDE LN",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "7   SHADYSIDE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 480000,
+        "market_value": 480000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052B00265000000",
+        "address": "1 SHADYSIDE LN",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1   SHADYSIDE LN  STE 3300",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 481600,
+        "market_value": 499600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0082S00148000000",
+    "address": "1119 FARRAGUT ST",
+    "city": "11101",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1119   FARRAGUT ST",
+    "current_mailing_address": "1119   FARRAGUT ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.118,
+    "latitude": 40.46342,
+    "longitude": -79.91812
+  },
+  "assessments": {
+    "parcel_id": "0082S00148000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 274000,
+        "market_value": 274000,
+        "land_value": 120000,
+        "improvement_value": 154000,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19742,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 254258,
+        "market_value": 254258,
+        "land_value": 111353,
+        "improvement_value": 142905,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2517,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 254258,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 251741,
+        "market_value": 251741,
+        "land_value": 110251,
+        "improvement_value": 141490,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 251741,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 251741,
+        "market_value": 251741,
+        "land_value": 110251,
+        "improvement_value": 141490,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2543,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 251741,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 254284,
+        "market_value": 254284,
+        "land_value": 111365,
+        "improvement_value": 142919,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12108,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 254284,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 242176,
+        "market_value": 242176,
+        "land_value": 106062,
+        "improvement_value": 136114,
+        "land_value_percentage": 43.8,
+        "improvement_value_percentage": 56.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 242176,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082S00148000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082S00148000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Sep-15",
+      "most_recent_appeal_date": "1-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1928-2015",
+        "filed_date": "1-Sep-15",
+        "hearing_date": "1-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 201500,
+        "requested_value": 201500,
+        "final_value": 274000,
+        "value_reduction": 0,
+        "reduction_percentage": -35.98,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082S00148000000",
+    "comparables": [
+      {
+        "parcel_id": "0082S00120000000",
+        "address": "1000 N HIGHLAND AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1000  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 273800,
+        "market_value": 291800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082M00387000000",
+        "address": "1410 N HIGHLAND AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1410  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272500,
+        "market_value": 290500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082H00259000000",
+        "address": "1440 GREYSTONE DR",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1440   GREYSTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 275800,
+        "market_value": 293800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082S00327000000",
+        "address": "6219 WELLESLEY AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6219   WELLESLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 276800,
+        "market_value": 294800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083D00023000000",
+        "address": "916 N HIGHLAND AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "916  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 271000,
+        "market_value": 271000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082M00327000000",
+        "address": "6041 GRAFTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6041   GRAFTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 270300,
+        "market_value": 288300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

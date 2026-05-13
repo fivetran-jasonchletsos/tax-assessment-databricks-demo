@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051H00076000000",
+    "address": "406 S FAIRMOUNT ST",
+    "city": "10802",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "406  S FAIRMOUNT ST",
+    "current_mailing_address": "406  S FAIRMOUNT ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.129,
+    "latitude": 40.44182,
+    "longitude": -79.9211
+  },
+  "assessments": {
+    "parcel_id": "0051H00076000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 278800,
+        "market_value": 278800,
+        "land_value": 98800,
+        "improvement_value": 180000,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12404,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 278800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 266396,
+        "market_value": 266396,
+        "land_value": 94404,
+        "improvement_value": 171992,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 266396,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 266396,
+        "market_value": 266396,
+        "land_value": 94404,
+        "improvement_value": 171992,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2691,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 266396,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 269087,
+        "market_value": 269087,
+        "land_value": 95357,
+        "improvement_value": 173730,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12813,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 269087,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 256274,
+        "market_value": 256274,
+        "land_value": 90817,
+        "improvement_value": 165457,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9856,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 256274,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 246418,
+        "market_value": 246418,
+        "land_value": 87324,
+        "improvement_value": 159094,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 246418,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051H00076000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051H00076000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jun-15",
+      "most_recent_appeal_date": "9-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1299-2015",
+        "filed_date": "9-Jun-15",
+        "hearing_date": "9-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 218000,
+        "requested_value": 218000,
+        "final_value": 278800,
+        "value_reduction": 0,
+        "reduction_percentage": -27.89,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051H00076000000",
+    "comparables": [
+      {
+        "parcel_id": "0084A00040000000",
+        "address": "226 S NEGLEY AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "226  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 279300,
+        "market_value": 297300,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051D00163000000",
+        "address": "304 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "3233   PARKVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 278300,
+        "market_value": 278300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051H00021000000",
+        "address": "411 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "411  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 278100,
+        "market_value": 296100,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051D00009000000",
+        "address": "218 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "218  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 280000,
+        "market_value": 280000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051G00235000000",
+        "address": "451 S AIKEN AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 90003",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 281400,
+        "market_value": 281400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050S00206000000",
+        "address": "115 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "115  S GRAHAM ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 281900,
+        "market_value": 299900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

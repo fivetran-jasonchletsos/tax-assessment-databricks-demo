@@ -172,6 +172,33 @@
   },
   "comparables": {
     "parcel_id": "0022B00057000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0045R00033000000",
+        "address": "1107 ISLAND AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1107   ISLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83600,
+        "market_value": 101600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0045P00112000000",
+        "address": "1317 ISLAND AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "43   RIVERVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62500,
+        "market_value": 62500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      }
+    ]
   }
 }

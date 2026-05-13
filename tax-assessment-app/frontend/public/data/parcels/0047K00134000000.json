@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0047K00134000000",
+    "address": "1131 BUENTE ST",
+    "city": "Ward 26 - Northview Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1131   BUENTE ST",
+    "current_mailing_address": "1131   BUENTE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.101,
+    "latitude": 40.41788,
+    "longitude": -80.06564
+  },
+  "assessments": {
+    "parcel_id": "0047K00134000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 40000,
+        "market_value": 40000,
+        "land_value": 9000,
+        "improvement_value": 31000,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2487,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37513,
+        "market_value": 37513,
+        "land_value": 8440,
+        "improvement_value": 29073,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1092,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37513,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 36421,
+        "market_value": 36421,
+        "land_value": 8194,
+        "improvement_value": 28227,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 714,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36421,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 35707,
+        "market_value": 35707,
+        "land_value": 8034,
+        "improvement_value": 27673,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 353,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35707,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 35354,
+        "market_value": 35354,
+        "land_value": 7954,
+        "improvement_value": 27400,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35354,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35354,
+        "market_value": 35354,
+        "land_value": 7954,
+        "improvement_value": 27400,
+        "land_value_percentage": 22.5,
+        "improvement_value_percentage": 77.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35354,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047K00134000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047K00134000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-May-15",
+      "most_recent_appeal_date": "13-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1067-2015",
+        "filed_date": "13-May-15",
+        "hearing_date": "13-May-15",
+        "appeal_status": "approved",
+        "original_value": 40000,
+        "requested_value": 40000,
+        "final_value": 40000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047K00134000000",
+    "comparables": [
+      {
+        "parcel_id": "0047L00138000000",
+        "address": "1921 BADER ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1921   BADER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 58000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047C00143000000",
+        "address": "2218 HARBOR ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2218   HARBOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0047G00062000000",
+        "address": "2206 ROCKLEDGE ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2206   ROCKLEDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 58100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0047G00312000000",
+        "address": "1501 MANDLIN WAY",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "16920   CROOM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047F00045000000",
+        "address": "2125 DONORA ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2125   DONORA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39800,
+        "market_value": 57800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0047L00146000000",
+        "address": "1930 BADER ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1930   BADER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39800,
+        "market_value": 57800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

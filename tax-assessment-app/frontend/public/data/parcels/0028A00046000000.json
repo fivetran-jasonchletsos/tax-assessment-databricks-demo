@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028A00046000000",
+    "address": "267 ROBINSON ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1421   CHAPLEAU DR",
+    "current_mailing_address": "1421   CHAPLEAU DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": 40.4326,
+    "longitude": -79.94956
+  },
+  "assessments": {
+    "parcel_id": "0028A00046000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 105000,
+        "market_value": 105000,
+        "land_value": 17500,
+        "improvement_value": 87500,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7567,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 97433,
+        "market_value": 97433,
+        "land_value": 16238,
+        "improvement_value": 81195,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 964,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97433,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 96469,
+        "market_value": 96469,
+        "land_value": 16078,
+        "improvement_value": 80391,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96469,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96469,
+        "market_value": 96469,
+        "land_value": 16078,
+        "improvement_value": 80391,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -975,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96469,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 97444,
+        "market_value": 97444,
+        "land_value": 16240,
+        "improvement_value": 81204,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4640,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97444,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 92804,
+        "market_value": 92804,
+        "land_value": 15467,
+        "improvement_value": 77337,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92804,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028A00046000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028A00046000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jun-17",
+      "most_recent_appeal_date": "6-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15500-2017",
+        "filed_date": "6-Jun-17",
+        "hearing_date": "6-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 117500,
+        "requested_value": 117500,
+        "final_value": 117500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028A00046000000",
+    "comparables": [
+      {
+        "parcel_id": "0011H00010000000",
+        "address": "3107 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "106   CHARLESTOWN HUNT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105400,
+        "market_value": 105400,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00076000000",
+        "address": "2544 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1047   HERITAGE LAKE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102700,
+        "market_value": 102700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011D00062000000",
+        "address": "2522 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1400   FOX CHAPEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011D00063000000",
+        "address": "2524 ALLEQUIPPA ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1400   FOX CHAPEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028A00044000000",
+        "address": "263 ROBINSON ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1601   POWERS RUN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 109100,
+        "market_value": 109100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011D00016000000",
+        "address": "3126 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3124   ELLERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112800,
+        "market_value": 112800,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

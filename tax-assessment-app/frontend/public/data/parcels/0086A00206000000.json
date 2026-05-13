@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0086A00206000000",
+    "address": "1280 BELLEROCK ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1280   BELLEROCK ST",
+    "current_mailing_address": "1280   BELLEROCK ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.13,
+    "latitude": 40.41964,
+    "longitude": -79.91606
+  },
+  "assessments": {
+    "parcel_id": "0086A00206000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 512000,
+        "market_value": 530000,
+        "land_value": 140200,
+        "improvement_value": 371800,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 31816,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 494000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 480184,
+        "market_value": 497065,
+        "land_value": 131487,
+        "improvement_value": 348697,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 13985,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 462184,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 466199,
+        "market_value": 482588,
+        "land_value": 127658,
+        "improvement_value": 338541,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 9141,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 448199,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 457058,
+        "market_value": 473126,
+        "land_value": 125155,
+        "improvement_value": 331903,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 4525,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 439058,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 452533,
+        "market_value": 468442,
+        "land_value": 123916,
+        "improvement_value": 328617,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 434533,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 452533,
+        "market_value": 468442,
+        "land_value": 123916,
+        "improvement_value": 328617,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 434533,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086A00206000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0086A00206000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "30-Jun-16",
+      "most_recent_appeal_date": "30-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8998-2016",
+        "filed_date": "30-Jun-16",
+        "hearing_date": "30-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 395500,
+        "requested_value": 395500,
+        "final_value": 598000,
+        "value_reduction": 0,
+        "reduction_percentage": -51.2,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086A00206000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00281000000",
+        "address": "416 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "416   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 512000,
+        "market_value": 530000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086D00184000000",
+        "address": "1520 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1520   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 512000,
+        "market_value": 530000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085K00116000000",
+        "address": "5710 LYNNE HAVEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5710   LYNNE HAVEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 511900,
+        "market_value": 529900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086C00225000000",
+        "address": "1407 MURRAY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1407   MURRAY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 512200,
+        "market_value": 530200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086E00186000000",
+        "address": "5511 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5511   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 512200,
+        "market_value": 530200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086M00320000000",
+        "address": "6400 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6400   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 512400,
+        "market_value": 530400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085P00178000000",
+    "address": "5601 WILKINS AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "104   MIRAGE DR",
+    "current_mailing_address": "104   MIRAGE DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.194,
+    "latitude": 40.42228,
+    "longitude": -79.92254
+  },
+  "assessments": {
+    "parcel_id": "0085P00178000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 363200,
+        "market_value": 363200,
+        "land_value": 72600,
+        "improvement_value": 290600,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8945,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 363200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 354255,
+        "market_value": 354255,
+        "land_value": 70811,
+        "improvement_value": 283444,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13625,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 354255,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 340630,
+        "market_value": 340630,
+        "land_value": 68088,
+        "improvement_value": 272542,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9921,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 340630,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 330709,
+        "market_value": 330709,
+        "land_value": 66105,
+        "improvement_value": 264604,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6484,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 330709,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 324225,
+        "market_value": 324225,
+        "land_value": 64809,
+        "improvement_value": 259416,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3210,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 324225,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 321015,
+        "market_value": 321015,
+        "land_value": 64167,
+        "improvement_value": 256848,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 321015,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085P00178000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085P00178000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Aug-16",
+      "most_recent_appeal_date": "22-Aug-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8990-2016",
+        "filed_date": "22-Aug-16",
+        "hearing_date": "22-Aug-16",
+        "appeal_status": "approved",
+        "original_value": 300000,
+        "requested_value": 300000,
+        "final_value": 300000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085P00178000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00173000000",
+        "address": "5328 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "415  S CRAIG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 362800,
+        "market_value": 362800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085J00079000000",
+        "address": "1125 WIGHTMAN ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1125   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 362800,
+        "market_value": 380800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085P00082000000",
+        "address": "5705 SOLWAY ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5705   SOLWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 362600,
+        "market_value": 380600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086C00094000000",
+        "address": "1537 ASBURY PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "910   WALNUT SPRING LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 364000,
+        "market_value": 364000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086D00155000000",
+        "address": "1431 DENNISTON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1431   DENNISTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 364200,
+        "market_value": 364200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052M00174000000",
+        "address": "5414 WILKINS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "22  S TEALBROOK DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 362100,
+        "market_value": 362100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

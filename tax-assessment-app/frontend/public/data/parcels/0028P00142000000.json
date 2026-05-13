@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028P00142000000",
+    "address": "359 OPHELIA ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1691   EWING CIR",
+    "current_mailing_address": "1691   EWING CIR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.025,
+    "latitude": 40.43404,
+    "longitude": -79.9444
+  },
+  "assessments": {
+    "parcel_id": "0028P00142000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 50300,
+        "market_value": 50300,
+        "land_value": 16099,
+        "improvement_value": 34201,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 799,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 49501,
+        "market_value": 49501,
+        "land_value": 15844,
+        "improvement_value": 33657,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -501,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49501,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 50002,
+        "market_value": 50002,
+        "land_value": 16004,
+        "improvement_value": 33998,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2381,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50002,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 47621,
+        "market_value": 47621,
+        "land_value": 15242,
+        "improvement_value": 32379,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1831,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47621,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 45790,
+        "market_value": 45790,
+        "land_value": 14656,
+        "improvement_value": 31134,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1333,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45790,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 44457,
+        "market_value": 44457,
+        "land_value": 14229,
+        "improvement_value": 30228,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44457,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028P00142000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028P00142000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "20-May-16",
+      "most_recent_appeal_date": "20-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8253-2016",
+        "filed_date": "20-May-16",
+        "hearing_date": "20-May-16",
+        "appeal_status": "approved",
+        "original_value": 50300,
+        "requested_value": 50300,
+        "final_value": 50300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028P00142000000",
+    "comparables": [
+      {
+        "parcel_id": "0028A00358000A00",
+        "address": "236 CHESTERFIELD RD",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1522   CELEBRATION CIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50300,
+        "market_value": 50300,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0029H00300000000",
+        "address": "BOUNDARY ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 50300,
+        "market_value": 50300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028M00008000000",
+        "address": "416 OAKLAND AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "208   FIELDGATE DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50200,
+        "market_value": 50200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028P00100000000",
+        "address": "358 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3003   MIDDLETOWN RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50400,
+        "market_value": 50400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028P00140000000",
+        "address": "355 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5402   CARNEGIE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50400,
+        "market_value": 50400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029D00081000000",
+        "address": "3349 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1522   CELEBRATION CIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50400,
+        "market_value": 50400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

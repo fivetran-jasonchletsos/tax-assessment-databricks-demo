@@ -10,6 +10,7 @@
 import type {
   SummaryStats,
   ParcelSearchResponse,
+  ParcelSearchResult,
   ParcelDetail,
   AssessmentsResponse,
   ExemptionsResponse,
@@ -64,7 +65,24 @@ async function loadSummary(): Promise<SummaryStats> {
 
 async function loadParcels(): Promise<ParcelSearchResponse> {
   if (parcelsCache) return parcelsCache;
-  parcelsCache = await fetchJson<ParcelSearchResponse>('/data/parcels.json');
+  // Snapshot ships as a column-oriented `{count, columns, rows}` bundle
+  // for ~65% size savings at 300K-parcel scale. Materialize back into
+  // `ParcelSearchResult` objects here so callers don't see the wire
+  // format. Legacy `{count, results: [...]}` format is also supported
+  // for older snapshots / mock data.
+  const raw = await fetchJson<any>('/data/parcels.json');
+  let results: ParcelSearchResult[];
+  if (Array.isArray(raw.rows) && Array.isArray(raw.columns)) {
+    const cols: string[] = raw.columns;
+    results = raw.rows.map((row: any[]) => {
+      const obj: Record<string, any> = {};
+      for (let i = 0; i < cols.length; i++) obj[cols[i]] = row[i];
+      return obj as ParcelSearchResult;
+    });
+  } else {
+    results = raw.results ?? [];
+  }
+  parcelsCache = { count: raw.count ?? results.length, results };
   return parcelsCache;
 }
 

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0224H00102000000",
+    "address": "604 BERKSHIRE DR",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "604   BERKSHIRE DR",
+    "current_mailing_address": "604   BERKSHIRE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.012,
+    "latitude": 40.49316,
+    "longitude": -79.91356
+  },
+  "assessments": {
+    "parcel_id": "0224H00102000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 577700,
+        "market_value": 577700,
+        "land_value": 115500,
+        "improvement_value": 462200,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9141,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 577700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 568559,
+        "market_value": 568559,
+        "land_value": 113672,
+        "improvement_value": 454887,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5744,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 568559,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 574303,
+        "market_value": 574303,
+        "land_value": 114820,
+        "improvement_value": 459483,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27347,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 574303,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 546956,
+        "market_value": 546956,
+        "land_value": 109353,
+        "improvement_value": 437603,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21036,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546956,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 525920,
+        "market_value": 525920,
+        "land_value": 105147,
+        "improvement_value": 420773,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15318,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 525920,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 510602,
+        "market_value": 510602,
+        "land_value": 102085,
+        "improvement_value": 408517,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 510602,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0224H00102000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0224H00102000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-May-16",
+      "most_recent_appeal_date": "4-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-10247-2016",
+        "filed_date": "4-May-16",
+        "hearing_date": "4-May-16",
+        "appeal_status": "approved",
+        "original_value": 698400,
+        "requested_value": 698400,
+        "final_value": 886900,
+        "value_reduction": 0,
+        "reduction_percentage": -26.99,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0224H00102000000",
+    "comparables": [
+      {
+        "parcel_id": "0224G00119000000",
+        "address": "610 TWIN PINE RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "610   TWIN PINE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 578200,
+        "market_value": 596200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0224A00350000000",
+        "address": "150 OAKHURST RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "150   OAKHURST RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 577100,
+        "market_value": 595100,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0225P00028000000",
+        "address": "201 GRANDVIEW DR N",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "201  N GRANDVIEW DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 576700,
+        "market_value": 594700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0225A00150000000",
+        "address": "116 MARVELWOOD PL",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "116   MARVELWOOD PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 576200,
+        "market_value": 594200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0225K00010000000",
+        "address": "32 LONGFELLOW RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "32   LONGFELLOW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 579900,
+        "market_value": 597900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0225N00099000000",
+        "address": "218 GRANDVIEW DR N",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "218   GRANDVIEW DR N",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 582000,
+        "market_value": 600000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

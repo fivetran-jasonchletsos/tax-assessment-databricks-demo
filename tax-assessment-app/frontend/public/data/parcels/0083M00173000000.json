@@ -1,0 +1,253 @@
+{
+  "parcel": {
+    "parcel_id": "0083M00173000000",
+    "address": "20 MAYFLOWER ST",
+    "city": "11203",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "20   MAYFLOWER ST",
+    "current_mailing_address": "20   MAYFLOWER ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.46258,
+    "longitude": -79.924
+  },
+  "assessments": {
+    "parcel_id": "0083M00173000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 135800,
+        "market_value": 153800,
+        "land_value": 3700,
+        "improvement_value": 132100,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 9786,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 117800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 126014,
+        "market_value": 142716,
+        "land_value": 3433,
+        "improvement_value": 122581,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 1247,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 108014,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 124767,
+        "market_value": 141304,
+        "land_value": 3399,
+        "improvement_value": 121368,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 106767,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 124767,
+        "market_value": 141304,
+        "land_value": 3399,
+        "improvement_value": 121368,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": -1261,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 106767,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 126028,
+        "market_value": 142732,
+        "land_value": 3433,
+        "improvement_value": 122595,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 6001,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 108028,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 120027,
+        "market_value": 135936,
+        "land_value": 3270,
+        "improvement_value": 116757,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 102027,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083M00173000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0083M00173000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 35900,
+      "total_value_reduction": 35900,
+      "first_appeal_date": "24-Jul-15",
+      "most_recent_appeal_date": "24-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1980-2015",
+        "filed_date": "24-Jul-15",
+        "hearing_date": "24-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 54100,
+        "requested_value": 54100,
+        "final_value": 18200,
+        "value_reduction": 35900,
+        "reduction_percentage": 66.36,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083M00173000000",
+    "comparables": [
+      {
+        "parcel_id": "0083M00174000000",
+        "address": "22 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "22   MAYFLOWER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083M00176000000",
+        "address": "26 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "26   MAYFLOWER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083M00301000000",
+        "address": "6098 CARVER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "4249   EASTON WAY  STE 220",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131600,
+        "market_value": 131600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083M00305000000",
+        "address": "6116 CARVER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "4249   EASTON WAY  STE 220",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131500,
+        "market_value": 131500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0122C00117000000",
     "comparables": [
       {
+        "parcel_id": "0171A00118000000",
+        "address": "215 LEXINGTON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "215   LEXINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 211400,
+        "market_value": 229400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0122C00158000000",
         "address": "127 FREEPORT RD",
         "city": "Aspinwall",
@@ -184,7 +197,7 @@
         "assessed_value": 211200,
         "market_value": 211200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0122D00060000000",
@@ -197,58 +210,45 @@
         "assessed_value": 211000,
         "market_value": 211000,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0122C00019000000",
-        "address": "212 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "212   2ND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 213000,
-        "market_value": 213000,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0122C00025000000",
-        "address": "134 2ND ST",
+        "parcel_id": "0169R00131000000",
+        "address": "124 4TH ST",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "12   STROHM DR",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "124   4TH ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 209500,
-        "market_value": 209500,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 211000,
+        "market_value": 229000,
+        "assessed_value_change_pct": -0.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0122D00026000000",
-        "address": "130 EMERSON AVE",
+        "parcel_id": "0169R00150000000",
+        "address": "303 WESTERN AVE",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "130   EMERSON AVE",
+        "current_owner_name": "303   WESTERN AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 209200,
-        "market_value": 227200,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value": 211800,
+        "market_value": 229800,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0122D00028000000",
-        "address": "128 EMERSON AVE",
+        "parcel_id": "0170N00026000000",
+        "address": "222 EMERSON AVE",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "128   EMERSON AVE",
+        "current_owner_name": "222   EMERSON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 214000,
-        "market_value": 232000,
-        "assessed_value_change_pct": -4.9,
+        "assessed_value": 211900,
+        "market_value": 229900,
+        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

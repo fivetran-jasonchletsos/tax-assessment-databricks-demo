@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085N00141000000",
+    "address": "1240 MURDOCH RD",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1240   MURDOCH RD",
+    "current_mailing_address": "1240   MURDOCH RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.196,
+    "latitude": 40.42084,
+    "longitude": -79.91138
+  },
+  "assessments": {
+    "parcel_id": "0085N00141000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 404700,
+        "market_value": 404700,
+        "land_value": 141100,
+        "improvement_value": 263600,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6404,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 404700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 398296,
+        "market_value": 398296,
+        "land_value": 138867,
+        "improvement_value": 259429,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4024,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 398296,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 402320,
+        "market_value": 402320,
+        "land_value": 140270,
+        "improvement_value": 262050,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19158,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 402320,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 383162,
+        "market_value": 383162,
+        "land_value": 133590,
+        "improvement_value": 249572,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14737,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 383162,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 368425,
+        "market_value": 368425,
+        "land_value": 128452,
+        "improvement_value": 239973,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10730,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 368425,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 357695,
+        "market_value": 357695,
+        "land_value": 124711,
+        "improvement_value": 232984,
+        "land_value_percentage": 34.9,
+        "improvement_value_percentage": 65.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 357695,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085N00141000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085N00141000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jun-18",
+      "most_recent_appeal_date": "15-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23223-2018",
+        "filed_date": "15-Jun-18",
+        "hearing_date": "15-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 330400,
+        "requested_value": 330400,
+        "final_value": 404700,
+        "value_reduction": 0,
+        "reduction_percentage": -22.49,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085N00141000000",
+    "comparables": [
+      {
+        "parcel_id": "0085P00135000000",
+        "address": "5636 WILKINS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 8216",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 404800,
+        "market_value": 404800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086G00272000000",
+        "address": "5818 MARLBOROUGH AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5818   MARLBOROUGH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 404800,
+        "market_value": 422800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052M00100000000",
+        "address": "1100 GATEWOOD DR",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1100   GATEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 404900,
+        "market_value": 404900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0053G00020000000",
+        "address": "316 GLADSTONE RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "316   GLADSTONE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 404200,
+        "market_value": 422200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086A00231000000",
+        "address": "5554 BELLEROCK PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5554   BELLEROCK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 404000,
+        "market_value": 422000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053H00160000000",
+        "address": "5304 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5304   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 403800,
+        "market_value": 421800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0168L00269000000",
+    "address": "1624 MARYS AVE",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "1624   MARYS AVE",
+    "current_mailing_address": "1624   MARYS AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.063,
+    "latitude": 40.49616,
+    "longitude": -79.9162
+  },
+  "assessments": {
+    "parcel_id": "0168L00269000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 82700,
+        "market_value": 82700,
+        "land_value": 36300,
+        "improvement_value": 46400,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5141,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 77559,
+        "market_value": 77559,
+        "land_value": 34043,
+        "improvement_value": 43516,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2259,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77559,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 75300,
+        "market_value": 75300,
+        "land_value": 33051,
+        "improvement_value": 42249,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1476,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75300,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 73824,
+        "market_value": 73824,
+        "land_value": 32404,
+        "improvement_value": 41420,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 730,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73824,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73094,
+        "market_value": 73094,
+        "land_value": 32083,
+        "improvement_value": 41011,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73094,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 73094,
+        "market_value": 73094,
+        "land_value": 32083,
+        "improvement_value": 41011,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73094,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0168L00269000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0168L00269000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-May-17",
+      "most_recent_appeal_date": "4-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-17221-2017",
+        "filed_date": "4-May-17",
+        "hearing_date": "4-May-17",
+        "appeal_status": "approved",
+        "original_value": 46600,
+        "requested_value": 46600,
+        "final_value": 82700,
+        "value_reduction": 0,
+        "reduction_percentage": -77.47,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0168L00269000000",
+    "comparables": [
+      {
+        "parcel_id": "0168L00300000000",
+        "address": "213 18TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "213   18TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82600,
+        "market_value": 82600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167H00002000000",
+        "address": "315 10TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "315   10TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82500,
+        "market_value": 100500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168K00088000A00",
+        "address": "1510 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1   PPG PL  STE 1700",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 83000,
+        "market_value": 83000,
+        "assessed_value_change_pct": 3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168J00157000000",
+        "address": "214 12TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "214   12TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168L00372000000",
+        "address": "1784 S CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1784  S CANAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83500,
+        "market_value": 101500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168L00021000000",
+        "address": "210 18TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "200   RIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 81800,
+        "market_value": 81800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

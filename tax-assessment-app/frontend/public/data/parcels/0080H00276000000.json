@@ -1,0 +1,217 @@
+{
+  "parcel": {
+    "parcel_id": "0080H00276000000",
+    "address": "724 52ND ST",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "724   52ND ST",
+    "current_mailing_address": "724   52ND ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.042,
+    "latitude": 40.465,
+    "longitude": -79.96348
+  },
+  "assessments": {
+    "parcel_id": "0080H00276000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 352000,
+        "market_value": 369999,
+        "land_value": 15700,
+        "improvement_value": 336300,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 8669,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 334000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 343331,
+        "market_value": 360887,
+        "land_value": 15313,
+        "improvement_value": 328018,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 13205,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 325331,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 330126,
+        "market_value": 347007,
+        "land_value": 14724,
+        "improvement_value": 315402,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 9615,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 312126,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 320511,
+        "market_value": 336900,
+        "land_value": 14295,
+        "improvement_value": 306216,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 6284,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 302511,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 314227,
+        "market_value": 330295,
+        "land_value": 14015,
+        "improvement_value": 300212,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 3111,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 296227,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 311116,
+        "market_value": 327025,
+        "land_value": 13876,
+        "improvement_value": 297240,
+        "land_value_percentage": 4.5,
+        "improvement_value_percentage": 95.5,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 293116,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080H00276000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0080H00276000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080H00276000000",
+    "comparables": [
+      {
+        "parcel_id": "0080H00270000000",
+        "address": "5195 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "5195   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 366400,
+        "market_value": 384400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00102000000",
+        "address": "5161 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "5161   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 314300,
+        "market_value": 314300,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081C00050000000",
+        "address": "4500 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4500   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 291900,
+        "market_value": 309900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087D00021000000",
+    "address": "5920 DOUGLAS ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5920   DOUGLAS ST",
+    "current_mailing_address": "5920   DOUGLAS ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.037,
+    "latitude": 40.41952,
+    "longitude": -79.91954
+  },
+  "assessments": {
+    "parcel_id": "0087D00021000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "land_value": 64500,
+        "improvement_value": 90500,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15278,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 139722,
+        "market_value": 139722,
+        "land_value": 58142,
+        "improvement_value": 81580,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2739,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 139722,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 136983,
+        "market_value": 136983,
+        "land_value": 57002,
+        "improvement_value": 79981,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1356,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136983,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 135627,
+        "market_value": 135627,
+        "land_value": 56438,
+        "improvement_value": 79189,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135627,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 135627,
+        "market_value": 135627,
+        "land_value": 56438,
+        "improvement_value": 79189,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1370,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135627,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 136997,
+        "market_value": 136997,
+        "land_value": 57008,
+        "improvement_value": 79989,
+        "land_value_percentage": 41.6,
+        "improvement_value_percentage": 58.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136997,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087D00021000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087D00021000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2251-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 105800,
+        "requested_value": 105800,
+        "final_value": 185000,
+        "value_reduction": 0,
+        "reduction_percentage": -74.86,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087D00021000000",
+    "comparables": [
+      {
+        "parcel_id": "0086R00236000000",
+        "address": "5858 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5862   BEACON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087C00064000000",
+        "address": "5718 MELVIN ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5718   MELVIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087C00155000000",
+        "address": "2303 SHERBROOK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5880   DOUGLAS AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087C00156000000",
+        "address": "2301 SHERBROOK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5880   DOUGLAS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 155000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087F00181000000",
+        "address": "5631 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5631   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155000,
+        "market_value": 173000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086R00209000000",
+        "address": "5815 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2546   BEECHWOOD BLVD   `",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154900,
+        "market_value": 154900,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

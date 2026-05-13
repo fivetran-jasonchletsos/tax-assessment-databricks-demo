@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086B00285000000",
+    "address": "5617 WOODMONT ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5617   WOODMONT ST",
+    "current_mailing_address": "5617   WOODMONT ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.081,
+    "latitude": 40.4206,
+    "longitude": -79.93202
+  },
+  "assessments": {
+    "parcel_id": "0086B00285000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 740400,
+        "market_value": 740400,
+        "land_value": 119300,
+        "improvement_value": 621100,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18233,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 740400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 722167,
+        "market_value": 722167,
+        "land_value": 116362,
+        "improvement_value": 605805,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27775,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 722167,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 694392,
+        "market_value": 694392,
+        "land_value": 111886,
+        "improvement_value": 582506,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20225,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 694392,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 674167,
+        "market_value": 674167,
+        "land_value": 108627,
+        "improvement_value": 565540,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13218,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 674167,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 660949,
+        "market_value": 660949,
+        "land_value": 106498,
+        "improvement_value": 554451,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6544,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 660949,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 654405,
+        "market_value": 654405,
+        "land_value": 105443,
+        "improvement_value": 548962,
+        "land_value_percentage": 16.1,
+        "improvement_value_percentage": 83.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 654405,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086B00285000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086B00285000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 73100,
+      "total_value_reduction": 73100,
+      "first_appeal_date": "9-May-17",
+      "most_recent_appeal_date": "9-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16357-2017",
+        "filed_date": "9-May-17",
+        "hearing_date": "9-May-17",
+        "appeal_status": "approved",
+        "original_value": 813500,
+        "requested_value": 813500,
+        "final_value": 740400,
+        "value_reduction": 73100,
+        "reduction_percentage": 8.99,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086B00285000000",
+    "comparables": [
+      {
+        "parcel_id": "0086A00001000000",
+        "address": "1415 SQUIRREL HILL AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1415   SQUIRREL HILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 741000,
+        "market_value": 759000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086G00214000000",
+        "address": "5825 MARLBOROUGH AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5825   MARLBOROUGH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 739100,
+        "market_value": 757100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0053C00029000000",
+        "address": "201 GLADSTONE RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "201   GLADSTONE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 742000,
+        "market_value": 760000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086C00241000000",
+        "address": "5840 SOLWAY ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5840   SOLWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 744100,
+        "market_value": 762100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086E00190000000",
+        "address": "5521 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5521   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 744300,
+        "market_value": 762300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053D00093000000",
+        "address": "1410 SQUIRREL HILL AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1410   SQUIRREL HILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 744400,
+        "market_value": 762400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

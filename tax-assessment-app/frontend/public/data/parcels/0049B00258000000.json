@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0049B00258000000",
+    "address": "229 42ND ST",
+    "city": "10902",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "229   42ND ST",
+    "current_mailing_address": "229   42ND ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.019,
+    "latitude": 40.46488,
+    "longitude": -79.96396
+  },
+  "assessments": {
+    "parcel_id": "0049B00258000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 36300,
+        "market_value": 54300,
+        "land_value": 13400,
+        "improvement_value": 22900,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 2258,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 18300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34042,
+        "market_value": 50922,
+        "land_value": 12566,
+        "improvement_value": 21476,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 991,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 16042,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 33051,
+        "market_value": 49439,
+        "land_value": 12200,
+        "improvement_value": 20851,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 648,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 15051,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 32403,
+        "market_value": 48470,
+        "land_value": 11961,
+        "improvement_value": 20442,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 320,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14403,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32083,
+        "market_value": 47991,
+        "land_value": 11843,
+        "improvement_value": 20240,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14083,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 32083,
+        "market_value": 47991,
+        "land_value": 11843,
+        "improvement_value": 20240,
+        "land_value_percentage": 36.9,
+        "improvement_value_percentage": 63.1,
+        "market_to_assessed_ratio": 1.5,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14083,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049B00258000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0049B00258000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jun-15",
+      "most_recent_appeal_date": "9-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1104-2015",
+        "filed_date": "9-Jun-15",
+        "hearing_date": "9-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 54300,
+        "requested_value": 54300,
+        "final_value": 54300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049B00258000000",
+    "comparables": [
+      {
+        "parcel_id": "0049B00263000A00",
+        "address": "222 43RD ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "222 1/2  43RD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36300,
+        "market_value": 54300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049C00039000000",
+        "address": "4407 DAVISON ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4407   DAVISON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36200,
+        "market_value": 54200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049C00040000000",
+        "address": "4409 DAVISON ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4409   DAVISON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36200,
+        "market_value": 54200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049G00069000000",
+        "address": "338 PERCY ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "2401   FOXFIELD DR",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 36400,
+        "market_value": 36400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049C00212000000",
+        "address": "289 46TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "289   46TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36100,
+        "market_value": 54100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049B00008000000",
+        "address": "160 44TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "160   44TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 54000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

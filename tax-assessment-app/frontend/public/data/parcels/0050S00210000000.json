@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0050S00210000000",
+    "address": "123 S GRAHAM ST",
+    "city": "10802",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6342   MARCHAND ST  UNIT 1",
+    "current_mailing_address": "6342   MARCHAND ST  UNIT 1",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.077,
+    "latitude": 40.46162,
+    "longitude": -79.90804
+  },
+  "assessments": {
+    "parcel_id": "0050S00210000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 309100,
+        "market_value": 309100,
+        "land_value": 58500,
+        "improvement_value": 250600,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13752,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 309100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 295348,
+        "market_value": 295348,
+        "land_value": 55897,
+        "improvement_value": 239451,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295348,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 295348,
+        "market_value": 295348,
+        "land_value": 55897,
+        "improvement_value": 239451,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2984,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295348,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 298332,
+        "market_value": 298332,
+        "land_value": 56462,
+        "improvement_value": 241870,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14206,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 298332,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 284126,
+        "market_value": 284126,
+        "land_value": 53773,
+        "improvement_value": 230353,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10927,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 284126,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 273199,
+        "market_value": 273199,
+        "land_value": 51705,
+        "improvement_value": 221494,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 273199,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050S00210000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050S00210000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050S00210000000",
+    "comparables": [
+      {
+        "parcel_id": "0084E00022000000",
+        "address": "322 AMBER ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "322   AMBER ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 311500,
+        "market_value": 329500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050S00312000000",
+        "address": "202 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "202  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 304300,
+        "market_value": 322300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051D00155000000",
+        "address": "328 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "3245   UNIVERSITY AVE  STE 1283",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 304200,
+        "market_value": 304200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051D00337000000",
+        "address": "304 S NEGLEY AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "304  S NEGLEY AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 302000,
+        "market_value": 320000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051D00052000000",
+        "address": "354 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "354  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 301800,
+        "market_value": 319800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050S00134000000",
+        "address": "201 ROUP AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "201   ROUP AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 317900,
+        "market_value": 335900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

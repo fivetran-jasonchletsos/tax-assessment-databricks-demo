@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0086P00106000000",
+    "address": "5648 BEACON ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5648   BEACON ST",
+    "current_mailing_address": "5648   BEACON ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.107,
+    "latitude": 40.42132,
+    "longitude": -79.93202
+  },
+  "assessments": {
+    "parcel_id": "0086P00106000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 249700,
+        "market_value": 249700,
+        "land_value": 86800,
+        "improvement_value": 162900,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15518,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 234182,
+        "market_value": 234182,
+        "land_value": 81405,
+        "improvement_value": 152777,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6820,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 234182,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 227362,
+        "market_value": 227362,
+        "land_value": 79034,
+        "improvement_value": 148328,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4458,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 227362,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 222904,
+        "market_value": 222904,
+        "land_value": 77485,
+        "improvement_value": 145419,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2206,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222904,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 220698,
+        "market_value": 220698,
+        "land_value": 76718,
+        "improvement_value": 143980,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220698,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 220698,
+        "market_value": 220698,
+        "land_value": 76718,
+        "improvement_value": 143980,
+        "land_value_percentage": 34.8,
+        "improvement_value_percentage": 65.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220698,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086P00106000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086P00106000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0086P00106000000",
+    "comparables": [
+      {
+        "parcel_id": "0085H00008000000",
+        "address": "623 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "3750   CHILDS ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086R00229000000",
+        "address": "5863 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "220  N DITHRIDGE ST  STE 703",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085M00286000000",
+        "address": "725 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "725   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 249300,
+        "market_value": 267300,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086R00077000000",
+        "address": "5716 MUNHALL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "821   15TH ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 249100,
+        "market_value": 249100,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085M00189000000",
+        "address": "635 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "414   GLEN ARDEN DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 249000,
+        "market_value": 249000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085M00191000000",
+        "address": "639 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "414 GLEN A  GLEN ARDEN DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 249000,
+        "market_value": 249000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

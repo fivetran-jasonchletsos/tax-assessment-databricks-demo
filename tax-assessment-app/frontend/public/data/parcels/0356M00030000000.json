@@ -117,27 +117,27 @@
     "parcel_id": "0356M00030000000",
     "summary": {
       "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 49500,
+      "total_value_reduction": 49500,
+      "first_appeal_date": "1-Aug-16",
+      "most_recent_appeal_date": "1-Aug-16",
+      "latest_appeal_status": "approved"
     },
     "appeals": [
       {
         "appeal_id": "WPRDC-11228-2016",
-        "filed_date": null,
+        "filed_date": "1-Aug-16",
         "hearing_date": "1-Aug-16",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
+        "appeal_status": "approved",
+        "original_value": 61800,
+        "requested_value": 61800,
+        "final_value": 12300,
+        "value_reduction": 49500,
+        "reduction_percentage": 80.1,
+        "resolution_notes": "ANNUAL"
       }
     ]
   },

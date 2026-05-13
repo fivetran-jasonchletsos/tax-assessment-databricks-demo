@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086P00002000000",
+    "address": "5552 BARTLETT ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "904   HIGHLANDER CIR",
+    "current_mailing_address": "904   HIGHLANDER CIR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.042,
+    "latitude": 40.42072,
+    "longitude": -79.91378
+  },
+  "assessments": {
+    "parcel_id": "0086P00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 237500,
+        "market_value": 237500,
+        "land_value": 43200,
+        "improvement_value": 194300,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3324,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 237500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 240824,
+        "market_value": 240824,
+        "land_value": 43804,
+        "improvement_value": 197020,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11467,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 240824,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 229357,
+        "market_value": 229357,
+        "land_value": 41718,
+        "improvement_value": 187639,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8821,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 229357,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 220536,
+        "market_value": 220536,
+        "land_value": 40114,
+        "improvement_value": 180422,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6423,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220536,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 214113,
+        "market_value": 214113,
+        "land_value": 38946,
+        "improvement_value": 175167,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4198,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 214113,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 209915,
+        "market_value": 209915,
+        "land_value": 38182,
+        "improvement_value": 171733,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 209915,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086P00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086P00002000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2205-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 153000,
+        "requested_value": 153000,
+        "final_value": 237500,
+        "value_reduction": 0,
+        "reduction_percentage": -55.23,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086P00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0087K00159000000",
+        "address": "5872 BURCHFIELD AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5872   BURCHFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238000,
+        "market_value": 256000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086J00196000000",
+        "address": "5500 FORBES AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5500   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236988,
+        "market_value": 236988,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085E00282000000",
+        "address": "1029 S NEGLEY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1029  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238200,
+        "market_value": 256200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086F00248000000",
+        "address": "1635 WIGHTMAN ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1635   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236700,
+        "market_value": 254700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085M00043000000",
+        "address": "815 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "206   ELYSIAN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 238900,
+        "market_value": 238900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086N00232000000",
+        "address": "5535 BEACON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5535   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236100,
+        "market_value": 254100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

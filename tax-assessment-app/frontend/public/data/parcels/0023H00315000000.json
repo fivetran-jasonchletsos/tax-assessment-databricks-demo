@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0023H00315000000",
+    "address": "123 FOUNTAIN ST",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "123   FOUNTAIN ST",
+    "current_mailing_address": "123   FOUNTAIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.079,
+    "latitude": 40.41692,
+    "longitude": -80.06912
+  },
+  "assessments": {
+    "parcel_id": "0023H00315000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 55700,
+        "market_value": 55700,
+        "land_value": 25300,
+        "improvement_value": 30400,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5492,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 50208,
+        "market_value": 50208,
+        "land_value": 22805,
+        "improvement_value": 27403,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 984,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50208,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 49224,
+        "market_value": 49224,
+        "land_value": 22358,
+        "improvement_value": 26866,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 487,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49224,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 48737,
+        "market_value": 48737,
+        "land_value": 22137,
+        "improvement_value": 26600,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48737,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 48737,
+        "market_value": 48737,
+        "land_value": 22137,
+        "improvement_value": 26600,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -493,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48737,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 49230,
+        "market_value": 49230,
+        "land_value": 22361,
+        "improvement_value": 26869,
+        "land_value_percentage": 45.4,
+        "improvement_value_percentage": 54.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49230,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023H00315000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023H00315000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0023H00315000000",
+    "comparables": [
+      {
+        "parcel_id": "0023D00145000000",
+        "address": "221 HENDERSON ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "221   HENDERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55500,
+        "market_value": 73500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023K00194000000",
+        "address": "1405 VETO ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "3414   21ST ST SE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 55500,
+        "market_value": 55500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023D00049000000",
+        "address": "428 CATOMA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "428   CATOMA ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 73400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023E00109000000",
+        "address": "1718 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "721   BRIGHTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 56000,
+        "market_value": 56000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023E00021000000",
+        "address": "1728 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1728   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 55200,
+        "market_value": 73200,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023G00129000B00",
+        "address": "124 HEMLOCK ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "120   HEMLOCK ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 55200,
+        "market_value": 55200,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

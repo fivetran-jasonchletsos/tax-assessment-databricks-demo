@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0023J00235000000",
+    "address": "1217 RESACA PL",
+    "city": "Ward 22 - North Shore/allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1726   BUENA VISTA ST",
+    "current_mailing_address": "1726   BUENA VISTA ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.41728,
+    "longitude": -80.06672
+  },
+  "assessments": {
+    "parcel_id": "0023J00235000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 239600,
+        "market_value": 239600,
+        "land_value": 86400,
+        "improvement_value": 153200,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3354,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 239600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 242954,
+        "market_value": 242954,
+        "land_value": 87609,
+        "improvement_value": 155345,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11569,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 242954,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 231385,
+        "market_value": 231385,
+        "land_value": 83437,
+        "improvement_value": 147948,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8899,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 231385,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 222486,
+        "market_value": 222486,
+        "land_value": 80228,
+        "improvement_value": 142258,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6480,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222486,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 216006,
+        "market_value": 216006,
+        "land_value": 77891,
+        "improvement_value": 138115,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4235,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 216006,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 211771,
+        "market_value": 211771,
+        "land_value": 76364,
+        "improvement_value": 135407,
+        "land_value_percentage": 36.1,
+        "improvement_value_percentage": 63.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211771,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023J00235000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023J00235000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0023J00235000000",
+    "comparables": [
+      {
+        "parcel_id": "0023N00035000000",
+        "address": "1207 BUENA VISTA ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1207   BUENA VISTA ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 239600,
+        "market_value": 257600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023K00150000000",
+        "address": "1212 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1212   PALO ALTO ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 239400,
+        "market_value": 257400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023K00105000000",
+        "address": "1211 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1211   PALO ALTO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 239000,
+        "market_value": 257000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023L00252000000",
+        "address": "110 E NORTH AVE",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "110  E NORTH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 240200,
+        "market_value": 240200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023K00099000000",
+        "address": "1203 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1203   PALO ALTO ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 238500,
+        "market_value": 256500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023K00445000000",
+        "address": "1112 ARCH ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "610   LOCKHART ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 240700,
+        "market_value": 240700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086E00021000000",
+    "address": "1447 SQUIRREL HILL AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "7042   REYNOLDS ST",
+    "current_mailing_address": "7042   REYNOLDS ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.088,
+    "latitude": 40.41952,
+    "longitude": -79.91942
+  },
+  "assessments": {
+    "parcel_id": "0086E00021000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 624900,
+        "market_value": 624900,
+        "land_value": 239600,
+        "improvement_value": 385300,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 61592,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 624900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 563308,
+        "market_value": 563308,
+        "land_value": 215984,
+        "improvement_value": 347324,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11045,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 563308,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 552263,
+        "market_value": 552263,
+        "land_value": 211749,
+        "improvement_value": 340514,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5467,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 552263,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 546796,
+        "market_value": 546796,
+        "land_value": 209653,
+        "improvement_value": 337143,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546796,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 546796,
+        "market_value": 546796,
+        "land_value": 209653,
+        "improvement_value": 337143,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5524,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546796,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 552320,
+        "market_value": 552320,
+        "land_value": 211771,
+        "improvement_value": 340549,
+        "land_value_percentage": 38.3,
+        "improvement_value_percentage": 61.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 552320,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086E00021000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086E00021000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-Jun-18",
+      "most_recent_appeal_date": "19-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23239-2018",
+        "filed_date": "19-Jun-18",
+        "hearing_date": "19-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 368200,
+        "requested_value": 368200,
+        "final_value": 624900,
+        "value_reduction": 0,
+        "reduction_percentage": -69.72,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086E00021000000",
+    "comparables": [
+      {
+        "parcel_id": "0086A00054000000",
+        "address": "1307 BENNINGTON AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1307   BENNINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 625600,
+        "market_value": 643600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086F00146000000",
+        "address": "5632 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5632   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 626300,
+        "market_value": 644300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085R00238000000",
+        "address": "5851 WILKINS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5851   WILKINS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 627000,
+        "market_value": 645000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086B00148000000",
+        "address": "5621 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5621   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 627400,
+        "market_value": 645400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052K00215000000",
+        "address": "1008 DEVONSHIRE RD",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 622300,
+        "market_value": 622300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086H00018000000",
+        "address": "5886 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5886   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 622000,
+        "market_value": 640000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

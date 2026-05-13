@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0022H00223000A00",
+    "address": "1607 BRIGHTON PL",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "512   KNOLL ST",
+    "current_mailing_address": "512   KNOLL ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.02,
+    "latitude": 40.4186,
+    "longitude": -80.06732
+  },
+  "assessments": {
+    "parcel_id": "0022H00223000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 43100,
+        "market_value": 43100,
+        "land_value": 10100,
+        "improvement_value": 33000,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4249,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 38851,
+        "market_value": 38851,
+        "land_value": 9104,
+        "improvement_value": 29747,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 761,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38851,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 38090,
+        "market_value": 38090,
+        "land_value": 8925,
+        "improvement_value": 29165,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 377,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38090,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37713,
+        "market_value": 37713,
+        "land_value": 8837,
+        "improvement_value": 28876,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37713,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37713,
+        "market_value": 37713,
+        "land_value": 8837,
+        "improvement_value": 28876,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -381,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37713,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 38094,
+        "market_value": 38094,
+        "land_value": 8926,
+        "improvement_value": 29168,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38094,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022H00223000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022H00223000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0022H00223000A00",
+    "comparables": [
+      {
+        "parcel_id": "0023D00246000000",
+        "address": "1631 COMPROMISE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1631   COMPROMISE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43000,
+        "market_value": 43000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023F00416000000",
+        "address": "219 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "219   JACKSONIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43000,
+        "market_value": 61000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023F00145000000",
+        "address": "216 CARRINGTON ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "216   CARRINGTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43300,
+        "market_value": 43300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023F00156000000",
+        "address": "1531 ARCH ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6447",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42900,
+        "market_value": 60900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023K00006000000",
+        "address": "402 SAMPSONIA WAY",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "324   SAMPSONIA WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43300,
+        "market_value": 43300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023H00275000000",
+        "address": "67 FOUNTAIN ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "67   FOUNTAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42700,
+        "market_value": 42700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

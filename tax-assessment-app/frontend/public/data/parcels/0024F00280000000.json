@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0024F00280000000",
+    "address": "1154 VOSKAMP ST",
+    "city": "Ward 24 - Spring Hill-city View",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1154   VOSKAMP ST",
+    "current_mailing_address": "1154   VOSKAMP ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.41692,
+    "longitude": -80.06924
+  },
+  "assessments": {
+    "parcel_id": "0024F00280000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 211100,
+        "market_value": 211100,
+        "land_value": 9000,
+        "improvement_value": 202100,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20807,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 190293,
+        "market_value": 190293,
+        "land_value": 8112,
+        "improvement_value": 182181,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3731,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190293,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 186562,
+        "market_value": 186562,
+        "land_value": 7953,
+        "improvement_value": 178609,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1847,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186562,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 184715,
+        "market_value": 184715,
+        "land_value": 7875,
+        "improvement_value": 176840,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 184715,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 184715,
+        "market_value": 184715,
+        "land_value": 7875,
+        "improvement_value": 176840,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1866,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 184715,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 186581,
+        "market_value": 186581,
+        "land_value": 7954,
+        "improvement_value": 178627,
+        "land_value_percentage": 4.3,
+        "improvement_value_percentage": 95.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186581,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024F00280000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024F00280000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0024F00280000000",
+    "comparables": [
+      {
+        "parcel_id": "0048J00144000000",
+        "address": "1809 HARPSTER ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1809   HARPSTER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 218600,
+        "market_value": 236600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024F00170000000",
+        "address": "1209 SPRING GARDEN AVE",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1209   SPRING GARDEN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 202000,
+        "market_value": 220000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024F00256000000",
+        "address": "1124 VOSKAMP ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1124   VOSKAMP ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 200300,
+        "market_value": 200300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024G00198000000",
+        "address": "1145 GOETTMAN ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1145   GOETTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 197700,
+        "market_value": 215700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0048E00222000000",
+        "address": "1811 NIGGEL ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1172   CAMARTA DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 196700,
+        "market_value": 196700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0047S00126000000",
+        "address": "1620 HARPSTER ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1620   HARPSTER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 228600,
+        "market_value": 228600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

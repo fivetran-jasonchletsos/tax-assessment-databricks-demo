@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0082R00265000000",
+    "address": "1022 MELLON ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1022   MELLON ST",
+    "current_mailing_address": "1022   MELLON ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.081,
+    "latitude": 40.4633,
+    "longitude": -79.9192
+  },
+  "assessments": {
+    "parcel_id": "0082R00265000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 225000,
+        "market_value": 225000,
+        "land_value": 38400,
+        "improvement_value": 186600,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10010,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 214990,
+        "market_value": 214990,
+        "land_value": 36691,
+        "improvement_value": 178299,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 214990,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 214990,
+        "market_value": 214990,
+        "land_value": 36691,
+        "improvement_value": 178299,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2172,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 214990,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 217162,
+        "market_value": 217162,
+        "land_value": 37062,
+        "improvement_value": 180100,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10341,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 217162,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 206821,
+        "market_value": 206821,
+        "land_value": 35297,
+        "improvement_value": 171524,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7954,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 206821,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 198867,
+        "market_value": 198867,
+        "land_value": 33939,
+        "improvement_value": 164928,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 198867,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082R00265000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082R00265000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jun-15",
+      "most_recent_appeal_date": "16-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1922-2015",
+        "filed_date": "16-Jun-15",
+        "hearing_date": "16-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 127500,
+        "requested_value": 127500,
+        "final_value": 225000,
+        "value_reduction": 0,
+        "reduction_percentage": -76.47,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082R00265000000",
+    "comparables": [
+      {
+        "parcel_id": "0083M00034000000",
+        "address": "633 COLLINS AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "633   COLLINS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 225000,
+        "market_value": 225000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082R00109000000",
+        "address": "930 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "930  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226200,
+        "market_value": 244200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083H00180000000",
+        "address": "6108 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6108   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226200,
+        "market_value": 226200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083C00059000000",
+        "address": "5700 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "633   FIELD CLUB RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 226300,
+        "market_value": 226300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082R00171000000",
+        "address": "5915 WELLESLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5915   WELLESLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222900,
+        "market_value": 240900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050M00202000000",
+        "address": "305 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "17397  NW WOODRUSH WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222500,
+        "market_value": 222500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

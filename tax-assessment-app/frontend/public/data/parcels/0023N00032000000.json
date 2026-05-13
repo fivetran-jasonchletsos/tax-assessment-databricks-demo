@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0023N00032000000",
+    "address": "1215 BUENA VISTA ST",
+    "city": "Ward 22 - North Shore/allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1726   BUENA VISTA ST",
+    "current_mailing_address": "1726   BUENA VISTA ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.41716,
+    "longitude": -80.06984
+  },
+  "assessments": {
+    "parcel_id": "0023N00032000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 174200,
+        "market_value": 174200,
+        "land_value": 43200,
+        "improvement_value": 131000,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4292,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 169908,
+        "market_value": 169908,
+        "land_value": 42135,
+        "improvement_value": 127773,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6534,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 169908,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 163374,
+        "market_value": 163374,
+        "land_value": 40515,
+        "improvement_value": 122859,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4758,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163374,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 158616,
+        "market_value": 158616,
+        "land_value": 39335,
+        "improvement_value": 119281,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3110,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 158616,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 155506,
+        "market_value": 155506,
+        "land_value": 38564,
+        "improvement_value": 116942,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1539,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155506,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 153967,
+        "market_value": 153967,
+        "land_value": 38182,
+        "improvement_value": 115785,
+        "land_value_percentage": 24.8,
+        "improvement_value_percentage": 75.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153967,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023N00032000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023N00032000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Aug-15",
+      "most_recent_appeal_date": "25-Oct-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-628-2015",
+        "filed_date": "24-Aug-15",
+        "hearing_date": "24-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 174200,
+        "requested_value": 174200,
+        "final_value": 174200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-8177-2016",
+        "filed_date": "25-Oct-16",
+        "hearing_date": "25-Oct-16",
+        "appeal_status": "approved",
+        "original_value": 174200,
+        "requested_value": 174200,
+        "final_value": 174200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023N00032000000",
+    "comparables": [
+      {
+        "parcel_id": "0023L00221000000",
+        "address": "134 PARKHURST ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "134   PARKHURST ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 174100,
+        "market_value": 192100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023N00049000000",
+        "address": "1209 MONTEREY ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1209   MONTEREY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 174100,
+        "market_value": 192100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023K00336000000",
+        "address": "1326 ARCH ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1326   ARCH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 174800,
+        "market_value": 174800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023K00121000000",
+        "address": "1237 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "179   MARTHA AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 175000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023K00080000000",
+        "address": "1228 RESACA PL",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1228   RESACA PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 173100,
+        "market_value": 191100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023N00060000000",
+        "address": "1203 RESACA PL",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1203   RESACA PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 172000,
+        "market_value": 190000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

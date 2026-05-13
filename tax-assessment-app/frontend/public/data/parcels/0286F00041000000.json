@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0286F00041000000",
+    "address": "513 BROOKDALE DR",
+    "city": "O''hara",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "513   BROOKDALE DR",
+    "current_mailing_address": "513   BROOKDALE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.459,
+    "latitude": 40.49412,
+    "longitude": -79.90948
+  },
+  "assessments": {
+    "parcel_id": "0286F00041000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 154900,
+        "market_value": 154900,
+        "land_value": 32100,
+        "improvement_value": 122800,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6892,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 154900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 148008,
+        "market_value": 148008,
+        "land_value": 30671,
+        "improvement_value": 117337,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148008,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 148008,
+        "market_value": 148008,
+        "land_value": 30671,
+        "improvement_value": 117337,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1496,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148008,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 149504,
+        "market_value": 149504,
+        "land_value": 30981,
+        "improvement_value": 118523,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7119,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 149504,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 142385,
+        "market_value": 142385,
+        "land_value": 29506,
+        "improvement_value": 112879,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5476,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142385,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 136909,
+        "market_value": 136909,
+        "land_value": 28371,
+        "improvement_value": 108538,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136909,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0286F00041000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0286F00041000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jun-18",
+      "most_recent_appeal_date": "12-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-24997-2018",
+        "filed_date": "12-Jun-18",
+        "hearing_date": "12-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 135100,
+        "requested_value": 135100,
+        "final_value": 181800,
+        "value_reduction": 0,
+        "reduction_percentage": -34.57,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0286F00041000000",
+    "comparables": [
+      {
+        "parcel_id": "0223D00030000000",
+        "address": "314 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "314   KITTANNING PIKE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154900,
+        "market_value": 154900,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0436P00110000000",
+        "address": "175 BERRYHILL RD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "175   BERRYHILL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154600,
+        "market_value": 172600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168D00068000000",
+        "address": "104 JOANNE ST",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "104   JOANNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154600,
+        "market_value": 172600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0286J00060000000",
+        "address": "8 SCHENK TER",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "8   SCHENK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154500,
+        "market_value": 172500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0286P00028000000",
+        "address": "711 SHERWOOD DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "711   SHERWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 173300,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0224A00024000000",
+        "address": "7 MAURERS LN",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "7   MAURERS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154200,
+        "market_value": 172200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

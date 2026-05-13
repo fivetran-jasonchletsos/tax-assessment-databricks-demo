@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0053C00063000000",
+    "address": "116 GLADSTONE RD",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "116   GLADSTONE RD",
+    "current_mailing_address": "116   GLADSTONE RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.104,
+    "latitude": 40.41928,
+    "longitude": -79.91642
+  },
+  "assessments": {
+    "parcel_id": "0053C00063000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 568100,
+        "market_value": 568100,
+        "land_value": 133500,
+        "improvement_value": 434600,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25273,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 568100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 542827,
+        "market_value": 542827,
+        "land_value": 127561,
+        "improvement_value": 415266,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 542827,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 542827,
+        "market_value": 542827,
+        "land_value": 127561,
+        "improvement_value": 415266,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5484,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 542827,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 548311,
+        "market_value": 548311,
+        "land_value": 128849,
+        "improvement_value": 419462,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26110,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 548311,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 522201,
+        "market_value": 522201,
+        "land_value": 122714,
+        "improvement_value": 399487,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20084,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 522201,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 502117,
+        "market_value": 502117,
+        "land_value": 117994,
+        "improvement_value": 384123,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 502117,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0053C00063000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0053C00063000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-Jun-18",
+      "most_recent_appeal_date": "19-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22864-2018",
+        "filed_date": "19-Jun-18",
+        "hearing_date": "19-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 345600,
+        "requested_value": 345600,
+        "final_value": 568100,
+        "value_reduction": 0,
+        "reduction_percentage": -64.38,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0053C00063000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00258000000",
+        "address": "307 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "307   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 567100,
+        "market_value": 585100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053H00246000000",
+        "address": "216 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "216   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 567000,
+        "market_value": 585000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085S00218000000",
+        "address": "1401 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1401   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 567000,
+        "market_value": 585000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086D00029000000",
+        "address": "1543 SHADY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1543   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 567000,
+        "market_value": 585000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086G00076000000",
+        "address": "5839 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5839   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 569400,
+        "market_value": 569400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086F00185000000",
+        "address": "5601 MARLBOROUGH RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5601   MARLBOROUGH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 570700,
+        "market_value": 570700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

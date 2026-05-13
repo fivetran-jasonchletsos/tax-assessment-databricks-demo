@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0225L00125000000",
+    "address": "EDGEWOOD RD",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "18   EDGEWOOD RD",
+    "current_mailing_address": "18   EDGEWOOD RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 3.5,
+    "latitude": 40.49436,
+    "longitude": -79.90492
+  },
+  "assessments": {
+    "parcel_id": "0225L00125000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "land_value": 70000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6901,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 63099,
+        "market_value": 63099,
+        "land_value": 63099,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1237,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63099,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 61862,
+        "market_value": 61862,
+        "land_value": 61862,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 612,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61862,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 61250,
+        "market_value": 61250,
+        "land_value": 61250,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61250,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 61250,
+        "market_value": 61250,
+        "land_value": 61250,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -619,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61250,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 61869,
+        "market_value": 61869,
+        "land_value": 61869,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61869,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0225L00125000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0225L00125000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-May-16",
+      "most_recent_appeal_date": "19-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-10255-2016",
+        "filed_date": "19-May-16",
+        "hearing_date": "19-May-16",
+        "appeal_status": "approved",
+        "original_value": 218800,
+        "requested_value": 218800,
+        "final_value": 218800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0225L00125000000",
+    "comparables": [
+      {
+        "parcel_id": "0170B00202000000",
+        "address": "HAMPTON RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "301   HAMPTON RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 60700,
+        "market_value": 60700,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

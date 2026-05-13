@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0355P00280000000",
+    "address": "200 GLENN AVE",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "200   GLENN AVE",
+    "current_mailing_address": "200   GLENN AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.308,
+    "latitude": 40.52826,
+    "longitude": -79.97436
+  },
+  "assessments": {
+    "parcel_id": "0355P00280000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 157500,
+        "market_value": 157500,
+        "land_value": 35800,
+        "improvement_value": 121700,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2205,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 157500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 159705,
+        "market_value": 159705,
+        "land_value": 36301,
+        "improvement_value": 123404,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7605,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 159705,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 152100,
+        "market_value": 152100,
+        "land_value": 34572,
+        "improvement_value": 117528,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5850,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 152100,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 146250,
+        "market_value": 146250,
+        "land_value": 33242,
+        "improvement_value": 113008,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4259,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 146250,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 141991,
+        "market_value": 141991,
+        "land_value": 32274,
+        "improvement_value": 109717,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2784,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141991,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 139207,
+        "market_value": 139207,
+        "land_value": 31641,
+        "improvement_value": 107566,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 139207,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0355P00280000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0355P00280000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Jun-18",
+      "most_recent_appeal_date": "22-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-25468-2018",
+        "filed_date": "22-Jun-18",
+        "hearing_date": "22-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 96300,
+        "requested_value": 96300,
+        "final_value": 136300,
+        "value_reduction": 0,
+        "reduction_percentage": -41.54,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0355P00280000000",
+    "comparables": [
+      {
+        "parcel_id": "0285B00245000000",
+        "address": "101 WADSWORTH DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "101   WADSWORTH DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434C00012000A00",
+        "address": "742 SPENCER WOODS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "742   SPENCER WOODS DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0434C00014000A00",
+        "address": "750 SPENCER WOODS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "750   SPENCER WOODS DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0435G00023000000",
+        "address": "131 HIGHLANDER HEIGHTS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "131   HIGHLANDER HEIGHTS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520F00160000000",
+        "address": "124 MARIAN AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "124   MARIAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0353D00195000000",
+        "address": "21 ANDERSON RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "21   ANDERSON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157600,
+        "market_value": 175600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

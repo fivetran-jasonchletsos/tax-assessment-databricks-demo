@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122D00116000000",
+    "address": "106 BRILLIANT AVE",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "106   BRILLIANT AVE",
+    "current_mailing_address": "106   BRILLIANT AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.49292,
+    "longitude": -79.91128
+  },
+  "assessments": {
+    "parcel_id": "0122D00116000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 190000,
+        "market_value": 190000,
+        "land_value": 90000,
+        "improvement_value": 100000,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4680,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 185320,
+        "market_value": 185320,
+        "land_value": 87783,
+        "improvement_value": 97537,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7127,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 185320,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 178193,
+        "market_value": 178193,
+        "land_value": 84407,
+        "improvement_value": 93786,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5190,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 178193,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 173003,
+        "market_value": 173003,
+        "land_value": 81948,
+        "improvement_value": 91055,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3392,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173003,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 169611,
+        "market_value": 169611,
+        "land_value": 80342,
+        "improvement_value": 89269,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1679,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 169611,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 167932,
+        "market_value": 167932,
+        "land_value": 79546,
+        "improvement_value": 88386,
+        "land_value_percentage": 47.4,
+        "improvement_value_percentage": 52.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 167932,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122D00116000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122D00116000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jun-18",
+      "most_recent_appeal_date": "12-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23589-2018",
+        "filed_date": "12-Jun-18",
+        "hearing_date": "12-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 150800,
+        "requested_value": 150800,
+        "final_value": 210200,
+        "value_reduction": 0,
+        "reduction_percentage": -39.39,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122D00116000000",
+    "comparables": [
+      {
+        "parcel_id": "0122D00181000000",
+        "address": "314 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "314   1ST ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 190000,
+        "market_value": 208000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122D00187000000",
+        "address": "324 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1819   MIDDLE RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 190000,
+        "market_value": 190000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171A00150000000",
+        "address": "200 VIRGINIA AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "200   VIRGINIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190000,
+        "market_value": 208000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0169S00066000000",
+        "address": "412 BRILLIANT AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "412   BRILLIANT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190100,
+        "market_value": 208100,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0169C00006000000",
+        "address": "524 GUYASUTA RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "524   GUYASUTA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190200,
+        "market_value": 208200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0169D00275000000",
+        "address": "517 GUYASUTA RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "517   GUYASUTA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190200,
+        "market_value": 208200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

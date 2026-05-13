@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0080L00052000000",
+    "address": "4825 BLACKBERRY WAY",
+    "city": "10902",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "179   CRUIKSHANK RD",
+    "current_mailing_address": "179   CRUIKSHANK RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.013,
+    "latitude": 40.46452,
+    "longitude": -79.94596
+  },
+  "assessments": {
+    "parcel_id": "0080L00052000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 163000,
+        "market_value": 163000,
+        "land_value": 12300,
+        "improvement_value": 150700,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7253,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 155747,
+        "market_value": 155747,
+        "land_value": 11752,
+        "improvement_value": 143995,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155747,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 155747,
+        "market_value": 155747,
+        "land_value": 11752,
+        "improvement_value": 143995,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1574,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155747,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 157321,
+        "market_value": 157321,
+        "land_value": 11871,
+        "improvement_value": 145450,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7491,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 157321,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 149830,
+        "market_value": 149830,
+        "land_value": 11306,
+        "improvement_value": 138524,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5762,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 149830,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 144068,
+        "market_value": 144068,
+        "land_value": 10871,
+        "improvement_value": 133197,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144068,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080L00052000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080L00052000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-Jun-15",
+      "most_recent_appeal_date": "3-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1831-2015",
+        "filed_date": "3-Jun-15",
+        "hearing_date": "3-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 86400,
+        "requested_value": 86400,
+        "final_value": 163000,
+        "value_reduction": 0,
+        "reduction_percentage": -88.66,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0080L00052000000",
+    "comparables": [
+      {
+        "parcel_id": "0049F00311000000",
+        "address": "226 42ND ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "226 1/2  42ND ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 163000,
+        "market_value": 181000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049L00157000000",
+        "address": "4209 POST ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4209   PORT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 163000,
+        "market_value": 163000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080L00058000000",
+        "address": "4819 BLACKBERRY WAY",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4819   BLACKBERRY WAY",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 163000,
+        "market_value": 163000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049B00211000000",
+        "address": "224 45TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "224   45TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 162800,
+        "market_value": 162800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049G00171000000",
+        "address": "4220 SHERROD ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4220   SHERROD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163500,
+        "market_value": 163500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080L00056000000",
+        "address": "4821 BLACKBERRY WAY",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "3   LANCELOT LN",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 163500,
+        "market_value": 163500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

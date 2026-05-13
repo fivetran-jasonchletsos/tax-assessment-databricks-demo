@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0029C00261000A00",
+    "address": "114 OAKLAND CT",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "48   BISTATE PLZ",
+    "current_mailing_address": "48   BISTATE PLZ",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.027,
+    "latitude": 40.43488,
+    "longitude": -79.94524
+  },
+  "assessments": {
+    "parcel_id": "0029C00261000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 38000,
+        "market_value": 38000,
+        "land_value": 16600,
+        "improvement_value": 21400,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 604,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37396,
+        "market_value": 37396,
+        "land_value": 16336,
+        "improvement_value": 21060,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -378,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37396,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 37774,
+        "market_value": 37774,
+        "land_value": 16501,
+        "improvement_value": 21273,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1798,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37774,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 35976,
+        "market_value": 35976,
+        "land_value": 15715,
+        "improvement_value": 20261,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1383,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35976,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 34593,
+        "market_value": 34593,
+        "land_value": 15111,
+        "improvement_value": 19482,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1007,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34593,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 33586,
+        "market_value": 33586,
+        "land_value": 14671,
+        "improvement_value": 18915,
+        "land_value_percentage": 43.7,
+        "improvement_value_percentage": 56.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33586,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0029C00261000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0029C00261000A00",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jun-17",
+      "most_recent_appeal_date": "9-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15517-2017",
+        "filed_date": "9-Jun-17",
+        "hearing_date": "9-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 53500,
+        "requested_value": 53500,
+        "final_value": 53500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0029C00261000A00",
+    "comparables": [
+      {
+        "parcel_id": "0029C00226000000",
+        "address": "3231 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "7153   THOMAS BLVD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 38000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028G00296000000",
+        "address": "246 OAKLAND AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 38100,
+        "market_value": 38100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028R00241000000",
+        "address": "3418 BATES ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2333  E CARSON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 38200,
+        "market_value": 38200,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0029H00032000000",
+        "address": "FRAZIER ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3712   ORPWOOD ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 37800,
+        "market_value": 37800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028R00073000000",
+        "address": "DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2015   BABCOCK BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 38300,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028R00075000000",
+        "address": "DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2015   BABCOCK BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 38300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

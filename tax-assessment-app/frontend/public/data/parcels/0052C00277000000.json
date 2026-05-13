@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052C00277000000",
+    "address": "625 PITCAIRN PL",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "625   PITCAIRN PL",
+    "current_mailing_address": "625   PITCAIRN PL",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.165,
+    "latitude": 40.4417,
+    "longitude": -79.9205
+  },
+  "assessments": {
+    "parcel_id": "0052C00277000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 918800,
+        "market_value": 918800,
+        "land_value": 180900,
+        "improvement_value": 737900,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14535,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 918800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 904265,
+        "market_value": 904265,
+        "land_value": 178038,
+        "improvement_value": 726227,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -9134,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 904265,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 913399,
+        "market_value": 913399,
+        "land_value": 179836,
+        "improvement_value": 733563,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 43495,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 913399,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 869904,
+        "market_value": 869904,
+        "land_value": 171273,
+        "improvement_value": 698631,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 33457,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 869904,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 836447,
+        "market_value": 836447,
+        "land_value": 164685,
+        "improvement_value": 671762,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24362,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 836447,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 812085,
+        "market_value": 812085,
+        "land_value": 159889,
+        "improvement_value": 652196,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 812085,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052C00277000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052C00277000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-Sep-19",
+      "most_recent_appeal_date": "27-Sep-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29526-2019",
+        "filed_date": "27-Sep-19",
+        "hearing_date": "27-Sep-19",
+        "appeal_status": "approved",
+        "original_value": 669200,
+        "requested_value": 669200,
+        "final_value": 836000,
+        "value_reduction": 0,
+        "reduction_percentage": -24.93,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052C00277000000",
+    "comparables": [
+      {
+        "parcel_id": "0052F00087000000",
+        "address": "725 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "725   DEVONSHIRE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 919700,
+        "market_value": 937700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052G00068000000",
+        "address": "830 AMBERSON AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "830   AMBERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 913700,
+        "market_value": 931700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052H00243000000",
+        "address": "5306 WESTMINSTER PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5306   WESTMINSTER PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 907000,
+        "market_value": 925000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052H00319000000",
+        "address": "5309 WESTMINSTER PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5309   WESTMINSTER PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 934500,
+        "market_value": 952500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052C00172000000",
+        "address": "5201 PEMBROKE PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5121   WESTMINSTER PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 901800,
+        "market_value": 901800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052G00227000000",
+        "address": "5131 WESTMINSTER PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5131   WESTMINSTER PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 936500,
+        "market_value": 954500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

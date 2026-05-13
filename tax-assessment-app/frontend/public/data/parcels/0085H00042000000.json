@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0085H00042000000",
+    "address": "620 GETTYSBURG ST",
+    "city": "11403",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "620   GETTYSBURG ST",
+    "current_mailing_address": "620   GETTYSBURG ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.065,
+    "latitude": 40.46162,
+    "longitude": -79.90744
+  },
+  "assessments": {
+    "parcel_id": "0085H00042000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 217000,
+        "market_value": 235000,
+        "land_value": 46000,
+        "improvement_value": 171000,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 9655,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 199000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 207345,
+        "market_value": 224544,
+        "land_value": 43953,
+        "improvement_value": 163392,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 189345,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 207345,
+        "market_value": 224544,
+        "land_value": 43953,
+        "improvement_value": 163392,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": -2095,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 189345,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 209440,
+        "market_value": 226812,
+        "land_value": 44397,
+        "improvement_value": 165043,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 9973,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 191440,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 199467,
+        "market_value": 216012,
+        "land_value": 42283,
+        "improvement_value": 157184,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 7671,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 181467,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 191796,
+        "market_value": 207705,
+        "land_value": 40657,
+        "improvement_value": 151139,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 173796,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085H00042000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0085H00042000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Sep-15",
+      "most_recent_appeal_date": "1-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2097-2015",
+        "filed_date": "1-Sep-15",
+        "hearing_date": "1-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 201000,
+        "requested_value": 201000,
+        "final_value": 270100,
+        "value_reduction": 0,
+        "reduction_percentage": -34.38,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085H00042000000",
+    "comparables": [
+      {
+        "parcel_id": "0087F00254000000",
+        "address": "5566 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5566   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 217000,
+        "market_value": 235000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087D00180000000",
+        "address": "2269 TILBURY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2269   TILBURY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216800,
+        "market_value": 234800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087D00245000000",
+        "address": "6354 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6354   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216800,
+        "market_value": 216800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087C00152000000",
+        "address": "2311 SHERBROOK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2311   SHERBROOK ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 217400,
+        "market_value": 217400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087D00176000000",
+        "address": "6307 CROMBIE ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6307   CROMBIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216600,
+        "market_value": 234600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085H00006000000",
+        "address": "616 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "616   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216500,
+        "market_value": 234500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

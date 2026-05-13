@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052G00013000000",
+    "address": "714 AMBERSON AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "714   AMBERSON AVE",
+    "current_mailing_address": "714   AMBERSON AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.327,
+    "latitude": 40.44074,
+    "longitude": -79.9313
+  },
+  "assessments": {
+    "parcel_id": "0052G00013000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1450000,
+        "market_value": 1450000,
+        "land_value": 183800,
+        "improvement_value": 1266200,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -20306,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1450000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1470306,
+        "market_value": 1470306,
+        "land_value": 186373,
+        "improvement_value": 1283933,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 70014,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1470306,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1400292,
+        "market_value": 1400292,
+        "land_value": 177499,
+        "improvement_value": 1222793,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 53857,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1400292,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1346435,
+        "market_value": 1346435,
+        "land_value": 170672,
+        "improvement_value": 1175763,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 39216,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1346435,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1307219,
+        "market_value": 1307219,
+        "land_value": 165701,
+        "improvement_value": 1141518,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25631,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1307219,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1281588,
+        "market_value": 1281588,
+        "land_value": 162452,
+        "improvement_value": 1119136,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1281588,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052G00013000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052G00013000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "30-Aug-19",
+      "most_recent_appeal_date": "30-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29542-2019",
+        "filed_date": "30-Aug-19",
+        "hearing_date": "30-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 978300,
+        "requested_value": 978300,
+        "final_value": 1721800,
+        "value_reduction": 0,
+        "reduction_percentage": -76.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052G00013000000",
+    "comparables": [
+      {
+        "parcel_id": "0052A00257000000",
+        "address": "506 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "14005   QUITO RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1405000,
+        "market_value": 1405000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052F00260000000",
+        "address": "5030 CASTLEMAN ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "4250   OLD WILLIAM PENN HWY  # 2",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1399100,
+        "market_value": 1417100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052G00065000000",
+        "address": "826 AMBERSON AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "826   AMBERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1381200,
+        "market_value": 1399200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052C00227000000",
+        "address": "712 SAINT JAMES ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "712   SAINT JAMES ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1372000,
+        "market_value": 1390000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052G00320000000",
+        "address": "5131 PEMBROKE PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5131   PEMBROKE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1362500,
+        "market_value": 1362500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052F00092000000",
+        "address": "803 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 90160",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1539500,
+        "market_value": 1539500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

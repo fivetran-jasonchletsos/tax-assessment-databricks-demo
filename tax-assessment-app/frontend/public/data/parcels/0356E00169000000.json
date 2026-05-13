@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0356E00169000000",
+    "address": "1231 MAPLE ST",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "2273   WYLAND AVE",
+    "current_mailing_address": "2273   WYLAND AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.126,
+    "latitude": 40.52778,
+    "longitude": -79.9728
+  },
+  "assessments": {
+    "parcel_id": "0356E00169000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 72400,
+        "market_value": 72400,
+        "land_value": 36500,
+        "improvement_value": 35900,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5217,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 67183,
+        "market_value": 67183,
+        "land_value": 33869,
+        "improvement_value": 33314,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 665,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67183,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 66518,
+        "market_value": 66518,
+        "land_value": 33534,
+        "improvement_value": 32984,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66518,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 66518,
+        "market_value": 66518,
+        "land_value": 33534,
+        "improvement_value": 32984,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -672,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66518,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 67190,
+        "market_value": 67190,
+        "land_value": 33873,
+        "improvement_value": 33317,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3199,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67190,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 63991,
+        "market_value": 63991,
+        "land_value": 32260,
+        "improvement_value": 31731,
+        "land_value_percentage": 50.4,
+        "improvement_value_percentage": 49.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63991,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0356E00169000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0356E00169000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0356E00169000000",
+    "comparables": [
+      {
+        "parcel_id": "0520F00254000000",
+        "address": "122 BRIDLE RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "122   BRIDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72600,
+        "market_value": 90600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0433N00029000000",
+        "address": "203 SUNNYFIELD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "203   SUNNYFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72100,
+        "market_value": 90100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0520E00046000000",
+        "address": "148 ELMWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "148   ELMWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72700,
+        "market_value": 90700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0167C00042000000",
+        "address": "509 COMMERCE ST",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "740   CENTRE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72100,
+        "market_value": 72100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0167C00119000000",
+        "address": "753 CENTRE AVE",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "753   CENTRE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72700,
+        "market_value": 90700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0222R00356000000",
+        "address": "514 BERNER ST",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "514   BERNER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72700,
+        "market_value": 90700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

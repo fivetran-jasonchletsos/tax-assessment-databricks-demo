@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084M00201000000",
+    "address": "100 DENNISTON ST",
+    "city": "Shadyside",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "100   DENNISTON ST  UNIT 63",
+    "current_mailing_address": "100   DENNISTON ST  UNIT 63",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.036,
+    "latitude": 40.46174,
+    "longitude": -79.90852
+  },
+  "assessments": {
+    "parcel_id": "0084M00201000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 557600,
+        "market_value": 557600,
+        "land_value": 131200,
+        "improvement_value": 426400,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40174,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 557600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 517426,
+        "market_value": 517426,
+        "land_value": 121747,
+        "improvement_value": 395679,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5123,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 517426,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 512303,
+        "market_value": 512303,
+        "land_value": 120541,
+        "improvement_value": 391762,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 512303,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 512303,
+        "market_value": 512303,
+        "land_value": 120541,
+        "improvement_value": 391762,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5175,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 512303,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 517478,
+        "market_value": 517478,
+        "land_value": 121759,
+        "improvement_value": 395719,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24641,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 517478,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 492837,
+        "market_value": 492837,
+        "land_value": 115961,
+        "improvement_value": 376876,
+        "land_value_percentage": 23.5,
+        "improvement_value_percentage": 76.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 492837,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084M00201000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084M00201000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jun-18",
+      "most_recent_appeal_date": "15-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23195-2018",
+        "filed_date": "15-Jun-18",
+        "hearing_date": "15-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 315600,
+        "requested_value": 315600,
+        "final_value": 594300,
+        "value_reduction": 0,
+        "reduction_percentage": -88.31,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084M00201000000",
+    "comparables": [
+      {
+        "parcel_id": "0052A00130000000",
+        "address": "4748 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4748   WALLINGFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 557800,
+        "market_value": 575800,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084M00463000000",
+        "address": "6434 DANIELLE ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6434   DANIELLE ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 556800,
+        "market_value": 574800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052G00057000000",
+        "address": "851 CANTERBURY LN",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "851   CANTERBURY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 558600,
+        "market_value": 558600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084M00410000000",
+        "address": "6448 MELISSA ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6448   MELISSA ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 555600,
+        "market_value": 573600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084M00392000000",
+        "address": "114 REIZENSTEIN WAY",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "114   REIZENSTEIN WAY",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 559900,
+        "market_value": 577900,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052H00279000000",
+        "address": "930 S AIKEN AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "930  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 560000,
+        "market_value": 560000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

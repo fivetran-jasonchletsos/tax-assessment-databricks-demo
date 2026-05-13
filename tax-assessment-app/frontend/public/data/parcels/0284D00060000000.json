@@ -116,40 +116,28 @@
   "appeals": {
     "parcel_id": "0284D00060000000",
     "summary": {
-      "total_appeals": 2,
+      "total_appeals": 1,
       "approved_count": 0,
-      "denied_count": 2,
+      "denied_count": 1,
       "success_rate_pct": 0.0,
       "avg_value_reduction": 0,
       "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
+      "first_appeal_date": "17-Oct-17",
+      "most_recent_appeal_date": "17-Oct-17",
+      "latest_appeal_status": "approved"
     },
     "appeals": [
       {
         "appeal_id": "WPRDC-18244-2017",
-        "filed_date": null,
+        "filed_date": "17-Oct-17",
         "hearing_date": "17-Oct-17",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
+        "appeal_status": "approved",
+        "original_value": 120800,
+        "requested_value": 120800,
+        "final_value": 120800,
         "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      },
-      {
-        "appeal_id": "WPRDC-32061-2019",
-        "filed_date": null,
-        "hearing_date": "14-May-19",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
       }
     ]
   },
@@ -157,17 +145,30 @@
     "parcel_id": "0284D00060000000",
     "comparables": [
       {
-        "parcel_id": "0119C00122000000",
-        "address": "196 WASHINGTON ST",
+        "parcel_id": "0432R00050000000",
+        "address": "301 FORLIVIEW RD",
         "city": "Shaler",
-        "zip_code": "15223",
-        "current_owner_name": "170   WENFORD BAYNE RD",
+        "zip_code": "15116",
+        "current_owner_name": "301   FORLIVIEW RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 61900,
-        "market_value": 61900,
-        "assessed_value_change_pct": -4.9,
+        "assessed_value": 61400,
+        "market_value": 79400,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0520E00295000000",
+        "address": "2928 GREENFIELD RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2928   GREENFIELD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 61700,
+        "market_value": 79700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0353D00218000000",
@@ -180,7 +181,20 @@
         "assessed_value": 62000,
         "market_value": 80000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355J00248000000",
+        "address": "122 ELLEN ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "122   ELLEN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62000,
+        "market_value": 80000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0520L00251000000",
@@ -193,45 +207,19 @@
         "assessed_value": 61000,
         "market_value": 61000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0166C00272000000",
-        "address": "185 SEAVEY RD",
-        "city": "Shaler",
-        "zip_code": "15223",
-        "current_owner_name": "32   CAMBRIA POINT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 59700,
-        "market_value": 59700,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285F00078000000",
-        "address": "997 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "997   SAXONBURG",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 59000,
-        "market_value": 77000,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0166C00182000000",
-        "address": "320 DEWEY AVENUE EXT",
+        "parcel_id": "0355J00044000000",
+        "address": "109 MASON DR",
         "city": "Shaler",
-        "zip_code": "15223",
-        "current_owner_name": "320   DEWEY AVE EXT",
+        "zip_code": "15116",
+        "current_owner_name": "109   MASON DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 64300,
-        "market_value": 82300,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 62100,
+        "market_value": 80100,
+        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

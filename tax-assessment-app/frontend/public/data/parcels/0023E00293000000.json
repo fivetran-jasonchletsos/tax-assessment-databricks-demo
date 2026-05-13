@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023E00293000000",
+    "address": "1521 BUENA VISTA ST",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "877   BURR ST",
+    "current_mailing_address": "877   BURR ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.41716,
+    "longitude": -80.06564
+  },
+  "assessments": {
+    "parcel_id": "0023E00293000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 390500,
+        "market_value": 390500,
+        "land_value": 19600,
+        "improvement_value": 370900,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9617,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 390500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 380883,
+        "market_value": 380883,
+        "land_value": 19117,
+        "improvement_value": 361766,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14649,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 380883,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 366234,
+        "market_value": 366234,
+        "land_value": 18382,
+        "improvement_value": 347852,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10667,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 366234,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 355567,
+        "market_value": 355567,
+        "land_value": 17846,
+        "improvement_value": 337721,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6971,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 355567,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 348596,
+        "market_value": 348596,
+        "land_value": 17496,
+        "improvement_value": 331100,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3451,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 348596,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 345145,
+        "market_value": 345145,
+        "land_value": 17323,
+        "improvement_value": 327822,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 345145,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023E00293000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023E00293000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Jun-15",
+      "most_recent_appeal_date": "22-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-563-2015",
+        "filed_date": "22-Jun-15",
+        "hearing_date": "22-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 246400,
+        "requested_value": 246400,
+        "final_value": 308900,
+        "value_reduction": 0,
+        "reduction_percentage": -25.37,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023E00293000000",
+    "comparables": [
+      {
+        "parcel_id": "0023G00040000A00",
+        "address": "1515 BOYLE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1515   BOYLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 390200,
+        "market_value": 390200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023E00379000000",
+        "address": "1609 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1609   BUENA VISTA ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 388500,
+        "market_value": 406500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023E00269000000",
+        "address": "1523 MONTEREY ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1523   MONTEREY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 380800,
+        "market_value": 398800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023E00111000000",
+        "address": "1714 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1714   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 401100,
+        "market_value": 419100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023F00410000000",
+        "address": "1408 ARCH ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1408   ARCH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 402000,
+        "market_value": 420000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023F00084000000",
+        "address": "132 E JEFFERSON ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "132  E JEFFERSON ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 378400,
+        "market_value": 396400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

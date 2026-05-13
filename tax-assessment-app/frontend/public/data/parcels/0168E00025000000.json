@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0168E00025000000",
+    "address": "324 13TH ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "324   13TH ST",
+    "current_mailing_address": "324   13TH ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.05,
+    "latitude": 40.49412,
+    "longitude": -79.90744
+  },
+  "assessments": {
+    "parcel_id": "0168E00025000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 81300,
+        "market_value": 81300,
+        "land_value": 16500,
+        "improvement_value": 64800,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3618,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 77682,
+        "market_value": 77682,
+        "land_value": 15765,
+        "improvement_value": 61917,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77682,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 77682,
+        "market_value": 77682,
+        "land_value": 15765,
+        "improvement_value": 61917,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -785,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77682,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 78467,
+        "market_value": 78467,
+        "land_value": 15925,
+        "improvement_value": 62542,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3736,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78467,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 74731,
+        "market_value": 74731,
+        "land_value": 15166,
+        "improvement_value": 59565,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2874,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74731,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 71857,
+        "market_value": 71857,
+        "land_value": 14583,
+        "improvement_value": 57274,
+        "land_value_percentage": 20.3,
+        "improvement_value_percentage": 79.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71857,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0168E00025000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0168E00025000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0168E00025000000",
+    "comparables": [
+      {
+        "parcel_id": "0168K00179000000",
+        "address": "1404 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1404   MIDDLE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81300,
+        "market_value": 99300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0168J00191000000",
+        "address": "200 SCHOOL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "200   SCHOOL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 81100,
+        "market_value": 99100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168J00188000000",
+        "address": "1318 N CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1318  N CANAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 81000,
+        "market_value": 81000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168K00045000000",
+        "address": "1347 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1347   MAIN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 81600,
+        "market_value": 81600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168L00043000000",
+        "address": "208 18TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "109   GLEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80900,
+        "market_value": 80900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168L00044000000",
+        "address": "202 18TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "4779   WILLIAM FLYNN HWY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 81700,
+        "market_value": 81700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

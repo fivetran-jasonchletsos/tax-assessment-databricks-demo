@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051H00215000000",
+    "address": "353 STRATFORD AVE",
+    "city": "10802",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "224   LAUREL OAK DR",
+    "current_mailing_address": "224   LAUREL OAK DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.44122,
+    "longitude": -79.92686
+  },
+  "assessments": {
+    "parcel_id": "0051H00215000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 378800,
+        "market_value": 378800,
+        "land_value": 63000,
+        "improvement_value": 315800,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 37336,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 378800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 341464,
+        "market_value": 341464,
+        "land_value": 56790,
+        "improvement_value": 284674,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6695,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 341464,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 334769,
+        "market_value": 334769,
+        "land_value": 55676,
+        "improvement_value": 279093,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3314,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 334769,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 331455,
+        "market_value": 331455,
+        "land_value": 55125,
+        "improvement_value": 276330,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 331455,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 331455,
+        "market_value": 331455,
+        "land_value": 55125,
+        "improvement_value": 276330,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3349,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 331455,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 334804,
+        "market_value": 334804,
+        "land_value": 55682,
+        "improvement_value": 279122,
+        "land_value_percentage": 16.6,
+        "improvement_value_percentage": 83.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 334804,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051H00215000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051H00215000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 97200,
+      "total_value_reduction": 97200,
+      "first_appeal_date": "16-Aug-19",
+      "most_recent_appeal_date": "16-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29515-2019",
+        "filed_date": "16-Aug-19",
+        "hearing_date": "16-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 223900,
+        "requested_value": 223900,
+        "final_value": 126700,
+        "value_reduction": 97200,
+        "reduction_percentage": 43.41,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051H00215000000",
+    "comparables": [
+      {
+        "parcel_id": "0051D00028000000",
+        "address": "320 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "320  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 377000,
+        "market_value": 395000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050S00316000000",
+        "address": "212 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "212  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 381000,
+        "market_value": 399000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051H00011000000",
+        "address": "371 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "371  S GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 375900,
+        "market_value": 393900,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051H00223000000",
+        "address": "345 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "345   STRATFORD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 375100,
+        "market_value": 393100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051G00262000000",
+        "address": "414 S GRAHAM ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "414  S GRAHAM ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 383700,
+        "market_value": 401700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051D00181000000",
+        "address": "209 ROUP AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "209   ROUP ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 385300,
+        "market_value": 403300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

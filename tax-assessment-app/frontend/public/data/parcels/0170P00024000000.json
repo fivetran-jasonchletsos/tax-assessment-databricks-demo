@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0170P00024000000",
+    "address": "118 ALPINE CIR",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "118   ALPINE CIR",
+    "current_mailing_address": "118   ALPINE CIR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.449,
+    "latitude": 40.49448,
+    "longitude": -79.90552
+  },
+  "assessments": {
+    "parcel_id": "0170P00024000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 391500,
+        "market_value": 391500,
+        "land_value": 108600,
+        "improvement_value": 282900,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24329,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 391500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 367171,
+        "market_value": 367171,
+        "land_value": 101851,
+        "improvement_value": 265320,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10694,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 367171,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 356477,
+        "market_value": 356477,
+        "land_value": 98884,
+        "improvement_value": 257593,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6989,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 356477,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 349488,
+        "market_value": 349488,
+        "land_value": 96946,
+        "improvement_value": 252542,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3460,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 349488,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 346028,
+        "market_value": 346028,
+        "land_value": 95986,
+        "improvement_value": 250042,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 346028,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 346028,
+        "market_value": 346028,
+        "land_value": 95986,
+        "improvement_value": 250042,
+        "land_value_percentage": 27.7,
+        "improvement_value_percentage": 72.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 346028,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170P00024000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170P00024000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-May-16",
+      "most_recent_appeal_date": "4-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9764-2016",
+        "filed_date": "4-May-16",
+        "hearing_date": "4-May-16",
+        "appeal_status": "approved",
+        "original_value": 353700,
+        "requested_value": 353700,
+        "final_value": 414000,
+        "value_reduction": 0,
+        "reduction_percentage": -17.05,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0170P00024000000",
+    "comparables": [
+      {
+        "parcel_id": "0170A00180000000",
+        "address": "629 W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "629   WALDHEIM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0170K00111000000",
+        "address": "116 PASADENA DR S",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "116   PASADENA DR S",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170E00152000000",
+        "address": "33 WINDSOR RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "33   WINDSOR RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392200,
+        "market_value": 410200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0224A00120000000",
+        "address": "200 HUNT RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "200   HUNT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 390800,
+        "market_value": 408800,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0170A00124000000",
+        "address": "622 W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "622  W WALDHEIM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 390600,
+        "market_value": 408600,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0287R00190000000",
+        "address": "232 HUNT RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "232   HUNT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 393500,
+        "market_value": 411500,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051P00101000000",
+    "address": "4929 LEONARD ST",
+    "city": "Shadyside",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "8   CHURCHILL RD",
+    "current_mailing_address": "8   CHURCHILL RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.074,
+    "latitude": 40.43296,
+    "longitude": -79.9522
+  },
+  "assessments": {
+    "parcel_id": "0051P00101000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 330600,
+        "market_value": 330600,
+        "land_value": 100000,
+        "improvement_value": 230600,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8142,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 330600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 322458,
+        "market_value": 322458,
+        "land_value": 97537,
+        "improvement_value": 224921,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12402,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 322458,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 310056,
+        "market_value": 310056,
+        "land_value": 93785,
+        "improvement_value": 216271,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9030,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 310056,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 301026,
+        "market_value": 301026,
+        "land_value": 91054,
+        "improvement_value": 209972,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5902,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 301026,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 295124,
+        "market_value": 295124,
+        "land_value": 89269,
+        "improvement_value": 205855,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2922,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295124,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 292202,
+        "market_value": 292202,
+        "land_value": 88385,
+        "improvement_value": 203817,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 292202,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051P00101000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051P00101000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jun-18",
+      "most_recent_appeal_date": "6-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22832-2018",
+        "filed_date": "6-Jun-18",
+        "hearing_date": "6-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 245000,
+        "requested_value": 245000,
+        "final_value": 330600,
+        "value_reduction": 0,
+        "reduction_percentage": -34.94,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051P00101000000",
+    "comparables": [
+      {
+        "parcel_id": "0085E00070000000",
+        "address": "5627 5TH AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5627   5TH AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 330600,
+        "market_value": 348600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052A00285000000",
+        "address": "4732 BAYARD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4732   BAYARD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 330400,
+        "market_value": 348400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051S00356000000",
+        "address": "5405 ELLSWORTH AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5405   ELLSWORTH AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 330400,
+        "market_value": 348400,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052D00106000000",
+        "address": "707 S AIKEN AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1723   SUMMIT AVE  APT 207",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 330900,
+        "market_value": 330900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052H00281000000",
+        "address": "2 SCHOOLHOUSE LN",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 90003",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 330300,
+        "market_value": 330300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051M00234000000",
+        "address": "536 S GRAHAM ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "2300   GRRENSBURG RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 331000,
+        "market_value": 331000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

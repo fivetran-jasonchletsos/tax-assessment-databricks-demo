@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0049L00021000A00",
+    "address": "384 BOWERY WAY",
+    "city": "10901",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "384   BOWERY WAY",
+    "current_mailing_address": "384   BOWERY WAY",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.016,
+    "latitude": 40.46668,
+    "longitude": -79.94296
+  },
+  "assessments": {
+    "parcel_id": "0049L00021000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32400,
+        "market_value": 32400,
+        "land_value": 12000,
+        "improvement_value": 20400,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 800,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 31600,
+        "market_value": 31600,
+        "land_value": 11703,
+        "improvement_value": 19897,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1215,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31600,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30385,
+        "market_value": 30385,
+        "land_value": 11253,
+        "improvement_value": 19132,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 885,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30385,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29500,
+        "market_value": 29500,
+        "land_value": 10925,
+        "improvement_value": 18575,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 578,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29500,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 28922,
+        "market_value": 28922,
+        "land_value": 10711,
+        "improvement_value": 18211,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 286,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28922,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28636,
+        "market_value": 28636,
+        "land_value": 10605,
+        "improvement_value": 18031,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28636,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049L00021000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049L00021000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0049L00021000A00",
+    "comparables": [
+      {
+        "parcel_id": "0049L00022000000",
+        "address": "382 BOWERY WAY",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "588   BLESSING ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049L00019000000",
+        "address": "390 BOWERY WAY",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "910   THORN ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049L00052000001",
+        "address": "4051 GENEVA ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "216   KITTANNING ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40500,
+        "market_value": 40500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

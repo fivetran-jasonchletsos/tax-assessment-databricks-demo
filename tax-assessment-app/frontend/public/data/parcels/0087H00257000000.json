@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087H00257000000",
+    "address": "2334 TILBURY AVE",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "405  E 63RD ST  APT 8C",
+    "current_mailing_address": "405  E 63RD ST  APT 8C",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.095,
+    "latitude": 40.42132,
+    "longitude": -79.92878
+  },
+  "assessments": {
+    "parcel_id": "0087H00257000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "land_value": 109300,
+        "improvement_value": 120700,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14294,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 230000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 215706,
+        "market_value": 215706,
+        "land_value": 102507,
+        "improvement_value": 113199,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6282,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 215706,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 209424,
+        "market_value": 209424,
+        "land_value": 99521,
+        "improvement_value": 109903,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4106,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 209424,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 205318,
+        "market_value": 205318,
+        "land_value": 97570,
+        "improvement_value": 107748,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2032,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 205318,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 203286,
+        "market_value": 203286,
+        "land_value": 96605,
+        "improvement_value": 106681,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 203286,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 203286,
+        "market_value": 203286,
+        "land_value": 96605,
+        "improvement_value": 106681,
+        "land_value_percentage": 47.5,
+        "improvement_value_percentage": 52.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 203286,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087H00257000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087H00257000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jul-15",
+      "most_recent_appeal_date": "13-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2277-2015",
+        "filed_date": "13-Jul-15",
+        "hearing_date": "13-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 173200,
+        "requested_value": 173200,
+        "final_value": 230000,
+        "value_reduction": 0,
+        "reduction_percentage": -32.79,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087H00257000000",
+    "comparables": [
+      {
+        "parcel_id": "0086S00045000000",
+        "address": "5905 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5831   HOBART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087D00105000000",
+        "address": "5925 NICHOLSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5880   DOUGLASS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087F00012000000",
+        "address": "5559 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "8342  NW CEDAR LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087F00240000000",
+        "address": "5604 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1327   CORAOPOLIS HEIGHTS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087C00172000000",
+        "address": "5863 NICHOLSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6496   MONITOR ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 229900,
+        "market_value": 229900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087D00117000000",
+        "address": "2319 PITTOCK ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "616   SEAGIRT BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 230100,
+        "market_value": 230100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

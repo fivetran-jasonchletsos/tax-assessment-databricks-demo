@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0083E00168000000",
+    "address": "5504 MARGARETTA ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5738   BAUM BLVD",
+    "current_mailing_address": "5738   BAUM BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.141,
+    "latitude": 40.4621,
+    "longitude": -79.92388
+  },
+  "assessments": {
+    "parcel_id": "0083E00168000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 72900,
+        "market_value": 72900,
+        "land_value": 45100,
+        "improvement_value": 27800,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1798,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 71102,
+        "market_value": 71102,
+        "land_value": 43987,
+        "improvement_value": 27115,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2734,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71102,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 68368,
+        "market_value": 68368,
+        "land_value": 42296,
+        "improvement_value": 26072,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1991,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68368,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 66377,
+        "market_value": 66377,
+        "land_value": 41064,
+        "improvement_value": 25313,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1301,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66377,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 65076,
+        "market_value": 65076,
+        "land_value": 40259,
+        "improvement_value": 24817,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 644,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65076,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 64432,
+        "market_value": 64432,
+        "land_value": 39861,
+        "improvement_value": 24571,
+        "land_value_percentage": 61.9,
+        "improvement_value_percentage": 38.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64432,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083E00168000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083E00168000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083E00168000000",
+    "comparables": [
+      {
+        "parcel_id": "0050M00147000000",
+        "address": "5413 BROAD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5413   BROAD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082J00183000000",
+        "address": "828 JANCEY ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "828   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083H00132000000",
+        "address": "6117 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "196   CHESTNUT AVE  UNIT N",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 72900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083H00133000000",
+        "address": "6113 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "196   CHESTNUT AVE  UNIT N",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 72900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084D00137000D00",
+        "address": "344 ENRIGHT CT",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "12126   GARLAND DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 72900,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084D00137000F00",
+        "address": "348 ENRIGHT CT",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "348   ENRIGHT CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 90900,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

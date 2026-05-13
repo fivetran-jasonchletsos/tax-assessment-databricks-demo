@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045F00027000000",
+    "address": "1223 WOODLAND AVE",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "504   MARION AVE",
+    "current_mailing_address": "504   MARION AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.41716,
+    "longitude": -80.06804
+  },
+  "assessments": {
+    "parcel_id": "0045F00027000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 73500,
+        "market_value": 73500,
+        "land_value": 14800,
+        "improvement_value": 58700,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1812,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 71688,
+        "market_value": 71688,
+        "land_value": 14435,
+        "improvement_value": 57253,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2757,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71688,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 68931,
+        "market_value": 68931,
+        "land_value": 13879,
+        "improvement_value": 55052,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2007,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68931,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 66924,
+        "market_value": 66924,
+        "land_value": 13475,
+        "improvement_value": 53449,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1312,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66924,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 65612,
+        "market_value": 65612,
+        "land_value": 13211,
+        "improvement_value": 52401,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 649,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65612,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 64963,
+        "market_value": 64963,
+        "land_value": 13080,
+        "improvement_value": 51883,
+        "land_value_percentage": 20.1,
+        "improvement_value_percentage": 79.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64963,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045F00027000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045F00027000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 32700,
+      "total_value_reduction": 32700,
+      "first_appeal_date": "31-May-16",
+      "most_recent_appeal_date": "31-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8436-2016",
+        "filed_date": "31-May-16",
+        "hearing_date": "31-May-16",
+        "appeal_status": "approved",
+        "original_value": 43700,
+        "requested_value": 43700,
+        "final_value": 11000,
+        "value_reduction": 32700,
+        "reduction_percentage": 74.83,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045F00027000000",
+    "comparables": [
+      {
+        "parcel_id": "0045E00211000000",
+        "address": "1258 HODGKISS ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1259   HIGHWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73500,
+        "market_value": 73500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0044H00037000000",
+        "address": "1431 WOODLAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1431   WOODLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73400,
+        "market_value": 91400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045A00191000000",
+        "address": "2900 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "7336   KELLY ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 73600,
+        "market_value": 73600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0045K00049000000",
+        "address": "1258 INGHAM ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1258   INGHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73700,
+        "market_value": 73700,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0045N00305000000",
+        "address": "2334 CALIFORNIA AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2334   CALIFORNIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73300,
+        "market_value": 73300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0076A00192000000",
+        "address": "3525 DIPLOMA ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3525   DIPLOMA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73300,
+        "market_value": 73300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

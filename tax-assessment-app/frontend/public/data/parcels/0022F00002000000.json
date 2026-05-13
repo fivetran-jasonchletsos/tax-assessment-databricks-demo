@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0022F00002000000",
+    "address": "1237 KUNKLE AVE",
+    "city": "Ward 21 - Manchester",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1300   BRIGHTON RD",
+    "current_mailing_address": "1300   BRIGHTON RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.142,
+    "latitude": 40.43972,
+    "longitude": -80.07836
+  },
+  "assessments": {
+    "parcel_id": "0022F00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 274300,
+        "market_value": 274300,
+        "land_value": 16100,
+        "improvement_value": 258200,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4340,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 269960,
+        "market_value": 269960,
+        "land_value": 15845,
+        "improvement_value": 254115,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2727,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 269960,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 272687,
+        "market_value": 272687,
+        "land_value": 16005,
+        "improvement_value": 256682,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12985,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 272687,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 259702,
+        "market_value": 259702,
+        "land_value": 15243,
+        "improvement_value": 244459,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9988,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 259702,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 249714,
+        "market_value": 249714,
+        "land_value": 14656,
+        "improvement_value": 235058,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7273,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249714,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 242441,
+        "market_value": 242441,
+        "land_value": 14230,
+        "improvement_value": 228211,
+        "land_value_percentage": 5.9,
+        "improvement_value_percentage": 94.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 242441,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022F00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022F00002000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0022F00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0022G00040000000",
+        "address": "1923 SEDGWICK AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 264400,
+        "market_value": 264400,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022G00019000000",
+        "address": "1227 KUNKLE AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 261800,
+        "market_value": 261800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

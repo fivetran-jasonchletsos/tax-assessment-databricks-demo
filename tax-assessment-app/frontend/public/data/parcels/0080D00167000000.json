@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0080D00167000000",
+    "address": "5227 KEYSTONE ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "502  W 7TH ST  STE 100",
+    "current_mailing_address": "502  W 7TH ST  STE 100",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.025,
+    "latitude": 40.4644,
+    "longitude": -79.94272
+  },
+  "assessments": {
+    "parcel_id": "0080D00167000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45700,
+        "market_value": 45700,
+        "land_value": 12600,
+        "improvement_value": 33100,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 725,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 44975,
+        "market_value": 44975,
+        "land_value": 12400,
+        "improvement_value": 32575,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -455,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44975,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 45430,
+        "market_value": 45430,
+        "land_value": 12525,
+        "improvement_value": 32905,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2163,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45430,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 43267,
+        "market_value": 43267,
+        "land_value": 11929,
+        "improvement_value": 31338,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1664,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43267,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 41603,
+        "market_value": 41603,
+        "land_value": 11470,
+        "improvement_value": 30133,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1211,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41603,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40392,
+        "market_value": 40392,
+        "land_value": 11136,
+        "improvement_value": 29256,
+        "land_value_percentage": 27.6,
+        "improvement_value_percentage": 72.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40392,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080D00167000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080D00167000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080D00167000000",
+    "comparables": [
+      {
+        "parcel_id": "0080D00146000000",
+        "address": "5174 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5174   CARNEGIE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45800,
+        "market_value": 63800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00138000000",
+        "address": "5216 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "415  S EVALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45800,
+        "market_value": 45800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081E00047000000",
+        "address": "907 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1205   CHISLETT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45900,
+        "market_value": 45900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120K00147000000",
+        "address": "6010 BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45500,
+        "market_value": 45500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081B00095000000",
+        "address": "5606 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5606   CAMELIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45400,
+        "market_value": 63400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081E00048000000",
+        "address": "905 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "3401   HARTZDALE DR  STE 103B",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 46000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

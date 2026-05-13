@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0028P00126044200",
+    "address": "3220 KENNETT SQ",
+    "city": "Saybrook Ct",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "3220   KENNETT SQ",
+    "current_mailing_address": "3220   KENNETT SQ",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43548,
+    "longitude": -79.9504
+  },
+  "assessments": {
+    "parcel_id": "0028P00126044200",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 130000,
+        "market_value": 130000,
+        "land_value": 0,
+        "improvement_value": 130000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3202,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 126798,
+        "market_value": 126798,
+        "land_value": 0,
+        "improvement_value": 126798,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4876,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126798,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 121922,
+        "market_value": 121922,
+        "land_value": 0,
+        "improvement_value": 121922,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3551,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121922,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 118371,
+        "market_value": 118371,
+        "land_value": 0,
+        "improvement_value": 118371,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2321,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 118371,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 116050,
+        "market_value": 116050,
+        "land_value": 0,
+        "improvement_value": 116050,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1149,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116050,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 114901,
+        "market_value": 114901,
+        "land_value": 0,
+        "improvement_value": 114901,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114901,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028P00126044200",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028P00126044200",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-798-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 70300,
+        "requested_value": 70300,
+        "final_value": 130000,
+        "value_reduction": 0,
+        "reduction_percentage": -84.92,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028P00126044200",
+    "comparables": [
+      {
+        "parcel_id": "0028P00126015200",
+        "address": "3258 KENNETT SQ",
+        "city": "Saybrook Ct",
+        "zip_code": "15213",
+        "current_owner_name": "4318   GLADES DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 104700,
+        "market_value": 104700,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

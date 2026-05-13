@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0224E00036000000",
+    "address": "148 OAKHURST RD",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "148   OAKHURST RD",
+    "current_mailing_address": "148   OAKHURST RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 2.0,
+    "latitude": 40.49352,
+    "longitude": -79.90828
+  },
+  "assessments": {
+    "parcel_id": "0224E00036000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 332800,
+        "market_value": 350800,
+        "land_value": 165000,
+        "improvement_value": 167800,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 32802,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 314800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 299998,
+        "market_value": 316223,
+        "land_value": 148736,
+        "improvement_value": 151262,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 5882,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 281998,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 294116,
+        "market_value": 310023,
+        "land_value": 145820,
+        "improvement_value": 148296,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 2912,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 276116,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 291204,
+        "market_value": 306954,
+        "land_value": 144376,
+        "improvement_value": 146828,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 273204,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 291204,
+        "market_value": 306954,
+        "land_value": 144376,
+        "improvement_value": 146828,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": -2942,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 273204,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 294146,
+        "market_value": 310055,
+        "land_value": 145835,
+        "improvement_value": 148311,
+        "land_value_percentage": 49.6,
+        "improvement_value_percentage": 50.4,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 276146,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0224E00036000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0224E00036000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-Aug-18",
+      "most_recent_appeal_date": "17-Aug-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-24527-2018",
+        "filed_date": "17-Aug-18",
+        "hearing_date": "17-Aug-18",
+        "appeal_status": "approved",
+        "original_value": 289000,
+        "requested_value": 289000,
+        "final_value": 327800,
+        "value_reduction": 0,
+        "reduction_percentage": -13.43,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0224E00036000000",
+    "comparables": [
+      {
+        "parcel_id": "0170L00012000000",
+        "address": "122 S PASADENA DR",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "122  S PASADENA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 332000,
+        "market_value": 350000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0225F00040000000",
+        "address": "6 FIELDVUE LN",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "6   FIELDVUE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 331900,
+        "market_value": 349900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170A00115000000",
+        "address": "624 W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "115   SAINT CHARLES CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334500,
+        "market_value": 352500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0170P00249000000",
+        "address": "139 RIVERVIEW TER",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "139   RIVERVIEW TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334600,
+        "market_value": 334600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0224L00008000000",
+        "address": "106 WESTCHESTER DR",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "106 1/2  WESTCHESTER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334600,
+        "market_value": 352600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0225J00060000000",
+        "address": "23 BUCKINGHAM PL",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "23   BUCKINGHAM PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 330000,
+        "market_value": 348000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

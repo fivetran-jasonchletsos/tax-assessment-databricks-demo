@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0086J00220000000",
+    "address": "5438 FORBES AVE",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5438   FORBES AVE",
+    "current_mailing_address": "5438   FORBES AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.442,
+    "latitude": 40.42024,
+    "longitude": -79.9157
+  },
+  "assessments": {
+    "parcel_id": "0086J00220000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 685700,
+        "market_value": 703700,
+        "land_value": 229300,
+        "improvement_value": 456400,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 49405,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 667700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 636295,
+        "market_value": 652998,
+        "land_value": 212778,
+        "improvement_value": 423517,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 6299,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 618295,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 629996,
+        "market_value": 646533,
+        "land_value": 210672,
+        "improvement_value": 419324,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 611996,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 629996,
+        "market_value": 646533,
+        "land_value": 210672,
+        "improvement_value": 419324,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": -6364,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 611996,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 636360,
+        "market_value": 653064,
+        "land_value": 212800,
+        "improvement_value": 423560,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 30302,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 618360,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 606058,
+        "market_value": 621967,
+        "land_value": 202667,
+        "improvement_value": 403391,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 588058,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086J00220000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0086J00220000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-May-15",
+      "most_recent_appeal_date": "22-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2188-2015",
+        "filed_date": "22-May-15",
+        "hearing_date": "22-May-15",
+        "appeal_status": "approved",
+        "original_value": 349200,
+        "requested_value": 349200,
+        "final_value": 703700,
+        "value_reduction": 0,
+        "reduction_percentage": -101.52,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086J00220000000",
+    "comparables": [
+      {
+        "parcel_id": "0086P00227000000",
+        "address": "1917 WIGHTMAN ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1917   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 685600,
+        "market_value": 703600,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085H00054000000",
+        "address": "128 BEECHWOOD LN",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "128   BEECHWOOD LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 688400,
+        "market_value": 706400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085C00408000000",
+        "address": "200 N WOODLAND RD",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "200  N WOODLAND RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 682000,
+        "market_value": 700000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085G00043000000",
+        "address": "1088 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "1088   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 682000,
+        "market_value": 700000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085H00064000000",
+        "address": "1229 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1229   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 681200,
+        "market_value": 699200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085K00073000000",
+        "address": "1117 S NEGLEY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1117  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679600,
+        "market_value": 697600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

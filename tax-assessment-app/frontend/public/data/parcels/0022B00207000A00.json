@@ -120,6 +120,46 @@
   },
   "comparables": {
     "parcel_id": "0022B00207000A00",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0045R00032000000",
+        "address": "1109 ISLAND AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1109   ISLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 175000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0045R00031000000",
+        "address": "1111 ISLAND AVE",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1111   ISLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170600,
+        "market_value": 188600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0022C00054000000",
+        "address": "1102 SUNDAY ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1102   SUNDAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 165800,
+        "market_value": 183800,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      }
+    ]
   }
 }

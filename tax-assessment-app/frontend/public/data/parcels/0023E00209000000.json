@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023E00209000000",
+    "address": "1530 GARFIELD AVE",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1530   GARFIELD AVE",
+    "current_mailing_address": "1530   GARFIELD AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.036,
+    "latitude": 40.4168,
+    "longitude": -80.06816
+  },
+  "assessments": {
+    "parcel_id": "0023E00209000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 268350,
+        "market_value": 268350,
+        "land_value": 42300,
+        "improvement_value": 226050,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19335,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 268350,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 249015,
+        "market_value": 249015,
+        "land_value": 39252,
+        "improvement_value": 209763,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2465,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249015,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 246550,
+        "market_value": 246550,
+        "land_value": 38863,
+        "improvement_value": 207687,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 246550,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 246550,
+        "market_value": 246550,
+        "land_value": 38863,
+        "improvement_value": 207687,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2491,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 246550,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 249041,
+        "market_value": 249041,
+        "land_value": 39256,
+        "improvement_value": 209785,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11859,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249041,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 237182,
+        "market_value": 237182,
+        "land_value": 37386,
+        "improvement_value": 199796,
+        "land_value_percentage": 15.8,
+        "improvement_value_percentage": 84.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 237182,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023E00209000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023E00209000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Aug-15",
+      "most_recent_appeal_date": "24-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-558-2015",
+        "filed_date": "24-Aug-15",
+        "hearing_date": "24-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 112700,
+        "requested_value": 112700,
+        "final_value": 292500,
+        "value_reduction": 0,
+        "reduction_percentage": -159.54,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023E00209000000",
+    "comparables": [
+      {
+        "parcel_id": "0023J00067000000",
+        "address": "502 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "502   JACKSONIA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 268100,
+        "market_value": 286100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023F00118000000",
+        "address": "253 E JEFFERSON ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "253  E JEFFERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 268000,
+        "market_value": 286000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023G00030000000",
+        "address": "1502 FEDERAL ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1502   FEDERAL ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 267800,
+        "market_value": 285800,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023F00387000000",
+        "address": "29 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "29   JACKSONIA ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 269400,
+        "market_value": 269400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023J00033000000",
+        "address": "1516 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1516   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 267300,
+        "market_value": 285300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023F00346000000",
+        "address": "110 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "110   JACKSONIA ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 271000,
+        "market_value": 289000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

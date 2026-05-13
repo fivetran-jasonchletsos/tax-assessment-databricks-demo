@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0009N00137090100",
+    "address": "941 PENN AVE",
+    "city": "941 Penn Avenue",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "941   PENN AVE  UNIT 901",
+    "current_mailing_address": "941   PENN AVE  UNIT 901",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43906,
+    "longitude": -79.98838
+  },
+  "assessments": {
+    "parcel_id": "0009N00137090100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 707900,
+        "market_value": 707900,
+        "land_value": 0,
+        "improvement_value": 707900,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 43989,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 707900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 663911,
+        "market_value": 663911,
+        "land_value": 0,
+        "improvement_value": 663911,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19337,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 663911,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 644574,
+        "market_value": 644574,
+        "land_value": 0,
+        "improvement_value": 644574,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12638,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 644574,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 631936,
+        "market_value": 631936,
+        "land_value": 0,
+        "improvement_value": 631936,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6256,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 631936,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 625680,
+        "market_value": 625680,
+        "land_value": 0,
+        "improvement_value": 625680,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 625680,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 625680,
+        "market_value": 625680,
+        "land_value": 0,
+        "improvement_value": 625680,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 625680,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0009N00137090100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0009N00137090100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 716600,
+      "total_value_reduction": 716600,
+      "first_appeal_date": "7-May-18",
+      "most_recent_appeal_date": "7-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22308-2018",
+        "filed_date": "7-May-18",
+        "hearing_date": "7-May-18",
+        "appeal_status": "approved",
+        "original_value": 1424500,
+        "requested_value": 1424500,
+        "final_value": 707900,
+        "value_reduction": 716600,
+        "reduction_percentage": 50.31,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0009N00137090100",
+    "comparables": [
+      {
+        "parcel_id": "0009N00137040100",
+        "address": "941 PENN AVE",
+        "city": "941 Penn Avenue",
+        "zip_code": "15222",
+        "current_owner_name": "100  S HUDSON ST  UNIT A9",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 550000,
+        "market_value": 550000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

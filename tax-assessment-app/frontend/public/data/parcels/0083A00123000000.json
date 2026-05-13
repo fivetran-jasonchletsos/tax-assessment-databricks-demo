@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0083A00123000000",
+    "address": "5431 BAYWOOD ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5431   BAYWOOD ST",
+    "current_mailing_address": "5431   BAYWOOD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.122,
+    "latitude": 40.46054,
+    "longitude": -79.9126
+  },
+  "assessments": {
+    "parcel_id": "0083A00123000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 263500,
+        "market_value": 281500,
+        "land_value": 45000,
+        "improvement_value": 218500,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": -3688,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 245500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 267188,
+        "market_value": 285439,
+        "land_value": 45629,
+        "improvement_value": 221559,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 12723,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 249188,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 254465,
+        "market_value": 271847,
+        "land_value": 43457,
+        "improvement_value": 211008,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 9787,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 236465,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 244678,
+        "market_value": 261392,
+        "land_value": 41785,
+        "improvement_value": 202893,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 7126,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 226678,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 237552,
+        "market_value": 253779,
+        "land_value": 40568,
+        "improvement_value": 196984,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 4657,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 219552,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 232895,
+        "market_value": 248804,
+        "land_value": 39773,
+        "improvement_value": 193122,
+        "land_value_percentage": 17.1,
+        "improvement_value_percentage": 82.9,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 214895,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083A00123000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0083A00123000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Sep-15",
+      "most_recent_appeal_date": "1-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1935-2015",
+        "filed_date": "1-Sep-15",
+        "hearing_date": "1-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 227100,
+        "requested_value": 227100,
+        "final_value": 281500,
+        "value_reduction": 0,
+        "reduction_percentage": -23.95,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083A00123000000",
+    "comparables": [
+      {
+        "parcel_id": "0082M00140000000",
+        "address": "5913 BRYANT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5913   BRYANT ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 263500,
+        "market_value": 263500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083A00161000000",
+        "address": "5432 BAYWOOD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "240  S MATTILDA ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 263500,
+        "market_value": 263500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083K00809000000",
+        "address": "306 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "306  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 264000,
+        "market_value": 264000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083A00046000000",
+        "address": "630 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1000   GAMMA DR  STE 430",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262900,
+        "market_value": 262900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083M00047000000",
+        "address": "603 COLLINS AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "603   COLLINS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 264100,
+        "market_value": 282100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083A00058000000",
+        "address": "5405 BLACK ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5405   BLACK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 265000,
+        "market_value": 265000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

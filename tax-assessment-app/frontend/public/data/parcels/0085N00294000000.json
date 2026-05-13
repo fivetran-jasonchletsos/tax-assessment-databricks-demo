@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0085N00294000000",
+    "address": "1247 BELLEROCK ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1247   BELLEROCK ST",
+    "current_mailing_address": "1247   BELLEROCK ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.175,
+    "latitude": 40.42192,
+    "longitude": -79.92542
+  },
+  "assessments": {
+    "parcel_id": "0085N00294000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 500600,
+        "market_value": 518600,
+        "land_value": 155000,
+        "improvement_value": 345600,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 36068,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 482600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 464532,
+        "market_value": 481235,
+        "land_value": 143832,
+        "improvement_value": 320700,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 4599,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 446532,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 459933,
+        "market_value": 476470,
+        "land_value": 142408,
+        "improvement_value": 317525,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 441933,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 459933,
+        "market_value": 476470,
+        "land_value": 142408,
+        "improvement_value": 317525,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": -4646,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 441933,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 464579,
+        "market_value": 481283,
+        "land_value": 143846,
+        "improvement_value": 320733,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 22122,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 446579,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 442457,
+        "market_value": 458366,
+        "land_value": 136997,
+        "improvement_value": 305460,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 424457,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085N00294000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0085N00294000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-May-15",
+      "most_recent_appeal_date": "14-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2124-2015",
+        "filed_date": "14-May-15",
+        "hearing_date": "14-May-15",
+        "appeal_status": "approved",
+        "original_value": 442800,
+        "requested_value": 442800,
+        "final_value": 518600,
+        "value_reduction": 0,
+        "reduction_percentage": -17.12,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085N00294000000",
+    "comparables": [
+      {
+        "parcel_id": "0085K00039000000",
+        "address": "1166 S NEGLEY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1166  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 500600,
+        "market_value": 518600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085K00121000000",
+        "address": "5700 LYNNE HAVEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5700   LYNNE HAVEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 500600,
+        "market_value": 500600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086E00091000000",
+        "address": "5544 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5544   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 500800,
+        "market_value": 518800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052K00185000000",
+        "address": "1019 DEVONSHIRE RD",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 501000,
+        "market_value": 501000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085N00151000000",
+        "address": "1230 MURDOCH RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1230   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 500000,
+        "market_value": 500000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086A00289000000",
+        "address": "1437 INVERNESS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1437   INVERNESS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 499500,
+        "market_value": 517500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

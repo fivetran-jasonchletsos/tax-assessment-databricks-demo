@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028P00102000000",
+    "address": "354 OPHELIA ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "22578   FOREST MANOR DR",
+    "current_mailing_address": "22578   FOREST MANOR DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.027,
+    "latitude": 40.43356,
+    "longitude": -79.94872
+  },
+  "assessments": {
+    "parcel_id": "0028P00102000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 109000,
+        "market_value": 109000,
+        "land_value": 16600,
+        "improvement_value": 92400,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10745,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 109000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 98255,
+        "market_value": 98255,
+        "land_value": 14963,
+        "improvement_value": 83292,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1926,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98255,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 96329,
+        "market_value": 96329,
+        "land_value": 14670,
+        "improvement_value": 81659,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 953,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96329,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 95376,
+        "market_value": 95376,
+        "land_value": 14525,
+        "improvement_value": 80851,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95376,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 95376,
+        "market_value": 95376,
+        "land_value": 14525,
+        "improvement_value": 80851,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -964,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95376,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 96340,
+        "market_value": 96340,
+        "land_value": 14671,
+        "improvement_value": 81669,
+        "land_value_percentage": 15.2,
+        "improvement_value_percentage": 84.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96340,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028P00102000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028P00102000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-797-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 50700,
+        "requested_value": 50700,
+        "final_value": 109000,
+        "value_reduction": 0,
+        "reduction_percentage": -114.99,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028P00102000000",
+    "comparables": [
+      {
+        "parcel_id": "0028F00276000000",
+        "address": "209 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "208   FIELDGATE DR",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 109000,
+        "market_value": 109000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0029D00107000000",
+        "address": "3314 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2438   ROMINE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 109000,
+        "market_value": 109000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0029G00254000000",
+        "address": "3223 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3223   DAWSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 109000,
+        "market_value": 127000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028L00206000000",
+        "address": "360 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "7072   BENNINGTON WOODS",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 108900,
+        "market_value": 108900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028R00271000000",
+        "address": "3319 JULIET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3152   GRIFFITHS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 109100,
+        "market_value": 109100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029C00222000000",
+        "address": "3239 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "111   YORKSHIRE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 108900,
+        "market_value": 108900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

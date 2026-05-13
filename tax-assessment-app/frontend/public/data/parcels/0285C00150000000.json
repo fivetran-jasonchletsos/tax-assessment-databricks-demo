@@ -115,31 +115,8 @@
   },
   "appeals": {
     "parcel_id": "0285C00150000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-49167-2021",
-        "filed_date": null,
-        "hearing_date": "19-Apr-21",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0285C00150000000",
@@ -158,6 +135,58 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0435R00292000000",
+        "address": "1003 SLEEPY HOLLOW LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1003   SLEEPY HOLLOW LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 410300,
+        "market_value": 428300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0354A00125000000",
+        "address": "545 GLENHAVEN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "545   GLENHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355G00178000000",
+        "address": "1512 CLINTON RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1512   CLINTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 387000,
+        "market_value": 405000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434G00103000000",
+        "address": "803 SPENCER GROVE LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "803   SPENCER GROVE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 422900,
+        "market_value": 440900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0434E00252000000",
         "address": "1645 BUTLER PLANK RD",
         "city": "Shaler",
@@ -168,58 +197,6 @@
         "assessed_value": 380000,
         "market_value": 380000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0285C00180000000",
-        "address": "1050 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1050   SAXONBURG BLVD",
-        "land_use_description": "OFFICE/WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 430000,
-        "market_value": 430000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0355D00115000000",
-        "address": "1496 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "163   BUEHNER DR",
-        "land_use_description": "WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 355700,
-        "market_value": 355700,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0433C00305000000",
-        "address": "2700 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 207",
-        "land_use_description": "CEMETERY/MONUMENTS",
-        "acreage": null,
-        "assessed_value": 450000,
-        "market_value": 450000,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0356N00155000000",
-        "address": "1122 OLD BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "207   SANDUSKY ST",
-        "land_use_description": "LIGHT MANUFACTURING",
-        "acreage": null,
-        "assessed_value": 475800,
-        "market_value": 475800,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

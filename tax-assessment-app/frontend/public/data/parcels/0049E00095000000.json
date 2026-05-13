@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0049E00095000000",
+    "address": "182 39TH ST",
+    "city": "10601",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 36",
+    "current_mailing_address": "PO BOX 36",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.038,
+    "latitude": 40.46512,
+    "longitude": -79.96336
+  },
+  "assessments": {
+    "parcel_id": "0049E00095000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 125000,
+        "market_value": 125000,
+        "land_value": 12500,
+        "improvement_value": 112500,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1747,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 125000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 126747,
+        "market_value": 126747,
+        "land_value": 12674,
+        "improvement_value": 114073,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6035,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126747,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 120712,
+        "market_value": 120712,
+        "land_value": 12071,
+        "improvement_value": 108641,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4642,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120712,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 116070,
+        "market_value": 116070,
+        "land_value": 11607,
+        "improvement_value": 104463,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3380,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116070,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 112690,
+        "market_value": 112690,
+        "land_value": 11269,
+        "improvement_value": 101421,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2209,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112690,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 110481,
+        "market_value": 110481,
+        "land_value": 11048,
+        "improvement_value": 99433,
+        "land_value_percentage": 10.0,
+        "improvement_value_percentage": 90.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110481,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049E00095000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049E00095000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jun-15",
+      "most_recent_appeal_date": "8-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1130-2015",
+        "filed_date": "8-Jun-15",
+        "hearing_date": "8-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 50900,
+        "requested_value": 50900,
+        "final_value": 125000,
+        "value_reduction": 0,
+        "reduction_percentage": -145.58,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049E00095000000",
+    "comparables": [
+      {
+        "parcel_id": "0049J00272000000",
+        "address": "259 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "157   TOPSFIELD RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 125000,
+        "market_value": 125000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026B00015000A00",
+        "address": "3724 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "207   ELMTREE RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 124500,
+        "market_value": 124500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049K00005000000",
+        "address": "285 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "285   38TH ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 125700,
+        "market_value": 143700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049N00128000A00",
+        "address": "3440 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3440   PENN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 125700,
+        "market_value": 143700,
+        "assessed_value_change_pct": 2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049P00054000000",
+        "address": "3714 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "5881   ELLSWORTH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 124300,
+        "market_value": 124300,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0026K00043000000",
+        "address": "3453 RIDGWAY ST",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3453   RIDGWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 124300,
+        "market_value": 142300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

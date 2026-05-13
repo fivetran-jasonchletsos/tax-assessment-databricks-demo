@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0433F00076000000",
+    "address": "217 IOLA ST",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "217   IOLA ST",
+    "current_mailing_address": "217   IOLA ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.251,
+    "latitude": 40.52706,
+    "longitude": -79.9536
+  },
+  "assessments": {
+    "parcel_id": "0433F00076000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 222100,
+        "market_value": 222100,
+        "land_value": 43000,
+        "improvement_value": 179100,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21892,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 200208,
+        "market_value": 200208,
+        "land_value": 38761,
+        "improvement_value": 161447,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3925,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 200208,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 196283,
+        "market_value": 196283,
+        "land_value": 38001,
+        "improvement_value": 158282,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1943,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196283,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 194340,
+        "market_value": 194340,
+        "land_value": 37625,
+        "improvement_value": 156715,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 194340,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 194340,
+        "market_value": 194340,
+        "land_value": 37625,
+        "improvement_value": 156715,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1964,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 194340,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 196304,
+        "market_value": 196304,
+        "land_value": 38005,
+        "improvement_value": 158299,
+        "land_value_percentage": 19.4,
+        "improvement_value_percentage": 80.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196304,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0433F00076000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0433F00076000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jun-17",
+      "most_recent_appeal_date": "13-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-19320-2017",
+        "filed_date": "13-Jun-17",
+        "hearing_date": "13-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 149000,
+        "requested_value": 149000,
+        "final_value": 222100,
+        "value_reduction": 0,
+        "reduction_percentage": -49.06,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0433F00076000000",
+    "comparables": [
+      {
+        "parcel_id": "0355P00285000000",
+        "address": "1500 ELLA ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1500   ELLA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222100,
+        "market_value": 222100,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0356L00027000000",
+        "address": "150 RIDGEVIEW CIR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "150   RIDGEVIEW CIR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222100,
+        "market_value": 240100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0354J00022000000",
+        "address": "675 MCELHENY RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "675   MCELHENY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222000,
+        "market_value": 240000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355G00169000000",
+        "address": "1511 CLINTON RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1511   CLINTON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222200,
+        "market_value": 240200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0433L00099000000",
+        "address": "212 MOREWOOD RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "212   MOREWOOD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222000,
+        "market_value": 240000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0435K00123000000",
+        "address": "329 LAURELWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "329   LAURELWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222000,
+        "market_value": 240000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

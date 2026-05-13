@@ -122,19 +122,6 @@
     "parcel_id": "0353H00010000000",
     "comparables": [
       {
-        "parcel_id": "0434C00018000000",
-        "address": "2538 COLLEGE PARK RD",
-        "city": "Shaler",
-        "zip_code": "15101",
-        "current_owner_name": "2538   COLLEGE PARK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 150000,
-        "market_value": 168000,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
-      },
-      {
         "parcel_id": "0433M00146000000",
         "address": "2102 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -145,19 +132,32 @@
         "assessed_value": 150000,
         "market_value": 150000,
         "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434G00019000D00",
+        "address": "727 SPENCER WOODS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "727   SPENCER WOODS DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 168000,
+        "assessed_value_change_pct": 0.9,
         "distance_miles": 0.3
       },
       {
-        "parcel_id": "0434D00268000000",
-        "address": "902 TIDAL TERRACE DR",
+        "parcel_id": "0520E00038000000",
+        "address": "144 ELMWOOD DR",
         "city": "Shaler",
-        "zip_code": "15101",
-        "current_owner_name": "3103   PONDEROSA DR",
+        "zip_code": "15116",
+        "current_owner_name": "106   DOLORES DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 149900,
-        "market_value": 149900,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.5
       },
       {
@@ -187,16 +187,16 @@
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00169000000",
-        "address": "1027 MIDDLE RD",
+        "parcel_id": "0433L00129000000",
+        "address": "131 MOREWOOD RD",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "1027   MIDDLE RD",
+        "current_owner_name": "131   MOREWOOD RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 149500,
-        "market_value": 149500,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 150100,
+        "market_value": 168100,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

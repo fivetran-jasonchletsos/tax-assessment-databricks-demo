@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084K00149000000",
+    "address": "366 LAMONT PL",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "366   LAMONT PL",
+    "current_mailing_address": "366   LAMONT PL",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.031,
+    "latitude": 40.44302,
+    "longitude": -79.93946
+  },
+  "assessments": {
+    "parcel_id": "0084K00149000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 183400,
+        "market_value": 183400,
+        "land_value": 82000,
+        "improvement_value": 101400,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11399,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 183400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 172001,
+        "market_value": 172001,
+        "land_value": 76903,
+        "improvement_value": 95098,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5009,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 172001,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 166992,
+        "market_value": 166992,
+        "land_value": 74663,
+        "improvement_value": 92329,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3274,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 166992,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 163718,
+        "market_value": 163718,
+        "land_value": 73199,
+        "improvement_value": 90519,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1620,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163718,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 162098,
+        "market_value": 162098,
+        "land_value": 72475,
+        "improvement_value": 89623,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162098,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 162098,
+        "market_value": 162098,
+        "land_value": 72475,
+        "improvement_value": 89623,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162098,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084K00149000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084K00149000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Sep-15",
+      "most_recent_appeal_date": "1-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2031-2015",
+        "filed_date": "1-Sep-15",
+        "hearing_date": "1-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 131000,
+        "requested_value": 131000,
+        "final_value": 183400,
+        "value_reduction": 0,
+        "reduction_percentage": -40.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084K00149000000",
+    "comparables": [
+      {
+        "parcel_id": "0052E00152000000",
+        "address": "8 ELLSWORTH TER",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "8   ELLSWORTH TER",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 183900,
+        "market_value": 183900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052D00154000000",
+        "address": "724 COPELAND ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "724   COPELAND ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 183900,
+        "market_value": 201900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052H00354000000",
+        "address": "WESTMINSTER PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5229   WESTMINSTER PL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 184200,
+        "market_value": 184200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085A00140000000",
+        "address": "812 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 182500,
+        "market_value": 182500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085A00141000000",
+        "address": "810 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 182500,
+        "market_value": 182500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051S00040000000",
+        "address": "5441 POTTER ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5441   POTTER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 182400,
+        "market_value": 182400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

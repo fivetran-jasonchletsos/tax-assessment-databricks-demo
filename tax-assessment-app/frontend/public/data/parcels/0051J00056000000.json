@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051J00056000000",
+    "address": "741 S MILLVALE AVE",
+    "city": "10802",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5701   SOLWAY ST",
+    "current_mailing_address": "5701   SOLWAY ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.43332,
+    "longitude": -79.94536
+  },
+  "assessments": {
+    "parcel_id": "0051J00056000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 99900,
+        "market_value": 99900,
+        "land_value": 62900,
+        "improvement_value": 37000,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4446,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 99900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 95454,
+        "market_value": 95454,
+        "land_value": 60100,
+        "improvement_value": 35354,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95454,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 95454,
+        "market_value": 95454,
+        "land_value": 60100,
+        "improvement_value": 35354,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -965,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95454,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96419,
+        "market_value": 96419,
+        "land_value": 60708,
+        "improvement_value": 35711,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4591,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96419,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 91828,
+        "market_value": 91828,
+        "land_value": 57817,
+        "improvement_value": 34011,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3531,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91828,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88297,
+        "market_value": 88297,
+        "land_value": 55594,
+        "improvement_value": 32703,
+        "land_value_percentage": 63.0,
+        "improvement_value_percentage": 37.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88297,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051J00056000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051J00056000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "21-May-18",
+      "most_recent_appeal_date": "21-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22825-2018",
+        "filed_date": "21-May-18",
+        "hearing_date": "21-May-18",
+        "appeal_status": "approved",
+        "original_value": 99900,
+        "requested_value": 99900,
+        "final_value": 99900,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051J00056000000",
+    "comparables": [
+      {
+        "parcel_id": "0026M00180000000",
+        "address": "4715 MARIPOE ST",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "6236   5TH AVE  STE 105-C",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 100400,
+        "market_value": 100400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051C00215000000",
+        "address": "304 S AIKEN AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "304  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100800,
+        "market_value": 118800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051J00118000000",
+        "address": "217 MOREWOOD AVE",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "217   MOREWOOD AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 101600,
+        "market_value": 119600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083N00238000000",
+        "address": "112 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 103000,
+        "market_value": 103000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0026M00172000000",
+        "address": "4703 MARIPOE ST",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "6236   5TH AVE  STE 105-C",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104100,
+        "market_value": 104100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084A00274000000",
+        "address": "270 S EUCLID AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "270  S EUCLID AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 104300,
+        "market_value": 122300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

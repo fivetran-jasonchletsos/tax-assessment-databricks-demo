@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052R00206000000",
+    "address": "105 TECHVIEW TER",
+    "city": "11401",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "28   TERRACE DR",
+    "current_mailing_address": "28   TERRACE DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.081,
+    "latitude": 40.43404,
+    "longitude": -79.94356
+  },
+  "assessments": {
+    "parcel_id": "0052R00206000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "land_value": 102300,
+        "improvement_value": 112700,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3404,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 215000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 211596,
+        "market_value": 211596,
+        "land_value": 100680,
+        "improvement_value": 110916,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2138,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211596,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 213734,
+        "market_value": 213734,
+        "land_value": 101697,
+        "improvement_value": 112037,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10177,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213734,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 203557,
+        "market_value": 203557,
+        "land_value": 96855,
+        "improvement_value": 106702,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7829,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 203557,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 195728,
+        "market_value": 195728,
+        "land_value": 93130,
+        "improvement_value": 102598,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5700,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 195728,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 190028,
+        "market_value": 190028,
+        "land_value": 90417,
+        "improvement_value": 99611,
+        "land_value_percentage": 47.6,
+        "improvement_value_percentage": 52.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190028,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052R00206000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052R00206000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "31-Aug-15",
+      "most_recent_appeal_date": "31-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1388-2015",
+        "filed_date": "31-Aug-15",
+        "hearing_date": "31-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 147600,
+        "requested_value": 147600,
+        "final_value": 215000,
+        "value_reduction": 0,
+        "reduction_percentage": -45.66,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052R00206000000",
+    "comparables": [
+      {
+        "parcel_id": "0052M00037000000",
+        "address": "5357 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "138  W LYNDHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052M00043000000",
+        "address": "5369 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "46   HARKNESS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0053C00081000000",
+        "address": "5232 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5232   FORBES AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086B00090000000",
+        "address": "1519 S NEGLEY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "3880  N 50TH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085R00211000000",
+        "address": "WOODLAND RD",
+        "city": "11401",
+        "zip_code": "15232",
+        "current_owner_name": "107   PATTON DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 215400,
+        "market_value": 215400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052S00008000000",
+        "address": "5207 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5207   BEELER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 214500,
+        "market_value": 232500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

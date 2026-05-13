@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0052E00116003B00",
+    "address": "537 N NEVILLE ST",
+    "city": "Metropolitan Sahdyside",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "537  N NEVILLE ST  UNIT 3B",
+    "current_mailing_address": "537  N NEVILLE ST  UNIT 3B",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.435,
+    "longitude": -79.96432
+  },
+  "assessments": {
+    "parcel_id": "0052E00116003B00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 413900,
+        "market_value": 413900,
+        "land_value": 0,
+        "improvement_value": 413900,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18412,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 413900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 395488,
+        "market_value": 395488,
+        "land_value": 0,
+        "improvement_value": 395488,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 395488,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 395488,
+        "market_value": 395488,
+        "land_value": 0,
+        "improvement_value": 395488,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3995,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 395488,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 399483,
+        "market_value": 399483,
+        "land_value": 0,
+        "improvement_value": 399483,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19023,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 399483,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 380460,
+        "market_value": 380460,
+        "land_value": 0,
+        "improvement_value": 380460,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14633,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 380460,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 365827,
+        "market_value": 365827,
+        "land_value": 0,
+        "improvement_value": 365827,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 365827,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052E00116003B00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052E00116003B00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0052E00116003B00",
+    "comparables": [
+      {
+        "parcel_id": "0052E00116005B00",
+        "address": "537 N NEVILLE ST",
+        "city": "Metropolitan Sahdyside",
+        "zip_code": "15213",
+        "current_owner_name": "537  N NEVILLE ST  UNIT 5B",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 398300,
+        "market_value": 416300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052E00116004B00",
+        "address": "537 N NEVILLE ST",
+        "city": "Metropolitan Sahdyside",
+        "zip_code": "15213",
+        "current_owner_name": "537  N NEVILLE ST  UNIT 4B",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 515400,
+        "market_value": 533400,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

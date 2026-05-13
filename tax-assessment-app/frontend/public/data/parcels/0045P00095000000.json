@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045P00095000000",
+    "address": "1229 ISLAND AVE",
+    "city": "Ward 21 - Manchester",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "614   BERKSHIRE DR",
+    "current_mailing_address": "614   BERKSHIRE DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.097,
+    "latitude": 40.41896,
+    "longitude": -80.08088
+  },
+  "assessments": {
+    "parcel_id": "0045P00095000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 40600,
+        "market_value": 40600,
+        "land_value": 14700,
+        "improvement_value": 25900,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -566,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 41166,
+        "market_value": 41166,
+        "land_value": 14904,
+        "improvement_value": 26262,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1960,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41166,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 39206,
+        "market_value": 39206,
+        "land_value": 14195,
+        "improvement_value": 25011,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1507,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39206,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37699,
+        "market_value": 37699,
+        "land_value": 13649,
+        "improvement_value": 24050,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1098,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37699,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 36601,
+        "market_value": 36601,
+        "land_value": 13252,
+        "improvement_value": 23349,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 717,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36601,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35884,
+        "market_value": 35884,
+        "land_value": 12992,
+        "improvement_value": 22892,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35884,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045P00095000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045P00095000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-May-16",
+      "most_recent_appeal_date": "18-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8440-2016",
+        "filed_date": "18-May-16",
+        "hearing_date": "18-May-16",
+        "appeal_status": "approved",
+        "original_value": 40600,
+        "requested_value": 40600,
+        "final_value": 40600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045P00095000000",
+    "comparables": [
+      {
+        "parcel_id": "0022B00051000000",
+        "address": "1120 MARVISTA ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "6325  N 14TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022B00064000000",
+        "address": "1219 COLFAX ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1219   COLFAX ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0022B00177000000",
+        "address": "1306 SIGEL ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1001   CALIFORNIA AVE  UNIT 99941",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0022B00065000000",
+        "address": "1221 COLFAX ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1223   COLFAX ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 39800,
+        "market_value": 39800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0022C00088000000",
+        "address": "1118 MORRISON ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39600,
+        "market_value": 39600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045P00018000000",
+        "address": "1126 COLFAX ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1126   COLFAX ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39500,
+        "market_value": 39500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

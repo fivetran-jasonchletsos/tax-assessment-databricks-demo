@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086A00196000000",
+    "address": "5509 WOODMONT ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5509   WOODMONT ST",
+    "current_mailing_address": "5509   WOODMONT ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.101,
+    "latitude": 40.4206,
+    "longitude": -79.9313
+  },
+  "assessments": {
+    "parcel_id": "0086A00196000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 435000,
+        "market_value": 435000,
+        "land_value": 111600,
+        "improvement_value": 323400,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10714,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 435000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 424286,
+        "market_value": 424286,
+        "land_value": 108851,
+        "improvement_value": 315435,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16318,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 424286,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 407968,
+        "market_value": 407968,
+        "land_value": 104664,
+        "improvement_value": 303304,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11882,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 407968,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 396086,
+        "market_value": 396086,
+        "land_value": 101616,
+        "improvement_value": 294470,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7766,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 396086,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 388320,
+        "market_value": 388320,
+        "land_value": 99624,
+        "improvement_value": 288696,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3844,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388320,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 384476,
+        "market_value": 384476,
+        "land_value": 98637,
+        "improvement_value": 285839,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384476,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086A00196000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086A00196000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "20-May-16",
+      "most_recent_appeal_date": "20-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8997-2016",
+        "filed_date": "20-May-16",
+        "hearing_date": "20-May-16",
+        "appeal_status": "approved",
+        "original_value": 357500,
+        "requested_value": 357500,
+        "final_value": 357500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086A00196000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00086000000",
+        "address": "5444 ALBEMARLE AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5444   ALBEMARLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 434900,
+        "market_value": 452900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052M00026000000",
+        "address": "5335 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5335   BEELER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 434800,
+        "market_value": 452800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085K00085000000",
+        "address": "9 DUNMOYLE PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "9   DUNMOYLE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 435400,
+        "market_value": 453400,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086G00120000000",
+        "address": "5842 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5842   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 434200,
+        "market_value": 452200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086S00240000000",
+        "address": "6403 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6403   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 436000,
+        "market_value": 454000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053H00039000000",
+        "address": "5427 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5427   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 436300,
+        "market_value": 454300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

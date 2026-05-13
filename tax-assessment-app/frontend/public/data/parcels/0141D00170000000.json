@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0141D00170000000",
+    "address": "902 PARKSIDE AVE",
+    "city": "Dormont",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "902   PARKSIDE AVE",
+    "current_mailing_address": "902   PARKSIDE AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.083,
+    "latitude": 40.35784,
+    "longitude": -80.04186
+  },
+  "assessments": {
+    "parcel_id": "0141D00170000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 131700,
+        "market_value": 131700,
+        "land_value": 34400,
+        "improvement_value": 97300,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1842,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 131700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 133542,
+        "market_value": 133542,
+        "land_value": 34881,
+        "improvement_value": 98661,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6359,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133542,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 127183,
+        "market_value": 127183,
+        "land_value": 33220,
+        "improvement_value": 93963,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4891,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127183,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 122292,
+        "market_value": 122292,
+        "land_value": 31942,
+        "improvement_value": 90350,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3561,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 122292,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 118731,
+        "market_value": 118731,
+        "land_value": 31012,
+        "improvement_value": 87719,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2328,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 118731,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 116403,
+        "market_value": 116403,
+        "land_value": 30404,
+        "improvement_value": 85999,
+        "land_value_percentage": 26.1,
+        "improvement_value_percentage": 73.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116403,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0141D00170000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0141D00170000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0141D00170000000",
+    "comparables": [
+      {
+        "parcel_id": "0141D00168000000",
+        "address": "904 PARKSIDE AVE",
+        "city": "Dormont",
+        "zip_code": "15228",
+        "current_owner_name": "904   PARKSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 115800,
+        "market_value": 115800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0141D00172000000",
+        "address": "900 PARKSIDE AVE",
+        "city": "Dormont",
+        "zip_code": "15228",
+        "current_owner_name": "900   PARKSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114500,
+        "market_value": 132500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0141C00184000000",
+        "address": "901 PARKSIDE AVE",
+        "city": "Dormont",
+        "zip_code": "15228",
+        "current_owner_name": "901   PARKSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100200,
+        "market_value": 118200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

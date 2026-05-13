@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0085A00276000000",
+    "address": "5723 HOWE ST",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5730   WALNUT ST",
+    "current_mailing_address": "5730   WALNUT ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.111,
+    "latitude": 40.44206,
+    "longitude": -79.92038
+  },
+  "assessments": {
+    "parcel_id": "0085A00276000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "land_value": 196600,
+        "improvement_value": 53400,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24642,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 250000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 225358,
+        "market_value": 225358,
+        "land_value": 177221,
+        "improvement_value": 48137,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4418,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225358,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 220940,
+        "market_value": 220940,
+        "land_value": 173747,
+        "improvement_value": 47193,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2187,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220940,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 218753,
+        "market_value": 218753,
+        "land_value": 172027,
+        "improvement_value": 46726,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 218753,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 218753,
+        "market_value": 218753,
+        "land_value": 172027,
+        "improvement_value": 46726,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2210,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 218753,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 220963,
+        "market_value": 220963,
+        "land_value": 173765,
+        "improvement_value": 47198,
+        "land_value_percentage": 78.6,
+        "improvement_value_percentage": 21.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220963,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085A00276000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085A00276000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0085A00276000000",
+    "comparables": [
+      {
+        "parcel_id": "0084L00098000000",
+        "address": "6344 MARCHAND ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6344   MARCHAND ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084M00187000000",
+        "address": "100 DENNISTON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "109   ETON DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052A00099000000",
+        "address": "409 DEVONSHIRE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "415   DEVONSHIRE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052E00146000000",
+        "address": "2 ELLSWORTH TER",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4912   REFORMA RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051M00248000100",
+        "address": "537 S GRAHAM ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "173 C  45TH ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052D00354000000",
+        "address": "716 FILBERT ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1439   DENNISTON AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

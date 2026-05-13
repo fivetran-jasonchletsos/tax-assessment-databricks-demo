@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087D00168000000",
+    "address": "6327 CROMBIE ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "3225   MCLEOD DR",
+    "current_mailing_address": "3225   MCLEOD DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.42096,
+    "longitude": -79.92986
+  },
+  "assessments": {
+    "parcel_id": "0087D00168000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 207100,
+        "market_value": 207100,
+        "land_value": 67500,
+        "improvement_value": 139600,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9214,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 207100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 197886,
+        "market_value": 197886,
+        "land_value": 64496,
+        "improvement_value": 133390,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197886,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 197886,
+        "market_value": 197886,
+        "land_value": 64496,
+        "improvement_value": 133390,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1999,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197886,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 199885,
+        "market_value": 199885,
+        "land_value": 65148,
+        "improvement_value": 134737,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9518,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 199885,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 190367,
+        "market_value": 190367,
+        "land_value": 62046,
+        "improvement_value": 128321,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7321,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190367,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 183046,
+        "market_value": 183046,
+        "land_value": 59660,
+        "improvement_value": 123386,
+        "land_value_percentage": 32.6,
+        "improvement_value_percentage": 67.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 183046,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087D00168000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087D00168000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 39500,
+      "total_value_reduction": 39500,
+      "first_appeal_date": "18-May-16",
+      "most_recent_appeal_date": "18-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9020-2016",
+        "filed_date": "18-May-16",
+        "hearing_date": "18-May-16",
+        "appeal_status": "approved",
+        "original_value": 150000,
+        "requested_value": 150000,
+        "final_value": 110500,
+        "value_reduction": 39500,
+        "reduction_percentage": 26.33,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087D00168000000",
+    "comparables": [
+      {
+        "parcel_id": "0087D00234000000",
+        "address": "6326 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5051   WARWICK TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207000,
+        "market_value": 207000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087E00079000000",
+        "address": "5462 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5462   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207000,
+        "market_value": 225000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087A00094000000",
+        "address": "5458 GUARINO RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5458   GUARINO RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 206900,
+        "market_value": 224900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087C00175000000",
+        "address": "5851 NICHOLSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "3880  N 50TH AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 207300,
+        "market_value": 207300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087B00082000000",
+        "address": "5642 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 81746",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 206800,
+        "market_value": 206800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087D00242000000",
+        "address": "6344 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6344   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 207500,
+        "market_value": 225500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

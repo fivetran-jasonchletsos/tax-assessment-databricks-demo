@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0048E00005000000",
+    "address": "2013 MOUNT TROY RD",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2013   MOUNT TROY RD",
+    "current_mailing_address": "2013   MOUNT TROY RD",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.067,
+    "latitude": 40.41692,
+    "longitude": -80.07176
+  },
+  "assessments": {
+    "parcel_id": "0048E00005000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 241400,
+        "market_value": 241400,
+        "land_value": 15900,
+        "improvement_value": 225500,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23794,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 241400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 217606,
+        "market_value": 217606,
+        "land_value": 14332,
+        "improvement_value": 203274,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4266,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 217606,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 213340,
+        "market_value": 213340,
+        "land_value": 14051,
+        "improvement_value": 199289,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2112,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213340,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 211228,
+        "market_value": 211228,
+        "land_value": 13912,
+        "improvement_value": 197316,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211228,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 211228,
+        "market_value": 211228,
+        "land_value": 13912,
+        "improvement_value": 197316,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2134,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211228,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 213362,
+        "market_value": 213362,
+        "land_value": 14053,
+        "improvement_value": 199309,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213362,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0048E00005000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0048E00005000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0048E00005000000",
+    "comparables": [
+      {
+        "parcel_id": "0048A00076000000",
+        "address": "2116 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2116   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 209080,
+        "market_value": 227080,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047D00242000000",
+        "address": "1912 MELVINA ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "1912   MELVINA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 193300,
+        "market_value": 211300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

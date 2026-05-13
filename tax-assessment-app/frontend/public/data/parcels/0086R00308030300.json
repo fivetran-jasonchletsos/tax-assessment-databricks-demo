@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086R00308030300",
+    "address": "5859 BEACON ST",
+    "city": "Beacon Street",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5859   BEACON ST  UNIT 303",
+    "current_mailing_address": "5859   BEACON ST  UNIT 303",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.42276,
+    "longitude": -79.91714
+  },
+  "assessments": {
+    "parcel_id": "0086R00308030300",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 390000,
+        "market_value": 390000,
+        "land_value": 0,
+        "improvement_value": 390000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28099,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 390000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 361901,
+        "market_value": 361901,
+        "land_value": 0,
+        "improvement_value": 361901,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3583,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 361901,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 358318,
+        "market_value": 358318,
+        "land_value": 0,
+        "improvement_value": 358318,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 358318,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 358318,
+        "market_value": 358318,
+        "land_value": 0,
+        "improvement_value": 358318,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3620,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 358318,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 361938,
+        "market_value": 361938,
+        "land_value": 0,
+        "improvement_value": 361938,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17235,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 361938,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 344703,
+        "market_value": 344703,
+        "land_value": 0,
+        "improvement_value": 344703,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 344703,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086R00308030300",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086R00308030300",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jul-17",
+      "most_recent_appeal_date": "13-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16388-2017",
+        "filed_date": "13-Jul-17",
+        "hearing_date": "13-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 332200,
+        "requested_value": 332200,
+        "final_value": 439900,
+        "value_reduction": 0,
+        "reduction_percentage": -32.42,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086R00308030300",
+    "comparables": [
+      {
+        "parcel_id": "0086R00308010600",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "5859   BEACON ST  UNIT 106",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 391100,
+        "market_value": 391100,
+        "assessed_value_change_pct": 1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086R00308020800",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "107   ROCKY DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 391500,
+        "market_value": 391500,
+        "assessed_value_change_pct": 1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086R00308020400",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "5859   BEACON ST   #204",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 421900,
+        "market_value": 439900,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086R00308010500",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "5859   BEACON ST  UNIT 105",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 348200,
+        "market_value": 366200,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086R00308020700",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "5859   BEACON ST  APT 207",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 432700,
+        "market_value": 450700,
+        "assessed_value_change_pct": 1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086R00308020500",
+        "address": "5859 BEACON ST",
+        "city": "Beacon Street",
+        "zip_code": "15217",
+        "current_owner_name": "5859   BEACON ST  UNIT 205",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 433600,
+        "market_value": 451600,
+        "assessed_value_change_pct": 1.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

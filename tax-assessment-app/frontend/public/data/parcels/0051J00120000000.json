@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0051J00120000000",
+    "address": "213 MOREWOOD AVE",
+    "city": "10802",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "422   CAVITT AVE",
+    "current_mailing_address": "422   CAVITT AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.06,
+    "latitude": 40.43236,
+    "longitude": -79.95484
+  },
+  "assessments": {
+    "parcel_id": "0051J00120000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 46000,
+        "market_value": 46000,
+        "land_value": 20200,
+        "improvement_value": 25800,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 730,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 46000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 45270,
+        "market_value": 45270,
+        "land_value": 19879,
+        "improvement_value": 25391,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -458,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45270,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 45728,
+        "market_value": 45728,
+        "land_value": 20080,
+        "improvement_value": 25648,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2177,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45728,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 43551,
+        "market_value": 43551,
+        "land_value": 19124,
+        "improvement_value": 24427,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1675,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43551,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 41876,
+        "market_value": 41876,
+        "land_value": 18389,
+        "improvement_value": 23487,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1219,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41876,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40657,
+        "market_value": 40657,
+        "land_value": 17853,
+        "improvement_value": 22804,
+        "land_value_percentage": 43.9,
+        "improvement_value_percentage": 56.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40657,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051J00120000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051J00120000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0051J00120000000",
+    "comparables": [
+      {
+        "parcel_id": "0084A00282000000",
+        "address": "238 S EUCLID AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "238  S EUCLID AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 64000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083N00234000000",
+        "address": "128 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "4001   CLARIDON DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 47000,
+        "market_value": 47000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084A00111000000",
+        "address": "248 AMBER ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "254   AMBER ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 47000,
+        "market_value": 65000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084A00230000000",
+        "address": "224 S SAINT CLAIR ST",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "224  S SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43500,
+        "market_value": 61500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050S00270000000",
+        "address": "5410 PENN AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "5149   PENN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51000,
+        "market_value": 51000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050S00272000000",
+        "address": "5408 PENN AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "5149   PENN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51000,
+        "market_value": 51000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0052C00036000000",
+    "address": "505 AMBERSON AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "505   AMBERSON AVE",
+    "current_mailing_address": "505   AMBERSON AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.046,
+    "latitude": 40.44086,
+    "longitude": -79.92794
+  },
+  "assessments": {
+    "parcel_id": "0052C00036000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 334100,
+        "market_value": 334100,
+        "land_value": 81000,
+        "improvement_value": 253100,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5288,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 334100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 328812,
+        "market_value": 328812,
+        "land_value": 79717,
+        "improvement_value": 249095,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3322,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 328812,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 332134,
+        "market_value": 332134,
+        "land_value": 80523,
+        "improvement_value": 251611,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15815,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 332134,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 316319,
+        "market_value": 316319,
+        "land_value": 76689,
+        "improvement_value": 239630,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12166,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 316319,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 304153,
+        "market_value": 304153,
+        "land_value": 73739,
+        "improvement_value": 230414,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8858,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 304153,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 295295,
+        "market_value": 295295,
+        "land_value": 71592,
+        "improvement_value": 223703,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295295,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052C00036000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052C00036000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jun-17",
+      "most_recent_appeal_date": "8-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1336-2015",
+        "filed_date": "8-Jun-15",
+        "hearing_date": "8-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 189600,
+        "requested_value": 189600,
+        "final_value": 189600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-15850-2017",
+        "filed_date": "6-Jun-17",
+        "hearing_date": "6-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 189600,
+        "requested_value": 189600,
+        "final_value": 334100,
+        "value_reduction": 0,
+        "reduction_percentage": -76.21,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052C00036000000",
+    "comparables": [
+      {
+        "parcel_id": "0052A00143000000",
+        "address": "4728 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "4728   WALLINGFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334100,
+        "market_value": 352100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052H00018000000",
+        "address": "5421 HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "357   LINCOLN HWY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334100,
+        "market_value": 334100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085A00204000000",
+        "address": "806 MARYLAND AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "806   MARYLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334000,
+        "market_value": 352000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085A00322000000",
+        "address": "5725 KENTUCKY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5725   KENTUCKY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 334200,
+        "market_value": 352200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084H000650B1800",
+        "address": "100 DENNISTON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "100   DENNISTON ST  UNIT 81",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 333800,
+        "market_value": 351800,
+        "assessed_value_change_pct": 2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052D00177000000",
+        "address": "5433 HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1748   JANCY ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 334500,
+        "market_value": 334500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0086N00094000000",
+    "address": "5521 RALEIGH ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "3200   NOTTINGHAM DR",
+    "current_mailing_address": "3200   NOTTINGHAM DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.125,
+    "latitude": 40.4218,
+    "longitude": -79.92686
+  },
+  "assessments": {
+    "parcel_id": "0086N00094000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 244300,
+        "market_value": 244300,
+        "land_value": 100100,
+        "improvement_value": 144200,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10868,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 244300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 233432,
+        "market_value": 233432,
+        "land_value": 95646,
+        "improvement_value": 137786,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 233432,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 233432,
+        "market_value": 233432,
+        "land_value": 95646,
+        "improvement_value": 137786,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2358,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 233432,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 235790,
+        "market_value": 235790,
+        "land_value": 96613,
+        "improvement_value": 139177,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11228,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 235790,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 224562,
+        "market_value": 224562,
+        "land_value": 92012,
+        "improvement_value": 132550,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8637,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 224562,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 215925,
+        "market_value": 215925,
+        "land_value": 88473,
+        "improvement_value": 127452,
+        "land_value_percentage": 41.0,
+        "improvement_value_percentage": 59.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 215925,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086N00094000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086N00094000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0086N00094000000",
+    "comparables": [
+      {
+        "parcel_id": "0085E00153000000",
+        "address": "104 MAPLE HEIGHTS RD",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 753",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 244400,
+        "market_value": 244400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086F00275000000",
+        "address": "5601 FORBES AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5601   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 244100,
+        "market_value": 244100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0053S00038000000",
+        "address": "5401 BEACON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5401   BEACON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 244700,
+        "market_value": 262700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085L00068000000",
+        "address": "1201 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "1201   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 243800,
+        "market_value": 261800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086J00067000000",
+        "address": "1816 MURDOCH RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1814   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 243500,
+        "market_value": 243500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086J00159000000",
+        "address": "5541 DARLINGTON RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5541   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 245200,
+        "market_value": 263200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

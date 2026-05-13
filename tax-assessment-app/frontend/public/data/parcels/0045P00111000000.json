@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045P00111000000",
+    "address": "1313 ISLAND AVE",
+    "city": "Ward 21 - Manchester",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "340   GIRARD AVE",
+    "current_mailing_address": "340   GIRARD AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.126,
+    "latitude": 40.41764,
+    "longitude": -80.06936
+  },
+  "assessments": {
+    "parcel_id": "0045P00111000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "land_value": 16099,
+        "improvement_value": 28901,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3244,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 41756,
+        "market_value": 41756,
+        "land_value": 14939,
+        "improvement_value": 26817,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 413,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41756,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 41343,
+        "market_value": 41343,
+        "land_value": 14791,
+        "improvement_value": 26552,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41343,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 41343,
+        "market_value": 41343,
+        "land_value": 14791,
+        "improvement_value": 26552,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -418,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41343,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 41761,
+        "market_value": 41761,
+        "land_value": 14941,
+        "improvement_value": 26820,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1988,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41761,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 39773,
+        "market_value": 39773,
+        "land_value": 14229,
+        "improvement_value": 25544,
+        "land_value_percentage": 35.8,
+        "improvement_value_percentage": 64.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39773,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045P00111000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045P00111000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 26800,
+      "total_value_reduction": 26800,
+      "first_appeal_date": "31-May-17",
+      "most_recent_appeal_date": "31-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15687-2017",
+        "filed_date": "31-May-17",
+        "hearing_date": "31-May-17",
+        "appeal_status": "approved",
+        "original_value": 71800,
+        "requested_value": 71800,
+        "final_value": 45000,
+        "value_reduction": 26800,
+        "reduction_percentage": 37.33,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045P00111000000",
+    "comparables": [
+      {
+        "parcel_id": "0045P00014000000",
+        "address": "1119 SUCCESS ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 101853",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 44800,
+        "market_value": 44800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022G00110000000",
+        "address": "1910 SAINT IVES ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 44400,
+        "market_value": 44400,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0022C00111000000",
+        "address": "1012 MORRISON ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 45700,
+        "market_value": 45700,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0045P00020000000",
+        "address": "1203 SUCCESS ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1203   SUCCESS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46100,
+        "market_value": 64100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0022B00034000000",
+        "address": "1301 SUCCESS ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1301   SUCCESS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 46600,
+        "market_value": 64600,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0022G00018000000",
+        "address": "1930 SEDGWICK ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 47000,
+        "market_value": 47000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0083M00187000000",
+    "address": "37 MAYFLOWER ST",
+    "city": "11203",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+    "current_mailing_address": "412   BLVD OF THE ALLIES   FL 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.182,
+    "latitude": 40.46318,
+    "longitude": -79.91812
+  },
+  "assessments": {
+    "parcel_id": "0083M00187000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 175800,
+        "market_value": 175800,
+        "land_value": 5300,
+        "improvement_value": 170500,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2783,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 175800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 173017,
+        "market_value": 173017,
+        "land_value": 5216,
+        "improvement_value": 167801,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1748,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173017,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 174765,
+        "market_value": 174765,
+        "land_value": 5268,
+        "improvement_value": 169497,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8322,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174765,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 166443,
+        "market_value": 166443,
+        "land_value": 5017,
+        "improvement_value": 161426,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6401,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 166443,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 160042,
+        "market_value": 160042,
+        "land_value": 4824,
+        "improvement_value": 155218,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4661,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160042,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 155381,
+        "market_value": 155381,
+        "land_value": 4684,
+        "improvement_value": 150697,
+        "land_value_percentage": 3.0,
+        "improvement_value_percentage": 97.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155381,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083M00187000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083M00187000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083M00187000000",
+    "comparables": [
+      {
+        "parcel_id": "0083M00174000000",
+        "address": "22 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "22   MAYFLOWER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083M00176000000",
+        "address": "26 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "26   MAYFLOWER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083M00173000000",
+        "address": "20 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "20   MAYFLOWER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135800,
+        "market_value": 153800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

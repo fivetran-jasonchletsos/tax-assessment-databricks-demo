@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0045R00018000000",
+        "address": "1102 SUCCESS ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1102   SUCCESS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35500,
+        "market_value": 35500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0022B00207000000",
         "address": "1308 STRANMORE ST",
         "city": "Ward 21 - Manchester",
@@ -197,7 +210,20 @@
         "assessed_value": 36100,
         "market_value": 36100,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0022C00001000000",
+        "address": "1118 MARVISTA ST",
+        "city": "Ward 21 - Manchester",
+        "zip_code": "15212",
+        "current_owner_name": "1118   MARVISTA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36200,
+        "market_value": 54200,
+        "assessed_value_change_pct": 12.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0022B00150000000",
@@ -210,45 +236,19 @@
         "assessed_value": 31200,
         "market_value": 31200,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0022B00149000000",
-        "address": "1207 MARVISTA ST",
-        "city": "Ward 21 - Manchester",
-        "zip_code": "15212",
-        "current_owner_name": "1211   MARVISTA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 37400,
-        "market_value": 37400,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0022B00044000000",
-        "address": "1229 SUCCESS ST",
-        "city": "Ward 21 - Manchester",
-        "zip_code": "15212",
-        "current_owner_name": "2137  N FOREST GROVE RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 37800,
-        "market_value": 37800,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0022B00046000000",
-        "address": "1225 SUCCESS ST",
+        "parcel_id": "0022G00084000000",
+        "address": "1004 KIRKBRIDE ST",
         "city": "Ward 21 - Manchester",
         "zip_code": "15212",
-        "current_owner_name": "133   MEADOW SPRING RD",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 38400,
-        "market_value": 38400,
-        "assessed_value_change_pct": -5.5,
+        "assessed_value": 36700,
+        "market_value": 36700,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

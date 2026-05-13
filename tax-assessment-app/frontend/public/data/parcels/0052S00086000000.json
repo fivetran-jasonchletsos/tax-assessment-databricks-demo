@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052S00086000000",
+    "address": "5150 BEELER ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "2488   ELKRIDGE DR",
+    "current_mailing_address": "2488   ELKRIDGE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.224,
+    "latitude": 40.42168,
+    "longitude": -79.92554
+  },
+  "assessments": {
+    "parcel_id": "0052S00086000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 555200,
+        "market_value": 555200,
+        "land_value": 221900,
+        "improvement_value": 333300,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8785,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 555200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 546415,
+        "market_value": 546415,
+        "land_value": 218388,
+        "improvement_value": 328027,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5520,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546415,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 551935,
+        "market_value": 551935,
+        "land_value": 220595,
+        "improvement_value": 331340,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26282,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 551935,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 525653,
+        "market_value": 525653,
+        "land_value": 210090,
+        "improvement_value": 315563,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20217,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 525653,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 505436,
+        "market_value": 505436,
+        "land_value": 202010,
+        "improvement_value": 303426,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14721,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 505436,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 490715,
+        "market_value": 490715,
+        "land_value": 196126,
+        "improvement_value": 294589,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 490715,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052S00086000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052S00086000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-May-16",
+      "most_recent_appeal_date": "27-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8550-2016",
+        "filed_date": "27-May-16",
+        "hearing_date": "27-May-16",
+        "appeal_status": "approved",
+        "original_value": 334800,
+        "requested_value": 334800,
+        "final_value": 483000,
+        "value_reduction": 0,
+        "reduction_percentage": -44.27,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052S00086000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00278000000",
+        "address": "410 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "410   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 555000,
+        "market_value": 555000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086D00047000000",
+        "address": "1501 SHADY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1501   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 555000,
+        "market_value": 573000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085K00053000000",
+        "address": "1140 S NEGLEY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1140  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 554700,
+        "market_value": 572700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0053H00064000000",
+        "address": "5400 ALBEMARLE AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5400   ALBEMARLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 553900,
+        "market_value": 571900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0053D00128000000",
+        "address": "1311 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1311   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 557000,
+        "market_value": 575000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053H00184000000",
+        "address": "5387 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5387   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 557000,
+        "market_value": 575000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

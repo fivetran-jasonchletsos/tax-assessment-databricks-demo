@@ -115,55 +115,8 @@
   },
   "appeals": {
     "parcel_id": "0025F0017700C200",
-    "summary": {
-      "total_appeals": 3,
-      "approved_count": 0,
-      "denied_count": 3,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-37299-2020",
-        "filed_date": null,
-        "hearing_date": "10-Nov-20",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      },
-      {
-        "appeal_id": "WPRDC-56130-2022",
-        "filed_date": null,
-        "hearing_date": "1-Nov-23",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      },
-      {
-        "appeal_id": "WPRDC-71936-2023",
-        "filed_date": null,
-        "hearing_date": "1-Nov-23",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0025F0017700C200",
@@ -182,6 +135,45 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0025N00080061500",
+        "address": "2434 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "133   MOFFETT RUN RD",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 631600,
+        "market_value": 631600,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025N00080061900",
+        "address": "2434 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "113   FAN CT  UNIT 619",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 658000,
+        "market_value": 658000,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025N00030050700",
+        "address": "2419 SMALLMAN ST",
+        "city": "Strip Loft",
+        "zip_code": "15222",
+        "current_owner_name": "2419   SMALLMAN ST  UNIT 507",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 659600,
+        "market_value": 659600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0025F0017700A600",
         "address": "2901 SMALLMAN ST",
         "city": "Strip Loft",
@@ -192,7 +184,20 @@
         "assessed_value": 660100,
         "market_value": 678100,
         "assessed_value_change_pct": 1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049B00287001600",
+        "address": "4310 SUMMIT ST",
+        "city": "Strip Loft",
+        "zip_code": "15201",
+        "current_owner_name": "4310   SUMMIT ST",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 535600,
+        "market_value": 535600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 1.1
       }
     ]
   }

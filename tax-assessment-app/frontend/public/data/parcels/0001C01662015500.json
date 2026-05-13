@@ -167,35 +167,77 @@
   },
   "appeals": {
     "parcel_id": "0001C01662015500",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-92443-2026",
-        "filed_date": null,
-        "hearing_date": "8-Sep-25",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0001C01662015500",
     "comparables": [
+      {
+        "parcel_id": "0001C01662051300",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 140300,
+        "market_value": 140300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001C01662M02300",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 23M",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 140200,
+        "assessed_value_change_pct": 1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001C01662M02400",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "8   MIDWAY RD",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 140200,
+        "assessed_value_change_pct": 2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001C01662E00400",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 4E",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 140000,
+        "market_value": 140000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001C01662M00800",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 8M",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 140900,
+        "market_value": 140900,
+        "assessed_value_change_pct": 2.5,
+        "distance_miles": 0.9
+      },
       {
         "parcel_id": "0001C01662006800",
         "address": "320 FORT DUQUESNE BLVD",
@@ -207,71 +249,6 @@
         "assessed_value": 139600,
         "market_value": 139600,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0001C01662009800",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "8490   KINGBIRD LOOP   UNIT 938",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 139600,
-        "market_value": 139600,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0001C01662011100",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "34   HARBOUR ISLE DR W UNIT 305",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 141800,
-        "market_value": 141800,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0001C01662014100",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "320   FORT DUQUESNE BLVD  APT 14A",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 141800,
-        "market_value": 141800,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0001C01662011600",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 11F",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 137900,
-        "market_value": 155900,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0001C01662014600",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 14F",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 137900,
-        "market_value": 155900,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

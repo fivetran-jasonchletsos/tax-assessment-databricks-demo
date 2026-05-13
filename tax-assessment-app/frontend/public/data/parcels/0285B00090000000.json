@@ -122,6 +122,19 @@
     "parcel_id": "0285B00090000000",
     "comparables": [
       {
+        "parcel_id": "0355D00227000000",
+        "address": "105 SPENCER LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "105   SPENCER LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55200,
+        "market_value": 73200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0284D00065000000",
         "address": "1066 WILLIAM FLYNN HWY",
         "city": "Shaler",
@@ -132,7 +145,7 @@
         "assessed_value": 55000,
         "market_value": 55000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0355K00219000000",
@@ -145,7 +158,33 @@
         "assessed_value": 55000,
         "market_value": 73000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0434J00128000000",
+        "address": "227 MARYLAND DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "227   MARYLAND DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 73400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0222L00032000000",
+        "address": "535 FOUNDRY ST",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "535   FOUNDRY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 73400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285B00120000000",
@@ -158,45 +197,6 @@
         "assessed_value": 55600,
         "market_value": 55600,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285C00117000000",
-        "address": "1018 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1018   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 55900,
-        "market_value": 73900,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285C00120000000",
-        "address": "1020 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1020   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 56400,
-        "market_value": 74400,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520L00290000000",
-        "address": "2900 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2900   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 53400,
-        "market_value": 71400,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0001D00023003A00",
+    "address": "11 5TH AVE",
+    "city": "Keystone Lofts",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "11   5TH AVE  UNIT 301",
+    "current_mailing_address": "11   5TH AVE  UNIT 301",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": 0.019,
+    "latitude": 40.43738,
+    "longitude": -79.98646
+  },
+  "assessments": {
+    "parcel_id": "0001D00023003A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 110700,
+        "market_value": 110700,
+        "land_value": 0,
+        "improvement_value": 110700,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6881,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 103819,
+        "market_value": 103819,
+        "land_value": 0,
+        "improvement_value": 103819,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3023,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 103819,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 100796,
+        "market_value": 100796,
+        "land_value": 0,
+        "improvement_value": 100796,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1976,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100796,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 98820,
+        "market_value": 98820,
+        "land_value": 0,
+        "improvement_value": 98820,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 978,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98820,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 97842,
+        "market_value": 97842,
+        "land_value": 0,
+        "improvement_value": 97842,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97842,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 97842,
+        "market_value": 97842,
+        "land_value": 0,
+        "improvement_value": 97842,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97842,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001D00023003A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001D00023003A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001D00023003A00",
+    "comparables": [
+      {
+        "parcel_id": "0001D00023003B00",
+        "address": "11 5TH AVE",
+        "city": "Keystone Lofts",
+        "zip_code": "15222",
+        "current_owner_name": "11   5TH AVE  UNIT 302",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 118100,
+        "market_value": 136100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001D00023004B00",
+        "address": "11 5TH AVE",
+        "city": "Keystone Lofts",
+        "zip_code": "15222",
+        "current_owner_name": "11   5TH AVE  UNIT 402",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 130700,
+        "market_value": 148700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0009N00039002C00",
+        "address": "951 LIBERTY AVE",
+        "city": "Keystone Lofts",
+        "zip_code": "15222",
+        "current_owner_name": "941   PENN AVE   902",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 133800,
+        "market_value": 133800,
+        "assessed_value_change_pct": 2.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

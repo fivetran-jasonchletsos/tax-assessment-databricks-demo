@@ -1,0 +1,291 @@
+{
+  "parcel": {
+    "parcel_id": "0167R00019000000",
+    "address": "20 3RD ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "20   3RD ST",
+    "current_mailing_address": "20   3RD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.04,
+    "latitude": 40.49592,
+    "longitude": -79.9204
+  },
+  "assessments": {
+    "parcel_id": "0167R00019000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 91300,
+        "market_value": 109300,
+        "land_value": 8000,
+        "improvement_value": 83300,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": 6581,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 73300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 84719,
+        "market_value": 101421,
+        "land_value": 7423,
+        "improvement_value": 77296,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": 838,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 66719,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 83881,
+        "market_value": 100418,
+        "land_value": 7349,
+        "improvement_value": 76532,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 65881,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 83881,
+        "market_value": 100418,
+        "land_value": 7349,
+        "improvement_value": 76532,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": -848,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 65881,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 84729,
+        "market_value": 101433,
+        "land_value": 7424,
+        "improvement_value": 77305,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": 4034,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 66729,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 80695,
+        "market_value": 96604,
+        "land_value": 7070,
+        "improvement_value": 73625,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.2,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 62695,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0167R00019000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0167R00019000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 9350,
+      "total_value_reduction": 18700,
+      "first_appeal_date": "26-May-15",
+      "most_recent_appeal_date": "30-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-3272-2015",
+        "filed_date": "26-May-15",
+        "hearing_date": "26-May-15",
+        "appeal_status": "approved",
+        "original_value": 38700,
+        "requested_value": 38700,
+        "final_value": 20000,
+        "value_reduction": 18700,
+        "reduction_percentage": 48.32,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-23968-2018",
+        "filed_date": "30-May-18",
+        "hearing_date": "30-May-18",
+        "appeal_status": "approved",
+        "original_value": 56000,
+        "requested_value": 56000,
+        "final_value": 109300,
+        "value_reduction": 0,
+        "reduction_percentage": -95.18,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0167R00019000000",
+    "comparables": [
+      {
+        "parcel_id": "0168M00240000000",
+        "address": "1830 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1830   MIDDLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 91300,
+        "market_value": 109300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0168K00099000200",
+        "address": "1609 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1   PPG PL  STE 1700",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 91400,
+        "market_value": 91400,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167M00206000000",
+        "address": "916 CLAY ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "916   CLAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 91000,
+        "market_value": 109000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168K00061000000",
+        "address": "1332 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1714   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168K00304000000",
+        "address": "205 15TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "8   MIDDLE JAM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168M00242000000",
+        "address": "1826 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1826   MIDDLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

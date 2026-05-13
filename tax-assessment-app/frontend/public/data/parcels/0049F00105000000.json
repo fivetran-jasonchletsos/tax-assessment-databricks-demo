@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0049F00105000000",
+    "address": "254 FISK ST",
+    "city": "10901",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "254   FISK ST",
+    "current_mailing_address": "254   FISK ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.054,
+    "latitude": 40.46428,
+    "longitude": -79.94752
+  },
+  "assessments": {
+    "parcel_id": "0049F00105000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 511900,
+        "market_value": 511900,
+        "land_value": 60000,
+        "improvement_value": 451900,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7167,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 511900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 519067,
+        "market_value": 519067,
+        "land_value": 60840,
+        "improvement_value": 458227,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24717,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 519067,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 494350,
+        "market_value": 494350,
+        "land_value": 57942,
+        "improvement_value": 436408,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19013,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 494350,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 475337,
+        "market_value": 475337,
+        "land_value": 55714,
+        "improvement_value": 419623,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13844,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 475337,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 461493,
+        "market_value": 461493,
+        "land_value": 54091,
+        "improvement_value": 407402,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9048,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 461493,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 452445,
+        "market_value": 452445,
+        "land_value": 53031,
+        "improvement_value": 399414,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 452445,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049F00105000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049F00105000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Jun-17",
+      "most_recent_appeal_date": "13-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15736-2017",
+        "filed_date": "1-Jun-17",
+        "hearing_date": "1-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 205500,
+        "requested_value": 205500,
+        "final_value": 392000,
+        "value_reduction": 0,
+        "reduction_percentage": -90.75,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-22761-2018",
+        "filed_date": "13-Jul-18",
+        "hearing_date": "13-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 392000,
+        "requested_value": 392000,
+        "final_value": 467600,
+        "value_reduction": 0,
+        "reduction_percentage": -19.29,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049F00105000000",
+    "comparables": [
+      {
+        "parcel_id": "0049F00201000000",
+        "address": "240 MAIN ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "240   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 442000,
+        "market_value": 460000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049L00012000000",
+        "address": "349 FISK ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "349   FISK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 436000,
+        "market_value": 436000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049F00121000000",
+        "address": "218 FISK ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "218   FISK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 432600,
+        "market_value": 450600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049F00103000000",
+        "address": "260 FISK ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "260   FISK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 432000,
+        "market_value": 450000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049F00138000000",
+        "address": "241 FISK ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "241   FISK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 428600,
+        "market_value": 428600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049F00098000000",
+        "address": "270 FISK ST",
+        "city": "10901",
+        "zip_code": "15201",
+        "current_owner_name": "270   FISK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 598200,
+        "market_value": 616200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

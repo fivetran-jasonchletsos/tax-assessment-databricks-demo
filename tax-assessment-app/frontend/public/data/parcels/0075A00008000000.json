@@ -1,0 +1,291 @@
+{
+  "parcel": {
+    "parcel_id": "0075A00008000000",
+    "address": "3708 MILLERTON AVE",
+    "city": "Ward 27 - Brighton Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3708   MILLERTON AVE",
+    "current_mailing_address": "3708   MILLERTON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.095,
+    "latitude": 40.4168,
+    "longitude": -80.07092
+  },
+  "assessments": {
+    "parcel_id": "0075A00008000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 58400,
+        "market_value": 76400,
+        "land_value": 23800,
+        "improvement_value": 34600,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": 4209,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 40400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 54191,
+        "market_value": 70893,
+        "land_value": 22084,
+        "improvement_value": 32107,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": 536,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 36191,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 53655,
+        "market_value": 70192,
+        "land_value": 21866,
+        "improvement_value": 31789,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 35655,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 53655,
+        "market_value": 70192,
+        "land_value": 21866,
+        "improvement_value": 31789,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": -542,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 35655,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 54197,
+        "market_value": 70901,
+        "land_value": 22087,
+        "improvement_value": 32110,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": 2580,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 36197,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 51617,
+        "market_value": 67526,
+        "land_value": 21035,
+        "improvement_value": 30582,
+        "land_value_percentage": 40.8,
+        "improvement_value_percentage": 59.2,
+        "market_to_assessed_ratio": 1.31,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 33617,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075A00008000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0075A00008000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-May-16",
+      "most_recent_appeal_date": "16-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1734-2015",
+        "filed_date": "16-May-16",
+        "hearing_date": "16-May-16",
+        "appeal_status": "approved",
+        "original_value": 76400,
+        "requested_value": 76400,
+        "final_value": 76400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-8857-2016",
+        "filed_date": "16-May-16",
+        "hearing_date": "16-May-16",
+        "appeal_status": "approved",
+        "original_value": 76400,
+        "requested_value": 76400,
+        "final_value": 76400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0075A00008000000",
+    "comparables": [
+      {
+        "parcel_id": "0075A00018000000",
+        "address": "3709 HIAWATHA ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "4031   CALIFORNIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58200,
+        "market_value": 58200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075B00046000000",
+        "address": "3571 ELMHURST AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3571   ELMHURST AVE  APT 2",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57900,
+        "market_value": 57900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0075A00003000000",
+        "address": "3713 MILLERTON AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3713   MILLERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57200,
+        "market_value": 75200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075H00185000000",
+        "address": "3442 GASS AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3442   GASS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075B00003000000",
+        "address": "3725 HIAWATHA ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3725   HIAWATHA ST ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60200,
+        "market_value": 60200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075H00168000000",
+        "address": "1334 STOKES WAY",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1144   ALABAMA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 56200,
+        "market_value": 56200,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

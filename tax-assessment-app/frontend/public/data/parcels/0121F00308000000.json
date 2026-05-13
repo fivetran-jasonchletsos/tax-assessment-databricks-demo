@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0121F00308000000",
+    "address": "1832 MORNINGSIDE AVE",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1832   MORNINGSIDE AVE",
+    "current_mailing_address": "1832   MORNINGSIDE AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.4609,
+    "longitude": -79.90672
+  },
+  "assessments": {
+    "parcel_id": "0121F00308000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 180000,
+        "market_value": 180000,
+        "land_value": 31499,
+        "improvement_value": 148501,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12971,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 180000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 167029,
+        "market_value": 167029,
+        "land_value": 29230,
+        "improvement_value": 137799,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1653,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 167029,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 165376,
+        "market_value": 165376,
+        "land_value": 28940,
+        "improvement_value": 136436,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 165376,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 165376,
+        "market_value": 165376,
+        "land_value": 28940,
+        "improvement_value": 136436,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1671,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 165376,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 167047,
+        "market_value": 167047,
+        "land_value": 29233,
+        "improvement_value": 137814,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7954,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 167047,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 159093,
+        "market_value": 159093,
+        "land_value": 27841,
+        "improvement_value": 131252,
+        "land_value_percentage": 17.5,
+        "improvement_value_percentage": 82.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 159093,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121F00308000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121F00308000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jun-15",
+      "most_recent_appeal_date": "16-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2697-2015",
+        "filed_date": "16-Jun-15",
+        "hearing_date": "16-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 116700,
+        "requested_value": 116700,
+        "final_value": 180000,
+        "value_reduction": 0,
+        "reduction_percentage": -54.24,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0121F00308000000",
+    "comparables": [
+      {
+        "parcel_id": "0080G00178000B00",
+        "address": "5116 BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "105   RIVERFRONT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 180400,
+        "market_value": 180400,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00085000000",
+        "address": "5131 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5131   HOLMES ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 180400,
+        "market_value": 180400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080D00215000000",
+        "address": "5317 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5317   KEYSTONE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 180700,
+        "market_value": 198700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080H00176000A00",
+        "address": "5120 LOTUS WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5120   LOTUS WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 180700,
+        "market_value": 198700,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00035000000",
+        "address": "5126 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "2098   COPPER RDG",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 180900,
+        "market_value": 180900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080D00273000000",
+        "address": "206 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1616   AUSEON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 179000,
+        "market_value": 179000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

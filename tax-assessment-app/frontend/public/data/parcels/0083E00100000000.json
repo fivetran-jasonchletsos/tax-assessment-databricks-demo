@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0083E00100000000",
+    "address": "532 N FAIRMOUNT ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5359   BROAD ST",
+    "current_mailing_address": "5359   BROAD ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.165,
+    "latitude": 40.46042,
+    "longitude": -79.91596
+  },
+  "assessments": {
+    "parcel_id": "0083E00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 66900,
+        "market_value": 66900,
+        "land_value": 23000,
+        "improvement_value": 43900,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1650,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 65250,
+        "market_value": 65250,
+        "land_value": 22432,
+        "improvement_value": 42818,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2509,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65250,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 62741,
+        "market_value": 62741,
+        "land_value": 21570,
+        "improvement_value": 41171,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1827,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62741,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 60914,
+        "market_value": 60914,
+        "land_value": 20942,
+        "improvement_value": 39972,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1194,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60914,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 59720,
+        "market_value": 59720,
+        "land_value": 20531,
+        "improvement_value": 39189,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 591,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59720,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 59129,
+        "market_value": 59129,
+        "land_value": 20328,
+        "improvement_value": 38801,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59129,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083E00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083E00100000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083E00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0050M00296000000",
+        "address": "5467 BROAD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5467   BROAD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 66900,
+        "market_value": 66900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082L00094000000",
+        "address": "1131 PORTLAND ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1131   PORTLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082P00078000000",
+        "address": "5438 AVONDALE PL",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5438   AVONDALE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082P00221000000",
+        "address": "814 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "814  N NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082R00022000000",
+        "address": "931 MELLON ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "931   MELLON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082R00023000000",
+        "address": "929 MELLON ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "929   MELLON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 66800,
+        "market_value": 84800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

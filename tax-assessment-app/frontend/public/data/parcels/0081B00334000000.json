@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0081B00334000000",
+    "address": "4367 COLERIDGE ST",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "4367   COLERIDGE ST",
+    "current_mailing_address": "4367   COLERIDGE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.206,
+    "latitude": 40.4638,
+    "longitude": -79.94836
+  },
+  "assessments": {
+    "parcel_id": "0081B00334000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "land_value": 23400,
+        "improvement_value": 78600,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 7350,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 84000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 94650,
+        "market_value": 111352,
+        "land_value": 21713,
+        "improvement_value": 72937,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 937,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76650,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 93713,
+        "market_value": 110250,
+        "land_value": 21498,
+        "improvement_value": 72215,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 75713,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 93713,
+        "market_value": 110250,
+        "land_value": 21498,
+        "improvement_value": 72215,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": -947,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 75713,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 94660,
+        "market_value": 111364,
+        "land_value": 21716,
+        "improvement_value": 72944,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 4507,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76660,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 90153,
+        "market_value": 106062,
+        "land_value": 20682,
+        "improvement_value": 69471,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 72153,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081B00334000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0081B00334000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jun-15",
+      "most_recent_appeal_date": "15-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1854-2015",
+        "filed_date": "15-Jun-15",
+        "hearing_date": "15-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 81200,
+        "requested_value": 81200,
+        "final_value": 138000,
+        "value_reduction": 0,
+        "reduction_percentage": -69.95,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0081B00334000000",
+    "comparables": [
+      {
+        "parcel_id": "0081H00282000000",
+        "address": "1000 ORANMORE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1000   ORANMORE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081H00342000000",
+        "address": "105 ELENA CT",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "105   ELENA CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081G00187000000",
+        "address": "8 COLERIDGE PL",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "8   COLERIDGE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102100,
+        "market_value": 120100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081B00320000000",
+        "address": "4409 COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "712   ROSSMARE AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 102200,
+        "market_value": 102200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081D00101000000",
+        "address": "4724 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "106  S 18TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102300,
+        "market_value": 102300,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081F00218000000",
+        "address": "1113 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "145   SCENIC RIDGE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 102400,
+        "market_value": 102400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

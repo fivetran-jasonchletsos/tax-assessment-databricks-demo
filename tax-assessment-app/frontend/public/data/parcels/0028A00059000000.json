@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028A00059000000",
+    "address": "262 ROBINSON ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "427   ELKWOOD DR",
+    "current_mailing_address": "427   ELKWOOD DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.039,
+    "latitude": 40.43308,
+    "longitude": -79.94488
+  },
+  "assessments": {
+    "parcel_id": "0028A00059000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "land_value": 30100,
+        "improvement_value": 29900,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -838,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 60838,
+        "market_value": 60838,
+        "land_value": 30520,
+        "improvement_value": 30318,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2897,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60838,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 57941,
+        "market_value": 57941,
+        "land_value": 29067,
+        "improvement_value": 28874,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2228,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 57941,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 55713,
+        "market_value": 55713,
+        "land_value": 27949,
+        "improvement_value": 27764,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1622,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55713,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 54091,
+        "market_value": 54091,
+        "land_value": 27135,
+        "improvement_value": 26956,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1060,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54091,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 53031,
+        "market_value": 53031,
+        "land_value": 26603,
+        "improvement_value": 26428,
+        "land_value_percentage": 50.2,
+        "improvement_value_percentage": 49.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53031,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028A00059000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028A00059000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 40500,
+      "total_value_reduction": 40500,
+      "first_appeal_date": "18-May-15",
+      "most_recent_appeal_date": "18-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-764-2015",
+        "filed_date": "18-May-15",
+        "hearing_date": "18-May-15",
+        "appeal_status": "approved",
+        "original_value": 100500,
+        "requested_value": 100500,
+        "final_value": 60000,
+        "value_reduction": 40500,
+        "reduction_percentage": 40.3,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028A00059000000",
+    "comparables": [
+      {
+        "parcel_id": "0028L00159000000",
+        "address": "350 SEMPLE ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "7303   GREEN MEADOW DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00219000000",
+        "address": "369 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2445   PIN OAK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028L00219000100",
+        "address": "367 MEYRAN AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2445   PIN OAK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028L00319000000",
+        "address": "3449 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "208   FIELDGATE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028N00086000000",
+        "address": "242 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "232   FOXWOOD RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029C00122000000",
+        "address": "3204 JULIET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "234   OHARA MANOR DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

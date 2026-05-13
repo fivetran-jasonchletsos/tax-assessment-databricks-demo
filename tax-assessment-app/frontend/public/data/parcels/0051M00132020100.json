@@ -1,0 +1,291 @@
+{
+  "parcel": {
+    "parcel_id": "0051M00132020100",
+    "address": "5570 CENTRE AVE",
+    "city": "Market Hoose",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5570   CENTRE AVE  UNIT 201",
+    "current_mailing_address": "5570   CENTRE AVE  UNIT 201",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.44194,
+    "longitude": -79.9217
+  },
+  "assessments": {
+    "parcel_id": "0051M00132020100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 196500,
+        "market_value": 214500,
+        "land_value": 0,
+        "improvement_value": 196500,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 14159,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 178500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 182341,
+        "market_value": 199043,
+        "land_value": 0,
+        "improvement_value": 182341,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 1805,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 164341,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 180536,
+        "market_value": 197073,
+        "land_value": 0,
+        "improvement_value": 180536,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 162536,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 180536,
+        "market_value": 197073,
+        "land_value": 0,
+        "improvement_value": 180536,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": -1824,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 162536,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 182360,
+        "market_value": 199064,
+        "land_value": 0,
+        "improvement_value": 182360,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 8683,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 164360,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 173677,
+        "market_value": 189586,
+        "land_value": 0,
+        "improvement_value": 173677,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 155677,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051M00132020100",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0051M00132020100",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Jul-15",
+      "most_recent_appeal_date": "5-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1306-2015",
+        "filed_date": "24-Jul-15",
+        "hearing_date": "24-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 255800,
+        "requested_value": 255800,
+        "final_value": 315000,
+        "value_reduction": 0,
+        "reduction_percentage": -23.14,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-22827-2018",
+        "filed_date": "5-Jun-18",
+        "hearing_date": "5-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 315000,
+        "requested_value": 315000,
+        "final_value": 315000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051M00132020100",
+    "comparables": [
+      {
+        "parcel_id": "0051M00132021100",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "5570   CENTRE AVE  UNIT 211",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 190500,
+        "market_value": 208500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051M00132010100",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "5570   CENTRE AVE  UNIT 101",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 211800,
+        "market_value": 229800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051M00132030300",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "818   CHAPEL HELL CT",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 172200,
+        "market_value": 172200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051M00132030800",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "5570   CENTRE AVE  UNIT 308",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 231800,
+        "market_value": 249800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051M00132031300",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "5570   CENTRE AVE  UNIT 313",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 231800,
+        "market_value": 249800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051M00132020900",
+        "address": "5570 CENTRE AVE",
+        "city": "Market Hoose",
+        "zip_code": "15232",
+        "current_owner_name": "730   CHESTNUT CT",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 160400,
+        "market_value": 160400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

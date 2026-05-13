@@ -122,17 +122,30 @@
     "parcel_id": "0355P00318000000",
     "comparables": [
       {
-        "parcel_id": "0434C00012000000",
-        "address": "2604 COLLEGE PARK RD",
+        "parcel_id": "0520A00160000000",
+        "address": "149 RICHARD DR",
         "city": "Shaler",
-        "zip_code": "15101",
-        "current_owner_name": "2604   COLLEGE PARK RD",
+        "zip_code": "15116",
+        "current_owner_name": "149   RICHARD DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 146600,
         "market_value": 164600,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value_change_pct": 14.3,
         "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0520J00102000000",
+        "address": "109 RICHARD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "109   RICHARD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146600,
+        "market_value": 164600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0353H00030000000",
@@ -145,7 +158,33 @@
         "assessed_value": 146700,
         "market_value": 164700,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0354D00185000000",
+        "address": "1826 VOLLMER DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "720   BRIGHTRIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146700,
+        "market_value": 146700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520H00172000000",
+        "address": "134 ORCHARD AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "134   ORCHARD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146700,
+        "market_value": 164700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285B00167000000",
@@ -158,45 +197,6 @@
         "assessed_value": 146800,
         "market_value": 164800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0433S00049000000",
-        "address": "1917 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1917   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146300,
-        "market_value": 164300,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0434B00026000000",
-        "address": "2711 COLLEGE PARK RD",
-        "city": "Shaler",
-        "zip_code": "15101",
-        "current_owner_name": "2711   COLLEGE PARK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146100,
-        "market_value": 164100,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00092000000",
-        "address": "213 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "213   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 147200,
-        "market_value": 165200,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

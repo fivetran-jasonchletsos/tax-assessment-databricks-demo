@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0085B00147000000",
+    "address": "5922 KENTUCKY AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5922   KENTUCKY AVE",
+    "current_mailing_address": "5922   KENTUCKY AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.084,
+    "latitude": 40.44182,
+    "longitude": -79.92278
+  },
+  "assessments": {
+    "parcel_id": "0085B00147000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 442600,
+        "market_value": 460600,
+        "land_value": 100500,
+        "improvement_value": 342100,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 19690,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 424600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 422910,
+        "market_value": 440109,
+        "land_value": 96029,
+        "improvement_value": 326881,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 404910,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 422910,
+        "market_value": 440109,
+        "land_value": 96029,
+        "improvement_value": 326881,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": -4272,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 404910,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 427182,
+        "market_value": 444554,
+        "land_value": 96999,
+        "improvement_value": 330183,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 20342,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 409182,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 406840,
+        "market_value": 423385,
+        "land_value": 92380,
+        "improvement_value": 314460,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 15647,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 388840,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 391193,
+        "market_value": 407102,
+        "land_value": 88827,
+        "improvement_value": 302366,
+        "land_value_percentage": 22.7,
+        "improvement_value_percentage": 77.3,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 373193,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085B00147000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0085B00147000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Aug-19",
+      "most_recent_appeal_date": "8-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30022-2019",
+        "filed_date": "8-Aug-19",
+        "hearing_date": "8-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 282600,
+        "requested_value": 282600,
+        "final_value": 460600,
+        "value_reduction": 0,
+        "reduction_percentage": -62.99,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085B00147000000",
+    "comparables": [
+      {
+        "parcel_id": "0084H00018000000",
+        "address": "100 DENNISTON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "100   DENNISTON ST   #14",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 442000,
+        "market_value": 460000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052A00040000000",
+        "address": "4705 WALLINGFORD ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "2209   HAZEN RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 442000,
+        "market_value": 442000,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084R00171000000",
+        "address": "517 EMERSON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "517   EMERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 441700,
+        "market_value": 459700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085A00113000000",
+        "address": "917 IVY ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "917   IVY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 441700,
+        "market_value": 441700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052C00252000000",
+        "address": "624 ELLSWORTH PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "624   ELLSWORTH PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 443800,
+        "market_value": 461800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084M00102000000",
+        "address": "100 DENNISTON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "100   DENNISTON ST  UNIT 27",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 443900,
+        "market_value": 461900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

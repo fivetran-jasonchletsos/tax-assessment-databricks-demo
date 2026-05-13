@@ -122,6 +122,32 @@
     "parcel_id": "0011D00095000000",
     "comparables": [
       {
+        "parcel_id": "0026G00017000000",
+        "address": "3617 COLMAR ST",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "3617   COLMAR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112500,
+        "market_value": 130500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026S00038000000",
+        "address": "354 N CRAIG ST",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "372  N CRAIG ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 119600,
+        "market_value": 119600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0011D00343000000",
         "address": "209 WHITRIDGE ST",
         "city": "10503",
@@ -132,7 +158,33 @@
         "assessed_value": 120000,
         "market_value": 120000,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026S00027000000",
+        "address": "334 N CRAIG ST",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "334  N CRAIG ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 110200,
+        "market_value": 110200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0026R00308000000",
+        "address": "411 N CRAIG ST",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "5815   ALDER ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 109800,
+        "market_value": 109800,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0011D00093000000",
@@ -145,58 +197,6 @@
         "assessed_value": 121400,
         "market_value": 121400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0011D00089000000",
-        "address": "2529 ALLEQUIPPA ST",
-        "city": "10503",
-        "zip_code": "15213",
-        "current_owner_name": "1016   LAKEMONT DR",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 122300,
-        "market_value": 122300,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0011D00083000000",
-        "address": "2553 ALLEQUIPPA ST",
-        "city": "10503",
-        "zip_code": "15213",
-        "current_owner_name": "1400   FOX CHAPEL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 123700,
-        "market_value": 123700,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0011D00081000000",
-        "address": "2555 ALLEQUIPPA ST",
-        "city": "10503",
-        "zip_code": "15213",
-        "current_owner_name": "1400   FOX CHAPEL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 126200,
-        "market_value": 126200,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0011D00341000000",
-        "address": "213 WHITRIDGE ST",
-        "city": "10503",
-        "zip_code": "15213",
-        "current_owner_name": "213   WHITRIDGE ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 145000,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 1.1
       }
     ]

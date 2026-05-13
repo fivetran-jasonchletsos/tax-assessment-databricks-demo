@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087J00092000000",
+    "address": "3867 BEECHWOOD BLVD",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5640   FORWARD AVE  STE 16",
+    "current_mailing_address": "5640   FORWARD AVE  STE 16",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.127,
+    "latitude": 40.4212,
+    "longitude": -79.93118
+  },
+  "assessments": {
+    "parcel_id": "0087J00092000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "land_value": 45100,
+        "improvement_value": 39900,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8380,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 76620,
+        "market_value": 76620,
+        "land_value": 40653,
+        "improvement_value": 35967,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1502,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76620,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 75118,
+        "market_value": 75118,
+        "land_value": 39856,
+        "improvement_value": 35262,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 743,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75118,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 74375,
+        "market_value": 74375,
+        "land_value": 39462,
+        "improvement_value": 34913,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74375,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 74375,
+        "market_value": 74375,
+        "land_value": 39462,
+        "improvement_value": 34913,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -752,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74375,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 75127,
+        "market_value": 75127,
+        "land_value": 39861,
+        "improvement_value": 35266,
+        "land_value_percentage": 53.1,
+        "improvement_value_percentage": 46.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75127,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087J00092000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087J00092000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-May-16",
+      "most_recent_appeal_date": "16-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9021-2016",
+        "filed_date": "16-May-16",
+        "hearing_date": "16-May-16",
+        "appeal_status": "approved",
+        "original_value": 115000,
+        "requested_value": 115000,
+        "final_value": 115000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087J00092000000",
+    "comparables": [
+      {
+        "parcel_id": "0055D00197000000",
+        "address": "4115 MILLINGTON RD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4115   MILLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 103000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0054S00006000000",
+        "address": "865 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "865   DEELY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85100,
+        "market_value": 103100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0055D00280000000",
+        "address": "725 MELBOURNE ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "725   MELBOURNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85100,
+        "market_value": 103100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087J00223000000",
+        "address": "949 MIRROR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "200   AINSLIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84900,
+        "market_value": 84900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0054S00300000000",
+        "address": "811 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "811   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84800,
+        "market_value": 102800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0055D00007000000",
+        "address": "4224 MCCASLIN ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4140   DELEVAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84800,
+        "market_value": 84800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

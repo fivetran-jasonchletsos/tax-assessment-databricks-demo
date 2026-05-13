@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028A00040000000",
+    "address": "255 ROBINSON ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1548   OVERLOOK PL",
+    "current_mailing_address": "1548   OVERLOOK PL",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.076,
+    "latitude": 40.45588,
+    "longitude": -79.95676
+  },
+  "assessments": {
+    "parcel_id": "0028A00040000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 249300,
+        "market_value": 249300,
+        "land_value": 16600,
+        "improvement_value": 232700,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24573,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 224727,
+        "market_value": 224727,
+        "land_value": 14963,
+        "improvement_value": 209764,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4406,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 224727,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 220321,
+        "market_value": 220321,
+        "land_value": 14670,
+        "improvement_value": 205651,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2181,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220321,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 218140,
+        "market_value": 218140,
+        "land_value": 14525,
+        "improvement_value": 203615,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 218140,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 218140,
+        "market_value": 218140,
+        "land_value": 14525,
+        "improvement_value": 203615,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2204,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 218140,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 220344,
+        "market_value": 220344,
+        "land_value": 14671,
+        "improvement_value": 205673,
+        "land_value_percentage": 6.7,
+        "improvement_value_percentage": 93.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220344,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028A00040000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028A00040000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-763-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 48900,
+        "requested_value": 48900,
+        "final_value": 160000,
+        "value_reduction": 0,
+        "reduction_percentage": -227.2,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028A00040000000",
+    "comparables": [
+      {
+        "parcel_id": "0011H00038000000",
+        "address": "3114 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3114   TERRACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272500,
+        "market_value": 272500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028G00056000000",
+        "address": "325 SEMPLE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 88",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 273500,
+        "market_value": 273500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028A00036000000",
+        "address": "251 ROBINSON ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "251   RODINSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 217900,
+        "market_value": 217900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00406000000",
+        "address": "116 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "240   GLEN LAKE DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 217600,
+        "market_value": 217600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00424000000",
+        "address": "134 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "245   OLD COLONY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 216500,
+        "market_value": 216500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011D00041000000",
+        "address": "3121 ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "816   WESTERN AVE  UNIT 3",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 215200,
+        "market_value": 215200,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

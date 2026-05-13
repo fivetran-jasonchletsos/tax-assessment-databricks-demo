@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0081B00347000000",
+    "address": "4410 COLERIDGE ST",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "461   REVENUE ST",
+    "current_mailing_address": "461   REVENUE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.46428,
+    "longitude": -79.94368
+  },
+  "assessments": {
+    "parcel_id": "0081B00347000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 34700,
+        "market_value": 34700,
+        "land_value": 11500,
+        "improvement_value": 23200,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -483,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 35183,
+        "market_value": 35183,
+        "land_value": 11660,
+        "improvement_value": 23523,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1675,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35183,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 33508,
+        "market_value": 33508,
+        "land_value": 11104,
+        "improvement_value": 22404,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1288,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33508,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 32220,
+        "market_value": 32220,
+        "land_value": 10678,
+        "improvement_value": 21542,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 938,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32220,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 31282,
+        "market_value": 31282,
+        "land_value": 10367,
+        "improvement_value": 20915,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 613,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31282,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 30669,
+        "market_value": 30669,
+        "land_value": 10164,
+        "improvement_value": 20505,
+        "land_value_percentage": 33.1,
+        "improvement_value_percentage": 66.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30669,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081B00347000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0081B00347000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0081B00347000000",
+    "comparables": [
+      {
+        "parcel_id": "0081F00091000000",
+        "address": "936 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "936   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34700,
+        "market_value": 52700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081C00169000000",
+        "address": "1164 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1164   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34600,
+        "market_value": 52600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081C00184000000",
+        "address": "1200 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081C00185000000",
+        "address": "1202 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081L00172000000",
+        "address": "935 ORANMORE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "308   MARBERRY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081F00085000000",
+        "address": "952 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "952   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34100,
+        "market_value": 52100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

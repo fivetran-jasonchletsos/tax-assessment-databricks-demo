@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0121G00043000000",
+    "address": "7229 BUTLER ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "8036   PRAIRIE CT",
+    "current_mailing_address": "8036   PRAIRIE CT",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.46054,
+    "longitude": -79.91068
+  },
+  "assessments": {
+    "parcel_id": "0121G00043000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 92200,
+        "market_value": 92200,
+        "land_value": 25900,
+        "improvement_value": 66300,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1288,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 93488,
+        "market_value": 93488,
+        "land_value": 26261,
+        "improvement_value": 67227,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4451,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93488,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 89037,
+        "market_value": 89037,
+        "land_value": 25011,
+        "improvement_value": 64026,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3424,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89037,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 85613,
+        "market_value": 85613,
+        "land_value": 24049,
+        "improvement_value": 61564,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2493,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85613,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 83120,
+        "market_value": 83120,
+        "land_value": 23349,
+        "improvement_value": 59771,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1629,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83120,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 81491,
+        "market_value": 81491,
+        "land_value": 22891,
+        "improvement_value": 58600,
+        "land_value_percentage": 28.1,
+        "improvement_value_percentage": 71.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81491,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121G00043000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121G00043000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-Jun-19",
+      "most_recent_appeal_date": "25-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30467-2019",
+        "filed_date": "25-Jun-19",
+        "hearing_date": "25-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 89000,
+        "requested_value": 89000,
+        "final_value": 89000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0121G00043000000",
+    "comparables": [
+      {
+        "parcel_id": "0082J00134000000",
+        "address": "1021 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "101   MIDDLECREST DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 92200,
+        "market_value": 92200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080G00201000A00",
+        "address": "5119 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "17397  NW WOODRUSH WAY",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 92300,
+        "market_value": 92300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121F00299000000",
+        "address": "1811 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "19   MAURERS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92300,
+        "market_value": 92300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121G00216000000",
+        "address": "7227 WITHERSPOON ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6236   5TH AVE  STE 105-C",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 92000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080G00275000000",
+        "address": "5129 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5265   CARNEGIE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 91900,
+        "market_value": 91900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081B00072000000",
+        "address": "5540 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5540   CAMELIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92500,
+        "market_value": 110500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

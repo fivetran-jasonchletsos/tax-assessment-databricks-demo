@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085C00420000000",
+    "address": "114 N WOODLAND RD",
+    "city": "11402",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "114  N WOODLAND RD",
+    "current_mailing_address": "114  N WOODLAND RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.049,
+    "latitude": 40.44122,
+    "longitude": -79.92986
+  },
+  "assessments": {
+    "parcel_id": "0085C00420000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 449700,
+        "market_value": 449700,
+        "land_value": 71500,
+        "improvement_value": 378200,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 44324,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 449700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 405376,
+        "market_value": 405376,
+        "land_value": 64452,
+        "improvement_value": 340924,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7948,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 405376,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 397428,
+        "market_value": 397428,
+        "land_value": 63189,
+        "improvement_value": 334239,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3934,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 397428,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 393494,
+        "market_value": 393494,
+        "land_value": 62563,
+        "improvement_value": 330931,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 393494,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 393494,
+        "market_value": 393494,
+        "land_value": 62563,
+        "improvement_value": 330931,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3975,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 393494,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 397469,
+        "market_value": 397469,
+        "land_value": 63195,
+        "improvement_value": 334274,
+        "land_value_percentage": 15.9,
+        "improvement_value_percentage": 84.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 397469,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085C00420000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085C00420000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Sep-15",
+      "most_recent_appeal_date": "1-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2084-2015",
+        "filed_date": "1-Sep-15",
+        "hearing_date": "1-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 266400,
+        "requested_value": 266400,
+        "final_value": 449700,
+        "value_reduction": 0,
+        "reduction_percentage": -68.81,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085C00420000000",
+    "comparables": [
+      {
+        "parcel_id": "0086J00054000000",
+        "address": "5500 DARLINGTON RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5500   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 449600,
+        "market_value": 467600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086N00132000000",
+        "address": "1934 MURDOCH RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1934   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 447800,
+        "market_value": 447800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086P00232000000",
+        "address": "5600 BARTLETT ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5600   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 447700,
+        "market_value": 465700,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085H00075000000",
+        "address": "115 BEECHWOOD LN",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "115   BEECHWOOD LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 451800,
+        "market_value": 469800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052M00226000000",
+        "address": "5261 WILKINS AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5261   WILKINS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 447500,
+        "market_value": 465500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052M00253000100",
+        "address": "5220 5TH AVE",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "5220   5TH AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 447000,
+        "market_value": 465000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

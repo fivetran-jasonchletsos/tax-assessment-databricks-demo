@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0047S00308000000",
+    "address": "1420 CLAIM ST",
+    "city": "Ward 24 - Spring Hill-city View",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1800   MURRAY AVE  # 81856",
+    "current_mailing_address": "1800   MURRAY AVE  # 81856",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.4192,
+    "longitude": -80.08136
+  },
+  "assessments": {
+    "parcel_id": "0047S00308000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 50000,
+        "market_value": 50000,
+        "land_value": 8700,
+        "improvement_value": 41300,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2227,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 47773,
+        "market_value": 47773,
+        "land_value": 8312,
+        "improvement_value": 39461,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47773,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 47773,
+        "market_value": 47773,
+        "land_value": 8312,
+        "improvement_value": 39461,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -483,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47773,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 48256,
+        "market_value": 48256,
+        "land_value": 8396,
+        "improvement_value": 39860,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2297,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48256,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 45959,
+        "market_value": 45959,
+        "land_value": 7996,
+        "improvement_value": 37963,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1767,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45959,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 44192,
+        "market_value": 44192,
+        "land_value": 7689,
+        "improvement_value": 36503,
+        "land_value_percentage": 17.4,
+        "improvement_value_percentage": 82.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44192,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047S00308000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047S00308000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-May-16",
+      "most_recent_appeal_date": "25-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8465-2016",
+        "filed_date": "25-May-16",
+        "hearing_date": "25-May-16",
+        "appeal_status": "approved",
+        "original_value": 67400,
+        "requested_value": 67400,
+        "final_value": 67400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047S00308000000",
+    "comparables": [
+      {
+        "parcel_id": "0024D00119000000",
+        "address": "1420 GARDNER ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1110   PROVINCE ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 49900,
+        "market_value": 49900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0048E00078000000",
+        "address": "1918 MOUNT TROY RD",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1918   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50100,
+        "market_value": 50100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024D00075000000",
+        "address": "1416 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1416   LOWRIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49800,
+        "market_value": 49800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0047S00327000000",
+        "address": "1633 HATTERAS ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1633   HATTERAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49800,
+        "market_value": 67800,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047M00287000000",
+        "address": "1718 HARPSTER ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1718   HARPSTER ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 49700,
+        "market_value": 67700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048E00088000000",
+        "address": "1851 SUNDEMAN ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1851   SUNDEMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49700,
+        "market_value": 67700,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

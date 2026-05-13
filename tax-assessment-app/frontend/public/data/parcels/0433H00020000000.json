@@ -122,6 +122,19 @@
     "parcel_id": "0433H00020000000",
     "comparables": [
       {
+        "parcel_id": "0433E00230000000",
+        "address": "2404 HAMILTON AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2404   HAMILTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 530600,
+        "market_value": 548600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0615L00016000000",
         "address": "3724 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -132,7 +145,20 @@
         "assessed_value": 544800,
         "market_value": 544800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0354C00185000000",
+        "address": "521 MCELHENY RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "521   MCELHENY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 545400,
+        "market_value": 545400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0615R00101000000",
@@ -145,7 +171,20 @@
         "assessed_value": 488700,
         "market_value": 488700,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0433F00165000000",
+        "address": "2513 PINEWOOD LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2513   PINEWOOD LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 487300,
+        "market_value": 505300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0356N00155000000",
@@ -158,45 +197,6 @@
         "assessed_value": 475800,
         "market_value": 475800,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0433C00305000000",
-        "address": "2700 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 207",
-        "land_use_description": "CEMETERY/MONUMENTS",
-        "acreage": null,
-        "assessed_value": 450000,
-        "market_value": 450000,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285C00180000000",
-        "address": "1050 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1050   SAXONBURG BLVD",
-        "land_use_description": "OFFICE/WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 430000,
-        "market_value": 430000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0434E00051000000",
-        "address": "1642 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 255",
-        "land_use_description": "DISTRIBUTION WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 617100,
-        "market_value": 617100,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

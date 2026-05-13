@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0087A00140000000",
+    "address": "5459 HOBART ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5459   HOBART ST",
+    "current_mailing_address": "5459   HOBART ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.124,
+    "latitude": 40.4194,
+    "longitude": -79.91942
+  },
+  "assessments": {
+    "parcel_id": "0087A00140000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 267600,
+        "market_value": 285600,
+        "land_value": 57100,
+        "improvement_value": 210500,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 19282,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 249600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 248318,
+        "market_value": 265021,
+        "land_value": 52985,
+        "improvement_value": 195333,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 2458,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 230318,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 245860,
+        "market_value": 262397,
+        "land_value": 52461,
+        "improvement_value": 193399,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 227860,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 245860,
+        "market_value": 262397,
+        "land_value": 52461,
+        "improvement_value": 193399,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": -2484,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 227860,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 248344,
+        "market_value": 265048,
+        "land_value": 52991,
+        "improvement_value": 195353,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 11825,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 230344,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 236519,
+        "market_value": 252428,
+        "land_value": 50467,
+        "improvement_value": 186052,
+        "land_value_percentage": 21.3,
+        "improvement_value_percentage": 78.7,
+        "market_to_assessed_ratio": 1.07,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 218519,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087A00140000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0087A00140000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-Jul-15",
+      "most_recent_appeal_date": "14-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2233-2015",
+        "filed_date": "14-Jul-15",
+        "hearing_date": "14-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 239000,
+        "requested_value": 239000,
+        "final_value": 319600,
+        "value_reduction": 0,
+        "reduction_percentage": -33.72,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087A00140000000",
+    "comparables": [
+      {
+        "parcel_id": "0087F00047000000",
+        "address": "5538 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5538   PHILLIPS AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 267500,
+        "market_value": 285500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087A00058000000",
+        "address": "5409 GUARINO RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5409   GUARINO RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267000,
+        "market_value": 285000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086R00219000000",
+        "address": "5841 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5841   HOBART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 268300,
+        "market_value": 286300,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087H00082000000",
+        "address": "2558 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 81653",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 266600,
+        "market_value": 266600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087A00162000000",
+        "address": "5411 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5411   HOBART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 266400,
+        "market_value": 284400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086P00098000000",
+        "address": "5632 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1410   CHRISTA CT",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 265800,
+        "market_value": 265800,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

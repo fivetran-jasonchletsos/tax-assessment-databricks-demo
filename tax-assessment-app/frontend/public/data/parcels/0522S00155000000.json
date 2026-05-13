@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0522S00155000000",
+    "address": "2010 PEMBROOK DR",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "2010   PEMBROOK DR",
+    "current_mailing_address": "2010   PEMBROOK DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.248,
+    "latitude": 40.52826,
+    "longitude": -79.9728
+  },
+  "assessments": {
+    "parcel_id": "0522S00155000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 169000,
+        "market_value": 169000,
+        "land_value": 30800,
+        "improvement_value": 138200,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2365,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 169000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 171365,
+        "market_value": 171365,
+        "land_value": 31231,
+        "improvement_value": 140134,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8160,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 171365,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 163205,
+        "market_value": 163205,
+        "land_value": 29743,
+        "improvement_value": 133462,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6277,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163205,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 156928,
+        "market_value": 156928,
+        "land_value": 28599,
+        "improvement_value": 128329,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4570,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 156928,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 152358,
+        "market_value": 152358,
+        "land_value": 27767,
+        "improvement_value": 124591,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2987,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 152358,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 149371,
+        "market_value": 149371,
+        "land_value": 27222,
+        "improvement_value": 122149,
+        "land_value_percentage": 18.2,
+        "improvement_value_percentage": 81.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 149371,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0522S00155000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0522S00155000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-May-17",
+      "most_recent_appeal_date": "12-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-19890-2017",
+        "filed_date": "12-May-17",
+        "hearing_date": "12-May-17",
+        "appeal_status": "approved",
+        "original_value": 135700,
+        "requested_value": 135700,
+        "final_value": 169000,
+        "value_reduction": 0,
+        "reduction_percentage": -24.54,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0522S00155000000",
+    "comparables": [
+      {
+        "parcel_id": "0435D00086000000",
+        "address": "1831 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "1831   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 169100,
+        "market_value": 187100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0435D00383000000",
+        "address": "1903 LOUISE DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "1903   LOUISE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 169500,
+        "market_value": 169500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0436D00201000000",
+        "address": "3340 SAXONBURG BLVD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "3340   SAXONBURG BLVD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 168400,
+        "market_value": 242300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0522S00044000000",
+        "address": "2005 JEANNE DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2005   JEANNE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 167300,
+        "market_value": 167300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0436E00075000000",
+        "address": "123 BERRYHILL RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "4727   HATFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 166600,
+        "market_value": 166600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0435H00183000000",
+        "address": "1800 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "1800   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 166500,
+        "market_value": 184500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

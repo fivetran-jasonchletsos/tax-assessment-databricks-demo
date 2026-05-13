@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0086B00085000000",
+    "address": "1512 S NEGLEY AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1512  S NEGLEY AVE",
+    "current_mailing_address": "1512  S NEGLEY AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.025,
+    "latitude": 40.42036,
+    "longitude": -79.90994
+  },
+  "assessments": {
+    "parcel_id": "0086B00085000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 387000,
+        "market_value": 405000,
+        "land_value": 117400,
+        "improvement_value": 269600,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 38144,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 369000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 348856,
+        "market_value": 365081,
+        "land_value": 105828,
+        "improvement_value": 243028,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 6840,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 330856,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 342016,
+        "market_value": 357923,
+        "land_value": 103753,
+        "improvement_value": 238263,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 3386,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 324016,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 338630,
+        "market_value": 354380,
+        "land_value": 102726,
+        "improvement_value": 235904,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 320630,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 338630,
+        "market_value": 354380,
+        "land_value": 102726,
+        "improvement_value": 235904,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": -3421,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 320630,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 342051,
+        "market_value": 357960,
+        "land_value": 103764,
+        "improvement_value": 238287,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.05,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 324051,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086B00085000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0086B00085000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2149-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 295000,
+        "requested_value": 295000,
+        "final_value": 405000,
+        "value_reduction": 0,
+        "reduction_percentage": -37.29,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086B00085000000",
+    "comparables": [
+      {
+        "parcel_id": "0086A00214000000",
+        "address": "1260 BELLEROCK ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1260   BELLEROCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 387000,
+        "market_value": 405000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053C00056000000",
+        "address": "239 GLADSTONE RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "239   GLADSTONE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 387100,
+        "market_value": 405100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0053D00153000000",
+        "address": "1224 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1224   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 386900,
+        "market_value": 404900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085R00250000000",
+        "address": "1358 SHADY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1358   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 386800,
+        "market_value": 404800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086C00003000000",
+        "address": "5738 SOLWAY ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5738   SOLWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 387200,
+        "market_value": 405200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086D00182000000",
+        "address": "1516 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5826   HOBART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 386800,
+        "market_value": 404800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

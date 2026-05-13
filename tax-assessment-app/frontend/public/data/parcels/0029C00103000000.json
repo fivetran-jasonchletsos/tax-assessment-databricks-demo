@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0029C00103000000",
+    "address": "3241 JULIET ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1823   PENN AVE  STE 3",
+    "current_mailing_address": "1823   PENN AVE  STE 3",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.063,
+    "latitude": 40.43224,
+    "longitude": -79.95484
+  },
+  "assessments": {
+    "parcel_id": "0029C00103000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 126700,
+        "market_value": 126700,
+        "land_value": 34900,
+        "improvement_value": 91800,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1771,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 128471,
+        "market_value": 128471,
+        "land_value": 35387,
+        "improvement_value": 93084,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6117,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128471,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 122354,
+        "market_value": 122354,
+        "land_value": 33702,
+        "improvement_value": 88652,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4705,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 122354,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 117649,
+        "market_value": 117649,
+        "land_value": 32406,
+        "improvement_value": 85243,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3426,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117649,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 114223,
+        "market_value": 114223,
+        "land_value": 31463,
+        "improvement_value": 82760,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2239,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114223,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 111984,
+        "market_value": 111984,
+        "land_value": 30846,
+        "improvement_value": 81138,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111984,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0029C00103000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0029C00103000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0029C00103000000",
+    "comparables": [
+      {
+        "parcel_id": "0028R00266000000",
+        "address": "3331 JULIET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3331   JULIET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126600,
+        "market_value": 126600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00373000000",
+        "address": "37 WELSFORD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1614   WESTFIELD ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 126900,
+        "market_value": 126900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028R00097000000",
+        "address": "3313 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3904   RIDGEMONT CT",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 126500,
+        "market_value": 126500,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028L00331000000",
+        "address": "411 MCKEE PL",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "2333  E CARSON ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 126400,
+        "market_value": 126400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028R00091000000",
+        "address": "3310 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1384   NAVAHOE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 127000,
+        "market_value": 127000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029C00135000000",
+        "address": "3236 JULIET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "213   CORNWALL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 127100,
+        "market_value": 127100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

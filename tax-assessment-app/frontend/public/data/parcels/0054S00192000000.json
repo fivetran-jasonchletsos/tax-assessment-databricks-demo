@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0054S00192000000",
+    "address": "908 LILAC ST",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 81046",
+    "current_mailing_address": "PO BOX 81046",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.052,
+    "latitude": 40.42168,
+    "longitude": -79.92734
+  },
+  "assessments": {
+    "parcel_id": "0054S00192000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 76700,
+        "market_value": 76700,
+        "land_value": 32600,
+        "improvement_value": 44100,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1217,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 75483,
+        "market_value": 75483,
+        "land_value": 32082,
+        "improvement_value": 43401,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -763,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75483,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 76246,
+        "market_value": 76246,
+        "land_value": 32407,
+        "improvement_value": 43839,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3630,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76246,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 72616,
+        "market_value": 72616,
+        "land_value": 30864,
+        "improvement_value": 41752,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2792,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72616,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 69824,
+        "market_value": 69824,
+        "land_value": 29677,
+        "improvement_value": 40147,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2033,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69824,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 67791,
+        "market_value": 67791,
+        "land_value": 28813,
+        "improvement_value": 38978,
+        "land_value_percentage": 42.5,
+        "improvement_value_percentage": 57.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67791,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0054S00192000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0054S00192000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-Jun-15",
+      "most_recent_appeal_date": "4-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1437-2015",
+        "filed_date": "4-Jun-15",
+        "hearing_date": "4-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 76700,
+        "requested_value": 76700,
+        "final_value": 76700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0054S00192000000",
+    "comparables": [
+      {
+        "parcel_id": "0055H00158000000",
+        "address": "634 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "634   MONTCLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76700,
+        "market_value": 94700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087J00032000000",
+        "address": "3753 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "3753   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76700,
+        "market_value": 94700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0055D00354000000",
+        "address": "901 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "901   DEELY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 76800,
+        "market_value": 76800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0054M00129000000",
+        "address": "816 MONTEIRO ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "816   MONTEIRO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76900,
+        "market_value": 94900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0054S00180000000",
+        "address": "842 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "842   LILAC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76900,
+        "market_value": 94900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0054L00260000000",
+        "address": "4026 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4026   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 77000,
+        "market_value": 95000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

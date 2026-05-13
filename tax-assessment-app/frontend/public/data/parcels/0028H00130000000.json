@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0028H00130000000",
+    "address": "47 BOUNDARY ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "821   15TH ST",
+    "current_mailing_address": "821   15TH ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.119,
+    "latitude": 40.43272,
+    "longitude": -79.95268
+  },
+  "assessments": {
+    "parcel_id": "0028H00130000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 77300,
+        "market_value": 77300,
+        "land_value": 45000,
+        "improvement_value": 32300,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7621,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 69679,
+        "market_value": 69679,
+        "land_value": 40563,
+        "improvement_value": 29116,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1366,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69679,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 68313,
+        "market_value": 68313,
+        "land_value": 39768,
+        "improvement_value": 28545,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 676,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68313,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 67637,
+        "market_value": 67637,
+        "land_value": 39374,
+        "improvement_value": 28263,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67637,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 67637,
+        "market_value": 67637,
+        "land_value": 39374,
+        "improvement_value": 28263,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -684,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67637,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 68321,
+        "market_value": 68321,
+        "land_value": 39772,
+        "improvement_value": 28549,
+        "land_value_percentage": 58.2,
+        "improvement_value_percentage": 41.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68321,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028H00130000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028H00130000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0028H00130000000",
+    "comparables": [
+      {
+        "parcel_id": "0028L00334000000",
+        "address": "3462 SAINT JAMES PL",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "181   ROBINSON DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 77200,
+        "market_value": 77200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00359000000",
+        "address": "420 MCKEE PL",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 13231",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 77200,
+        "market_value": 77200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0029M00267000000",
+        "address": "3770 ORPWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3770   ORPWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 77200,
+        "market_value": 95200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028H00028000000",
+        "address": "3823 BATES ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 13444",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 77100,
+        "market_value": 77100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028K00020000000",
+        "address": "223 COLTART AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "223   COLTART AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 77500,
+        "market_value": 95500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028S00084000000",
+        "address": "3385 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 82577",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 77500,
+        "market_value": 77500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

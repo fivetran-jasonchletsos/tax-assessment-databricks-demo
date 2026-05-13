@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0001H00327120100",
+    "address": "306 4TH AVE",
+    "city": "The Carlyle",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "243   SADDLE RDG",
+    "current_mailing_address": "243   SADDLE RDG",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43678,
+    "longitude": -80.00374
+  },
+  "assessments": {
+    "parcel_id": "0001H00327120100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 142300,
+        "market_value": 142300,
+        "land_value": 0,
+        "improvement_value": 142300,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1991,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 144291,
+        "market_value": 144291,
+        "land_value": 0,
+        "improvement_value": 144291,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6871,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144291,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 137420,
+        "market_value": 137420,
+        "land_value": 0,
+        "improvement_value": 137420,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5285,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137420,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 132135,
+        "market_value": 132135,
+        "land_value": 0,
+        "improvement_value": 132135,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3848,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132135,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 128287,
+        "market_value": 128287,
+        "land_value": 0,
+        "improvement_value": 128287,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2515,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 128287,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 125772,
+        "market_value": 125772,
+        "land_value": 0,
+        "improvement_value": 125772,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 125772,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001H00327120100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001H00327120100",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001H00327120100",
+    "comparables": [
+      {
+        "parcel_id": "0001H00327150300",
+        "address": "306 4TH AVE",
+        "city": "The Carlyle",
+        "zip_code": "15222",
+        "current_owner_name": "306   4TH AVE  UNIT 1503",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 152300,
+        "market_value": 170300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001H00327070300",
+        "address": "306 4TH AVE",
+        "city": "The Carlyle",
+        "zip_code": "15222",
+        "current_owner_name": "8630  S TROPICAL TRL",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 163000,
+        "market_value": 163000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

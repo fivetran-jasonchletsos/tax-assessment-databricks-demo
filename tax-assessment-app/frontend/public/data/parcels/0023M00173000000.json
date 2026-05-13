@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0023M00173000000",
+    "address": "1004 MIDDLE ST",
+    "city": "Ward 23 - East Allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1004   MIDDLE ST",
+    "current_mailing_address": "1004   MIDDLE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.033,
+    "latitude": 40.41776,
+    "longitude": -80.06396
+  },
+  "assessments": {
+    "parcel_id": "0023M00173000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 231000,
+        "market_value": 249000,
+        "land_value": 35300,
+        "improvement_value": 195700,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 22769,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 213000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 208231,
+        "market_value": 224456,
+        "land_value": 31820,
+        "improvement_value": 176411,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 4082,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 190231,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 204149,
+        "market_value": 220056,
+        "land_value": 31196,
+        "improvement_value": 172953,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 2021,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 186149,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 202128,
+        "market_value": 217878,
+        "land_value": 30887,
+        "improvement_value": 171241,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 184128,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 202128,
+        "market_value": 217878,
+        "land_value": 30887,
+        "improvement_value": 171241,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": -2042,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 184128,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 204170,
+        "market_value": 220079,
+        "land_value": 31200,
+        "improvement_value": 172970,
+        "land_value_percentage": 15.3,
+        "improvement_value_percentage": 84.7,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 186170,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023M00173000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0023M00173000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-Aug-15",
+      "most_recent_appeal_date": "25-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-622-2015",
+        "filed_date": "25-Aug-15",
+        "hearing_date": "25-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 167700,
+        "requested_value": 167700,
+        "final_value": 249000,
+        "value_reduction": 0,
+        "reduction_percentage": -48.48,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023M00173000000",
+    "comparables": [
+      {
+        "parcel_id": "0024J00444000A00",
+        "address": "821 PERALTA ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1309   COFFEEN AVE  STE 1200",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 231800,
+        "market_value": 231800,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024N00039000000",
+        "address": "812 PHINEAS ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "812   PHINEAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 232200,
+        "market_value": 232200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023M00105000000",
+        "address": "1113 LINDEN PL",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1113   LINDEN PL",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 229400,
+        "market_value": 247400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023M00096000000",
+        "address": "515 KNOLL ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "515   KNOLL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 233100,
+        "market_value": 251100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024E00105000000",
+        "address": "826 SPRING GARDEN AVE",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "824   SPRING GARDEN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 227200,
+        "market_value": 227200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023M00237000000",
+        "address": "921 JAMES ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "921   JAMES ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 226400,
+        "market_value": 244400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

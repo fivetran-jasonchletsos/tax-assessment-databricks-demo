@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0435C00210000000",
+    "address": "1521 MADSEN DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "11676   PERRY HWY  STE 3300",
+    "current_mailing_address": "11676   PERRY HWY  STE 3300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.218,
+    "latitude": 40.52574,
+    "longitude": -79.9662
+  },
+  "assessments": {
+    "parcel_id": "0435C00210000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 159500,
+        "market_value": 159500,
+        "land_value": 45500,
+        "improvement_value": 114000,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2231,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 159500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 161731,
+        "market_value": 161731,
+        "land_value": 46136,
+        "improvement_value": 115595,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7701,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 161731,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 154030,
+        "market_value": 154030,
+        "land_value": 43939,
+        "improvement_value": 110091,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5924,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 154030,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 148106,
+        "market_value": 148106,
+        "land_value": 42249,
+        "improvement_value": 105857,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4313,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148106,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 143793,
+        "market_value": 143793,
+        "land_value": 41019,
+        "improvement_value": 102774,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2819,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143793,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 140974,
+        "market_value": 140974,
+        "land_value": 40215,
+        "improvement_value": 100759,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140974,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0435C00210000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0435C00210000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jul-18",
+      "most_recent_appeal_date": "6-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-26067-2018",
+        "filed_date": "6-Jul-18",
+        "hearing_date": "6-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 109000,
+        "requested_value": 109000,
+        "final_value": 159500,
+        "value_reduction": 0,
+        "reduction_percentage": -46.33,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0435C00210000000",
+    "comparables": [
+      {
+        "parcel_id": "0285E00006000000",
+        "address": "105 CANDLEWYCK DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "105   CANDLEWYCK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0433E00203000000",
+        "address": "2413 HAMILTON AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2413   HAMILTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0434M00016000000",
+        "address": "215 HOLLY RIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "215   HOLLY RIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0435C00050000000",
+        "address": "2429 FOXFIELD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2429   FOXFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435G00033000000",
+        "address": "122 HIGHLANDER HEIGHTS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "122   HIGHLANDER HEIGHTS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0519S00059000000",
+        "address": "2822 AUTUMNWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2822   AUTUMNWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159500,
+        "market_value": 177500,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

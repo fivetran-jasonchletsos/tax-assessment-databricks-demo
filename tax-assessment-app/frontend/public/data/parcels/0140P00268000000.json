@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0140P00268000000",
+    "address": "590 CRYSTAL DR",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "590   CRYSTAL DR",
+    "current_mailing_address": "590   CRYSTAL DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.138,
+    "latitude": 40.36012,
+    "longitude": -80.04966
+  },
+  "assessments": {
+    "parcel_id": "0140P00268000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 259700,
+        "market_value": 259700,
+        "land_value": 60100,
+        "improvement_value": 199600,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16139,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 259700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 243561,
+        "market_value": 243561,
+        "land_value": 56365,
+        "improvement_value": 187196,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7094,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 243561,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 236467,
+        "market_value": 236467,
+        "land_value": 54723,
+        "improvement_value": 181744,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4636,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 236467,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 231831,
+        "market_value": 231831,
+        "land_value": 53650,
+        "improvement_value": 178181,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2295,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 231831,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 229536,
+        "market_value": 229536,
+        "land_value": 53119,
+        "improvement_value": 176417,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 229536,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 229536,
+        "market_value": 229536,
+        "land_value": 53119,
+        "improvement_value": 176417,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 229536,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0140P00268000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0140P00268000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-May-16",
+      "most_recent_appeal_date": "10-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9496-2016",
+        "filed_date": "10-May-16",
+        "hearing_date": "10-May-16",
+        "appeal_status": "approved",
+        "original_value": 259700,
+        "requested_value": 259700,
+        "final_value": 259700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0140P00268000000",
+    "comparables": [
+      {
+        "parcel_id": "0141N00100000000",
+        "address": "131 JEFFERSON DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "131   JEFFERSON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259700,
+        "market_value": 277700,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0141P00020000000",
+        "address": "201 HAZEL DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "201   HAZEL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259700,
+        "market_value": 277700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0193S00083000000",
+        "address": "106 WOODHAVEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "106   WOODHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259800,
+        "market_value": 277800,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0140K00251000000",
+        "address": "427 MERIDIAN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "427   MERIDIAN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 260000,
+        "market_value": 278000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0191A00143000000",
+        "address": "704 GYPSY LN",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "704   GYPSY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 260000,
+        "market_value": 278000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0192G00166000000",
+        "address": "380 AVON DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "380   AVON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259400,
+        "market_value": 277400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

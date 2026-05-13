@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122D00242000000",
+    "address": "109 EASTERN AVE",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "109   EASTERN AVE",
+    "current_mailing_address": "109   EASTERN AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.143,
+    "latitude": 40.49292,
+    "longitude": -79.91188
+  },
+  "assessments": {
+    "parcel_id": "0122D00242000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 390500,
+        "market_value": 390500,
+        "land_value": 100299,
+        "improvement_value": 290201,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9617,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 390500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 380883,
+        "market_value": 380883,
+        "land_value": 97829,
+        "improvement_value": 283054,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14649,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 380883,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 366234,
+        "market_value": 366234,
+        "land_value": 94067,
+        "improvement_value": 272167,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10667,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 366234,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 355567,
+        "market_value": 355567,
+        "land_value": 91327,
+        "improvement_value": 264240,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6971,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 355567,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 348596,
+        "market_value": 348596,
+        "land_value": 89536,
+        "improvement_value": 259060,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3451,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 348596,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 345145,
+        "market_value": 345145,
+        "land_value": 88650,
+        "improvement_value": 256495,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 345145,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122D00242000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122D00242000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-May-16",
+      "most_recent_appeal_date": "3-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9313-2016",
+        "filed_date": "3-May-16",
+        "hearing_date": "3-May-16",
+        "appeal_status": "approved",
+        "original_value": 258000,
+        "requested_value": 258000,
+        "final_value": 357800,
+        "value_reduction": 0,
+        "reduction_percentage": -38.68,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122D00242000000",
+    "comparables": [
+      {
+        "parcel_id": "0169S00326000000",
+        "address": "405 EASTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "405   EASTERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169C00036000000",
+        "address": "533 GUYASUTA RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "533   GUYASUTA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392800,
+        "market_value": 410800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0122D00320000000",
+        "address": "208 EASTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "300   CENTER AVE  APT 1",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 393600,
+        "market_value": 393600,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122C00051000000",
+        "address": "131 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "131   1ST ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 386000,
+        "market_value": 404000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0169R00337000000",
+        "address": "110 WESTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "110   WESTERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 382800,
+        "market_value": 400800,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0169R00141000000",
+        "address": "314 WESTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "314   WESTERN AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 398500,
+        "market_value": 416500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

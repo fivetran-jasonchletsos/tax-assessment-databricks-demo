@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0049B00268000A00",
+    "address": "215 42ND ST",
+    "city": "10902",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 2384",
+    "current_mailing_address": "PO BOX 2384",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.013,
+    "latitude": 40.46704,
+    "longitude": -79.95832
+  },
+  "assessments": {
+    "parcel_id": "0049B00268000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 135500,
+        "market_value": 135500,
+        "land_value": 12200,
+        "improvement_value": 123300,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6029,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 129471,
+        "market_value": 129471,
+        "land_value": 11657,
+        "improvement_value": 117814,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 129471,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 129471,
+        "market_value": 129471,
+        "land_value": 11657,
+        "improvement_value": 117814,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1308,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 129471,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 130779,
+        "market_value": 130779,
+        "land_value": 11774,
+        "improvement_value": 119005,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6227,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130779,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 124552,
+        "market_value": 124552,
+        "land_value": 11214,
+        "improvement_value": 113338,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4790,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124552,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 119762,
+        "market_value": 119762,
+        "land_value": 10782,
+        "improvement_value": 108980,
+        "land_value_percentage": 9.0,
+        "improvement_value_percentage": 91.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 119762,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049B00268000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049B00268000A00",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 16200,
+      "total_value_reduction": 16200,
+      "first_appeal_date": "20-May-15",
+      "most_recent_appeal_date": "20-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1106-2015",
+        "filed_date": "20-May-15",
+        "hearing_date": "20-May-15",
+        "appeal_status": "approved",
+        "original_value": 151700,
+        "requested_value": 151700,
+        "final_value": 135500,
+        "value_reduction": 16200,
+        "reduction_percentage": 10.68,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049B00268000A00",
+    "comparables": [
+      {
+        "parcel_id": "0049F00226000000",
+        "address": "227 MAIN ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "112   IRWIN AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 135600,
+        "market_value": 135600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049B00020000A00",
+        "address": "192 43RD HALF ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "192   43RD HALF ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 135700,
+        "market_value": 153700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049L00104000000",
+        "address": "329 MAIN ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "306   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135300,
+        "market_value": 135300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049B00325000000",
+        "address": "300 44TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "300   44TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136000,
+        "market_value": 154000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049C00062000000",
+        "address": "261 45TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4142   TIMBERLANE DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 135000,
+        "market_value": 135000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049L00124000000",
+        "address": "408 42ND ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "1049   VICTORIA PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 135000,
+        "market_value": 135000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

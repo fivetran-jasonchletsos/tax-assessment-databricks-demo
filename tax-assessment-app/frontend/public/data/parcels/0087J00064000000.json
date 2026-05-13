@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087J00064000000",
+    "address": "3813 BEECHWOOD BLVD",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "3750   CHILDS ST",
+    "current_mailing_address": "3750   CHILDS ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.129,
+    "latitude": 40.42108,
+    "longitude": -79.93202
+  },
+  "assessments": {
+    "parcel_id": "0087J00064000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "land_value": 45100,
+        "improvement_value": 59800,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7560,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 104900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 97340,
+        "market_value": 97340,
+        "land_value": 41849,
+        "improvement_value": 55491,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 963,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97340,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 96377,
+        "market_value": 96377,
+        "land_value": 41435,
+        "improvement_value": 54942,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96377,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96377,
+        "market_value": 96377,
+        "land_value": 41435,
+        "improvement_value": 54942,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -974,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96377,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 97351,
+        "market_value": 97351,
+        "land_value": 41854,
+        "improvement_value": 55497,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4635,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97351,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 92716,
+        "market_value": 92716,
+        "land_value": 39861,
+        "improvement_value": 52855,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92716,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087J00064000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087J00064000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 28400,
+      "total_value_reduction": 28400,
+      "first_appeal_date": "14-May-19",
+      "most_recent_appeal_date": "14-May-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30089-2019",
+        "filed_date": "14-May-19",
+        "hearing_date": "14-May-19",
+        "appeal_status": "approved",
+        "original_value": 133300,
+        "requested_value": 133300,
+        "final_value": 104900,
+        "value_reduction": 28400,
+        "reduction_percentage": 21.31,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087J00064000000",
+    "comparables": [
+      {
+        "parcel_id": "0054M00001000000",
+        "address": "870 MIRROR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "3945   FORBES AVE  # 469",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0054S00065000000",
+        "address": "834 GREENFIELD AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "834   GREENFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 122900,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0055D00047000000",
+        "address": "4251 MCCASLIN ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4251   MCCASLIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0055D00183000000",
+        "address": "4114 MILLINGTON RD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4114   MILLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 122900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0055D00346000000",
+        "address": "915 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "915   DEELY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0055G00254000000",
+        "address": "4343 MCCASLIN ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4343   MCCASLIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 122900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

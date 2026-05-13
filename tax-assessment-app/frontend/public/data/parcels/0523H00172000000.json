@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0523H00172000000",
+    "address": "BIGLER DR",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "281   KLEIN RD",
+    "current_mailing_address": "281   KLEIN RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 4.62,
+    "latitude": 40.52694,
+    "longitude": -79.95636
+  },
+  "assessments": {
+    "parcel_id": "0523H00172000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32000,
+        "market_value": 32000,
+        "land_value": 32000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2306,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 29694,
+        "market_value": 29694,
+        "land_value": 29694,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 294,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29694,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 29400,
+        "market_value": 29400,
+        "land_value": 29400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29400,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29400,
+        "market_value": 29400,
+        "land_value": 29400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -297,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29400,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29697,
+        "market_value": 29697,
+        "land_value": 29697,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1414,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29697,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28283,
+        "market_value": 28283,
+        "land_value": 28283,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28283,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0523H00172000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0523H00172000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0523H00172000000",
+    "comparables": [
+      {
+        "parcel_id": "0524A00240000000",
+        "address": "3372 SAXONBURG BLVD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "3372   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 54000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0523B00169000000",
+        "address": "HILLSIDE LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "113   HILLSIDE LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 39800,
+        "market_value": 39800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0524A00232000000",
+        "address": "3374 SAXONBURG BLVD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "3374   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 58000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -115,35 +115,25 @@
   },
   "appeals": {
     "parcel_id": "0052M00016000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-56864-2022",
-        "filed_date": null,
-        "hearing_date": "22-Aug-22",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0052M00016000000",
     "comparables": [
+      {
+        "parcel_id": "0053C00033000000",
+        "address": "101 GLADSTONE RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "101   GLADSTONE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190500,
+        "market_value": 208500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
       {
         "parcel_id": "0052R00190000000",
         "address": "5118 BEELER ST",
@@ -155,7 +145,7 @@
         "assessed_value": 190000,
         "market_value": 190000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0052R00192000000",
@@ -168,58 +158,45 @@
         "assessed_value": 190000,
         "market_value": 190000,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0052M00041000000",
-        "address": "5365 BEELER ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5365   BEELER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 188600,
-        "market_value": 206600,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0052R00186000000",
-        "address": "5124 BEELER ST",
+        "parcel_id": "0086A00242000000",
+        "address": "5541 WOODMONT ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5124   BEELER ST",
+        "current_owner_name": "1307   BENNINGTON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 193300,
-        "market_value": 211300,
-        "assessed_value_change_pct": -0.7,
+        "assessed_value": 190000,
+        "market_value": 190000,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0052R00194000000",
-        "address": "5112 BEELER ST",
+        "parcel_id": "0086H00208000000",
+        "address": "1629 DENNISTON ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1823   PENN AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1629   DENNISTON ST",
+        "land_use_description": "THREE FAMILY",
         "acreage": null,
-        "assessed_value": 185000,
-        "market_value": 185000,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 190000,
+        "market_value": 190000,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052S00016000000",
-        "address": "5326 BEELER ST",
+        "parcel_id": "0085J00098000000",
+        "address": "1138 WIGHTMAN ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "136   BRIAR HILL DR",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "1138   WIGHTMAN ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 183400,
-        "market_value": 183400,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 189900,
+        "market_value": 189900,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

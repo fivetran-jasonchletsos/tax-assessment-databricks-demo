@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084J00261000000",
+    "address": "5864 ELLSWORTH AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "2956   OSTROM AVE",
+    "current_mailing_address": "2956   OSTROM AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.04,
+    "latitude": 40.4423,
+    "longitude": -79.92254
+  },
+  "assessments": {
+    "parcel_id": "0084J00261000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 82800,
+        "market_value": 82800,
+        "land_value": 76000,
+        "improvement_value": 6800,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2041,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 80759,
+        "market_value": 80759,
+        "land_value": 74126,
+        "improvement_value": 6633,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3106,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80759,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 77653,
+        "market_value": 77653,
+        "land_value": 71275,
+        "improvement_value": 6378,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2261,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77653,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 75392,
+        "market_value": 75392,
+        "land_value": 69200,
+        "improvement_value": 6192,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1478,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75392,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73914,
+        "market_value": 73914,
+        "land_value": 67843,
+        "improvement_value": 6071,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 731,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73914,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 73183,
+        "market_value": 73183,
+        "land_value": 67172,
+        "improvement_value": 6011,
+        "land_value_percentage": 91.8,
+        "improvement_value_percentage": 8.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73183,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084J00261000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084J00261000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 64400,
+      "total_value_reduction": 64400,
+      "first_appeal_date": "8-May-17",
+      "most_recent_appeal_date": "8-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8963-2016",
+        "filed_date": "8-May-17",
+        "hearing_date": "8-May-17",
+        "appeal_status": "approved",
+        "original_value": 147200,
+        "requested_value": 147200,
+        "final_value": 82800,
+        "value_reduction": 64400,
+        "reduction_percentage": 43.75,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084J00261000000",
+    "comparables": [
+      {
+        "parcel_id": "0084K00017000A00",
+        "address": "5933 ALDER ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "186  E MAIN RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 81000,
+        "market_value": 81000,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084F00326000000",
+        "address": "241 SPAHR ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "241   SPAHR ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 80000,
+        "market_value": 80000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084K00140000200",
+        "address": "350 LAMONT PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "6901   CHURCH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 86300,
+        "market_value": 86300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084K00016000000",
+        "address": "5935 ALDER ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5935   ALDER ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 78000,
+        "market_value": 96000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084P00240000000",
+        "address": "372 LEHIGH AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "380   LEHIGH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87600,
+        "market_value": 87600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084J00216000000",
+        "address": "5832 PIERCE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5832   PIERCE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 87700,
+        "market_value": 105700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

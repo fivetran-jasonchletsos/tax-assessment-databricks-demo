@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0083E00145000000",
+    "address": "5545 COLUMBO ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "102   1ST AVE  UNIT 1",
+    "current_mailing_address": "102   1ST AVE  UNIT 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.052,
+    "latitude": 40.4615,
+    "longitude": -79.90564
+  },
+  "assessments": {
+    "parcel_id": "0083E00145000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 73000,
+        "market_value": 73000,
+        "land_value": 32800,
+        "improvement_value": 40200,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1157,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 71843,
+        "market_value": 71843,
+        "land_value": 32280,
+        "improvement_value": 39563,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -726,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71843,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 72569,
+        "market_value": 72569,
+        "land_value": 32606,
+        "improvement_value": 39963,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3455,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72569,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 69114,
+        "market_value": 69114,
+        "land_value": 31053,
+        "improvement_value": 38061,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2658,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69114,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 66456,
+        "market_value": 66456,
+        "land_value": 29859,
+        "improvement_value": 36597,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1935,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66456,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 64521,
+        "market_value": 64521,
+        "land_value": 28990,
+        "improvement_value": 35531,
+        "land_value_percentage": 44.9,
+        "improvement_value_percentage": 55.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64521,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083E00145000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083E00145000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083E00145000000",
+    "comparables": [
+      {
+        "parcel_id": "0083B00368000000",
+        "address": "812 N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "351  S NEGLEY AVE NE  # 6",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 73000,
+        "market_value": 91000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083H00304000000",
+        "address": "6049 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "170   FOREST DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 73000,
+        "market_value": 73000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050M00147000000",
+        "address": "5413 BROAD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5413   BROAD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050M00233000000",
+        "address": "5450 ROSETTA ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "4826   MOSSFIELD CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73100,
+        "market_value": 73100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082J00183000000",
+        "address": "828 JANCEY ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "828   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 90900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083E00168000000",
+        "address": "5504 MARGARETTA ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 72900,
+        "market_value": 72900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

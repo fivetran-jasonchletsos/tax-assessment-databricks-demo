@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0022H00057000000",
+    "address": "856 CALIFORNIA AVE",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1300   BRIGHTON RD  STE 1",
+    "current_mailing_address": "1300   BRIGHTON RD  STE 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.047,
+    "latitude": 40.41716,
+    "longitude": -80.06576
+  },
+  "assessments": {
+    "parcel_id": "0022H00057000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45400,
+        "market_value": 45400,
+        "land_value": 21200,
+        "improvement_value": 24200,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1120,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 44280,
+        "market_value": 44280,
+        "land_value": 20677,
+        "improvement_value": 23603,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1703,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44280,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 42577,
+        "market_value": 42577,
+        "land_value": 19881,
+        "improvement_value": 22696,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1240,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42577,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 41337,
+        "market_value": 41337,
+        "land_value": 19302,
+        "improvement_value": 22035,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 810,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41337,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 40527,
+        "market_value": 40527,
+        "land_value": 18924,
+        "improvement_value": 21603,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 401,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40527,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40126,
+        "market_value": 40126,
+        "land_value": 18737,
+        "improvement_value": 21389,
+        "land_value_percentage": 46.7,
+        "improvement_value_percentage": 53.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40126,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022H00057000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022H00057000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 169700,
+      "total_value_reduction": 169700,
+      "first_appeal_date": "25-Jun-19",
+      "most_recent_appeal_date": "25-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29132-2019",
+        "filed_date": "25-Jun-19",
+        "hearing_date": "25-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 215100,
+        "requested_value": 215100,
+        "final_value": 45400,
+        "value_reduction": 169700,
+        "reduction_percentage": 78.89,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0022H00057000000",
+    "comparables": [
+      {
+        "parcel_id": "0022H00226000000",
+        "address": "1615 BRIGHTON PL",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 45400,
+        "market_value": 45400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023E00058000000",
+        "address": "1771 PERRYSVILLE AVE",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1771   PERRYSVILLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45400,
+        "market_value": 63400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023J00041000000",
+        "address": "616 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  RM 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 45400,
+        "market_value": 45400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0022H00223000C00",
+        "address": "1605 BRIGHTON PL",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "512   KNOLL ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45500,
+        "market_value": 45500,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023G00053000000",
+        "address": "1427 BOYLE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1244   RESACA PL",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 45500,
+        "market_value": 45500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023H00395000000",
+        "address": "416 JAY ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "416   JAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45300,
+        "market_value": 63300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

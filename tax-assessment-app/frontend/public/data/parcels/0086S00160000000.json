@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0086S00160000000",
+    "address": "2103 SHADY AVE",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "124   GILDA AVE",
+    "current_mailing_address": "124   GILDA AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.194,
+    "latitude": 40.42168,
+    "longitude": -79.93094
+  },
+  "assessments": {
+    "parcel_id": "0086S00160000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 161200,
+        "market_value": 161200,
+        "land_value": 90699,
+        "improvement_value": 70501,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2551,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 161200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 158649,
+        "market_value": 158649,
+        "land_value": 89264,
+        "improvement_value": 69385,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1603,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 158649,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 160252,
+        "market_value": 160252,
+        "land_value": 90166,
+        "improvement_value": 70086,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7631,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160252,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 152621,
+        "market_value": 152621,
+        "land_value": 85872,
+        "improvement_value": 66749,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5870,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 152621,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 146751,
+        "market_value": 146751,
+        "land_value": 82570,
+        "improvement_value": 64181,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4274,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 146751,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 142477,
+        "market_value": 142477,
+        "land_value": 80165,
+        "improvement_value": 62312,
+        "land_value_percentage": 56.3,
+        "improvement_value_percentage": 43.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142477,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086S00160000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086S00160000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0086S00160000000",
+    "comparables": [
+      {
+        "parcel_id": "0087D00149000000",
+        "address": "2259 SHADY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2259   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 161200,
+        "market_value": 179200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087C00267000000",
+        "address": "5824 DOUGLAS ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5824   DOUGLAS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 161100,
+        "market_value": 179100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086R00234000000",
+        "address": "5862 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5862   BEACON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 161000,
+        "market_value": 179000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087F00225000000",
+        "address": "5634 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5634   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 161400,
+        "market_value": 179400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087E00109000000",
+        "address": "5330 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5330   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160900,
+        "market_value": 178900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085H00004000000",
+        "address": "614 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "614   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 161600,
+        "market_value": 179600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

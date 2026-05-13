@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0141H00106000000",
+    "address": "225 JONQUIL PL",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "3220   SOUTH PARK RD",
+    "current_mailing_address": "3220   SOUTH PARK RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.165,
+    "latitude": 40.3582,
+    "longitude": -80.03982
+  },
+  "assessments": {
+    "parcel_id": "0141H00106000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 133500,
+        "market_value": 133500,
+        "land_value": 60300,
+        "improvement_value": 73200,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9620,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 123880,
+        "market_value": 123880,
+        "land_value": 55954,
+        "improvement_value": 67926,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1226,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123880,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 122654,
+        "market_value": 122654,
+        "land_value": 55401,
+        "improvement_value": 67253,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 122654,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 122654,
+        "market_value": 122654,
+        "land_value": 55401,
+        "improvement_value": 67253,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1239,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 122654,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 123893,
+        "market_value": 123893,
+        "land_value": 55960,
+        "improvement_value": 67933,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5899,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123893,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 117994,
+        "market_value": 117994,
+        "land_value": 53296,
+        "improvement_value": 64698,
+        "land_value_percentage": 45.2,
+        "improvement_value_percentage": 54.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117994,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0141H00106000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0141H00106000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 37200,
+      "total_value_reduction": 37200,
+      "first_appeal_date": "25-Aug-15",
+      "most_recent_appeal_date": "25-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-3049-2015",
+        "filed_date": "25-Aug-15",
+        "hearing_date": "25-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 170700,
+        "requested_value": 170700,
+        "final_value": 133500,
+        "value_reduction": 37200,
+        "reduction_percentage": 21.79,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0141H00106000000",
+    "comparables": [
+      {
+        "parcel_id": "0141A00099000000",
+        "address": "114 ACADEMY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "114   ACADEMY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133500,
+        "market_value": 133500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0140J00259000000",
+        "address": "813 FRUITHURST DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "813   FRUITHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133600,
+        "market_value": 133600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0141M00131000000",
+        "address": "214 QUESTEND AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "214   QUESTEND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133400,
+        "market_value": 151400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0141R00236000000",
+        "address": "255 PENNSYLVANIA BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "3300   PROSPERITY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133400,
+        "market_value": 133400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0142D00022000000",
+        "address": "469 MAPLETON AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "469   MAPLETON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133300,
+        "market_value": 151300,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0142M00136000000",
+        "address": "292 LEBANON AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "292   LEBANON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133700,
+        "market_value": 151700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

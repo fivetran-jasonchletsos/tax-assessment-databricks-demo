@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024G00195000000",
+    "address": "1137 GOETTMAN ST",
+    "city": "Ward 24 - Spring Hill-city View",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "111   44TH ST",
+    "current_mailing_address": "111   44TH ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.051,
+    "latitude": 40.41764,
+    "longitude": -80.08652
+  },
+  "assessments": {
+    "parcel_id": "0024G00195000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 63600,
+        "market_value": 63600,
+        "land_value": 8700,
+        "improvement_value": 54900,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4584,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 59016,
+        "market_value": 59016,
+        "land_value": 8072,
+        "improvement_value": 50944,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 584,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59016,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 58432,
+        "market_value": 58432,
+        "land_value": 7993,
+        "improvement_value": 50439,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58432,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 58432,
+        "market_value": 58432,
+        "land_value": 7993,
+        "improvement_value": 50439,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -591,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58432,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 59023,
+        "market_value": 59023,
+        "land_value": 8073,
+        "improvement_value": 50950,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2810,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59023,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 56213,
+        "market_value": 56213,
+        "land_value": 7689,
+        "improvement_value": 48524,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56213,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024G00195000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024G00195000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jul-15",
+      "most_recent_appeal_date": "6-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-649-2015",
+        "filed_date": "6-Jul-15",
+        "hearing_date": "6-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 33600,
+        "requested_value": 33600,
+        "final_value": 63600,
+        "value_reduction": 0,
+        "reduction_percentage": -89.29,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024G00195000000",
+    "comparables": [
+      {
+        "parcel_id": "0024G00246000000",
+        "address": "1322 GOETTMAN ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "439   MCCLELLAN DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 63600,
+        "market_value": 63600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0048E00158000000",
+        "address": "2051 VERONICA ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "2051   VERONICA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63500,
+        "market_value": 63500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048N00062000000",
+        "address": "1721 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1721   LOWRIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63700,
+        "market_value": 81700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048E00282000000",
+        "address": "2052 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "300   CORBET DR  UNIT 200",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 63300,
+        "market_value": 63300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0048J00297000000",
+        "address": "1829 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1829   LOWRIE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 63300,
+        "market_value": 81300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048E00291000000",
+        "address": "2034 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 90175",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 63200,
+        "market_value": 63200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

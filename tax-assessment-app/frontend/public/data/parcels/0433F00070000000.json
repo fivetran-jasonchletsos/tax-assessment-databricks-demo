@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0433F00070000000",
+    "address": "221 IOLA ST",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "221   IOLA ST",
+    "current_mailing_address": "221   IOLA ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.251,
+    "latitude": 40.52634,
+    "longitude": -79.9608
+  },
+  "assessments": {
+    "parcel_id": "0433F00070000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 134100,
+        "market_value": 152100,
+        "land_value": 43000,
+        "improvement_value": 91100,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 8334,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 116100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 125766,
+        "market_value": 142647,
+        "land_value": 40327,
+        "improvement_value": 85439,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 3663,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 107766,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 122103,
+        "market_value": 138492,
+        "land_value": 39153,
+        "improvement_value": 82950,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 2394,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 104103,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 119709,
+        "market_value": 135777,
+        "land_value": 38385,
+        "improvement_value": 81324,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 1185,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 101709,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 118524,
+        "market_value": 134433,
+        "land_value": 38005,
+        "improvement_value": 80519,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 100524,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 118524,
+        "market_value": 134433,
+        "land_value": 38005,
+        "improvement_value": 80519,
+        "land_value_percentage": 32.1,
+        "improvement_value_percentage": 67.9,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 100524,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0433F00070000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0433F00070000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jul-18",
+      "most_recent_appeal_date": "12-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-26046-2018",
+        "filed_date": "12-Jul-18",
+        "hearing_date": "12-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 114900,
+        "requested_value": 114900,
+        "final_value": 152100,
+        "value_reduction": 0,
+        "reduction_percentage": -32.38,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0433F00070000000",
+    "comparables": [
+      {
+        "parcel_id": "0355S00097000000",
+        "address": "519 CLIFTON AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "519   CLIFTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134100,
+        "market_value": 152100,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0432D00024000000",
+        "address": "2505 AUTUMNWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2505   AUTUMNWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134100,
+        "market_value": 152100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0520C00012000000",
+        "address": "202 ELFINWILD LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "202   ELFINWILD LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134100,
+        "market_value": 134100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0222L00417000000",
+        "address": "39 BETHANY DR",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "39 B  BETHANY DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 134100,
+        "market_value": 152100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0355B00110000000",
+        "address": "1531 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1531   BUTLER PLANK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134200,
+        "market_value": 134200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0356G00070000000",
+        "address": "118 ROSEWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "115   ROSEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134000,
+        "market_value": 134000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

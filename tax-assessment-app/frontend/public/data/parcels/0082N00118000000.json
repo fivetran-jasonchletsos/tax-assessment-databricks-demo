@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0082N00118000000",
+    "address": "5445 AVONDALE PL",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5445   AVONDALE PL",
+    "current_mailing_address": "5445   AVONDALE PL",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.064,
+    "latitude": 40.46246,
+    "longitude": -79.92436
+  },
+  "assessments": {
+    "parcel_id": "0082N00118000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 299900,
+        "market_value": 317900,
+        "land_value": 27300,
+        "improvement_value": 272600,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 13343,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 281900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 286557,
+        "market_value": 303756,
+        "land_value": 26085,
+        "improvement_value": 260472,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 268557,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 286557,
+        "market_value": 303756,
+        "land_value": 26085,
+        "improvement_value": 260472,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": -2895,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 268557,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 289452,
+        "market_value": 306824,
+        "land_value": 26348,
+        "improvement_value": 263104,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 13783,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 271452,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 275669,
+        "market_value": 292214,
+        "land_value": 25094,
+        "improvement_value": 250575,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 10602,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 257669,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 265067,
+        "market_value": 280976,
+        "land_value": 24129,
+        "improvement_value": 240938,
+        "land_value_percentage": 9.1,
+        "improvement_value_percentage": 90.9,
+        "market_to_assessed_ratio": 1.06,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 247067,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082N00118000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0082N00118000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-Jun-17",
+      "most_recent_appeal_date": "27-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16237-2017",
+        "filed_date": "27-Jun-17",
+        "hearing_date": "27-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 94400,
+        "requested_value": 94400,
+        "final_value": 317900,
+        "value_reduction": 0,
+        "reduction_percentage": -236.76,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082N00118000000",
+    "comparables": [
+      {
+        "parcel_id": "0080H00139000000",
+        "address": "5218 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5218   HOLMES ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00050000000",
+        "address": "5158 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5158   KEYSTONE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 299500,
+        "market_value": 317500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080D00118000000",
+        "address": "5232 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5232   CARNEGIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 300800,
+        "market_value": 318800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121K00037000000",
+        "address": "1719 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6236   5TH AVE  STE C105",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 298000,
+        "market_value": 298000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00302000000",
+        "address": "5224 WICKLIFF ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5224   WICKLIFF ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 297000,
+        "market_value": 315000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080C00172000000",
+        "address": "5228 HARRISON ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5228   HARRISON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 295300,
+        "market_value": 295300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0046S00144000000",
+    "address": "648 TOBOGGAN ST",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "648   TOBOGGAN ST",
+    "current_mailing_address": "648   TOBOGGAN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.41884,
+    "longitude": -80.08424
+  },
+  "assessments": {
+    "parcel_id": "0046S00144000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 75800,
+        "market_value": 75800,
+        "land_value": 27000,
+        "improvement_value": 48800,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1869,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 73931,
+        "market_value": 73931,
+        "land_value": 26334,
+        "improvement_value": 47597,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2843,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73931,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 71088,
+        "market_value": 71088,
+        "land_value": 25321,
+        "improvement_value": 45767,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2070,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71088,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 69018,
+        "market_value": 69018,
+        "land_value": 24584,
+        "improvement_value": 44434,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1353,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69018,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 67665,
+        "market_value": 67665,
+        "land_value": 24102,
+        "improvement_value": 43563,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 669,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67665,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 66996,
+        "market_value": 66996,
+        "land_value": 23864,
+        "improvement_value": 43132,
+        "land_value_percentage": 35.6,
+        "improvement_value_percentage": 64.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66996,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0046S00144000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0046S00144000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Aug-16",
+      "most_recent_appeal_date": "22-Aug-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8456-2016",
+        "filed_date": "22-Aug-16",
+        "hearing_date": "22-Aug-16",
+        "appeal_status": "approved",
+        "original_value": 75800,
+        "requested_value": 75800,
+        "final_value": 75800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0046S00144000000",
+    "comparables": [
+      {
+        "parcel_id": "0023J00023000000",
+        "address": "1507 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1507   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 75700,
+        "market_value": 93700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023F00403000000",
+        "address": "106 SAMPSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1518   BRIGHTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 76100,
+        "market_value": 76100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023J00108000000",
+        "address": "1421 MONTEREY ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1239   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 75300,
+        "market_value": 75300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023J00168000000",
+        "address": "811 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1518   BRIGHTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 76300,
+        "market_value": 76300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023D00204000000",
+        "address": "1728 WARREN ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "6330   JACKSON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 76500,
+        "market_value": 76500,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023J00138000000",
+        "address": "1409 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1409   BUENA VISTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 76500,
+        "market_value": 94500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

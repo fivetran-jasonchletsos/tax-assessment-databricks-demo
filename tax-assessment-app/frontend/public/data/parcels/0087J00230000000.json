@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0087J00230000000",
+    "address": "1013 MIRROR ST",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1800   MURRAY AVE  UNIT 81552",
+    "current_mailing_address": "1800   MURRAY AVE  UNIT 81552",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.05,
+    "latitude": 40.42048,
+    "longitude": -79.91414
+  },
+  "assessments": {
+    "parcel_id": "0087J00230000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 68800,
+        "market_value": 68800,
+        "land_value": 21000,
+        "improvement_value": 47800,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4276,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 64524,
+        "market_value": 64524,
+        "land_value": 19694,
+        "improvement_value": 44830,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1879,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64524,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 62645,
+        "market_value": 62645,
+        "land_value": 19121,
+        "improvement_value": 43524,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1228,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62645,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 61417,
+        "market_value": 61417,
+        "land_value": 18746,
+        "improvement_value": 42671,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 608,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61417,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 60809,
+        "market_value": 60809,
+        "land_value": 18560,
+        "improvement_value": 42249,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60809,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 60809,
+        "market_value": 60809,
+        "land_value": 18560,
+        "improvement_value": 42249,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60809,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087J00230000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087J00230000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0087J00230000000",
+    "comparables": [
+      {
+        "parcel_id": "0054M00133000000",
+        "address": "822 MONTEIRO ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "822   MONTEIRO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68800,
+        "market_value": 68800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0055C00316000000",
+        "address": "4272 MCCASLIN ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4272   MCCASLIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68800,
+        "market_value": 86800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0054M00135000000",
+        "address": "828 MONTEIRO ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "828   MONTEIRO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 69000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0054S00249000000",
+        "address": "850 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "850   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 87000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087J00310000000",
+        "address": "914 WELFER ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "914   WELFER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 87000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0054M00147000000",
+        "address": "852 MONTEIRO ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "852   MONTEIRO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69100,
+        "market_value": 87100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

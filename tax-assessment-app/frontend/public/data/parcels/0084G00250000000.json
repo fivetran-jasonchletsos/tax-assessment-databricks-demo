@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084G00250000000",
+    "address": "6334 AURELIA ST",
+    "city": "Shadyside",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "3042   BROOKSTONE DR",
+    "current_mailing_address": "3042   BROOKSTONE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.073,
+    "latitude": 40.4615,
+    "longitude": -79.90792
+  },
+  "assessments": {
+    "parcel_id": "0084G00250000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "land_value": 134200,
+        "improvement_value": 165800,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4748,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 300000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 295252,
+        "market_value": 295252,
+        "land_value": 132076,
+        "improvement_value": 163176,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2983,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295252,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 298235,
+        "market_value": 298235,
+        "land_value": 133410,
+        "improvement_value": 164825,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14201,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 298235,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 284034,
+        "market_value": 284034,
+        "land_value": 127057,
+        "improvement_value": 156977,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10924,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 284034,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 273110,
+        "market_value": 273110,
+        "land_value": 122171,
+        "improvement_value": 150939,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7954,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 273110,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 265156,
+        "market_value": 265156,
+        "land_value": 118613,
+        "improvement_value": 146543,
+        "land_value_percentage": 44.7,
+        "improvement_value_percentage": 55.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 265156,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084G00250000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084G00250000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jun-15",
+      "most_recent_appeal_date": "8-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2013-2015",
+        "filed_date": "8-Jun-15",
+        "hearing_date": "8-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 190000,
+        "requested_value": 190000,
+        "final_value": 300000,
+        "value_reduction": 0,
+        "reduction_percentage": -57.89,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084G00250000000",
+    "comparables": [
+      {
+        "parcel_id": "0084K00295000000",
+        "address": "327 S HIGHLAND AVE",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "209   HAMPTON RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052A00156000000",
+        "address": "401 N NEVILLE ST",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "1619   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052B00129000000",
+        "address": "501 AMBERSON AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "501   AMBERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 318000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084P00190000000",
+        "address": "5926 ELWOOD ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5926   ELWOOD ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084P00214000000",
+        "address": "375 SPAHR ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1442   GRANVILLE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085A00006000000",
+        "address": "5524 HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "322   SPRUCE ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

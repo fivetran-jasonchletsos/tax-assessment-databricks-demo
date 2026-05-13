@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0086C00154000000",
+    "address": "5824 NORTHUMBERLAND ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5824   NORTHUMBERLAND ST",
+    "current_mailing_address": "5824   NORTHUMBERLAND ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.104,
+    "latitude": 40.42012,
+    "longitude": -79.91282
+  },
+  "assessments": {
+    "parcel_id": "0086C00154000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 417000,
+        "market_value": 435000,
+        "land_value": 133300,
+        "improvement_value": 283700,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 18551,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 399000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 398449,
+        "market_value": 415648,
+        "land_value": 127369,
+        "improvement_value": 271080,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 380449,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 398449,
+        "market_value": 415648,
+        "land_value": 127369,
+        "improvement_value": 271080,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": -4025,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 380449,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 402474,
+        "market_value": 419846,
+        "land_value": 128656,
+        "improvement_value": 273818,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 19165,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 384474,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 383309,
+        "market_value": 399854,
+        "land_value": 122530,
+        "improvement_value": 260779,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 14742,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 365309,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 368567,
+        "market_value": 384476,
+        "land_value": 117817,
+        "improvement_value": 250750,
+        "land_value_percentage": 32.0,
+        "improvement_value_percentage": 68.0,
+        "market_to_assessed_ratio": 1.04,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 350567,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086C00154000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0086C00154000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2152-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 265000,
+        "requested_value": 265000,
+        "final_value": 435000,
+        "value_reduction": 0,
+        "reduction_percentage": -64.15,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086C00154000000",
+    "comparables": [
+      {
+        "parcel_id": "0085J00170000000",
+        "address": "5511 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5511   FAIR OAKS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 417000,
+        "market_value": 435000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053D00154000000",
+        "address": "1228 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1228   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 416300,
+        "market_value": 434300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086A00189000000",
+        "address": "1343 MURDOCH RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1343   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 418000,
+        "market_value": 436000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0053D00231000000",
+        "address": "159 TECHVIEW TER",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "159   TECHVIEW TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 415900,
+        "market_value": 433900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0053G00001000000",
+        "address": "226 GLADSTONE RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "226   GLADSTONE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 418100,
+        "market_value": 418100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053H00236000000",
+        "address": "206 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "206   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 415400,
+        "market_value": 415400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0025D00155000100",
     "comparables": [
       {
+        "parcel_id": "0049P00167000000",
+        "address": "3706 MINTWOOD ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "343   COLTART AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51200,
+        "market_value": 51200,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0026C00008000000",
         "address": "3713 MELWOOD AVE",
         "city": "10601",
@@ -132,7 +145,7 @@
         "assessed_value": 51200,
         "market_value": 69200,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0025D00205000000",
@@ -145,58 +158,45 @@
         "assessed_value": 51300,
         "market_value": 51300,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0026B00051000000",
-        "address": "3908 LIBERTY AVE",
-        "city": "10601",
-        "zip_code": "15224",
-        "current_owner_name": "3908   LIBERTY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 51100,
-        "market_value": 51100,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0025D00155000800",
-        "address": "3142 PENN AVE",
+        "parcel_id": "0049P00123000000",
+        "address": "326 39TH ST",
         "city": "10601",
         "zip_code": "15201",
-        "current_owner_name": "7058   BENNINGTON WOODS DR",
+        "current_owner_name": "326   39TH ST",
         "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 50900,
-        "market_value": 50900,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 51100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0025D00155000200",
-        "address": "3136 PENN AVE",
+        "parcel_id": "0049E00012000000",
+        "address": "160 38TH ST",
         "city": "10601",
         "zip_code": "15201",
-        "current_owner_name": "817   CYNTHIA DR",
+        "current_owner_name": "160 1/2  38TH ST",
         "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 50600,
-        "market_value": 50600,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 51400,
+        "market_value": 69400,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0026F00026000000",
-        "address": "3501 FLAVIAN ST",
+        "parcel_id": "0049J00280000000",
+        "address": "251 38TH ST",
         "city": "10601",
-        "zip_code": "15213",
-        "current_owner_name": "3505   FLAVIAN ST",
-        "land_use_description": "TWO FAMILY",
+        "zip_code": "15201",
+        "current_owner_name": "251   38TH ST",
+        "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 52000,
-        "market_value": 70000,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 51400,
+        "market_value": 69400,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

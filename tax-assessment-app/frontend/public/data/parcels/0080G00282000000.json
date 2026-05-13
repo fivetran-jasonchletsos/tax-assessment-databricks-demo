@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0080G00282000000",
+    "address": "5145 KEYSTONE ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5145   KEYSTONE ST",
+    "current_mailing_address": "5145   KEYSTONE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.46452,
+    "longitude": -79.9438
+  },
+  "assessments": {
+    "parcel_id": "0080G00282000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45100,
+        "market_value": 45100,
+        "land_value": 15800,
+        "improvement_value": 29300,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2009,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 43091,
+        "market_value": 43091,
+        "land_value": 15096,
+        "improvement_value": 27995,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43091,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 43091,
+        "market_value": 43091,
+        "land_value": 15096,
+        "improvement_value": 27995,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -436,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43091,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 43527,
+        "market_value": 43527,
+        "land_value": 15248,
+        "improvement_value": 28279,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2072,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43527,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 41455,
+        "market_value": 41455,
+        "land_value": 14523,
+        "improvement_value": 26932,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1594,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41455,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 39861,
+        "market_value": 39861,
+        "land_value": 13964,
+        "improvement_value": 25897,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39861,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080G00282000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080G00282000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080G00282000000",
+    "comparables": [
+      {
+        "parcel_id": "0080C00011000000",
+        "address": "5167 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "139   PETER DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080D00045000A00",
+        "address": "5229 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0119S00229000000",
+        "address": "5412 HARRISON ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5415   BERLIN WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120J00156000000",
+        "address": "5704 BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5704   BUTLER ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120J00194000000",
+        "address": "5627 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 98013",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121F00173000000",
+        "address": "1849 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "5905   ELGIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

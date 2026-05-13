@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0432S00188000000",
+    "address": "207 ANDREW DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "2714   OTTERBEIN DR",
+    "current_mailing_address": "2714   OTTERBEIN DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.222,
+    "latitude": 40.52898,
+    "longitude": -79.96584
+  },
+  "assessments": {
+    "parcel_id": "0432S00188000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 123300,
+        "market_value": 123300,
+        "land_value": 40600,
+        "improvement_value": 82700,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3038,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 120262,
+        "market_value": 120262,
+        "land_value": 39599,
+        "improvement_value": 80663,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4625,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120262,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 115637,
+        "market_value": 115637,
+        "land_value": 38076,
+        "improvement_value": 77561,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3368,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115637,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 112269,
+        "market_value": 112269,
+        "land_value": 36967,
+        "improvement_value": 75302,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2201,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112269,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 110068,
+        "market_value": 110068,
+        "land_value": 36242,
+        "improvement_value": 73826,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1089,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110068,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 108979,
+        "market_value": 108979,
+        "land_value": 35884,
+        "improvement_value": 73095,
+        "land_value_percentage": 32.9,
+        "improvement_value_percentage": 67.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 108979,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0432S00188000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0432S00188000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-May-16",
+      "most_recent_appeal_date": "3-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-11776-2016",
+        "filed_date": "3-May-16",
+        "hearing_date": "3-May-16",
+        "appeal_status": "approved",
+        "original_value": 123300,
+        "requested_value": 123300,
+        "final_value": 123300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0432S00188000000",
+    "comparables": [
+      {
+        "parcel_id": "0353D00111000000",
+        "address": "214 TARTLINE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "689   MOUNT PLEASANT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123300,
+        "market_value": 123300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0355M00018000000",
+        "address": "918 S PARK AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "918  S PARK AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123300,
+        "market_value": 141300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0356G00231000000",
+        "address": "101 SPRUCE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "101   SPRUCE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123300,
+        "market_value": 141300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0222R00276000000",
+        "address": "849 HIGHLAND AVE",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "849   HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123300,
+        "market_value": 141300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0285F00134000000",
+        "address": "1001 SAXONBURG BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1001   SAXONBURG BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123200,
+        "market_value": 123200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0355A00117000000",
+        "address": "1904 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1904   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123400,
+        "market_value": 141400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

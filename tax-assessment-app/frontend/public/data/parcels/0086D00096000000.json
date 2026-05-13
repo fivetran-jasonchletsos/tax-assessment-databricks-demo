@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086D00096000000",
+    "address": "1514 DENNISTON ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1535   SHADY AVE",
+    "current_mailing_address": "1535   SHADY AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.162,
+    "latitude": 40.42084,
+    "longitude": -79.93046
+  },
+  "assessments": {
+    "parcel_id": "0086D00096000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 324400,
+        "market_value": 324400,
+        "land_value": 162200,
+        "improvement_value": 162200,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5134,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 324400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 319266,
+        "market_value": 319266,
+        "land_value": 159633,
+        "improvement_value": 159633,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3225,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 319266,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 322491,
+        "market_value": 322491,
+        "land_value": 161245,
+        "improvement_value": 161246,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15356,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 322491,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 307135,
+        "market_value": 307135,
+        "land_value": 153567,
+        "improvement_value": 153568,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11812,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 307135,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 295323,
+        "market_value": 295323,
+        "land_value": 147661,
+        "improvement_value": 147662,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8601,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 295323,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 286722,
+        "market_value": 286722,
+        "land_value": 143361,
+        "improvement_value": 143361,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 286722,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086D00096000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086D00096000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jun-15",
+      "most_recent_appeal_date": "18-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2153-2015",
+        "filed_date": "18-Jun-15",
+        "hearing_date": "18-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 215000,
+        "requested_value": 215000,
+        "final_value": 324400,
+        "value_reduction": 0,
+        "reduction_percentage": -50.88,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086D00096000000",
+    "comparables": [
+      {
+        "parcel_id": "0053D00120000000",
+        "address": "1329 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1329   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324400,
+        "market_value": 342400,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086D00237000000",
+        "address": "6516 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6516   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324500,
+        "market_value": 342500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086B00215000000",
+        "address": "5722 WOODMONT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5722   WOODMONT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324200,
+        "market_value": 342200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086C00142000000",
+        "address": "5803 FERREE ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5803   FERREE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324200,
+        "market_value": 342200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086A00220000000",
+        "address": "1263 BELLEROCK ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1263   BELLEROCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 323800,
+        "market_value": 341800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086B00222000000",
+        "address": "5731 WOODMONT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5731   WOODMONT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 325000,
+        "market_value": 343000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

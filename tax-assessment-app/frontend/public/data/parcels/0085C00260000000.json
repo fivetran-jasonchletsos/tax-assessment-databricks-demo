@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085C00260000000",
+    "address": "75 WOODLAND RD",
+    "city": "11401",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "75   WOODLAND RD",
+    "current_mailing_address": "75   WOODLAND RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.303,
+    "latitude": 40.44146,
+    "longitude": -79.92746
+  },
+  "assessments": {
+    "parcel_id": "0085C00260000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1457500,
+        "market_value": 1457500,
+        "land_value": 168600,
+        "improvement_value": 1288900,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35890,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1457500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1421610,
+        "market_value": 1421610,
+        "land_value": 164448,
+        "improvement_value": 1257162,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 54677,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1421610,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1366933,
+        "market_value": 1366933,
+        "land_value": 158123,
+        "improvement_value": 1208810,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 39813,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1366933,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1327120,
+        "market_value": 1327120,
+        "land_value": 153517,
+        "improvement_value": 1173603,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26021,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1327120,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1301099,
+        "market_value": 1301099,
+        "land_value": 150507,
+        "improvement_value": 1150592,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12882,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1301099,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1288217,
+        "market_value": 1288217,
+        "land_value": 149017,
+        "improvement_value": 1139200,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1288217,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085C00260000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085C00260000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Aug-19",
+      "most_recent_appeal_date": "8-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30027-2019",
+        "filed_date": "8-Aug-19",
+        "hearing_date": "8-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 1000000,
+        "requested_value": 1000000,
+        "final_value": 1409800,
+        "value_reduction": 0,
+        "reduction_percentage": -40.98,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085C00260000000",
+    "comparables": [
+      {
+        "parcel_id": "0086A00064000000",
+        "address": "1331 BENNINGTON AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1331   BENNINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1457000,
+        "market_value": 1475000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086A00069000000",
+        "address": "1333 BENNINGTON AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "85   AVENUE DE LA MER   # 1103",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1436700,
+        "market_value": 1436700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052L00050000000",
+        "address": "1045 PARISH LN",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "141  S ST CLAIR ST  STE 201",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1431200,
+        "market_value": 1431200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052L00126000000",
+        "address": "1074 DEVON RD",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "1074   DEVON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1429395,
+        "market_value": 1429395,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085G00260000000",
+        "address": "50 WOODLAND RD",
+        "city": "11401",
+        "zip_code": "15232",
+        "current_owner_name": "50   WOODLAND RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1382000,
+        "market_value": 1400000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086A00272000000",
+        "address": "1411 INVERNESS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1411   INVERNESS AVE  STE 2410",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1371800,
+        "market_value": 1389800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

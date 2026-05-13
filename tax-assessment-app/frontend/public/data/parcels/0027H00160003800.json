@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "0027H00160003800",
+    "address": "144 N DITHRIDGE ST",
+    "city": "Dithridge Towers",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "144  N DITHRIDGE ST  UNIT 110",
+    "current_mailing_address": "144  N DITHRIDGE ST  UNIT 110",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43428,
+    "longitude": -79.9558
+  },
+  "assessments": {
+    "parcel_id": "0027H00160003800",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 30000,
+        "market_value": 30000,
+        "land_value": 0,
+        "improvement_value": 30000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2164,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 27836,
+        "market_value": 27836,
+        "land_value": 0,
+        "improvement_value": 27836,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 275,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27836,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 27561,
+        "market_value": 27561,
+        "land_value": 0,
+        "improvement_value": 27561,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27561,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27561,
+        "market_value": 27561,
+        "land_value": 0,
+        "improvement_value": 27561,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -279,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27561,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 27840,
+        "market_value": 27840,
+        "land_value": 0,
+        "improvement_value": 27840,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1325,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27840,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 26515,
+        "market_value": 26515,
+        "land_value": 0,
+        "improvement_value": 26515,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26515,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0027H00160003800",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0027H00160003800",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-May-16",
+      "most_recent_appeal_date": "19-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8241-2016",
+        "filed_date": "19-May-16",
+        "hearing_date": "19-May-16",
+        "appeal_status": "approved",
+        "original_value": 58700,
+        "requested_value": 58700,
+        "final_value": 58700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0027H00160003800",
+    "comparables": []
+  }
+}

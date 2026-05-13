@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052R00214000000",
+    "address": "121 TECHVIEW TER",
+    "city": "11401",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1450   BERKSHIRE RD",
+    "current_mailing_address": "1450   BERKSHIRE RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.165,
+    "latitude": 40.43392,
+    "longitude": -79.94488
+  },
+  "assessments": {
+    "parcel_id": "0052R00214000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 678500,
+        "market_value": 678500,
+        "land_value": 150000,
+        "improvement_value": 528500,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -9500,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 678500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 688000,
+        "market_value": 688000,
+        "land_value": 152100,
+        "improvement_value": 535900,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32761,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 688000,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 655239,
+        "market_value": 655239,
+        "land_value": 144857,
+        "improvement_value": 510382,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25201,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 655239,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 630038,
+        "market_value": 630038,
+        "land_value": 139286,
+        "improvement_value": 490752,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18350,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 630038,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 611688,
+        "market_value": 611688,
+        "land_value": 135229,
+        "improvement_value": 476459,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11993,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 611688,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 599695,
+        "market_value": 599695,
+        "land_value": 132578,
+        "improvement_value": 467117,
+        "land_value_percentage": 22.1,
+        "improvement_value_percentage": 77.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 599695,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052R00214000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052R00214000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Aug-19",
+      "most_recent_appeal_date": "6-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29554-2019",
+        "filed_date": "6-Aug-19",
+        "hearing_date": "6-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 510000,
+        "requested_value": 510000,
+        "final_value": 723100,
+        "value_reduction": 0,
+        "reduction_percentage": -41.78,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052R00214000000",
+    "comparables": [
+      {
+        "parcel_id": "0086F00150000000",
+        "address": "5622 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5622   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 678600,
+        "market_value": 696600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052S00237000000",
+        "address": "1200 SQUIRREL HILL AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1200   SQUIRREL HILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 678800,
+        "market_value": 696800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085N00147000000",
+        "address": "1234 MURDOCH RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1234   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679000,
+        "market_value": 697000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086B00058000000",
+        "address": "5600 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5600   NORTHUMBERLAND ST S",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679100,
+        "market_value": 697100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086E00108000000",
+        "address": "5516 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5516   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 677600,
+        "market_value": 695600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086E00138000000",
+        "address": "5448 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5448   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679700,
+        "market_value": 679700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087F00256000000",
+    "address": "5566 POCUSSET ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5566   POCUSSET ST",
+    "current_mailing_address": "5566   POCUSSET ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.248,
+    "latitude": 40.42096,
+    "longitude": -79.93118
+  },
+  "assessments": {
+    "parcel_id": "0087F00256000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 46200,
+        "market_value": 46200,
+        "land_value": 46200,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2056,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 46200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 44144,
+        "market_value": 44144,
+        "land_value": 44144,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44144,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 44144,
+        "market_value": 44144,
+        "land_value": 44144,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -446,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44144,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 44590,
+        "market_value": 44590,
+        "land_value": 44590,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2123,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44590,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 42467,
+        "market_value": 42467,
+        "land_value": 42467,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1633,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42467,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40834,
+        "market_value": 40834,
+        "land_value": 40834,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40834,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087F00256000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087F00256000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jul-15",
+      "most_recent_appeal_date": "13-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2269-2015",
+        "filed_date": "13-Jul-15",
+        "hearing_date": "13-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 46200,
+        "requested_value": 46200,
+        "final_value": 46200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087F00256000000",
+    "comparables": [
+      {
+        "parcel_id": "0087A00168000000",
+        "address": "5400 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5400   HOBART ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 45600,
+        "market_value": 45600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087E00171000000",
+        "address": "POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1178   WINDMILL LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 48100,
+        "market_value": 48100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087F00183000000",
+        "address": "5635 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6636   FORWARD AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 50000,
+        "market_value": 50000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087C00094000000",
+        "address": "2308 MURRAY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2310 1/2  MURRAY AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 55000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087C00095000000",
+        "address": "2310 MURRAY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2310   MURRAY AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 37000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087C00095000A00",
+        "address": "2310 MURRAY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2310 1/2  MURRAY AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 37000,
+        "market_value": 55000,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

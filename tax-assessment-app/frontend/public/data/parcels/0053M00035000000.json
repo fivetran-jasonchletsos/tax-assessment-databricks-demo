@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0053M00035000000",
+    "address": "5327 DARLINGTON RD",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1701   LACOSTA CT",
+    "current_mailing_address": "1701   LACOSTA CT",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.209,
+    "latitude": 40.42036,
+    "longitude": -79.91126
+  },
+  "assessments": {
+    "parcel_id": "0053M00035000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 440000,
+        "market_value": 440000,
+        "land_value": 101000,
+        "improvement_value": 339000,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 43367,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 440000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 396633,
+        "market_value": 396633,
+        "land_value": 91045,
+        "improvement_value": 305588,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7777,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 396633,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 388856,
+        "market_value": 388856,
+        "land_value": 89260,
+        "improvement_value": 299596,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3850,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388856,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 385006,
+        "market_value": 385006,
+        "land_value": 88376,
+        "improvement_value": 296630,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 385006,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 385006,
+        "market_value": 385006,
+        "land_value": 88376,
+        "improvement_value": 296630,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3889,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 385006,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 388895,
+        "market_value": 388895,
+        "land_value": 89269,
+        "improvement_value": 299626,
+        "land_value_percentage": 23.0,
+        "improvement_value_percentage": 77.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388895,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0053M00035000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0053M00035000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Oct-15",
+      "most_recent_appeal_date": "1-Oct-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1422-2015",
+        "filed_date": "1-Oct-15",
+        "hearing_date": "1-Oct-15",
+        "appeal_status": "approved",
+        "original_value": 291300,
+        "requested_value": 291300,
+        "final_value": 291300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0053M00035000000",
+    "comparables": [
+      {
+        "parcel_id": "0085K00206000000",
+        "address": "1172 MURRAY HILL AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1172   MURRAYHILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 440400,
+        "market_value": 440400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086P00006000000",
+        "address": "1900 WIGHTMAN ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1681   MARGARET WALK RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 439300,
+        "market_value": 439300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085S00103000000",
+        "address": "1348 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1348   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 441300,
+        "market_value": 459300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085R00297000000",
+        "address": "1339 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1341   SHADY AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 441400,
+        "market_value": 459400,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085H00106000000",
+        "address": "1101 LYNDHURST DR",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1101   LYNDHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 442400,
+        "market_value": 442400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086J00245000000",
+        "address": "14 DARLINGTON CT",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "14   DARLINGTON CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 437000,
+        "market_value": 455000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

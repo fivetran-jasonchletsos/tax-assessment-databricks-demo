@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0120J00195000000",
+    "address": "5629 CARNEGIE ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5629   CARNEGIE ST",
+    "current_mailing_address": "5629   CARNEGIE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.46464,
+    "longitude": -79.9642
+  },
+  "assessments": {
+    "parcel_id": "0120J00195000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "land_value": 15800,
+        "improvement_value": 86200,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 7350,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 84000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 94650,
+        "market_value": 111352,
+        "land_value": 14661,
+        "improvement_value": 79989,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 937,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76650,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 93713,
+        "market_value": 110250,
+        "land_value": 14516,
+        "improvement_value": 79197,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 75713,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 93713,
+        "market_value": 110250,
+        "land_value": 14516,
+        "improvement_value": 79197,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": -947,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 75713,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 94660,
+        "market_value": 111364,
+        "land_value": 14663,
+        "improvement_value": 79997,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 4507,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76660,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 90153,
+        "market_value": 106062,
+        "land_value": 13964,
+        "improvement_value": 76189,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 72153,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0120J00195000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0120J00195000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Aug-19",
+      "most_recent_appeal_date": "16-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30464-2019",
+        "filed_date": "16-Aug-19",
+        "hearing_date": "16-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 47000,
+        "requested_value": 47000,
+        "final_value": 128500,
+        "value_reduction": 0,
+        "reduction_percentage": -173.4,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0120J00195000000",
+    "comparables": [
+      {
+        "parcel_id": "0080D00029000000",
+        "address": "5235 DRESDEN WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5235   DRESDEN WAY",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00083000A00",
+        "address": "5144 KENT WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5144   KENT WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082E00014000000",
+        "address": "1039 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1039   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080H00137000000",
+        "address": "5214 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "100   ANDERSON ST  APT 315",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102100,
+        "market_value": 102100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081E00138000000",
+        "address": "5302 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "3521   BELLEVUE AVE  UNIT 6",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101900,
+        "market_value": 101900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121G00205000000",
+        "address": "7245 WITHERSPOON ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "7245   WITHERSPOON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101900,
+        "market_value": 101900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

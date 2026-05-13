@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0052C00259000000",
+    "address": "5204 ELLSWORTH AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "110  W LYNDHURST DR",
+    "current_mailing_address": "110  W LYNDHURST DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.123,
+    "latitude": 40.4417,
+    "longitude": -79.92026
+  },
+  "assessments": {
+    "parcel_id": "0052C00259000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 305000,
+        "market_value": 305000,
+        "land_value": 180200,
+        "improvement_value": 124800,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4827,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 305000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 300173,
+        "market_value": 300173,
+        "land_value": 177348,
+        "improvement_value": 122825,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3033,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 300173,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 303206,
+        "market_value": 303206,
+        "land_value": 179140,
+        "improvement_value": 124066,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14438,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 303206,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 288768,
+        "market_value": 288768,
+        "land_value": 170609,
+        "improvement_value": 118159,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11106,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 288768,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 277662,
+        "market_value": 277662,
+        "land_value": 164048,
+        "improvement_value": 113614,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8087,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 277662,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 269575,
+        "market_value": 269575,
+        "land_value": 159270,
+        "improvement_value": 110305,
+        "land_value_percentage": 59.1,
+        "improvement_value_percentage": 40.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 269575,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052C00259000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052C00259000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0052C00259000000",
+    "comparables": [
+      {
+        "parcel_id": "0084G00122000000",
+        "address": "257 EMERSON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "274   CUP DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 305000,
+        "market_value": 305000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084R00290000000",
+        "address": "6331 HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "6331   HOWE ST  APT 1",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 305000,
+        "market_value": 305000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085B00193000000",
+        "address": "5910 HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "1748   JANCEY ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 305000,
+        "market_value": 305000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085A00327000000",
+        "address": "5735 KENTUCKY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "319  N STATE ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 304900,
+        "market_value": 304900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051S00366000000",
+        "address": "5406 AIKEN PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5406   AIKEN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 305200,
+        "market_value": 323200,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084G00280000000",
+        "address": "100 DENNISTON ST",
+        "city": "Shadyside",
+        "zip_code": "15206",
+        "current_owner_name": "2719  N FILLMORE ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 304600,
+        "market_value": 304600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

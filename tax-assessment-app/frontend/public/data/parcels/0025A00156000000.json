@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025A00156000000",
+    "address": "48 WATERFRONT DR",
+    "city": "Ward 24 - Troy Hill",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "6   JAYCEE DR",
+    "current_mailing_address": "6   JAYCEE DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.055,
+    "latitude": 40.43618,
+    "longitude": -79.98706
+  },
+  "assessments": {
+    "parcel_id": "0025A00156000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 549000,
+        "market_value": 549000,
+        "land_value": 185300,
+        "improvement_value": 363700,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24422,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 549000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 524578,
+        "market_value": 524578,
+        "land_value": 177057,
+        "improvement_value": 347521,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 524578,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 524578,
+        "market_value": 524578,
+        "land_value": 177057,
+        "improvement_value": 347521,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5299,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 524578,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 529877,
+        "market_value": 529877,
+        "land_value": 178845,
+        "improvement_value": 351032,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25232,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 529877,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 504645,
+        "market_value": 504645,
+        "land_value": 170329,
+        "improvement_value": 334316,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19409,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 504645,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 485236,
+        "market_value": 485236,
+        "land_value": 163778,
+        "improvement_value": 321458,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 485236,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025A00156000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025A00156000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jul-18",
+      "most_recent_appeal_date": "13-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22494-2018",
+        "filed_date": "13-Jul-18",
+        "hearing_date": "13-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 390000,
+        "requested_value": 390000,
+        "final_value": 568100,
+        "value_reduction": 0,
+        "reduction_percentage": -45.67,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025A00156000000",
+    "comparables": [
+      {
+        "parcel_id": "0025A00089000000",
+        "address": "63 WATERFRONT DR",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "621   VALE VISTA CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 540000,
+        "market_value": 540000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025A00060000000",
+        "address": "6 WATERSIDE PL",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "6   WATERSIDE PL",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 538700,
+        "market_value": 556700,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025A00105000000",
+        "address": "75 WATERFRONT DR",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "75   WATERFRONT DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 538000,
+        "market_value": 556000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048N00328000000",
+        "address": "40 WATERFRONT DR",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "40   WATERFRONT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 521300,
+        "market_value": 539300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025A00113000000",
+        "address": "74 WATERFRONT DR",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "294   SKINNER  CREEK RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 516400,
+        "market_value": 516400,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048N00301000000",
+        "address": "13 WATERFRONT DR",
+        "city": "Ward 24 - Troy Hill",
+        "zip_code": "15222",
+        "current_owner_name": "13   WATERFRONT DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 585400,
+        "market_value": 603400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

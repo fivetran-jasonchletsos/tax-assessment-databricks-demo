@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0141J00025080200",
+    "address": "750 WASHINGTON RD",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "1944   THOMAS AVE",
+    "current_mailing_address": "1944   THOMAS AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.35964,
+    "longitude": -80.04774
+  },
+  "assessments": {
+    "parcel_id": "0141J00025080200",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 140300,
+        "market_value": 140300,
+        "land_value": 0,
+        "improvement_value": 140300,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2222,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 138078,
+        "market_value": 138078,
+        "land_value": 0,
+        "improvement_value": 138078,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1395,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 138078,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 139473,
+        "market_value": 139473,
+        "land_value": 0,
+        "improvement_value": 139473,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6641,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 139473,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 132832,
+        "market_value": 132832,
+        "land_value": 0,
+        "improvement_value": 132832,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5108,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132832,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 127724,
+        "market_value": 127724,
+        "land_value": 0,
+        "improvement_value": 127724,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3720,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127724,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 124004,
+        "market_value": 124004,
+        "land_value": 0,
+        "improvement_value": 124004,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124004,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0141J00025080200",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0141J00025080200",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "11-May-15",
+      "most_recent_appeal_date": "11-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-3050-2015",
+        "filed_date": "11-May-15",
+        "hearing_date": "11-May-15",
+        "appeal_status": "approved",
+        "original_value": 151000,
+        "requested_value": 151000,
+        "final_value": 151000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0141J00025080200",
+    "comparables": [
+      {
+        "parcel_id": "0098N00176000000",
+        "address": "419 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "419   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140300,
+        "market_value": 158300,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0141A00342000000",
+        "address": "469 MARLIN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "469   MARLIN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140300,
+        "market_value": 158300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0140J00021000000",
+        "address": "324 JONQUIL PL",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "324   JONQUIL PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 158200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0142M00236000000",
+        "address": "250 BAYWOOD AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "250   BAYWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 158200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0191B00106000000",
+        "address": "539 WESTOVER RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "539   WESTOVER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 158200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0251G00233000000",
+        "address": "139 WOODLAND DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "139   WOODLAND DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140400,
+        "market_value": 158400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

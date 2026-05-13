@@ -174,28 +174,80 @@
       "success_rate_pct": 0.0,
       "avg_value_reduction": 0,
       "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
+      "first_appeal_date": "16-Aug-19",
+      "most_recent_appeal_date": "16-Aug-19",
+      "latest_appeal_status": "approved"
     },
     "appeals": [
       {
         "appeal_id": "WPRDC-29219-2019",
-        "filed_date": null,
+        "filed_date": "16-Aug-19",
         "hearing_date": "16-Aug-19",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
+        "appeal_status": "approved",
+        "original_value": 207400,
+        "requested_value": 207400,
+        "final_value": 397700,
         "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
+        "reduction_percentage": -91.76,
+        "resolution_notes": "ANNUAL"
       }
     ]
   },
   "comparables": {
     "parcel_id": "0026B00324000000",
     "comparables": [
+      {
+        "parcel_id": "0049P00147000000",
+        "address": "315 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "315   38TH ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 356700,
+        "market_value": 374700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049P00149000000",
+        "address": "311 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "311   38TH ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 356700,
+        "market_value": 374700,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049P00150000000",
+        "address": "309 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "309   38TH ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 356700,
+        "market_value": 374700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049P00151000000",
+        "address": "307 38TH ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "307   38TH ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 356700,
+        "market_value": 374700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
       {
         "parcel_id": "0026B00326000000",
         "address": "3707 MELWOOD AVE",
@@ -207,71 +259,19 @@
         "assessed_value": 359900,
         "market_value": 377900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0026B00322000000",
-        "address": "3711 MELWOOD AVE",
-        "city": "10601",
-        "zip_code": "15213",
-        "current_owner_name": "3711   MELWOOD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 384500,
-        "market_value": 402500,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0025G00167000000",
-        "address": "3057 PENN AVE",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "1072   UNION VALLEY RD",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 414600,
-        "market_value": 414600,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0026B00041000000",
-        "address": "3826 LIBERTY AVE",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3826   LIBERTY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 299900,
-        "market_value": 317900,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0026A00011000000",
-        "address": "3420 LIGONIER ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3420   LIGONIER ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 290600,
-        "market_value": 290600,
-        "assessed_value_change_pct": 13.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0026B00042000000",
-        "address": "3828 LIBERTY AVE",
+        "parcel_id": "0048S00212000000",
+        "address": "3403 BUTLER ST",
         "city": "10601",
         "zip_code": "15201",
-        "current_owner_name": "3828   LIBERTY AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "3403   BUTLER ST",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 281200,
-        "market_value": 299200,
-        "assessed_value_change_pct": -5.5,
+        "assessed_value": 355000,
+        "market_value": 355000,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

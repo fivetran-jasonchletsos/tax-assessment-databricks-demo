@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086B00114000000",
+    "address": "5719 NORTHUMBERLAND ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1204   MILTON ST",
+    "current_mailing_address": "1204   MILTON ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.116,
+    "latitude": 40.41952,
+    "longitude": -79.91774
+  },
+  "assessments": {
+    "parcel_id": "0086B00114000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 350000,
+        "market_value": 350000,
+        "land_value": 140000,
+        "improvement_value": 210000,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34497,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 350000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 315503,
+        "market_value": 315503,
+        "land_value": 126201,
+        "improvement_value": 189302,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6186,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 315503,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 309317,
+        "market_value": 309317,
+        "land_value": 123726,
+        "improvement_value": 185591,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3062,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 309317,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 306255,
+        "market_value": 306255,
+        "land_value": 122502,
+        "improvement_value": 183753,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 306255,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 306255,
+        "market_value": 306255,
+        "land_value": 122502,
+        "improvement_value": 183753,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3094,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 306255,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 309349,
+        "market_value": 309349,
+        "land_value": 123739,
+        "improvement_value": 185610,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 309349,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086B00114000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086B00114000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-May-17",
+      "most_recent_appeal_date": "12-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16356-2017",
+        "filed_date": "12-May-17",
+        "hearing_date": "12-May-17",
+        "appeal_status": "approved",
+        "original_value": 373500,
+        "requested_value": 373500,
+        "final_value": 373500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086B00114000000",
+    "comparables": [
+      {
+        "parcel_id": "0052M00012000000",
+        "address": "5301 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "3990   MURRAY HIGHLANDS CIR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 350000,
+        "market_value": 350000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053G00107000000",
+        "address": "102 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "102   SCHENLEY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 350300,
+        "market_value": 368300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0053D00130000000",
+        "address": "1305 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1305   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 349500,
+        "market_value": 349500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085N00291000000",
+        "address": "1243 BELLEROCK ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1243   BELLEROCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 350500,
+        "market_value": 368500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052S00077000000",
+        "address": "5168 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1425   BEECHWOOD BLVD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 350600,
+        "market_value": 350600,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053D00239000000",
+        "address": "5227 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "120   MOREWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 349300,
+        "market_value": 349300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

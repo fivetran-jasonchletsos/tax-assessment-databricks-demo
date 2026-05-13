@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086S00043000000",
+    "address": "5901 HOBART ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1311   MALVERN AVE",
+    "current_mailing_address": "1311   MALVERN AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.149,
+    "latitude": 40.42168,
+    "longitude": -79.93046
+  },
+  "assessments": {
+    "parcel_id": "0086S00043000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 225900,
+        "market_value": 225900,
+        "land_value": 90300,
+        "improvement_value": 135600,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3576,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 222324,
+        "market_value": 222324,
+        "land_value": 88870,
+        "improvement_value": 133454,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2246,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222324,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 224570,
+        "market_value": 224570,
+        "land_value": 89768,
+        "improvement_value": 134802,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10693,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 224570,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 213877,
+        "market_value": 213877,
+        "land_value": 85493,
+        "improvement_value": 128384,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8226,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213877,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 205651,
+        "market_value": 205651,
+        "land_value": 82205,
+        "improvement_value": 123446,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5989,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 205651,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 199662,
+        "market_value": 199662,
+        "land_value": 79811,
+        "improvement_value": 119851,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 199662,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086S00043000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086S00043000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jul-15",
+      "most_recent_appeal_date": "9-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2219-2015",
+        "filed_date": "9-Jul-15",
+        "hearing_date": "9-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 225900,
+        "requested_value": 225900,
+        "final_value": 225900,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086S00043000000",
+    "comparables": [
+      {
+        "parcel_id": "0087H00029000000",
+        "address": "2312 TILBURY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2312   TILBURY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 225900,
+        "market_value": 243900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086N00263000000",
+        "address": "5520 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5520   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226000,
+        "market_value": 244000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087F00201000000",
+        "address": "5719 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6580   BEACON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 226200,
+        "market_value": 226200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087E00101000000",
+        "address": "5342 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5342   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226300,
+        "market_value": 244300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087E00021000000",
+        "address": "5508 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5508   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 225000,
+        "market_value": 243000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087D00111000000",
+        "address": "5913 NICHOLSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2721   BEECHWOOD BLVD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 224500,
+        "market_value": 224500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

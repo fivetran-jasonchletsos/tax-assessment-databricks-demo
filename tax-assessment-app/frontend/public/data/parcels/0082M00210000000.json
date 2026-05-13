@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0082M00210000000",
+    "address": "1132 N EUCLID AVE",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1132  N EUCLID AVE",
+    "current_mailing_address": "1132  N EUCLID AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.086,
+    "latitude": 40.4615,
+    "longitude": -79.9096
+  },
+  "assessments": {
+    "parcel_id": "0082M00210000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 399900,
+        "market_value": 399900,
+        "land_value": 21400,
+        "improvement_value": 378500,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6328,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 399900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 393572,
+        "market_value": 393572,
+        "land_value": 21061,
+        "improvement_value": 372511,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3976,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 393572,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 397548,
+        "market_value": 397548,
+        "land_value": 21274,
+        "improvement_value": 376274,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18930,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 397548,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 378618,
+        "market_value": 378618,
+        "land_value": 20261,
+        "improvement_value": 358357,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14562,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 378618,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 364056,
+        "market_value": 364056,
+        "land_value": 19481,
+        "improvement_value": 344575,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10603,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 364056,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 353453,
+        "market_value": 353453,
+        "land_value": 18914,
+        "improvement_value": 334539,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 353453,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082M00210000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082M00210000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Aug-19",
+      "most_recent_appeal_date": "6-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29928-2019",
+        "filed_date": "6-Aug-19",
+        "hearing_date": "6-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 105300,
+        "requested_value": 105300,
+        "final_value": 399900,
+        "value_reduction": 0,
+        "reduction_percentage": -279.77,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082M00210000000",
+    "comparables": [
+      {
+        "parcel_id": "0082R00227000000",
+        "address": "1008 MELLON ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1008   MELLON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 399800,
+        "market_value": 417800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083F00236000000",
+        "address": "515 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "515  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 400100,
+        "market_value": 418100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083H00152000000",
+        "address": "6035 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6035   SAINT MARIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 400100,
+        "market_value": 418100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083F00252000000",
+        "address": "619 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "619  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 399300,
+        "market_value": 417300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083G00093000000",
+        "address": "728 N EUCLID AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "728  N EUCLID AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 397900,
+        "market_value": 397900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083K00811000000",
+        "address": "312 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "312  N ST. CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 397900,
+        "market_value": 397900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

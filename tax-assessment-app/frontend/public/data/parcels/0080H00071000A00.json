@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0080H00071000A00",
+    "address": "5204 KENT WAY",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "4625   LIBERTY AVE",
+    "current_mailing_address": "4625   LIBERTY AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.026,
+    "latitude": 40.4662,
+    "longitude": -79.94284
+  },
+  "assessments": {
+    "parcel_id": "0080H00071000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "land_value": 21400,
+        "improvement_value": 13600,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1559,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 33441,
+        "market_value": 33441,
+        "land_value": 20446,
+        "improvement_value": 12995,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33441,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 33441,
+        "market_value": 33441,
+        "land_value": 20446,
+        "improvement_value": 12995,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -338,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33441,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 33779,
+        "market_value": 33779,
+        "land_value": 20653,
+        "improvement_value": 13126,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1608,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33779,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32171,
+        "market_value": 32171,
+        "land_value": 19670,
+        "improvement_value": 12501,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1237,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32171,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 30934,
+        "market_value": 30934,
+        "land_value": 18913,
+        "improvement_value": 12021,
+        "land_value_percentage": 61.1,
+        "improvement_value_percentage": 38.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30934,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080H00071000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080H00071000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080H00071000A00",
+    "comparables": [
+      {
+        "parcel_id": "0080D00181000300",
+        "address": "123 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5101   KEYSTONE ST  # 3",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080D00181000500",
+        "address": "119 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5101   KEYSTONE ST  # 3",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080D00205000000",
+        "address": "123 53RD ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080H00047000000",
+        "address": "5152 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5152   KEYSTONE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 53000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00199000A00",
+        "address": "5120 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "831   VALLEYVIEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": 1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081A00129000000",
+        "address": "5406 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "102   EAGLE LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

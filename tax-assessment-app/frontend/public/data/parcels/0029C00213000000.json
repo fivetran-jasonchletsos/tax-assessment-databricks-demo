@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0029C00213000000",
+    "address": "3253 WARD ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "2015   BABCOCK BLVD",
+    "current_mailing_address": "2015   BABCOCK BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.152,
+    "latitude": 40.43248,
+    "longitude": -79.9528
+  },
+  "assessments": {
+    "parcel_id": "0029C00213000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "land_value": 45200,
+        "improvement_value": 104800,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6673,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 150000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 143327,
+        "market_value": 143327,
+        "land_value": 43189,
+        "improvement_value": 100138,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143327,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 143327,
+        "market_value": 143327,
+        "land_value": 43189,
+        "improvement_value": 100138,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1448,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 143327,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 144775,
+        "market_value": 144775,
+        "land_value": 43625,
+        "improvement_value": 101150,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6894,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144775,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 137881,
+        "market_value": 137881,
+        "land_value": 41548,
+        "improvement_value": 96333,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5303,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137881,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 132578,
+        "market_value": 132578,
+        "land_value": 39950,
+        "improvement_value": 92628,
+        "land_value_percentage": 30.1,
+        "improvement_value_percentage": 69.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 132578,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0029C00213000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0029C00213000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Jun-15",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-823-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 75000,
+        "requested_value": 75000,
+        "final_value": 150000,
+        "value_reduction": 0,
+        "reduction_percentage": -100.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0029C00213000000",
+    "comparables": [
+      {
+        "parcel_id": "0028E00080000000",
+        "address": "147 CHESTERFIELD RD",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 82577",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00271000000",
+        "address": "3602 BATES ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1101  S CAPITAL OF TEXAS HWY  STE B-220",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028R00224000000",
+        "address": "24 WELSFORD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "521   BERKSHIRE AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028S00105000000",
+        "address": "3431 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "380   HAMILTON AVE  UNIT 328",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0029H00147000000",
+        "address": "3767 ORPWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3767   ORPWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 168000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028M00120000000",
+        "address": "3606 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "243   ATWOOD ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 149900,
+        "market_value": 149900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

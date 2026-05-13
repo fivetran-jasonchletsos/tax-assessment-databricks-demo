@@ -122,6 +122,19 @@
     "parcel_id": "0009A00015000000",
     "comparables": [
       {
+        "parcel_id": "0023S00206000000",
+        "address": "421 FORELAND ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "421   FORELAND ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 143200,
+        "market_value": 161200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0009A00031000000",
         "address": "520 PRESSLEY ST",
         "city": "Ward 23 - East Allegheny",
@@ -132,7 +145,20 @@
         "assessed_value": 141900,
         "market_value": 159900,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023M00231000000",
+        "address": "413 TRIPOLI ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "413   TRIPOLI ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 141900,
+        "market_value": 159900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0009A00011000000",
@@ -145,58 +171,32 @@
         "assessed_value": 141800,
         "market_value": 159800,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0008D00150000000",
-        "address": "419 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "419   LOCKHART ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 139700,
-        "market_value": 139700,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0008D00168000000",
-        "address": "506 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "506   LOCKHART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 134300,
-        "market_value": 152300,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0009A00004000000",
-        "address": "513 LOCKHART ST",
+        "parcel_id": "0024N00233000000",
+        "address": "612 AVERY ST",
         "city": "Ward 23 - East Allegheny",
         "zip_code": "15212",
-        "current_owner_name": "2934   CARLYLE RD",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "612   AVERY ST",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 150900,
-        "market_value": 150900,
-        "assessed_value_change_pct": 14.1,
+        "assessed_value": 143500,
+        "market_value": 143500,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0009A00005000000",
-        "address": "515 LOCKHART ST",
+        "parcel_id": "0024K00347000000",
+        "address": "1015 VINIAL ST",
         "city": "Ward 23 - East Allegheny",
         "zip_code": "15212",
-        "current_owner_name": "2934   CARLYLE RD",
+        "current_owner_name": "1015   VINIAL ST",
         "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 150900,
-        "market_value": 150900,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 141600,
+        "market_value": 141600,
+        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

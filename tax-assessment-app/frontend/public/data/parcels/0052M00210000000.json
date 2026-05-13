@@ -167,47 +167,89 @@
   },
   "appeals": {
     "parcel_id": "0052M00210000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-45881-2021",
-        "filed_date": null,
-        "hearing_date": "8-Sep-21",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0052M00210000000",
     "comparables": [
       {
-        "parcel_id": "0052M00225000000",
-        "address": "5267 WILKINS AVE",
+        "parcel_id": "0085M00132000000",
+        "address": "1270 BEECHWOOD BLVD",
         "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5267   WILKINS AVE",
+        "zip_code": "15206",
+        "current_owner_name": "1270   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 708700,
-        "market_value": 726700,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 834400,
+        "market_value": 852400,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085F00009000000",
+        "address": "5705 DUNMOYLE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5705   DUNMOYLE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 850100,
+        "market_value": 868100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085H00122000000",
+        "address": "150 W LYNDHURST DR",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "150  W LYNDHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 832800,
+        "market_value": 832800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085M00354000000",
+        "address": "1309 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1309   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 832000,
+        "market_value": 850000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085M00351000000",
+        "address": "1307 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1307   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 856000,
+        "market_value": 856000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085P00292000000",
+        "address": "1261 MURRAY HILL AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1261   MURRAYHILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 857000,
+        "market_value": 875000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
       }
     ]
   }

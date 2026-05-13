@@ -206,28 +206,32 @@ GLENSHAW_STREETS = [
 
 
 def fetch_appeals_for(parcel_ids: list[str]) -> dict[str, list[dict[str, Any]]]:
-    """Fetch any finished appeals for the parcels we kept (batched to keep
-    URIs under CKAN's 8 KB limit)."""
+    """Pull every WPRDC finished appeal in two big batches and filter to the
+    requested parcel IDs client-side. Much faster than 700+ small SQL
+    queries at 100K-scale."""
+    if not parcel_ids:
+        return {}
+    wanted = set(parcel_ids)
     by_parcel: dict[str, list[dict[str, Any]]] = {}
-    BATCH = 60
-    for i in range(0, len(parcel_ids), BATCH):
-        chunk = parcel_ids[i:i + BATCH]
-        quoted = ",".join(f"'{p}'" for p in chunk)
-        sql = (
-            f'SELECT * FROM "{APPEALS_RESOURCE}" '
-            f'WHERE "PARCEL ID" IN ({quoted}) '
-            f"LIMIT 5000"
-        )
+    # WPRDC currently has ~100K appeals. Pull in two passes via OFFSET to
+    # stay under the CKAN per-query result cap.
+    PAGE = 50000
+    for offset in (0, PAGE):
+        sql = f'SELECT * FROM "{APPEALS_RESOURCE}" LIMIT {PAGE} OFFSET {offset}'
         try:
             rows = query_sql(sql)
         except Exception as e:
-            print(f"  (skipping appeals batch {i // BATCH}: {e})")
+            print(f"  appeals page offset={offset}: {e}")
             continue
+        kept = 0
         for r in rows:
             pid = r.get("PARCEL ID") or r.get("PARID")
-            if not pid:
-                continue
-            by_parcel.setdefault(pid, []).append(r)
+            if pid and pid in wanted:
+                by_parcel.setdefault(pid, []).append(r)
+                kept += 1
+        print(f"  appeals page offset={offset}: scanned {len(rows)} rows, matched {kept}")
+        if len(rows) < PAGE:
+            break
     return by_parcel
 
 
@@ -455,19 +459,31 @@ def _detail_bundle(p: dict[str, Any], appeals_by_pid: dict[str, list[dict[str, A
     appeals_rows = appeals_by_pid.get(pid, [])
     appeal_list = []
     for a in appeals_rows[:5]:
-        orig = _to_int(a.get("ORIGINAL TOTAL"))
-        final = _to_int(a.get("HEARING TOTAL")) or _to_int(a.get("RESULT TOTAL")) or orig
+        orig = _to_int(a.get("PRE APPEAL TOTAL"))
+        final = _to_int(a.get("POST APPEAL TOTAL")) or orig
+        status_raw = (a.get("STATUS") or a.get("HEARING_STATUS") or "completed").lower()
+        # Normalize WPRDC's status to the enum the frontend understands.
+        if "approv" in status_raw or final < orig:
+            status = "approved"
+        elif "den" in status_raw:
+            status = "denied"
+        elif "withdr" in status_raw:
+            status = "withdrawn"
+        elif "schedul" in status_raw:
+            status = "scheduled"
+        else:
+            status = "filed"
         appeal_list.append({
             "appeal_id": f"WPRDC-{a.get('_id', pid)}-{a.get('TAX YEAR', '')}",
-            "filed_date": a.get("FILE DATE"),
+            "filed_date": a.get("HEARING DATE") or a.get("AS OF DATE"),
             "hearing_date": a.get("HEARING DATE"),
-            "appeal_status": (a.get("STATUS") or a.get("DISPOSITION") or "completed").lower(),
+            "appeal_status": status,
             "original_value": orig,
-            "requested_value": _to_int(a.get("OWNER ASKING")) or orig,
+            "requested_value": orig,
             "final_value": final,
             "value_reduction": max(0, orig - final),
             "reduction_percentage": round(((orig - final) / orig) * 100, 2) if orig else 0,
-            "resolution_notes": a.get("HEARING TYPE") or a.get("DISPOSITION"),
+            "resolution_notes": a.get("HEARING_TYPE") or a.get("LAST UPDATE REASON"),
         })
 
     appeals_summary: dict[str, Any] = {}
@@ -552,13 +568,18 @@ def write_snapshot(parcels: list[dict[str, Any]], details: dict[str, dict[str, A
 
     (OUTPUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2))
 
-    # Strip _wprdc (kept in detail bundles only) and post_office_city
-    # (frontend never reads it) from the list endpoint to keep
-    # parcels.json under control at 100K-scale.
-    DROP = {"_wprdc", "post_office_city"}
-    list_view = [{k: v for k, v in p.items() if k not in DROP} for p in parcels]
+    # Column-oriented compact format — ~65% smaller than the indented
+    # object-per-row format at 300K-parcel scale (40MB vs 130MB).
+    # Frontend in src/api/queries.ts materializes rows back into objects.
+    LIST_COLS = [
+        "parcel_id", "address", "city", "zip_code", "current_owner_name",
+        "land_use_description", "tax_year", "assessed_value", "market_value",
+        "total_exemption_amount", "assessed_value_change_pct",
+        "latitude", "longitude",
+    ]
+    rows = [[p.get(c) for c in LIST_COLS] for p in parcels]
     (OUTPUT_DIR / "parcels.json").write_text(
-        json.dumps({"count": len(list_view), "results": list_view}, indent=2)
+        json.dumps({"count": len(rows), "columns": LIST_COLS, "rows": rows}, separators=(",", ":"))
     )
 
     for pid, detail in details.items():

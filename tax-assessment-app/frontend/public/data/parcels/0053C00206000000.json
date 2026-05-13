@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0053C00206000000",
+    "address": "5147 FORBES AVE",
+    "city": "11401",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "2012   BERKLEY RIDGE DR",
+    "current_mailing_address": "2012   BERKLEY RIDGE DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.103,
+    "latitude": 40.43236,
+    "longitude": -79.95208
+  },
+  "assessments": {
+    "parcel_id": "0053C00206000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 245000,
+        "market_value": 245000,
+        "land_value": 70600,
+        "improvement_value": 174400,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3877,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 245000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 241123,
+        "market_value": 241123,
+        "land_value": 69482,
+        "improvement_value": 171641,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2436,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 241123,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 243559,
+        "market_value": 243559,
+        "land_value": 70184,
+        "improvement_value": 173375,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11598,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 243559,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 231961,
+        "market_value": 231961,
+        "land_value": 66842,
+        "improvement_value": 165119,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8921,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 231961,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 223040,
+        "market_value": 223040,
+        "land_value": 64271,
+        "improvement_value": 158769,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6496,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 223040,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 216544,
+        "market_value": 216544,
+        "land_value": 62400,
+        "improvement_value": 154144,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 216544,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0053C00206000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0053C00206000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "23-Jun-17",
+      "most_recent_appeal_date": "23-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15880-2017",
+        "filed_date": "23-Jun-17",
+        "hearing_date": "23-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 157500,
+        "requested_value": 157500,
+        "final_value": 261300,
+        "value_reduction": 0,
+        "reduction_percentage": -65.9,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0053C00206000000",
+    "comparables": [
+      {
+        "parcel_id": "0085K00013000000",
+        "address": "5611 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "110  W LYNDHURST DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 245000,
+        "market_value": 245000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085K00018000000",
+        "address": "5612 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "414   DALLAS AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 245000,
+        "market_value": 245000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085P00175000000",
+        "address": "5607 WILKINS AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "414   DALLAS AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 245000,
+        "market_value": 245000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085N00241000000",
+        "address": "5514 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5514   FAIR OAKS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 244700,
+        "market_value": 262700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0052M00014000000",
+        "address": "5305 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1307   BENNINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 245500,
+        "market_value": 245500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086H00244000000",
+        "address": "6425 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1523   ASHBURY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 244300,
+        "market_value": 244300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

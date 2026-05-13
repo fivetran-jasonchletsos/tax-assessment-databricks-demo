@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0085J00215000000",
+    "address": "DUNMOYLE ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5420   DUNMOYLE ST",
+    "current_mailing_address": "5420   DUNMOYLE ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.091,
+    "latitude": 40.4206,
+    "longitude": -79.91126
+  },
+  "assessments": {
+    "parcel_id": "0085J00215000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 39800,
+        "market_value": 39800,
+        "land_value": 39800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 982,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 38818,
+        "market_value": 38818,
+        "land_value": 38818,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1493,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38818,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 37325,
+        "market_value": 37325,
+        "land_value": 37325,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1087,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37325,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 36238,
+        "market_value": 36238,
+        "land_value": 36238,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 710,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36238,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 35528,
+        "market_value": 35528,
+        "land_value": 35528,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 351,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35528,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35177,
+        "market_value": 35177,
+        "land_value": 35177,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35177,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0085J00215000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0085J00215000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jul-19",
+      "most_recent_appeal_date": "9-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30038-2019",
+        "filed_date": "9-Jul-19",
+        "hearing_date": "9-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 39800,
+        "requested_value": 39800,
+        "final_value": 39800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0085J00215000000",
+    "comparables": [
+      {
+        "parcel_id": "0085K00234000000",
+        "address": "1167 MURRAY HILL AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1167   MURRAY HILL AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 40300,
+        "market_value": 40300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085J00230000000",
+        "address": "5427 WILKINS AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5427   WILKINS AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40800,
+        "market_value": 40800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086M00141000000",
+        "address": "5875 SHADY FORBES  TER",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5875   SHADY FORBES TER",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 43200,
+        "market_value": 61200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086K00163000000",
+        "address": "5625 DARLINGTON RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5625   DARLINGTON RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 36000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0085F00140000000",
+        "address": "1035 MURRAY HILL AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1035   MURRAY HILL AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 45500,
+        "market_value": 45500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085F00015000000",
+        "address": "1043 S NEGLEY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1043  S NEGLEY AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 30800,
+        "market_value": 30800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

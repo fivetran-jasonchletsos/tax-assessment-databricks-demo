@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084R00340001100",
+    "address": "605 SHADY AVE",
+    "city": "Shade East",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "111   NORTHGATE DR",
+    "current_mailing_address": "111   NORTHGATE DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.46306,
+    "longitude": -79.9222
+  },
+  "assessments": {
+    "parcel_id": "0084R00340001100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 124800,
+        "market_value": 124800,
+        "land_value": 0,
+        "improvement_value": 124800,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1747,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 126547,
+        "market_value": 126547,
+        "land_value": 0,
+        "improvement_value": 126547,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6026,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126547,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 120521,
+        "market_value": 120521,
+        "land_value": 0,
+        "improvement_value": 120521,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4635,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120521,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 115886,
+        "market_value": 115886,
+        "land_value": 0,
+        "improvement_value": 115886,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3375,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115886,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 112511,
+        "market_value": 112511,
+        "land_value": 0,
+        "improvement_value": 112511,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2206,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112511,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 110305,
+        "market_value": 110305,
+        "land_value": 0,
+        "improvement_value": 110305,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110305,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084R00340001100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084R00340001100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jun-15",
+      "most_recent_appeal_date": "8-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2066-2015",
+        "filed_date": "8-Jun-15",
+        "hearing_date": "8-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 124800,
+        "requested_value": 124800,
+        "final_value": 124800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084R00340001100",
+    "comparables": [
+      {
+        "parcel_id": "0084R00340001400",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "217   LYNN HAVEN DR",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 120400,
+        "market_value": 120400,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084R00340004400",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "605   SHADY AVE  UNIT 4D",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 112900,
+        "market_value": 130900,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084R00340003500",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "605   SHADY AVE  UNIT C-5",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 138800,
+        "market_value": 156800,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084R00340001500",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "605   SHADY AVE  APT 5A",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 141100,
+        "market_value": 141100,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084R00340002400",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "10   CARMEL CT",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 104600,
+        "market_value": 122600,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084R00340002500",
+        "address": "605 SHADY AVE",
+        "city": "Shade East",
+        "zip_code": "15206",
+        "current_owner_name": "2288   CLEARVUE RD",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 145200,
+        "market_value": 145200,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

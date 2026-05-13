@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0082A00220000000",
+    "address": "1414 JANCEY ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1414   JANCEY ST",
+    "current_mailing_address": "1414   JANCEY ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.064,
+    "latitude": 40.48418,
+    "longitude": -79.91572
+  },
+  "assessments": {
+    "parcel_id": "0082A00220000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 147000,
+        "market_value": 165000,
+        "land_value": 27300,
+        "improvement_value": 119700,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": 14490,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 129000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 132510,
+        "market_value": 148735,
+        "land_value": 24609,
+        "improvement_value": 107901,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": 2598,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 114510,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 129912,
+        "market_value": 145819,
+        "land_value": 24126,
+        "improvement_value": 105786,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": 1286,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 111912,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 128626,
+        "market_value": 144376,
+        "land_value": 23887,
+        "improvement_value": 104739,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 110626,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 128626,
+        "market_value": 144376,
+        "land_value": 23887,
+        "improvement_value": 104739,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": -1300,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 110626,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 129926,
+        "market_value": 145835,
+        "land_value": 24129,
+        "improvement_value": 105797,
+        "land_value_percentage": 18.6,
+        "improvement_value_percentage": 81.4,
+        "market_to_assessed_ratio": 1.12,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 111926,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082A00220000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0082A00220000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jun-15",
+      "most_recent_appeal_date": "15-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1865-2015",
+        "filed_date": "15-Jun-15",
+        "hearing_date": "15-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 74400,
+        "requested_value": 74400,
+        "final_value": 165000,
+        "value_reduction": 0,
+        "reduction_percentage": -121.77,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082A00220000000",
+    "comparables": [
+      {
+        "parcel_id": "0119S00033000A00",
+        "address": "5400 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1817   FALLOWFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147000,
+        "market_value": 165000,
+        "assessed_value_change_pct": 1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082J00055000000",
+        "address": "1009 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1009   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146800,
+        "market_value": 164800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082K00029000000",
+        "address": "917 HETHS AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1001  N NEGLEY AVE",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 147500,
+        "market_value": 147500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082J00207000000",
+        "address": "1001 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1001   CHISLETT ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 147900,
+        "market_value": 165900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082A00144000000",
+        "address": "1418 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1418   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146000,
+        "market_value": 164000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082E00219000000",
+        "address": "1139 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1139   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148000,
+        "market_value": 166000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

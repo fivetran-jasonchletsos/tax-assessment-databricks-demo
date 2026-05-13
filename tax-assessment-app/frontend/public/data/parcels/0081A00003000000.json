@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0081A00003000000",
+    "address": "5405 KENT WAY",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5688   BUTLER ST",
+    "current_mailing_address": "5688   BUTLER ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.071,
+    "latitude": 40.48684,
+    "longitude": -79.95628
+  },
+  "assessments": {
+    "parcel_id": "0081A00003000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35800,
+        "market_value": 35800,
+        "land_value": 19900,
+        "improvement_value": 15900,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1595,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34205,
+        "market_value": 34205,
+        "land_value": 19013,
+        "improvement_value": 15192,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34205,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34205,
+        "market_value": 34205,
+        "land_value": 19013,
+        "improvement_value": 15192,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -346,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34205,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 34551,
+        "market_value": 34551,
+        "land_value": 19205,
+        "improvement_value": 15346,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1645,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34551,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32906,
+        "market_value": 32906,
+        "land_value": 18291,
+        "improvement_value": 14615,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1265,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32906,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31641,
+        "market_value": 31641,
+        "land_value": 17588,
+        "improvement_value": 14053,
+        "land_value_percentage": 55.6,
+        "improvement_value_percentage": 44.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31641,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081A00003000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0081A00003000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0081A00003000000",
+    "comparables": [
+      {
+        "parcel_id": "0121F00115000000",
+        "address": "BAKER ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35800,
+        "market_value": 35800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121K00066000000",
+        "address": "1732 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1732   MORNINGSIDE AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35800,
+        "market_value": 53800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081A00034000000",
+        "address": "5313 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5101   KEYSTONE ST  UNIT 3",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35900,
+        "market_value": 35900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082K00003000000",
+        "address": "HAMPTON ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1118   CHISLETT ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35700,
+        "market_value": 35700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121H00015000000",
+        "address": "7370 BAKER ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35900,
+        "market_value": 35900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121K00019000000",
+        "address": "1807 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "202   SEAVEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35900,
+        "market_value": 35900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

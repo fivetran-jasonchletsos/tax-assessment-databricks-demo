@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0086C00076000000",
+    "address": "1522 MURRAY AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "8001   OXFORD CT",
+    "current_mailing_address": "8001   OXFORD CT",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.126,
+    "latitude": 40.42048,
+    "longitude": -79.90922
+  },
+  "assessments": {
+    "parcel_id": "0086C00076000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 508700,
+        "market_value": 508700,
+        "land_value": 107700,
+        "improvement_value": 401000,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 31611,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 508700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 477089,
+        "market_value": 477089,
+        "land_value": 101007,
+        "improvement_value": 376082,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13895,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 477089,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 463194,
+        "market_value": 463194,
+        "land_value": 98065,
+        "improvement_value": 365129,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9082,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 463194,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 454112,
+        "market_value": 454112,
+        "land_value": 96142,
+        "improvement_value": 357970,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4496,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 454112,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 449616,
+        "market_value": 449616,
+        "land_value": 95190,
+        "improvement_value": 354426,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 449616,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 449616,
+        "market_value": 449616,
+        "land_value": 95190,
+        "improvement_value": 354426,
+        "land_value_percentage": 21.2,
+        "improvement_value_percentage": 78.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 449616,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086C00076000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086C00076000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Aug-19",
+      "most_recent_appeal_date": "13-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30062-2019",
+        "filed_date": "13-Aug-19",
+        "hearing_date": "13-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 335000,
+        "requested_value": 335000,
+        "final_value": 502600,
+        "value_reduction": 0,
+        "reduction_percentage": -50.03,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0086C00076000000",
+    "comparables": [
+      {
+        "parcel_id": "0053H00279000000",
+        "address": "412 SCHENLEY RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "310   GRANT ST  STE 3700",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 508500,
+        "market_value": 508500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086E00024000000",
+        "address": "1441 SQUIRREL HILL AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1441   SQUIRREL HILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 508500,
+        "market_value": 526500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052S00230000000",
+        "address": "1207 MALVERN AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1207   MALVERN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 509100,
+        "market_value": 527100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0053H00076000000",
+        "address": "5424 ALBEMARLE AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5424   ALBEMARLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 509100,
+        "market_value": 527100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086F00076000000",
+        "address": "1531 SCOTT LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1531   SCOTT LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 508100,
+        "market_value": 526100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085J00075000000",
+        "address": "1121 WIGHTMAN ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5881   ELLSWORTH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 508000,
+        "market_value": 508000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

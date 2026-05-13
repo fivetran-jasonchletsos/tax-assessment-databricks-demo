@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0225L00100000000",
+    "address": "18 EDGEWOOD RD",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "18   EDGEWOOD RD",
+    "current_mailing_address": "18   EDGEWOOD RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 4.0,
+    "latitude": 40.49352,
+    "longitude": -79.91308
+  },
+  "assessments": {
+    "parcel_id": "0225L00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1277800,
+        "market_value": 1277800,
+        "land_value": 200000,
+        "improvement_value": 1077800,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 125940,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1277800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1151860,
+        "market_value": 1151860,
+        "land_value": 180287,
+        "improvement_value": 971573,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22585,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1151860,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1129275,
+        "market_value": 1129275,
+        "land_value": 176753,
+        "improvement_value": 952522,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11180,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1129275,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1118095,
+        "market_value": 1118095,
+        "land_value": 175003,
+        "improvement_value": 943092,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1118095,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1118095,
+        "market_value": 1118095,
+        "land_value": 175003,
+        "improvement_value": 943092,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -11294,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1118095,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1129389,
+        "market_value": 1129389,
+        "land_value": 176770,
+        "improvement_value": 952619,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1129389,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0225L00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0225L00100000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jul-19",
+      "most_recent_appeal_date": "19-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-10254-2016",
+        "filed_date": "19-May-16",
+        "hearing_date": "19-May-16",
+        "appeal_status": "approved",
+        "original_value": 990380,
+        "requested_value": 990380,
+        "final_value": 990380,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-31545-2019",
+        "filed_date": "16-Jul-19",
+        "hearing_date": "16-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 931700,
+        "requested_value": 931700,
+        "final_value": 1277800,
+        "value_reduction": 0,
+        "reduction_percentage": -37.15,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0225L00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0170G00210000000",
+        "address": "1 EDGEWOOD RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "1   EDGEWOOD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1274200,
+        "market_value": 1274200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0225R00260000000",
+        "address": "24 EDGEWOOD RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "115   ETON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1290000,
+        "market_value": 1290000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0225P00110000000",
+        "address": "215 GRANDVIEW DR N",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "215   GRANDVIEW DR N",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1257000,
+        "market_value": 1275000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0170D00150000000",
+        "address": "8 MEADOWOOD LN",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "8   MEADOWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1255400,
+        "market_value": 1255400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0170F00150000000",
+        "address": "1005 W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "1005  W WALDHEIM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1228200,
+        "market_value": 1246200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0225N00118000000",
+        "address": "212 GUYASUTA RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "212   GUYASUTA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1347000,
+        "market_value": 1365000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

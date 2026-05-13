@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0081C00053000000",
+    "address": "4510 STANTON AVE",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "4512   STANTON AVE",
+    "current_mailing_address": "4512   STANTON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.076,
+    "latitude": 40.46368,
+    "longitude": -79.94968
+  },
+  "assessments": {
+    "parcel_id": "0081C00053000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 105300,
+        "market_value": 105300,
+        "land_value": 19100,
+        "improvement_value": 86200,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4687,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 100613,
+        "market_value": 100613,
+        "land_value": 18249,
+        "improvement_value": 82364,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100613,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 100613,
+        "market_value": 100613,
+        "land_value": 18249,
+        "improvement_value": 82364,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1017,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100613,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 101630,
+        "market_value": 101630,
+        "land_value": 18434,
+        "improvement_value": 83196,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4839,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101630,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 96791,
+        "market_value": 96791,
+        "land_value": 17556,
+        "improvement_value": 79235,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3722,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96791,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 93069,
+        "market_value": 93069,
+        "land_value": 16881,
+        "improvement_value": 76188,
+        "land_value_percentage": 18.1,
+        "improvement_value_percentage": 81.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93069,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081C00053000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0081C00053000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0081C00053000000",
+    "comparables": [
+      {
+        "parcel_id": "0081C00246000000",
+        "address": "1145 MCCABE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1145   MCCABE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105200,
+        "market_value": 105200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081D00039000000",
+        "address": "4820 COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4820   COLERIDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105400,
+        "market_value": 105400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081D00077000000",
+        "address": "4729 COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4729   COLERIDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105400,
+        "market_value": 123400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0081G00137000000",
+        "address": "1038 MCCABE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1038   MCCABE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105000,
+        "market_value": 123000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081G00040000000",
+        "address": "1151 BRINTELL ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "123   BROADCREST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081M00332000000",
+        "address": "231 SCHENLEY MANOR DR",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "231   SCHENLEY MANOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 122900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

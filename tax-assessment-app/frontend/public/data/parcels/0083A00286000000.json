@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0083A00286000000",
+    "address": "5402 BLACK ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "714  N AIKEN AVE",
+    "current_mailing_address": "714  N AIKEN AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.058,
+    "latitude": 40.46174,
+    "longitude": -79.90156
+  },
+  "assessments": {
+    "parcel_id": "0083A00286000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 40800,
+        "market_value": 40800,
+        "land_value": 33900,
+        "improvement_value": 6900,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2941,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37859,
+        "market_value": 37859,
+        "land_value": 31456,
+        "improvement_value": 6403,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 374,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37859,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 37485,
+        "market_value": 37485,
+        "land_value": 31145,
+        "improvement_value": 6340,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37485,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37485,
+        "market_value": 37485,
+        "land_value": 31145,
+        "improvement_value": 6340,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -379,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37485,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37864,
+        "market_value": 37864,
+        "land_value": 31460,
+        "improvement_value": 6404,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1803,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37864,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36061,
+        "market_value": 36061,
+        "land_value": 29962,
+        "improvement_value": 6099,
+        "land_value_percentage": 83.1,
+        "improvement_value_percentage": 16.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36061,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083A00286000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083A00286000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jul-15",
+      "most_recent_appeal_date": "13-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1937-2015",
+        "filed_date": "13-Jul-15",
+        "hearing_date": "13-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 40800,
+        "requested_value": 40800,
+        "final_value": 40800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083A00286000000",
+    "comparables": [
+      {
+        "parcel_id": "0050M00213000000",
+        "address": "310 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "4345   DAKOTA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40800,
+        "market_value": 40800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083E00018000000",
+        "address": "5437 COLUMBO ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5437   COLUMBO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40800,
+        "market_value": 58800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050M00144000000",
+        "address": "5407 BROAD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5407   BROAD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40900,
+        "market_value": 58900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050M00165000000",
+        "address": "5402 KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5402   KINCAID ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083D00196000000",
+        "address": "821 N SHERIDAN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "821 N  SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40900,
+        "market_value": 58900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050H00076000000",
+        "address": "412 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "412  N GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41000,
+        "market_value": 59000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

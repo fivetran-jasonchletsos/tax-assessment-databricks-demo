@@ -167,35 +167,25 @@
   },
   "appeals": {
     "parcel_id": "0433S00016000000",
-    "summary": {
-      "total_appeals": 1,
-      "approved_count": 0,
-      "denied_count": 1,
-      "success_rate_pct": 0.0,
-      "avg_value_reduction": 0,
-      "total_value_reduction": 0,
-      "first_appeal_date": "",
-      "most_recent_appeal_date": "",
-      "latest_appeal_status": "full bd approve"
-    },
-    "appeals": [
-      {
-        "appeal_id": "WPRDC-41576-2020",
-        "filed_date": null,
-        "hearing_date": "3-Aug-20",
-        "appeal_status": "full bd approve",
-        "original_value": 0,
-        "requested_value": 0,
-        "final_value": 0,
-        "value_reduction": 0,
-        "reduction_percentage": 0,
-        "resolution_notes": null
-      }
-    ]
+    "summary": {},
+    "appeals": []
   },
   "comparables": {
     "parcel_id": "0433S00016000000",
     "comparables": [
+      {
+        "parcel_id": "0435J00027000000",
+        "address": "314 HOLLY RIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "314   HOLLY RIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 298600,
+        "market_value": 316600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
       {
         "parcel_id": "0519H00191000000",
         "address": "2920 ANGELINE DR",
@@ -207,71 +197,58 @@
         "assessed_value": 298600,
         "market_value": 316600,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0434K00004000000",
-        "address": "1654 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 266",
-        "land_use_description": "WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 293600,
-        "market_value": 293600,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.3
       },
       {
-        "parcel_id": "0520G00198000000",
-        "address": "3201 MOUNT ROYAL BLVD",
+        "parcel_id": "0355C00056000000",
+        "address": "1001 GLENSHAW AVE",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "3201   MOUNT ROYAL BLVD",
+        "current_owner_name": "1001   GLENSHAW AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 287000,
-        "market_value": 305000,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 299500,
+        "market_value": 317500,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0519H00193000000",
-        "address": "2918 ANGELINE DR",
+        "parcel_id": "0356L00127000000",
+        "address": "201 RIDGEVIEW CIR",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "2918   ANGELINE DR",
+        "current_owner_name": "201   RIDGEVIEW CIR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 280000,
-        "market_value": 280000,
+        "assessed_value": 299700,
+        "market_value": 317700,
         "assessed_value_change_pct": -1.5,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0615L00075000000",
-        "address": "3725 MOUNT ROYAL BLVD",
+        "parcel_id": "0434L00211000000",
+        "address": "910 SPENCER RIDGE DR",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "3725   MOUNT ROYAL BLVD",
+        "current_owner_name": "910   SPENCER RIDGE DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 279400,
-        "market_value": 297400,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 296000,
+        "market_value": 314000,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0519H00187000000",
-        "address": "2908 ANGELINE DR",
+        "parcel_id": "0520E00142000000",
+        "address": "134 RICHARD DR",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "2908   ANGELINE DR",
+        "current_owner_name": "134   RICHARD DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 318500,
-        "market_value": 336500,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 295700,
+        "market_value": 313700,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

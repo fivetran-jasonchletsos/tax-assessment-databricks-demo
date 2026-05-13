@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0052J00200000A00",
+    "address": "4633 WINTHROP ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "7072   BENNINGTON WOODS DR",
+    "current_mailing_address": "7072   BENNINGTON WOODS DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.027,
+    "latitude": 40.4344,
+    "longitude": -79.951
+  },
+  "assessments": {
+    "parcel_id": "0052J00200000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "land_value": 27700,
+        "improvement_value": 132300,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15771,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 144229,
+        "market_value": 144229,
+        "land_value": 24969,
+        "improvement_value": 119260,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2828,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144229,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 141401,
+        "market_value": 141401,
+        "land_value": 24480,
+        "improvement_value": 116921,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1400,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141401,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 140001,
+        "market_value": 140001,
+        "land_value": 24237,
+        "improvement_value": 115764,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140001,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 140001,
+        "market_value": 140001,
+        "land_value": 24237,
+        "improvement_value": 115764,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1415,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140001,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 141416,
+        "market_value": 141416,
+        "land_value": 24482,
+        "improvement_value": 116934,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141416,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052J00200000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052J00200000A00",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-May-17",
+      "most_recent_appeal_date": "5-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1377-2015",
+        "filed_date": "5-Jun-15",
+        "hearing_date": "5-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 57500,
+        "requested_value": 57500,
+        "final_value": 128000,
+        "value_reduction": 0,
+        "reduction_percentage": -122.61,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-15874-2017",
+        "filed_date": "17-May-17",
+        "hearing_date": "17-May-17",
+        "appeal_status": "approved",
+        "original_value": 203200,
+        "requested_value": 203200,
+        "final_value": 203200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052J00200000A00",
+    "comparables": [
+      {
+        "parcel_id": "0028M00267000000",
+        "address": "3720 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "279   REBECCA AVE",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028N00101000000",
+        "address": "208 OPHELIA ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "208   OPHELIA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0029D00005000000",
+        "address": "3312 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3312   DAWSON ST  UNIT 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0029H00060000000",
+        "address": "3756 ORPWOOD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3756   ORPWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159700,
+        "market_value": 177700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028M00122000000",
+        "address": "3610 DAWSON ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "1691   WASHINGTON RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 160400,
+        "market_value": 160400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028M00148000000",
+        "address": "3447 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3447   PARKVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160600,
+        "market_value": 178600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

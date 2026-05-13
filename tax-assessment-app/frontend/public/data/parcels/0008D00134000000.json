@@ -174,6 +174,19 @@
     "parcel_id": "0008D00134000000",
     "comparables": [
       {
+        "parcel_id": "0023M00283000000",
+        "address": "915 MIDDLE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "365   EASTWOOD RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 107100,
+        "market_value": 107100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0008D00179000000",
         "address": "420 LOCKHART ST",
         "city": "Ward 23 - East Allegheny",
@@ -184,7 +197,20 @@
         "assessed_value": 107400,
         "market_value": 125400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023M00199000500",
+        "address": "415 E NORTH AVE",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "415  E NORTH AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 107000,
+        "market_value": 125000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0008D00180000100",
@@ -197,58 +223,32 @@
         "assessed_value": 107900,
         "market_value": 125900,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0008D00190000200",
-        "address": "502 CEDAR AVE",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "502   CEDAR AVE",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 109300,
-        "market_value": 127300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0008D00180000900",
-        "address": "417 AVERY ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "417   AVERY ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 109500,
-        "market_value": 127500,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0008D00180001400",
-        "address": "427 AVERY ST",
+        "parcel_id": "0024K00355000000",
+        "address": "1025 VINIAL ST",
         "city": "Ward 23 - East Allegheny",
         "zip_code": "15212",
-        "current_owner_name": "427   AVERY ST",
-        "land_use_description": "TOWNHOUSE",
+        "current_owner_name": "1025   VINIAL ST",
+        "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 109500,
-        "market_value": 127500,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 106300,
+        "market_value": 106300,
+        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0008D00180001700",
-        "address": "415 AVERY ST",
+        "parcel_id": "0023M00109000A00",
+        "address": "516 E NORTH AVE",
         "city": "Ward 23 - East Allegheny",
         "zip_code": "15212",
-        "current_owner_name": "415   AVERY ST",
-        "land_use_description": "TOWNHOUSE",
+        "current_owner_name": "516  E NORTH AVE",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 109500,
-        "market_value": 127500,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 108400,
+        "market_value": 108400,
+        "assessed_value_change_pct": 0.3,
         "distance_miles": 1.1
       }
     ]

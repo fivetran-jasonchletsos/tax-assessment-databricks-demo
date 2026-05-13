@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0027H00144011300",
+    "address": "166 N DITHRIDGE ST",
+    "city": "Hampton Hall",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "166  N DITHRIDGE ST  UNIT 3-K",
+    "current_mailing_address": "166  N DITHRIDGE ST  UNIT 3-K",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.4338,
+    "longitude": -79.96324
+  },
+  "assessments": {
+    "parcel_id": "0027H00144011300",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 210000,
+        "market_value": 210000,
+        "land_value": 0,
+        "improvement_value": 210000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5172,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 210000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 204828,
+        "market_value": 204828,
+        "land_value": 0,
+        "improvement_value": 204828,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7878,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 204828,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 196950,
+        "market_value": 196950,
+        "land_value": 0,
+        "improvement_value": 196950,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5736,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196950,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 191214,
+        "market_value": 191214,
+        "land_value": 0,
+        "improvement_value": 191214,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3749,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 191214,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 187465,
+        "market_value": 187465,
+        "land_value": 0,
+        "improvement_value": 187465,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1856,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 187465,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 185609,
+        "market_value": 185609,
+        "land_value": 0,
+        "improvement_value": 185609,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 185609,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0027H00144011300",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0027H00144011300",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "2-May-16",
+      "most_recent_appeal_date": "2-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8240-2016",
+        "filed_date": "2-May-16",
+        "hearing_date": "2-May-16",
+        "appeal_status": "approved",
+        "original_value": 210000,
+        "requested_value": 210000,
+        "final_value": 210000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0027H00144011300",
+    "comparables": [
+      {
+        "parcel_id": "0027H00144051100",
+        "address": "166 N DITHRIDGE ST",
+        "city": "Hampton Hall",
+        "zip_code": "15213",
+        "current_owner_name": "166  N DITHRIDGE ST  UNIT 5-K",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 198200,
+        "market_value": 216200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045B00229000000",
+    "address": "2703 BRIGHTON RD",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2703   BRIGHTON RD",
+    "current_mailing_address": "2703   BRIGHTON RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.091,
+    "latitude": 40.41716,
+    "longitude": -80.06612
+  },
+  "assessments": {
+    "parcel_id": "0045B00229000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 55100,
+        "market_value": 55100,
+        "land_value": 18000,
+        "improvement_value": 37100,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1358,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 53742,
+        "market_value": 53742,
+        "land_value": 17556,
+        "improvement_value": 36186,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2067,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53742,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 51675,
+        "market_value": 51675,
+        "land_value": 16881,
+        "improvement_value": 34794,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1505,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51675,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 50170,
+        "market_value": 50170,
+        "land_value": 16389,
+        "improvement_value": 33781,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 983,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50170,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 49187,
+        "market_value": 49187,
+        "land_value": 16068,
+        "improvement_value": 33119,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 487,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49187,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 48700,
+        "market_value": 48700,
+        "land_value": 15909,
+        "improvement_value": 32791,
+        "land_value_percentage": 32.7,
+        "improvement_value_percentage": 67.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48700,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045B00229000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045B00229000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 32300,
+      "total_value_reduction": 32300,
+      "first_appeal_date": "18-Jun-19",
+      "most_recent_appeal_date": "18-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22717-2018",
+        "filed_date": "18-Jun-19",
+        "hearing_date": "18-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 54200,
+        "requested_value": 54200,
+        "final_value": 21900,
+        "value_reduction": 32300,
+        "reduction_percentage": 59.59,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045B00229000000",
+    "comparables": [
+      {
+        "parcel_id": "0075H00269000000",
+        "address": "3424 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3424   SHADELAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55100,
+        "market_value": 73100,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0044D00003000000",
+        "address": "1343 OAKHILL ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1343   OAKHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55000,
+        "market_value": 55000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045K00140000000",
+        "address": "1178 NEW HAMPSHIRE DR",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1178   NEW HAMPSHIRE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55200,
+        "market_value": 73200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075C00290000000",
+        "address": "3544 FLEMING AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 972",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 55200,
+        "market_value": 55200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075D00062000000",
+        "address": "3555 MCCLURE AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3557   MCCLURE AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 55000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075G00216000000",
+        "address": "3529 FLEMING AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "166 1/2  38TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0027H00074P00200",
+    "address": "146 N BELLEFIELD AVE",
+    "city": "Bellefield",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1201   WASHINGTON BLVD",
+    "current_mailing_address": "1201   WASHINGTON BLVD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM",
+    "acreage": null,
+    "latitude": 40.43752,
+    "longitude": -79.9474
+  },
+  "assessments": {
+    "parcel_id": "0027H00074P00200",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1048800,
+        "market_value": 1048800,
+        "land_value": 0,
+        "improvement_value": 1048800,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 46655,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1048800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1002145,
+        "market_value": 1002145,
+        "land_value": 0,
+        "improvement_value": 1002145,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1002145,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1002145,
+        "market_value": 1002145,
+        "land_value": 0,
+        "improvement_value": 1002145,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -10123,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1002145,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1012268,
+        "market_value": 1012268,
+        "land_value": 0,
+        "improvement_value": 1012268,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48203,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1012268,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 964065,
+        "market_value": 964065,
+        "land_value": 0,
+        "improvement_value": 964065,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 37079,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 964065,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 926986,
+        "market_value": 926986,
+        "land_value": 0,
+        "improvement_value": 926986,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 926986,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0027H00074P00200",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0027H00074P00200",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-Sep-19",
+      "most_recent_appeal_date": "27-Sep-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29237-2019",
+        "filed_date": "27-Sep-19",
+        "hearing_date": "27-Sep-19",
+        "appeal_status": "approved",
+        "original_value": 436700,
+        "requested_value": 436700,
+        "final_value": 1048800,
+        "value_reduction": 0,
+        "reduction_percentage": -140.16,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0027H00074P00200",
+    "comparables": [
+      {
+        "parcel_id": "0027H00074050100",
+        "address": "146 N BELLEFIELD AVE",
+        "city": "Bellefield",
+        "zip_code": "15213",
+        "current_owner_name": "146  N BELLEFIELD AVE  UNIT 501",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 828500,
+        "market_value": 846500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

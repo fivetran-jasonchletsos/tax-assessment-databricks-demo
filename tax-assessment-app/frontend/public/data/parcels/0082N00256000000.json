@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0082N00256000000",
+    "address": "749 CHISLETT ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "170   FOREST DR",
+    "current_mailing_address": "170   FOREST DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.11,
+    "latitude": 40.46282,
+    "longitude": -79.92148
+  },
+  "assessments": {
+    "parcel_id": "0082N00256000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 130000,
+        "market_value": 130000,
+        "land_value": 44100,
+        "improvement_value": 85900,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8078,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 121922,
+        "market_value": 121922,
+        "land_value": 41359,
+        "improvement_value": 80563,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3551,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121922,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 118371,
+        "market_value": 118371,
+        "land_value": 40155,
+        "improvement_value": 78216,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2321,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 118371,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 116050,
+        "market_value": 116050,
+        "land_value": 39367,
+        "improvement_value": 76683,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1149,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116050,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 114901,
+        "market_value": 114901,
+        "land_value": 38977,
+        "improvement_value": 75924,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114901,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 114901,
+        "market_value": 114901,
+        "land_value": 38977,
+        "improvement_value": 75924,
+        "land_value_percentage": 33.9,
+        "improvement_value_percentage": 66.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114901,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082N00256000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082N00256000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-May-17",
+      "most_recent_appeal_date": "17-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16240-2017",
+        "filed_date": "17-May-17",
+        "hearing_date": "17-May-17",
+        "appeal_status": "approved",
+        "original_value": 185300,
+        "requested_value": 185300,
+        "final_value": 185300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0082N00256000000",
+    "comparables": [
+      {
+        "parcel_id": "0083B00027000000",
+        "address": "5518 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5905   ELGIN ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 130000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082N00193000000",
+        "address": "5451 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5451   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129900,
+        "market_value": 147900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083A00142000000",
+        "address": "5510 BAYWOOD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "107   BELMONT RD",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 129900,
+        "market_value": 129900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083B00008000000",
+        "address": "5527 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5527   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129700,
+        "market_value": 147700,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082N00187000000",
+        "address": "5439 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5439   STANTON AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 130400,
+        "market_value": 148400,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083F00261000000",
+        "address": "707 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "707  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130400,
+        "market_value": 148400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

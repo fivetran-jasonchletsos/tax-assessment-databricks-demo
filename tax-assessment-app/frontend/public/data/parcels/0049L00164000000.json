@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0049L00164000000",
+    "address": "4230 POST ST",
+    "city": "10902",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "4230   POST ST",
+    "current_mailing_address": "4230   POST ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.035,
+    "latitude": 40.4656,
+    "longitude": -79.96264
+  },
+  "assessments": {
+    "parcel_id": "0049L00164000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 130900,
+        "market_value": 130900,
+        "land_value": 16100,
+        "improvement_value": 114800,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12903,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 117997,
+        "market_value": 117997,
+        "land_value": 14513,
+        "improvement_value": 103484,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2313,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 117997,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 115684,
+        "market_value": 115684,
+        "land_value": 14228,
+        "improvement_value": 101456,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1145,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115684,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 114539,
+        "market_value": 114539,
+        "land_value": 14087,
+        "improvement_value": 100452,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114539,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 114539,
+        "market_value": 114539,
+        "land_value": 14087,
+        "improvement_value": 100452,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1157,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114539,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 115696,
+        "market_value": 115696,
+        "land_value": 14229,
+        "improvement_value": 101467,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115696,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049L00164000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049L00164000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0049L00164000000",
+    "comparables": [
+      {
+        "parcel_id": "0049C00121000000",
+        "address": "294 46TH ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "294   46TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 130900,
+        "market_value": 148900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049C00035000000",
+        "address": "4424 DAVISON ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4424   DAVISON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131000,
+        "market_value": 149000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0049L00194000000",
+        "address": "441 42ND ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "441   42ND ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 131000,
+        "market_value": 149000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049A00122000000",
+        "address": "158 BANNER WAY",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4604   49TH ST N # 5129",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 130700,
+        "market_value": 130700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049C00136000A00",
+        "address": "4511 DAVISON ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4511   DAVISON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 131100,
+        "market_value": 149100,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049G00176000000",
+        "address": "4230 SHERROD ST",
+        "city": "10902",
+        "zip_code": "15201",
+        "current_owner_name": "4142   TIMBERLANE DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 131100,
+        "market_value": 131100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

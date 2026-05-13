@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0354H00226000000",
+    "address": "1823 PARK CIRCLE DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1823   PARK CIRCLE DR",
+    "current_mailing_address": "1823   PARK CIRCLE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.335,
+    "latitude": 40.52718,
+    "longitude": -79.95492
+  },
+  "assessments": {
+    "parcel_id": "0354H00226000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 195800,
+        "market_value": 195800,
+        "land_value": 45300,
+        "improvement_value": 150500,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12169,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 195800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 183631,
+        "market_value": 183631,
+        "land_value": 42484,
+        "improvement_value": 141147,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5348,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 183631,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 178283,
+        "market_value": 178283,
+        "land_value": 41247,
+        "improvement_value": 137036,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3495,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 178283,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 174788,
+        "market_value": 174788,
+        "land_value": 40438,
+        "improvement_value": 134350,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1730,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174788,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 173058,
+        "market_value": 173058,
+        "land_value": 40038,
+        "improvement_value": 133020,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173058,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 173058,
+        "market_value": 173058,
+        "land_value": 40038,
+        "improvement_value": 133020,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173058,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0354H00226000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0354H00226000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Jul-18",
+      "most_recent_appeal_date": "24-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-25457-2018",
+        "filed_date": "24-Jul-18",
+        "hearing_date": "24-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 159600,
+        "requested_value": 159600,
+        "final_value": 192300,
+        "value_reduction": 0,
+        "reduction_percentage": -20.49,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0354H00226000000",
+    "comparables": [
+      {
+        "parcel_id": "0519M00016000000",
+        "address": "2907 GREENFIELD RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2907   GREENFIELD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 195800,
+        "market_value": 195800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0432D00247000000",
+        "address": "809 BREEZEWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "809   BREEZEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196000,
+        "market_value": 214000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0433J00011000000",
+        "address": "311 SUNNYFIELD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "311   SUNNYFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196100,
+        "market_value": 214100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0435F00076000000",
+        "address": "306 S HIGHLANDER HEIGHTS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "306  S HIGHLANDER HEIGHTS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 195500,
+        "market_value": 195500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435G00013000000",
+        "address": "121 HIGHLANDER HEIGHTS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "121   HIGHLANDER HEIGHTS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196100,
+        "market_value": 214100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0432D00114000000",
+        "address": "804 HODIL RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "804   HODIL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196200,
+        "market_value": 214200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

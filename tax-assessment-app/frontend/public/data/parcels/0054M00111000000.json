@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0054M00111000000",
+    "address": "701 MCCASLIN ST",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "701   MCCASLIN ST",
+    "current_mailing_address": "701   MCCASLIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.034,
+    "latitude": 40.41988,
+    "longitude": -79.91678
+  },
+  "assessments": {
+    "parcel_id": "0054M00111000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 96600,
+        "market_value": 96600,
+        "land_value": 29300,
+        "improvement_value": 67300,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1350,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 97950,
+        "market_value": 97950,
+        "land_value": 29709,
+        "improvement_value": 68241,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4664,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97950,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 93286,
+        "market_value": 93286,
+        "land_value": 28294,
+        "improvement_value": 64992,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3587,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93286,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 89699,
+        "market_value": 89699,
+        "land_value": 27206,
+        "improvement_value": 62493,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2612,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89699,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 87087,
+        "market_value": 87087,
+        "land_value": 26414,
+        "improvement_value": 60673,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1707,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87087,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 85380,
+        "market_value": 85380,
+        "land_value": 25896,
+        "improvement_value": 59484,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85380,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0054M00111000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0054M00111000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jul-16",
+      "most_recent_appeal_date": "12-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8571-2016",
+        "filed_date": "12-Jul-16",
+        "hearing_date": "12-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 96600,
+        "requested_value": 96600,
+        "final_value": 96600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0054M00111000000",
+    "comparables": [
+      {
+        "parcel_id": "0054S00227000000",
+        "address": "801 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "801   LILAC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96600,
+        "market_value": 114600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0055H00105000000",
+        "address": "653 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "653   MONTCLAIR ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 96600,
+        "market_value": 114600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087J00082000000",
+        "address": "3851 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "1500   VALMONT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96500,
+        "market_value": 96500,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0054M00242000000",
+        "address": "3903 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "1529   BEDFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96400,
+        "market_value": 96400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0054M00242000A00",
+        "address": "3905 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "10   STEWART CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96400,
+        "market_value": 96400,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087J00026000000",
+        "address": "3747 BEECHWOOD BLVD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "925   FOX CHAPEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96800,
+        "market_value": 96800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

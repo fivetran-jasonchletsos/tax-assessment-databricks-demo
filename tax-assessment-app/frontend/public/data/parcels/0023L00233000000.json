@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0023L00233000000",
+    "address": "1210 LORAINE ST",
+    "city": "Ward 22 - North Shore/allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "529   ARDEN DR",
+    "current_mailing_address": "529   ARDEN DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.037,
+    "latitude": 40.41728,
+    "longitude": -80.06792
+  },
+  "assessments": {
+    "parcel_id": "0023L00233000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 233500,
+        "market_value": 233500,
+        "land_value": 49200,
+        "improvement_value": 184300,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3267,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 233500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 236767,
+        "market_value": 236767,
+        "land_value": 49888,
+        "improvement_value": 186879,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11274,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 236767,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 225493,
+        "market_value": 225493,
+        "land_value": 47512,
+        "improvement_value": 177981,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8672,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225493,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 216821,
+        "market_value": 216821,
+        "land_value": 45685,
+        "improvement_value": 171136,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6315,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 216821,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 210506,
+        "market_value": 210506,
+        "land_value": 44355,
+        "improvement_value": 166151,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4127,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 210506,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 206379,
+        "market_value": 206379,
+        "land_value": 43485,
+        "improvement_value": 162894,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 206379,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023L00233000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023L00233000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 27000,
+      "total_value_reduction": 54000,
+      "first_appeal_date": "1-Jun-15",
+      "most_recent_appeal_date": "23-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-614-2015",
+        "filed_date": "1-Jun-15",
+        "hearing_date": "1-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 119600,
+        "requested_value": 119600,
+        "final_value": 119600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-29152-2019",
+        "filed_date": "23-Jul-19",
+        "hearing_date": "23-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 119600,
+        "requested_value": 119600,
+        "final_value": 65600,
+        "value_reduction": 54000,
+        "reduction_percentage": 45.15,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023L00233000000",
+    "comparables": [
+      {
+        "parcel_id": "0023K00103000000",
+        "address": "1207 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1207   PALO ALTO ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 232900,
+        "market_value": 250900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023K00235000000",
+        "address": "1219 VETO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1219   VETO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 234300,
+        "market_value": 234300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023L00179000000",
+        "address": "1214 BOYLE ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1214   BOYLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 232400,
+        "market_value": 250400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023J00294000200",
+        "address": "603 N TAYLOR AVE",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "603  N TAYLOR AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 232000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023K00151000000",
+        "address": "1210 PALO ALTO ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1210   PALO ALTO ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 235000,
+        "market_value": 253000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023L00248000000",
+        "address": "1207 SANDUSKY ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1207   SANDUSKY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 232000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

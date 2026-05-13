@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023H00233000000",
+    "address": "1402 JAMES ST",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "980   FOREST LN",
+    "current_mailing_address": "980   FOREST LN",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.4168,
+    "longitude": -80.07032
+  },
+  "assessments": {
+    "parcel_id": "0023H00233000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 188000,
+        "market_value": 188000,
+        "land_value": 13500,
+        "improvement_value": 174500,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13546,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 188000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 174454,
+        "market_value": 174454,
+        "land_value": 12527,
+        "improvement_value": 161927,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1727,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174454,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 172727,
+        "market_value": 172727,
+        "land_value": 12403,
+        "improvement_value": 160324,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 172727,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 172727,
+        "market_value": 172727,
+        "land_value": 12403,
+        "improvement_value": 160324,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1745,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 172727,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 174472,
+        "market_value": 174472,
+        "land_value": 12528,
+        "improvement_value": 161944,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8308,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174472,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 166164,
+        "market_value": 166164,
+        "land_value": 11931,
+        "improvement_value": 154233,
+        "land_value_percentage": 7.2,
+        "improvement_value_percentage": 92.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 166164,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023H00233000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023H00233000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Jul-15",
+      "most_recent_appeal_date": "6-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-577-2015",
+        "filed_date": "6-Jul-15",
+        "hearing_date": "6-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 43000,
+        "requested_value": 43000,
+        "final_value": 188000,
+        "value_reduction": 0,
+        "reduction_percentage": -337.21,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023H00233000000",
+    "comparables": [
+      {
+        "parcel_id": "0023J00052000000",
+        "address": "1510 MONTEREY ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "6966  E WILD CANYON PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 188400,
+        "market_value": 188400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023K00011000000",
+        "address": "321 JACKSONIA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "321   JACKSONIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 187600,
+        "market_value": 205600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023E00230000000",
+        "address": "1511 GARFIELD AVE",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1511   GARFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 189000,
+        "market_value": 207000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023F00376000000",
+        "address": "1505 FEDERAL ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1505   FEDERAL ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 189500,
+        "market_value": 207500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023J00117000000",
+        "address": "608 SAMPSONIA WAY",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "608   SAMPSONIA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 189500,
+        "market_value": 207500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023E00324000000",
+        "address": "708 ARMANDALE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "708   ARMANDALE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 186400,
+        "market_value": 204400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

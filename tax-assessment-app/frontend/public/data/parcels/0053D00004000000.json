@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0053D00004000000",
+    "address": "1300 BENNINGTON AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1300   BENNINGTON AVE",
+    "current_mailing_address": "1300   BENNINGTON AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.278,
+    "latitude": 40.4188,
+    "longitude": -79.9211
+  },
+  "assessments": {
+    "parcel_id": "0053D00004000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1900000,
+        "market_value": 1900000,
+        "land_value": 142300,
+        "improvement_value": 1757700,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 118061,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1900000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1781939,
+        "market_value": 1781939,
+        "land_value": 133457,
+        "improvement_value": 1648482,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 51901,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1781939,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1730038,
+        "market_value": 1730038,
+        "land_value": 129570,
+        "improvement_value": 1600468,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 33922,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1730038,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1696116,
+        "market_value": 1696116,
+        "land_value": 127030,
+        "improvement_value": 1569086,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16793,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1696116,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1679323,
+        "market_value": 1679323,
+        "land_value": 125772,
+        "improvement_value": 1553551,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1679323,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1679323,
+        "market_value": 1679323,
+        "land_value": 125772,
+        "improvement_value": 1553551,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1679323,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0053D00004000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0053D00004000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "6-Aug-19",
+      "most_recent_appeal_date": "6-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29561-2019",
+        "filed_date": "6-Aug-19",
+        "hearing_date": "6-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 1252500,
+        "requested_value": 1252500,
+        "final_value": 1791700,
+        "value_reduction": 0,
+        "reduction_percentage": -43.05,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0053D00004000000",
+    "comparables": [
+      {
+        "parcel_id": "0085R00196000000",
+        "address": "125 WOODLAND RD",
+        "city": "11401",
+        "zip_code": "15232",
+        "current_owner_name": "125   WOODLAND RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1920000,
+        "market_value": 1938000,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086F00053000000",
+        "address": "5605 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5605   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1856700,
+        "market_value": 1874700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085R00209000000",
+        "address": "121 WOODLAND RD",
+        "city": "11401",
+        "zip_code": "15232",
+        "current_owner_name": "121   WOODLAND RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1844700,
+        "market_value": 1844700,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052M00092000000",
+        "address": "5222 WILKINS HEIGHTS RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5222   WILKINS HEIGHTS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1982000,
+        "market_value": 2000000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086F00165000000",
+        "address": "5564 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5564   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1801900,
+        "market_value": 1819900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052S00304000000",
+        "address": "1234 BENNINGTON AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1234   BENNINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 1762000,
+        "market_value": 1780000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

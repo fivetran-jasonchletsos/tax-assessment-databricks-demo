@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0121G00123000000",
+    "address": "7106 BUTLER ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "4045   LITTLE RIVER RD",
+    "current_mailing_address": "4045   LITTLE RIVER RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.46042,
+    "longitude": -79.91188
+  },
+  "assessments": {
+    "parcel_id": "0121G00123000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 67500,
+        "market_value": 67500,
+        "land_value": 24500,
+        "improvement_value": 43000,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1664,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 65836,
+        "market_value": 65836,
+        "land_value": 23896,
+        "improvement_value": 41940,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2532,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65836,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 63304,
+        "market_value": 63304,
+        "land_value": 22977,
+        "improvement_value": 40327,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1843,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63304,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 61461,
+        "market_value": 61461,
+        "land_value": 22308,
+        "improvement_value": 39153,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1205,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61461,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 60256,
+        "market_value": 60256,
+        "land_value": 21870,
+        "improvement_value": 38386,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 596,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60256,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 59660,
+        "market_value": 59660,
+        "land_value": 21654,
+        "improvement_value": 38006,
+        "land_value_percentage": 36.3,
+        "improvement_value_percentage": 63.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59660,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121G00123000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121G00123000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0121G00123000000",
+    "comparables": [
+      {
+        "parcel_id": "0080D00158000000",
+        "address": "5211 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5211   KEYSTONE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 67400,
+        "market_value": 67400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081A00246000000",
+        "address": "5524 CELADINE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5524   CELADINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67600,
+        "market_value": 85600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081B00144000000",
+        "address": "5511 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5511   MCCANDLESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67400,
+        "market_value": 67400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120N00030000000",
+        "address": "5427 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5427   KEYSTONE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67600,
+        "market_value": 85600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00177000000",
+        "address": "5115 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "504  S LINDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67700,
+        "market_value": 67700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080D00066000000",
+        "address": "5263 CARNEGIE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "8006   BENNETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67800,
+        "market_value": 67800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}
