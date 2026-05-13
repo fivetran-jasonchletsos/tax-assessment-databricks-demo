@@ -23,6 +23,41 @@ export function mean(values: number[]): number {
   return values.reduce((s, v) => s + v, 0) / values.length;
 }
 
+// Ordinary least squares: returns slope, intercept, r², and the min/max of x
+// so callers can draw the fit segment without recomputing the bounds.
+export function linearFit(points: { x: number; y: number }[]): {
+  slope: number;
+  intercept: number;
+  r2: number;
+  xMin: number;
+  xMax: number;
+  n: number;
+} | null {
+  if (points.length < 2) return null;
+  const n = points.length;
+  let sx = 0, sy = 0, sxy = 0, sxx = 0;
+  for (const { x, y } of points) {
+    sx += x; sy += y; sxy += x * y; sxx += x * x;
+  }
+  const denom = n * sxx - sx * sx;
+  if (denom === 0) return null;
+  const slope = (n * sxy - sx * sy) / denom;
+  const intercept = (sy - slope * sx) / n;
+  // r² via 1 - SS_res / SS_tot
+  const meanY = sy / n;
+  let ssRes = 0, ssTot = 0;
+  let xMin = Infinity, xMax = -Infinity;
+  for (const { x, y } of points) {
+    const yhat = slope * x + intercept;
+    ssRes += (y - yhat) ** 2;
+    ssTot += (y - meanY) ** 2;
+    if (x < xMin) xMin = x;
+    if (x > xMax) xMax = x;
+  }
+  const r2 = ssTot === 0 ? 1 : 1 - ssRes / ssTot;
+  return { slope, intercept, r2, xMin, xMax, n };
+}
+
 export function groupByCity(parcels: ParcelSearchResult[]) {
   const map = new Map<string, ParcelSearchResult[]>();
   for (const p of parcels) {

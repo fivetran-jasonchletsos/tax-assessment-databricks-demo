@@ -19,6 +19,7 @@ import {
   groupByCity,
   groupByLandUse,
   groupByZip,
+  linearFit,
   outliers,
   quantile,
   valueHistogram,
@@ -132,8 +133,15 @@ export default function DashboardPage() {
         <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
         <p className="text-sm text-slate-500 mt-2">
           Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, derived
-          from the gold-layer marts. Click any chart bar to cross-filter every other chart.
+          from the gold-layer marts.
         </p>
+        <div className="mt-3 inline-flex items-center gap-2 rounded-full bg-amber-50 border border-amber-200 px-3 py-1.5 text-xs text-amber-900">
+          <span aria-hidden>👉</span>
+          <span>
+            <strong>Interactive:</strong> click any bar, row, or land-use slice to cross-filter every
+            chart, KPI, and table on this page.
+          </span>
+        </div>
       </header>
 
       {filtered && (
@@ -267,42 +275,86 @@ export default function DashboardPage() {
       </Panel>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6">
-        <Panel title="Assessed vs market value" subtitle="Each dot is one parcel — closer to the diagonal = better-calibrated assessment">
-          <div className="h-72">
-            <ResponsiveContainer width="100%" height="100%">
-              <ScatterChart margin={{ left: 12, right: 16, top: 8, bottom: 8 }}>
-                <CartesianGrid stroke="#f1f5f9" />
-                <XAxis
-                  dataKey="x"
-                  type="number"
-                  name="Assessed"
-                  tickFormatter={formatCurrencyShort}
-                  tick={{ fill: '#475569', fontSize: 11 }}
-                  axisLine={{ stroke: '#cbd5e1' }}
-                  tickLine={false}
-                />
-                <YAxis
-                  dataKey="y"
-                  type="number"
-                  name="Market"
-                  tickFormatter={formatCurrencyShort}
-                  tick={{ fill: '#475569', fontSize: 11 }}
-                  axisLine={false}
-                  tickLine={false}
-                  width={48}
-                />
-                <ZAxis dataKey="z" range={[24, 24]} />
-                <Tooltip
-                  cursor={{ strokeDasharray: '3 3', stroke: '#94a3b8' }}
-                  contentStyle={TOOLTIP_STYLE}
-                  formatter={(v: any, n: any) => [formatCurrency(v as number), n]}
-                  labelFormatter={() => ''}
-                />
-                <Scatter data={scatter} fill={ACCENT_SOFT} stroke={ACCENT} strokeOpacity={0.5} fillOpacity={0.6} />
-              </ScatterChart>
-            </ResponsiveContainer>
-          </div>
-        </Panel>
+        {(() => {
+          const fit = linearFit(scatter);
+          const subtitle = fit
+            ? `Best-fit line: market ≈ ${fit.slope.toFixed(2)} × assessed + ${formatCurrencyShort(fit.intercept)} · R² = ${fit.r2.toFixed(3)} · n=${fit.n.toLocaleString()}`
+            : 'Each dot is one parcel — closer to the diagonal = better-calibrated assessment';
+          // Build the regression line endpoints for the overlay.
+          const fitLine = fit
+            ? [
+                { x: fit.xMin, y: fit.slope * fit.xMin + fit.intercept },
+                { x: fit.xMax, y: fit.slope * fit.xMax + fit.intercept },
+              ]
+            : [];
+          return (
+            <Panel title="Assessed vs market value" subtitle={subtitle}>
+              <div className="h-72">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ScatterChart margin={{ left: 12, right: 16, top: 8, bottom: 8 }}>
+                    <CartesianGrid stroke="#f1f5f9" />
+                    <XAxis
+                      dataKey="x"
+                      type="number"
+                      name="Assessed"
+                      tickFormatter={formatCurrencyShort}
+                      tick={{ fill: '#475569', fontSize: 11 }}
+                      axisLine={{ stroke: '#cbd5e1' }}
+                      tickLine={false}
+                    />
+                    <YAxis
+                      dataKey="y"
+                      type="number"
+                      name="Market"
+                      tickFormatter={formatCurrencyShort}
+                      tick={{ fill: '#475569', fontSize: 11 }}
+                      axisLine={false}
+                      tickLine={false}
+                      width={48}
+                    />
+                    <ZAxis dataKey="z" range={[24, 24]} />
+                    <Tooltip
+                      cursor={{ strokeDasharray: '3 3', stroke: '#94a3b8' }}
+                      contentStyle={TOOLTIP_STYLE}
+                      formatter={(v: any, n: any) => [formatCurrency(v as number), n]}
+                      labelFormatter={() => ''}
+                    />
+                    <Scatter
+                      name="Parcels"
+                      data={scatter}
+                      fill={ACCENT_SOFT}
+                      stroke={ACCENT}
+                      strokeOpacity={0.4}
+                      fillOpacity={0.5}
+                    />
+                    {fit && (
+                      <Scatter
+                        name="Best-fit"
+                        data={fitLine}
+                        line={{ stroke: '#f59e0b', strokeWidth: 2.5, strokeDasharray: '6 4' }}
+                        shape={() => null as any}
+                        legendType="none"
+                      />
+                    )}
+                  </ScatterChart>
+                </ResponsiveContainer>
+              </div>
+              {fit && (
+                <div className="mt-3 flex gap-3 text-xs text-slate-500 flex-wrap">
+                  <span className="inline-flex items-center gap-1.5">
+                    <span className="inline-block h-2 w-4 bg-amber-500 rounded-sm" />
+                    Best-fit (OLS)
+                  </span>
+                  <span>
+                    <strong className="text-slate-700">R² {fit.r2.toFixed(3)}</strong>{' '}
+                    — {fit.r2 > 0.9 ? 'tight' : fit.r2 > 0.7 ? 'strong' : 'loose'} calibration between
+                    assessed and market values.
+                  </span>
+                </div>
+              )}
+            </Panel>
+          );
+        })()}
 
         <Panel
           title="Top municipalities"
