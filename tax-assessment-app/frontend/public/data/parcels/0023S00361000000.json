@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00361000000",
+    "address": "824 JAMES ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3042   ENTERPRISE DR  STE 101",
+    "current_mailing_address": "3042   ENTERPRISE DR  STE 101",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "DRY CLEANING PLANTS/LAUNDRIES",
+    "acreage": 0.019,
+    "latitude": 40.41836,
+    "longitude": -80.08592
+  },
+  "assessments": {
+    "parcel_id": "0023S00361000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 38400,
+        "market_value": 38400,
+        "land_value": 17000,
+        "improvement_value": 21400,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1710,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 36690,
+        "market_value": 36690,
+        "land_value": 16242,
+        "improvement_value": 20448,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36690,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 36690,
+        "market_value": 36690,
+        "land_value": 16242,
+        "improvement_value": 20448,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -371,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36690,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37061,
+        "market_value": 37061,
+        "land_value": 16407,
+        "improvement_value": 20654,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1764,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37061,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 35297,
+        "market_value": 35297,
+        "land_value": 15626,
+        "improvement_value": 19671,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1357,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35297,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 33940,
+        "market_value": 33940,
+        "land_value": 15025,
+        "improvement_value": 18915,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33940,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00361000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00361000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-19",
+      "most_recent_appeal_date": "10-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29158-2019",
+        "filed_date": "10-Jun-19",
+        "hearing_date": "10-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 38400,
+        "requested_value": 38400,
+        "final_value": 38400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023S00361000000",
+    "comparables": [
+      {
+        "parcel_id": "0024R00009000000",
+        "address": "910 RIVER AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 768",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 37900,
+        "market_value": 37900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024P00041000000",
+        "address": "LOCKHART ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 39200,
+        "market_value": 39200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0008H00092000000",
+        "address": "SCOVILLE ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024P00183000000",
+        "address": "S CANAL ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3300   PREBLE AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008H00105000A00",
+        "address": "E LACOCK ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008H00099000000",
+        "address": "MENDOTTA ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 40400,
+        "market_value": 40400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

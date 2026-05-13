@@ -145,6 +145,19 @@
     "parcel_id": "0355P00322000000",
     "comparables": [
       {
+        "parcel_id": "0520N00139000000",
+        "address": "700 SCOTT AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1800   MOUNT ROYAL BLVD",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 170900,
+        "market_value": 170900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0522K00284000000",
         "address": "1511 STONINGTON DR",
         "city": "Shaler",
@@ -155,7 +168,7 @@
         "assessed_value": 170900,
         "market_value": 188900,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0356P00048000000",
@@ -168,7 +181,7 @@
         "assessed_value": 170800,
         "market_value": 188800,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0520C00032000000",
@@ -181,7 +194,7 @@
         "assessed_value": 170800,
         "market_value": 188800,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355J00222000000",
@@ -194,7 +207,7 @@
         "assessed_value": 171100,
         "market_value": 189100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433K00093000000",
@@ -207,19 +220,6 @@
         "assessed_value": 170700,
         "market_value": 188700,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0433F00032000000",
-        "address": "216 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "216   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 170600,
-        "market_value": 170600,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

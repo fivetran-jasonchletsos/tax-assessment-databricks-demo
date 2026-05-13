@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127A00159000000",
+        "address": "6530 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6530   DALZELL PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 281900,
+        "market_value": 299900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085N00233000000",
         "address": "5540 FAIR OAKS ST",
         "city": "11401",
@@ -220,7 +233,7 @@
         "assessed_value": 282000,
         "market_value": 300000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086D00031000000",
@@ -233,7 +246,7 @@
         "assessed_value": 282000,
         "market_value": 300000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086E00266000000",
@@ -246,32 +259,19 @@
         "assessed_value": 282000,
         "market_value": 300000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086G00028000100",
-        "address": "5840 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5840   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 282200,
-        "market_value": 300200,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0053D00183000000",
-        "address": "5415 PLAINFIELD ST",
+        "parcel_id": "0127K00046000000",
+        "address": "2100 BEECHWOOD BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5415   PLAINFIELD ST",
+        "current_owner_name": "2100   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 282400,
-        "market_value": 300400,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 281700,
+        "market_value": 299700,
+        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

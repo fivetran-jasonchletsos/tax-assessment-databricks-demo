@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0142D00178000000",
+    "address": "1 ALTOONA PL",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 14958",
+    "current_mailing_address": "PO BOX 14958",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 1.139,
+    "latitude": 40.35892,
+    "longitude": -80.05578
+  },
+  "assessments": {
+    "parcel_id": "0142D00178000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 752600,
+        "market_value": 752600,
+        "land_value": 394999,
+        "improvement_value": 357601,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 33480,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 752600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 719120,
+        "market_value": 719120,
+        "land_value": 377428,
+        "improvement_value": 341692,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 719120,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 719120,
+        "market_value": 719120,
+        "land_value": 377428,
+        "improvement_value": 341692,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7264,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 719120,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 726384,
+        "market_value": 726384,
+        "land_value": 381240,
+        "improvement_value": 345144,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34589,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 726384,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 691795,
+        "market_value": 691795,
+        "land_value": 363086,
+        "improvement_value": 328709,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26607,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 691795,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 665188,
+        "market_value": 665188,
+        "land_value": 349122,
+        "improvement_value": 316066,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 665188,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0142D00178000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0142D00178000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Jun-16",
+      "most_recent_appeal_date": "1-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9502-2016",
+        "filed_date": "1-Jun-16",
+        "hearing_date": "1-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 1027900,
+        "requested_value": 1027900,
+        "final_value": 1283400,
+        "value_reduction": 0,
+        "reduction_percentage": -24.86,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0142D00178000000",
+    "comparables": [
+      {
+        "parcel_id": "0251B00089000000",
+        "address": "54 ROYCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "54   ROYCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 753500,
+        "market_value": 771500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0141F00044000000",
+        "address": "680 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "680   WASHINGTON RD",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 750000,
+        "market_value": 750000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0098P00170000000",
+        "address": "437 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "982   CREST LN",
+        "land_use_description": "OTHER RETAIL STRUCTURES",
+        "acreage": null,
+        "assessed_value": 757100,
+        "market_value": 757100,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0192P00142000000",
+        "address": "139 ROCK HAVEN LN",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "139   ROCK HAVEN LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 747300,
+        "market_value": 765300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0192P00139000000",
+        "address": "152 ROCK HAVEN LN",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "152   ROCK HAVEN LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 745000,
+        "market_value": 745000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0141E00050000000",
+        "address": "20 CEDAR BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "300   MOUNT LEBANON BLVD",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 742500,
+        "market_value": 742500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -197,6 +197,19 @@
     "parcel_id": "0615R00153000000",
     "comparables": [
       {
+        "parcel_id": "0614S00172000000",
+        "address": "313 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "313   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 263200,
+        "market_value": 281200,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0434G00034000000",
         "address": "808 SPENCER GROVE CT",
         "city": "Shaler",
@@ -207,7 +220,7 @@
         "assessed_value": 263400,
         "market_value": 281400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0354D00087000000",
@@ -220,7 +233,7 @@
         "assessed_value": 263700,
         "market_value": 281700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0434M00024000000",
@@ -233,7 +246,7 @@
         "assessed_value": 262400,
         "market_value": 280400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0354H00058000000",
@@ -246,7 +259,7 @@
         "assessed_value": 262200,
         "market_value": 280200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355G00052000000",
@@ -259,19 +272,6 @@
         "assessed_value": 262200,
         "market_value": 280200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0434P00215000000",
-        "address": "1606 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1606   BUTLER PLANK RD",
-        "land_use_description": "COMMERCIAL GARAGE",
-        "acreage": null,
-        "assessed_value": 262100,
-        "market_value": 262100,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0286M00124000000",
     "comparables": [
       {
+        "parcel_id": "0122C00138000000",
+        "address": "54 FREEPORT RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "54   FREEPORT RD",
+        "land_use_description": "AUTO SERV STATION",
+        "acreage": null,
+        "assessed_value": 253000,
+        "market_value": 253000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0223H00006000000",
         "address": "240 KITTANNING PIKE",
         "city": "O''hara",
@@ -184,7 +197,7 @@
         "assessed_value": 252100,
         "market_value": 270100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0223M00010000000",
@@ -197,7 +210,7 @@
         "assessed_value": 253100,
         "market_value": 271100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0224J00110000000",
@@ -210,7 +223,7 @@
         "assessed_value": 253100,
         "market_value": 271100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0170H00066000000",
@@ -223,7 +236,7 @@
         "assessed_value": 252000,
         "market_value": 270000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0170J00032000000",
@@ -236,19 +249,6 @@
         "assessed_value": 252000,
         "market_value": 270000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0170M00004000000",
-        "address": "137 WOODSHIRE DR",
-        "city": "O''hara",
-        "zip_code": "15215",
-        "current_owner_name": "137   WOODSHIRE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 253200,
-        "market_value": 271200,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

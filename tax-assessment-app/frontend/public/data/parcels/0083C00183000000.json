@@ -197,6 +197,19 @@
     "parcel_id": "0083C00183000000",
     "comparables": [
       {
+        "parcel_id": "0124A00208000000",
+        "address": "939 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "939   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 292500,
+        "market_value": 292500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083C00163000000",
         "address": "923 N HIGHLAND AVE",
         "city": "11101",
@@ -207,7 +220,20 @@
         "assessed_value": 292600,
         "market_value": 310600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123J00039000000",
+        "address": "6050 GRAFTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6050   GRAFTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 292000,
+        "market_value": 310000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082H00243000000",
@@ -220,7 +246,20 @@
         "assessed_value": 293000,
         "market_value": 311000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123E00012000000",
+        "address": "1376 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1376  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 293000,
+        "market_value": 311000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00168000000",
@@ -233,45 +272,6 @@
         "assessed_value": 291500,
         "market_value": 309500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0083D00027000000",
-        "address": "922 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "106  S 18TH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 290000,
-        "market_value": 308000,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00127000000",
-        "address": "910 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "910   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 290000,
-        "market_value": 308000,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083D00264000000",
-        "address": "6135 JACKSON ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6129   JACKSON ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 289400,
-        "market_value": 289400,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

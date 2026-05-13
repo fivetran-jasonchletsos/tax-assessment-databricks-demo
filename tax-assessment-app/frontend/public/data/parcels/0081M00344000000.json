@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0120R00015000000",
+        "address": "4409 STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4409   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 242500,
+        "market_value": 260500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00001000000",
+        "address": "1303 WOODBINE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "1303   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 219500,
+        "market_value": 237500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0080G00259000000",
         "address": "5101 KEYSTONE ST",
         "city": "11002",
@@ -210,7 +236,7 @@
         "assessed_value": 210000,
         "market_value": 210000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0081H00278000000",
@@ -223,32 +249,6 @@
         "assessed_value": 206000,
         "market_value": 224000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080H00104000000",
-        "address": "5159 STANTON AVE",
-        "city": "11002",
-        "zip_code": "15201",
-        "current_owner_name": "5159   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203600,
-        "market_value": 221600,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081H00356000000",
-        "address": "104 ELENA CT",
-        "city": "11002",
-        "zip_code": "15201",
-        "current_owner_name": "104   ELENA CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 202600,
-        "market_value": 220600,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

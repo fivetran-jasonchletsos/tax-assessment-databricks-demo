@@ -174,6 +174,19 @@
     "parcel_id": "0286H00070000000",
     "comparables": [
       {
+        "parcel_id": "0169P00106000000",
+        "address": "40 FREEPORT RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "206   PINNACLE CT",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 187800,
+        "market_value": 187800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0286D00085000000",
         "address": "417 DORSEYVILLE RD",
         "city": "O''hara",
@@ -184,7 +197,7 @@
         "assessed_value": 188400,
         "market_value": 206400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0286N00160000000",
@@ -197,7 +210,7 @@
         "assessed_value": 188400,
         "market_value": 206400,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168D00100000000",
@@ -210,7 +223,7 @@
         "assessed_value": 187700,
         "market_value": 205700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0286G00080000000",
@@ -223,7 +236,7 @@
         "assessed_value": 187700,
         "market_value": 187700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0223G00012000000",
@@ -236,19 +249,6 @@
         "assessed_value": 187600,
         "market_value": 205600,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0224E00102000000",
-        "address": "106 NICHOLAS DR",
-        "city": "O''hara",
-        "zip_code": "15215",
-        "current_owner_name": "106   NICHOLAS DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 187300,
-        "market_value": 205300,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0047R00039000000",
+    "address": "1526 RHINE ST",
+    "city": "24th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1526   RHINE ST",
+    "current_mailing_address": "1526   RHINE ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 1.116,
+    "latitude": 40.4192,
+    "longitude": -80.0804
+  },
+  "assessments": {
+    "parcel_id": "0047R00039000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 81700,
+        "market_value": 81700,
+        "land_value": 22500,
+        "improvement_value": 59200,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3637,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 78063,
+        "market_value": 78063,
+        "land_value": 21498,
+        "improvement_value": 56565,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78063,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 78063,
+        "market_value": 78063,
+        "land_value": 21498,
+        "improvement_value": 56565,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -789,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78063,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 78852,
+        "market_value": 78852,
+        "land_value": 21715,
+        "improvement_value": 57137,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3754,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78852,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 75098,
+        "market_value": 75098,
+        "land_value": 20681,
+        "improvement_value": 54417,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2888,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75098,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 72210,
+        "market_value": 72210,
+        "land_value": 19886,
+        "improvement_value": 52324,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72210,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047R00039000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047R00039000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 313000,
+      "total_value_reduction": 313000,
+      "first_appeal_date": "5-Aug-15",
+      "most_recent_appeal_date": "5-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1069-2015",
+        "filed_date": "5-Aug-15",
+        "hearing_date": "5-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 394700,
+        "requested_value": 394700,
+        "final_value": 81700,
+        "value_reduction": 313000,
+        "reduction_percentage": 79.3,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047R00039000000",
+    "comparables": [
+      {
+        "parcel_id": "0047S00045000000",
+        "address": "1500 SPRING GARDEN AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1500   SPRING GARDEN AVE",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 82400,
+        "market_value": 82400,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047M00147000000",
+        "address": "1569 SPRING GARDEN AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3070   MT TROY RD",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 84000,
+        "market_value": 84000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048F00390000000",
+        "address": "1000 WATERFRONT DR",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 78500,
+        "market_value": 78500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048J00244000002",
+        "address": "1955 LOWRIE ST",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 207",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 76700,
+        "market_value": 76700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025A00002000000",
+        "address": "RIVER AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "VACANT INDUSTRIAL LAND",
+        "acreage": null,
+        "assessed_value": 76500,
+        "market_value": 76500,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048J00100000000",
+        "address": "1701 RIALTO ST",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "4   COLUMBIA AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 76200,
+        "market_value": 76200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

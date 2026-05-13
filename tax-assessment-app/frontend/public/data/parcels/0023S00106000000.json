@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00106000000",
+    "address": "414 AVERY ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 146",
+    "current_mailing_address": "PO BOX 146",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.059,
+    "latitude": 40.418,
+    "longitude": -80.06432
+  },
+  "assessments": {
+    "parcel_id": "0023S00106000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 23600,
+        "market_value": 23600,
+        "land_value": 15300,
+        "improvement_value": 8300,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 584,
+        "assessed_value_change_pct": 2.54,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 23016,
+        "market_value": 23016,
+        "land_value": 14921,
+        "improvement_value": 8095,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 885,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23016,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 22131,
+        "market_value": 22131,
+        "land_value": 14347,
+        "improvement_value": 7784,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 644,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22131,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 21487,
+        "market_value": 21487,
+        "land_value": 13930,
+        "improvement_value": 7557,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 421,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21487,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 21066,
+        "market_value": 21066,
+        "land_value": 13657,
+        "improvement_value": 7409,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 208,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21066,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 20858,
+        "market_value": 20858,
+        "land_value": 13522,
+        "improvement_value": 7336,
+        "land_value_percentage": 64.8,
+        "improvement_value_percentage": 35.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20858,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00106000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00106000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-Jun-18",
+      "most_recent_appeal_date": "4-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22465-2018",
+        "filed_date": "4-Jun-18",
+        "hearing_date": "4-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 17200,
+        "requested_value": 17200,
+        "final_value": 23600,
+        "value_reduction": 0,
+        "reduction_percentage": -37.21,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023S00106000000",
+    "comparables": [
+      {
+        "parcel_id": "0009B00012000000",
+        "address": "CARPENTER WAY",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1300   PENN AVE  STE 300",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 22900,
+        "market_value": 22900,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009B00049000000",
+        "address": "PROGRESS ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3300   PREBLE AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 22500,
+        "market_value": 22500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024J00027000000",
+        "address": "1001 EAST ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "6   SHIRL DR",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 25000,
+        "market_value": 25000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024P00167000000",
+        "address": "CHESTNUT ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 25800,
+        "market_value": 25800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024P00257000000",
+        "address": "PROGRESS ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 26000,
+        "market_value": 26000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009B00101000000",
+        "address": "859 PROGRESS ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 26200,
+        "market_value": 26200,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0001G00235000000",
+    "address": "20 STANWIX ST",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "20  S CLARK ST  # 3000",
+    "current_mailing_address": "20  S CLARK ST  # 3000",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 0.682,
+    "latitude": 40.43594,
+    "longitude": -79.9885
+  },
+  "assessments": {
+    "parcel_id": "0001G00235000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 14660500,
+        "market_value": 14660500,
+        "land_value": 2932100,
+        "improvement_value": 11728400,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -205338,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14660500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 14865838,
+        "market_value": 14865838,
+        "land_value": 2973167,
+        "improvement_value": 11892671,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 707897,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14865838,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 14157941,
+        "market_value": 14157941,
+        "land_value": 2831588,
+        "improvement_value": 11326353,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 544536,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14157941,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 13613405,
+        "market_value": 13613405,
+        "land_value": 2722681,
+        "improvement_value": 10890724,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 396506,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13613405,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 13216899,
+        "market_value": 13216899,
+        "land_value": 2643379,
+        "improvement_value": 10573520,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 259154,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13216899,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 12957745,
+        "market_value": 12957745,
+        "land_value": 2591549,
+        "improvement_value": 10366196,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12957745,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001G00235000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001G00235000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 11314600,
+      "total_value_reduction": 11314600,
+      "first_appeal_date": "20-Jun-18",
+      "most_recent_appeal_date": "20-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22220-2018",
+        "filed_date": "20-Jun-18",
+        "hearing_date": "20-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 35000000,
+        "requested_value": 35000000,
+        "final_value": 23685400,
+        "value_reduction": 11314600,
+        "reduction_percentage": 32.33,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001G00235000000",
+    "comparables": [
+      {
+        "parcel_id": "0001M00103000000",
+        "address": "312 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "201   WOOD ST",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 14738100,
+        "market_value": 14738100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001G00075000000",
+        "address": "201 STANWIX ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1608   WALNUT ST  STE 1400",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 15800000,
+        "market_value": 15800000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001B00010000000",
+        "address": "601 COMMONWEALTH PL",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 12760100,
+        "market_value": 12760100,
+        "assessed_value_change_pct": 12.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00188000000",
+        "address": "405 WOOD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "812   GRAVIER ST  STE 200",
+        "land_use_description": "HOTELS",
+        "acreage": null,
+        "assessed_value": 12734200,
+        "market_value": 12734200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001C00167000000",
+        "address": "444 LIBERTY AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "7044   SEPULVEDA BLVD  # 1333",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 17535000,
+        "market_value": 17535000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0002L00240000000",
+        "address": "408 MAGEE ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15228",
+        "current_owner_name": "600   FORBES AVE  STE 505",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 11433200,
+        "market_value": 11433200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

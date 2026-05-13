@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0011D00340000000",
+        "address": "ALLEQUIPPA ST",
+        "city": "10502",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 31200,
+        "market_value": 31200,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0027C00061000000",
         "address": "4281 DAKOTA ST",
         "city": "10502",
@@ -197,7 +210,7 @@
         "assessed_value": 39100,
         "market_value": 57100,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0027C00081000000",
@@ -210,7 +223,20 @@
         "assessed_value": 30600,
         "market_value": 48600,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0026J00281000000",
+        "address": "RIDGWAY ST",
+        "city": "10502",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 30200,
+        "market_value": 30200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0026R00193000000",
@@ -223,20 +249,7 @@
         "assessed_value": 30200,
         "market_value": 30200,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0027C00083000000",
-        "address": "4329 DAKOTA ST",
-        "city": "10502",
-        "zip_code": "15213",
-        "current_owner_name": "328   RUCKLE DR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 41000,
-        "market_value": 41000,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
+        "distance_miles": 1.1
       }
     ]
   }

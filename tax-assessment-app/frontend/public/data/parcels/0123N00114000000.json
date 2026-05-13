@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0123N00114000000",
+    "address": "1118 HEBERTON ST",
+    "city": "11101",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1118   HEBERTON AVE",
+    "current_mailing_address": "1118   HEBERTON AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.039,
+    "latitude": 40.4615,
+    "longitude": -79.9066
+  },
+  "assessments": {
+    "parcel_id": "0123N00114000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20600,
+        "market_value": 20600,
+        "land_value": 20600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 327,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 20273,
+        "market_value": 20273,
+        "land_value": 20273,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -205,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20273,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 20478,
+        "market_value": 20478,
+        "land_value": 20478,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 975,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20478,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 19503,
+        "market_value": 19503,
+        "land_value": 19503,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 750,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19503,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18753,
+        "market_value": 18753,
+        "land_value": 18753,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 546,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18753,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 18207,
+        "market_value": 18207,
+        "land_value": 18207,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18207,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123N00114000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0123N00114000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0123N00114000000",
+    "comparables": [
+      {
+        "parcel_id": "0123J00112000100",
+        "address": "HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1327   HEBERTON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 21500,
+        "market_value": 21500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124A00198000000",
+        "address": "WELLESLEY AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6317   JACKSON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 22900,
+        "market_value": 22900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

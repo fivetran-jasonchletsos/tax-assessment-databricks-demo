@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0083F00219000000",
+    "address": "EAST LIBERTY BLVD",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 99584",
+    "current_mailing_address": "PO BOX 99584",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.082,
+    "latitude": 40.46186,
+    "longitude": -79.90252
+  },
+  "assessments": {
+    "parcel_id": "0083F00219000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5000,
+        "market_value": 5000,
+        "land_value": 5000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 495,
+        "assessed_value_change_pct": 10.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4505,
+        "market_value": 4505,
+        "land_value": 4505,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 88,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4505,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4417,
+        "market_value": 4417,
+        "land_value": 4417,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 43,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4417,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4374,
+        "market_value": 4374,
+        "land_value": 4374,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4374,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4374,
+        "market_value": 4374,
+        "land_value": 4374,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -45,
+        "assessed_value_change_pct": -1.02,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4374,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4419,
+        "market_value": 4419,
+        "land_value": 4419,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4419,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083F00219000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083F00219000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Jul-15",
+      "most_recent_appeal_date": "1-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1958-2015",
+        "filed_date": "1-Jul-15",
+        "hearing_date": "1-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 38600,
+        "requested_value": 38600,
+        "final_value": 38600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083F00219000000",
+    "comparables": [
+      {
+        "parcel_id": "0050M00173000000",
+        "address": "227 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "227  N GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 5000,
+        "market_value": 23000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084D00074000000",
+        "address": "439 ENRIGHT CT",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "439   ENRIGHT CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 5000,
+        "market_value": 23000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083K00132000000",
+        "address": "324 N SAINT CLAIR ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "324  N SAINT CLAIR ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 4900,
+        "market_value": 4900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082L00026000A00",
+        "address": "5626 BRYANT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5626   BRYANT ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 5300,
+        "market_value": 5300,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083E00280000000",
+        "address": "DOROTHY PL",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 4200,
+        "market_value": 4200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084D00198000000",
+        "address": "ENRIGHT CT",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "100  N SHERIDAN AVE  FL 4TH",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5900,
+        "market_value": 5900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

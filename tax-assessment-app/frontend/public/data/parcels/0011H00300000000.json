@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00300000000",
+    "address": "161 BURROWS ST",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+    "current_mailing_address": "412   BLVD OF THE ALLIES   FL 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "HUD PROJ #213",
+    "acreage": 3.2,
+    "latitude": 40.45564,
+    "longitude": -79.95772
+  },
+  "assessments": {
+    "parcel_id": "0011H00300000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 882600,
+        "market_value": 882600,
+        "land_value": 470500,
+        "improvement_value": 412100,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 39263,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 882600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 843337,
+        "market_value": 843337,
+        "land_value": 449569,
+        "improvement_value": 393768,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 843337,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 843337,
+        "market_value": 843337,
+        "land_value": 449569,
+        "improvement_value": 393768,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8519,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 843337,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 851856,
+        "market_value": 851856,
+        "land_value": 454110,
+        "improvement_value": 397746,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40564,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 851856,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 811292,
+        "market_value": 811292,
+        "land_value": 432486,
+        "improvement_value": 378806,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 31203,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 811292,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 780089,
+        "market_value": 780089,
+        "land_value": 415853,
+        "improvement_value": 364236,
+        "land_value_percentage": 53.3,
+        "improvement_value_percentage": 46.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 780089,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00300000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00300000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011H00300000000",
+    "comparables": [
+      {
+        "parcel_id": "0028E00237000000",
+        "address": "151 ROBINSON ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "710   5TH AVE  STE 2000",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 884800,
+        "market_value": 884800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0052A00168000000",
+        "address": "406 N NEVILLE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "301   GRANT ST  STE 1250",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 877400,
+        "market_value": 877400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028R00180000000",
+        "address": "3339 WARD ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "518   MELWOOD AVE",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 871300,
+        "market_value": 871300,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028B00131000000",
+        "address": "3531 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "216   OAKLAND AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 900000,
+        "market_value": 900000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028L00101000000",
+        "address": "318 MCKEE PL",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 900000,
+        "market_value": 900000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028A00285000000",
+        "address": "3500 TERRACE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "600   GRANT ST  FL 60",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 862700,
+        "market_value": 862700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

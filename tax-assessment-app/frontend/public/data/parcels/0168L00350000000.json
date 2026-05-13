@@ -174,6 +174,19 @@
     "parcel_id": "0168L00350000000",
     "comparables": [
       {
+        "parcel_id": "0167M00396000000",
+        "address": "411 S MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 7765",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 61400,
+        "market_value": 61400,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0167M00198000000",
         "address": "216 CHURCH ST",
         "city": "Sharpsburg",
@@ -184,7 +197,7 @@
         "assessed_value": 61300,
         "market_value": 61300,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0167M00228000000",
@@ -197,7 +210,7 @@
         "assessed_value": 61700,
         "market_value": 79700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168K00087000000",
@@ -210,7 +223,7 @@
         "assessed_value": 61700,
         "market_value": 61700,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0168L00210000000",
@@ -223,7 +236,7 @@
         "assessed_value": 61300,
         "market_value": 79300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168M00218000000",
@@ -236,19 +249,6 @@
         "assessed_value": 61700,
         "market_value": 79700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0167M00100000000",
-        "address": "218 6TH ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "218   6TH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 61900,
-        "market_value": 79900,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0168J00248000000",
+        "address": "1008 N CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "22   FISCHER AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 91400,
+        "market_value": 91400,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0168K00099000200",
         "address": "1609 MIDDLE ST",
         "city": "Sharpsburg",
@@ -220,7 +233,20 @@
         "assessed_value": 91400,
         "market_value": 91400,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168L00160000000",
+        "address": "1722 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "108   GROVE ST",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 91200,
+        "market_value": 91200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0167M00206000000",
@@ -233,7 +259,7 @@
         "assessed_value": 91000,
         "market_value": 109000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168K00061000000",
@@ -246,32 +272,6 @@
         "assessed_value": 90900,
         "market_value": 90900,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168K00304000000",
-        "address": "205 15TH ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "8   MIDDLE JAM RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 90900,
-        "market_value": 90900,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168M00242000000",
-        "address": "1826 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1826   MIDDLE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 92000,
-        "market_value": 110000,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

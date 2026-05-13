@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0083K00032000000",
+    "address": "5627 RIPPEY ST",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6236   FIFTH AVE  STE 105C",
+    "current_mailing_address": "6236   FIFTH AVE  STE 105C",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:40+ UNITS",
+    "acreage": 0.776,
+    "latitude": 40.46162,
+    "longitude": -79.90768
+  },
+  "assessments": {
+    "parcel_id": "0083K00032000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2375000,
+        "market_value": 2375000,
+        "land_value": 135000,
+        "improvement_value": 2240000,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 105649,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2375000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2269351,
+        "market_value": 2269351,
+        "land_value": 128994,
+        "improvement_value": 2140357,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2269351,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2269351,
+        "market_value": 2269351,
+        "land_value": 128994,
+        "improvement_value": 2140357,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -22923,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2269351,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2292274,
+        "market_value": 2292274,
+        "land_value": 130297,
+        "improvement_value": 2161977,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 109155,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2292274,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2183119,
+        "market_value": 2183119,
+        "land_value": 124093,
+        "improvement_value": 2059026,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 83966,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2183119,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2099153,
+        "market_value": 2099153,
+        "land_value": 119320,
+        "improvement_value": 1979833,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2099153,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083K00032000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083K00032000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jul-19",
+      "most_recent_appeal_date": "8-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29964-2019",
+        "filed_date": "8-Jul-19",
+        "hearing_date": "8-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 914800,
+        "requested_value": 914800,
+        "final_value": 2595800,
+        "value_reduction": 0,
+        "reduction_percentage": -183.76,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083K00032000000",
+    "comparables": [
+      {
+        "parcel_id": "0083P00290000000",
+        "address": "161 N EUCLID AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 2634500,
+        "market_value": 2634500,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083L00154000000",
+        "address": "421 N HIGHLAND AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "401  N HIGHLAND AVE",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 2717200,
+        "market_value": 2717200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084C00254000000",
+        "address": "6017 BROAD ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "700  N BELL AVE",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 2020300,
+        "market_value": 2020300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083B00195000000",
+        "address": "751 N NEGLEY AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "271   PAULSON AVE",
+        "land_use_description": "DAYCARE/PRIVATE SCHOOL",
+        "acreage": null,
+        "assessed_value": 1863200,
+        "market_value": 1863200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082L00180000000",
+        "address": "5799 HAMPTON ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "341  S BELLEFIELD AVE",
+        "land_use_description": "OWNED BY BOARD OF EDUCATION",
+        "acreage": null,
+        "assessed_value": 2935900,
+        "market_value": 2935900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083K00050000000",
+        "address": "430 N NEGLEY AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1215   HULTON RD",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 1804900,
+        "market_value": 1804900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

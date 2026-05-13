@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0050S00286000000",
+    "address": "132 LATHAM ST",
+    "city": "10801",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5738   BAUM BLVD",
+    "current_mailing_address": "5738   BAUM BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.043,
+    "latitude": 40.46318,
+    "longitude": -79.91728
+  },
+  "assessments": {
+    "parcel_id": "0050S00286000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "land_value": 5000,
+        "improvement_value": 15000,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 318,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 19682,
+        "market_value": 19682,
+        "land_value": 4920,
+        "improvement_value": 14762,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -199,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19682,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 19881,
+        "market_value": 19881,
+        "land_value": 4970,
+        "improvement_value": 14911,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 946,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19881,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 18935,
+        "market_value": 18935,
+        "land_value": 4733,
+        "improvement_value": 14202,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 728,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18935,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18207,
+        "market_value": 18207,
+        "land_value": 4551,
+        "improvement_value": 13656,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 530,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18207,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 17677,
+        "market_value": 17677,
+        "land_value": 4419,
+        "improvement_value": 13258,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17677,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050S00286000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050S00286000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050S00286000000",
+    "comparables": [
+      {
+        "parcel_id": "0050S00291000000",
+        "address": "130 LATHAM ST",
+        "city": "10801",
+        "zip_code": "15206",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

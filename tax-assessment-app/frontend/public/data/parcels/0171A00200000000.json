@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0171A00200000000",
+    "address": "209 VIRGINIA AVE",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "209   VIRGINIA AVE",
+    "current_mailing_address": "209   VIRGINIA AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.092,
+    "latitude": 40.51632,
+    "longitude": -79.91908
+  },
+  "assessments": {
+    "parcel_id": "0171A00200000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1900,
+        "market_value": 1900,
+        "land_value": 1900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32,
+        "assessed_value_change_pct": 1.71,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1868,
+        "market_value": 1868,
+        "land_value": 1868,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -19,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1868,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1887,
+        "market_value": 1887,
+        "land_value": 1887,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 89,
+        "assessed_value_change_pct": 4.95,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1887,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1798,
+        "market_value": 1798,
+        "land_value": 1798,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 69,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1798,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1729,
+        "market_value": 1729,
+        "land_value": 1729,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 50,
+        "assessed_value_change_pct": 2.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1729,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1679,
+        "market_value": 1679,
+        "land_value": 1679,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1679,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0171A00200000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0171A00200000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0171A00200000000",
+    "comparables": [
+      {
+        "parcel_id": "0169G00006000000",
+        "address": "1101 CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1101   CENTER AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2100,
+        "market_value": 2100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169L00105000000",
+        "address": "W 8TH ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "101  W 8TH ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1600,
+        "market_value": 1600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170N00008000000",
+        "address": "EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "101   CAMPBELL PL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1600,
+        "market_value": 1600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

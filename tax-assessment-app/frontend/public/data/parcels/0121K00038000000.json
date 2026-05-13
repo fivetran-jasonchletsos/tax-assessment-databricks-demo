@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121L00033000000",
+        "address": "6920 MANISTEE ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "20   TIMBERLANE DR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 68700,
+        "market_value": 68700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0080D00396000000",
         "address": "5262 DUNCAN ST",
         "city": "11003",
@@ -197,7 +210,20 @@
         "assessed_value": 68600,
         "market_value": 86600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120P00043000000",
+        "address": "5719 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5719   MCCANDLESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68600,
+        "market_value": 86600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082E00305000000",
@@ -210,7 +236,7 @@
         "assessed_value": 68600,
         "market_value": 86600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121G00052000000",
@@ -223,32 +249,6 @@
         "assessed_value": 68800,
         "market_value": 68800,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080D00108000000",
-        "address": "5244 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5244   CARNEGIE ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 68500,
-        "market_value": 86500,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081B00268000000",
-        "address": "4299 STANTON AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4299   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 68900,
-        "market_value": 86900,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

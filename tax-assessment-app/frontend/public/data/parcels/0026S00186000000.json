@@ -1,0 +1,178 @@
+{
+  "parcel": {
+    "parcel_id": "0026S00186000000",
+    "address": "4650 BAUM BLVD",
+    "city": "5th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "4101   BROWNSVILLE RD  STE 200",
+    "current_mailing_address": "4101   BROWNSVILLE RD  STE 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 0.059,
+    "latitude": 40.43512,
+    "longitude": -79.95844
+  },
+  "assessments": {
+    "parcel_id": "0026S00186000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "land_value": 5000,
+        "improvement_value": 15000,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1443,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 18557,
+        "market_value": 18557,
+        "land_value": 4639,
+        "improvement_value": 13918,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 183,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18557,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 18374,
+        "market_value": 18374,
+        "land_value": 4593,
+        "improvement_value": 13781,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18374,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 18374,
+        "market_value": 18374,
+        "land_value": 4593,
+        "improvement_value": 13781,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -186,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18374,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18560,
+        "market_value": 18560,
+        "land_value": 4640,
+        "improvement_value": 13920,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 883,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18560,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 17677,
+        "market_value": 17677,
+        "land_value": 4419,
+        "improvement_value": 13258,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17677,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0026S00186000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0026S00186000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0026S00186000000",
+    "comparables": [
+      {
+        "parcel_id": "0010S00111000000",
+        "address": "OAK HILL DR",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 18100,
+        "market_value": 18100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026S00179000000",
+        "address": "346 MELWOOD AVE",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4101   BROWNSVILLE RD  STE 200",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 16500,
+        "market_value": 16500,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026L00029000000",
+        "address": "501 MELWOOD AVE",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1265   SHADY AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 16400,
+        "market_value": 16400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026S00185000000",
+        "address": "4650 BAUM BLVD",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4101   BROWNSVILLE RD  STE 200",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

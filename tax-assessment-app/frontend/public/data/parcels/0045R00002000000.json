@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0045R00002000000",
+    "address": "1111 MARVISTA ST",
+    "city": "21st Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "40   51ST ST",
+    "current_mailing_address": "40   51ST ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 1.282,
+    "latitude": 40.41776,
+    "longitude": -80.069
+  },
+  "assessments": {
+    "parcel_id": "0045R00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 44100,
+        "market_value": 44100,
+        "land_value": 37600,
+        "improvement_value": 6500,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4349,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 39751,
+        "market_value": 39751,
+        "land_value": 33892,
+        "improvement_value": 5859,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 779,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39751,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 38972,
+        "market_value": 38972,
+        "land_value": 33227,
+        "improvement_value": 5745,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 385,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38972,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38587,
+        "market_value": 38587,
+        "land_value": 32899,
+        "improvement_value": 5688,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38587,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 38587,
+        "market_value": 38587,
+        "land_value": 32899,
+        "improvement_value": 5688,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -390,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38587,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 38977,
+        "market_value": 38977,
+        "land_value": 33232,
+        "improvement_value": 5745,
+        "land_value_percentage": 85.3,
+        "improvement_value_percentage": 14.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38977,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045R00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045R00002000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0045R00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0007M00177000000",
+        "address": "1213 REEDSDALE ST",
+        "city": "21st Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 41600,
+        "market_value": 41600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

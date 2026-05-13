@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0252L00210000000",
+    "address": "110 IROQUOIS DR",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "63259   BOYD ACRES RD",
+    "current_mailing_address": "63259   BOYD ACRES RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.208,
+    "latitude": 40.35856,
+    "longitude": -80.0415
+  },
+  "assessments": {
+    "parcel_id": "0252L00210000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 191000,
+        "market_value": 191000,
+        "land_value": 81000,
+        "improvement_value": 110000,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4704,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 191000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 186296,
+        "market_value": 186296,
+        "land_value": 79005,
+        "improvement_value": 107291,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7165,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186296,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 179131,
+        "market_value": 179131,
+        "land_value": 75966,
+        "improvement_value": 103165,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5217,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 179131,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 173914,
+        "market_value": 173914,
+        "land_value": 73754,
+        "improvement_value": 100160,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3410,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173914,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 170504,
+        "market_value": 170504,
+        "land_value": 72307,
+        "improvement_value": 98197,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1688,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 170504,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 168816,
+        "market_value": 168816,
+        "land_value": 71592,
+        "improvement_value": 97224,
+        "land_value_percentage": 42.4,
+        "improvement_value_percentage": 57.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 168816,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0252L00210000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0252L00210000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 36100,
+      "total_value_reduction": 36100,
+      "first_appeal_date": "11-May-15",
+      "most_recent_appeal_date": "11-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-4037-2015",
+        "filed_date": "11-May-15",
+        "hearing_date": "11-May-15",
+        "appeal_status": "approved",
+        "original_value": 227100,
+        "requested_value": 227100,
+        "final_value": 191000,
+        "value_reduction": 36100,
+        "reduction_percentage": 15.9,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0252L00210000000",
+    "comparables": [
+      {
+        "parcel_id": "0140P00152000000",
+        "address": "517 MILBETH DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "517   MILBETH DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191000,
+        "market_value": 209000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0141J00025160800",
+        "address": "750 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "750   WASHINGTON RD  APT 1608",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 191000,
+        "market_value": 209000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0192K00040000000",
+        "address": "354 ORCHARD DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "354   ORCHARD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191000,
+        "market_value": 209000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0140F00088000000",
+        "address": "422 OLD FARM RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "422   OLD FARM RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190900,
+        "market_value": 208900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0192B00171000000",
+        "address": "250 JEFFERSON DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "250   JEFFERSON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191100,
+        "market_value": 209100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0192D00324000000",
+        "address": "308 ANAWANDA AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "765   PINOAK DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 191100,
+        "market_value": 191100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

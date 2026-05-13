@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0083N00281000000",
+    "address": "5585 PENN AVE",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "626   WASHINGTON PL",
+    "current_mailing_address": "626   WASHINGTON PL",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "BANK",
+    "acreage": 0.41,
+    "latitude": 40.4627,
+    "longitude": -79.92376
+  },
+  "assessments": {
+    "parcel_id": "0083N00281000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 573200,
+        "market_value": 573200,
+        "land_value": 114500,
+        "improvement_value": 458700,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 56496,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 573200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 516704,
+        "market_value": 516704,
+        "land_value": 103214,
+        "improvement_value": 413490,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10131,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 516704,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 506573,
+        "market_value": 506573,
+        "land_value": 101190,
+        "improvement_value": 405383,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5015,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 506573,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 501558,
+        "market_value": 501558,
+        "land_value": 100189,
+        "improvement_value": 401369,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 501558,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 501558,
+        "market_value": 501558,
+        "land_value": 100189,
+        "improvement_value": 401369,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5067,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 501558,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 506625,
+        "market_value": 506625,
+        "land_value": 101201,
+        "improvement_value": 405424,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 506625,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083N00281000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083N00281000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jul-16",
+      "most_recent_appeal_date": "15-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8944-2016",
+        "filed_date": "15-Jul-16",
+        "hearing_date": "15-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 1460000,
+        "requested_value": 1460000,
+        "final_value": 1460000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083N00281000000",
+    "comparables": [
+      {
+        "parcel_id": "0084B00024000000",
+        "address": "5901 PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "317  E CARSON ST  STE 146",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 575000,
+        "market_value": 575000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083D00138000000",
+        "address": "924 FARRAGUT ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1001  N NEGLEY AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 590000,
+        "market_value": 590000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084B00036000000",
+        "address": "5921 PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "4749   BAUM BLVD",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 591900,
+        "market_value": 591900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083K00806000000",
+        "address": "5712 EAST LIBERTY BLVD",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 600000,
+        "market_value": 600000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083P00051000000",
+        "address": "5914 STATION ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1101   MONROE ST",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 600000,
+        "market_value": 600000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083K00060000000",
+        "address": "322 N NEGLEY AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "25   OAK HILL RD",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 545000,
+        "market_value": 545000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

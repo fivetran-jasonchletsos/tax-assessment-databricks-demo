@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0076K00212000000",
+    "address": "ROTHPLETZ ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2402   MORTON ST",
+    "current_mailing_address": "2402   MORTON ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.0,
+    "latitude": 40.41776,
+    "longitude": -80.06864
+  },
+  "assessments": {
+    "parcel_id": "0076K00212000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100,
+        "market_value": 100,
+        "land_value": 100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12,
+        "assessed_value_change_pct": 13.64,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 88,
+        "market_value": 88,
+        "land_value": 88,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1,
+        "assessed_value_change_pct": 1.15,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 87,
+        "market_value": 87,
+        "land_value": 87,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 87,
+        "market_value": 87,
+        "land_value": 87,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 87,
+        "market_value": 87,
+        "land_value": 87,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1,
+        "assessed_value_change_pct": -1.14,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88,
+        "market_value": 88,
+        "land_value": 88,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076K00212000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076K00212000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0076K00212000000",
+    "comparables": [
+      {
+        "parcel_id": "0045K00084000000",
+        "address": "1112 MARSHALL AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "480   GAY RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075S00143000B00",
+        "address": "MCCLURE AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1735  E CARSON ST  STE 138",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": 2.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088L00016000000",
+        "address": "3240 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3240   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 280100,
+        "market_value": 298100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088C00226000000",
+        "address": "6609 LANDVIEW RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6609   LANDVIEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 280200,
+        "market_value": 280200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086K00216000000",
         "address": "5604 FORBES AVE",
         "city": "11402",
@@ -145,7 +171,20 @@
         "assessed_value": 280300,
         "market_value": 280300,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0125N00067000000",
+        "address": "200 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "200   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 278900,
+        "market_value": 296900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086J00080000000",
@@ -158,45 +197,6 @@
         "assessed_value": 280900,
         "market_value": 298900,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087L00061000000",
-        "address": "5826 MORROWFIELD AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5826   MORROWFIELD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 280900,
-        "market_value": 298900,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087K00091000000",
-        "address": "5808 MORROWFIELD AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5808   MORROWFIELD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 281400,
-        "market_value": 299400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086J00020000000",
-        "address": "5549 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5549   BARTLETT ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 277700,
-        "market_value": 295700,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

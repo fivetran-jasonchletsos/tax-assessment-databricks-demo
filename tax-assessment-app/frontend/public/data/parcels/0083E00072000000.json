@@ -122,6 +122,19 @@
     "parcel_id": "0083E00072000000",
     "comparables": [
       {
+        "parcel_id": "0050D00029000000",
+        "address": "N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 44100,
+        "market_value": 44100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083E00208000000",
         "address": "COLUMBO ST",
         "city": "11103",
@@ -132,7 +145,7 @@
         "assessed_value": 44000,
         "market_value": 44000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083E00284000000",
@@ -145,7 +158,7 @@
         "assessed_value": 44000,
         "market_value": 44000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083K00111000000",
@@ -158,7 +171,7 @@
         "assessed_value": 44000,
         "market_value": 44000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083M00331000000",
@@ -171,7 +184,7 @@
         "assessed_value": 44000,
         "market_value": 44000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0084D00182000000",
@@ -184,19 +197,6 @@
         "assessed_value": 44200,
         "market_value": 62200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083G00136000000",
-        "address": "739 N BEATTY ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "739  N BEATTY ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 44300,
-        "market_value": 62300,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

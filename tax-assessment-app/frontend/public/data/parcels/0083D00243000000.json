@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0124A00050000000",
+        "address": "6368 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6368   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283000,
+        "market_value": 283000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082P00053000000",
         "address": "5545 AVONDALE PL",
         "city": "11102",
@@ -197,7 +210,33 @@
         "assessed_value": 282000,
         "market_value": 300000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00217000000",
+        "address": "1130 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1130   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 285100,
+        "market_value": 303100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124E00102000000",
+        "address": "6401 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6401   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 285200,
+        "market_value": 303200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082F00195000000",
@@ -210,45 +249,6 @@
         "assessed_value": 285400,
         "market_value": 303400,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082L00311000000",
-        "address": "5710 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5710   ELGIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 279400,
-        "market_value": 297400,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00178000000",
-        "address": "5630 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1305  N HIGHLAND AVE  APT 3",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 277900,
-        "market_value": 277900,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082F00135000000",
-        "address": "1315 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1315   KING AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 277100,
-        "market_value": 295100,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

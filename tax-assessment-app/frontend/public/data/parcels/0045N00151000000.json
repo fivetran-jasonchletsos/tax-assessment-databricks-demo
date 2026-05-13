@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045N00151000000",
+    "address": "2334 ATMORE ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "205  S FAIRMOUNT ST",
+    "current_mailing_address": "205  S FAIRMOUNT ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.057,
+    "latitude": 40.41788,
+    "longitude": -80.06624
+  },
+  "assessments": {
+    "parcel_id": "0045N00151000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 21900,
+        "market_value": 21900,
+        "land_value": 10000,
+        "improvement_value": 11900,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1363,
+        "assessed_value_change_pct": 6.64,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 20537,
+        "market_value": 20537,
+        "land_value": 9377,
+        "improvement_value": 11160,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 598,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20537,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 19939,
+        "market_value": 19939,
+        "land_value": 9104,
+        "improvement_value": 10835,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 390,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19939,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 19549,
+        "market_value": 19549,
+        "land_value": 8926,
+        "improvement_value": 10623,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 193,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19549,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 19356,
+        "market_value": 19356,
+        "land_value": 8838,
+        "improvement_value": 10518,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19356,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 19356,
+        "market_value": 19356,
+        "land_value": 8838,
+        "improvement_value": 10518,
+        "land_value_percentage": 45.7,
+        "improvement_value_percentage": 54.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19356,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045N00151000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045N00151000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 7800,
+      "total_value_reduction": 7800,
+      "first_appeal_date": "22-Jun-18",
+      "most_recent_appeal_date": "22-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22723-2018",
+        "filed_date": "22-Jun-18",
+        "hearing_date": "22-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 29700,
+        "requested_value": 29700,
+        "final_value": 21900,
+        "value_reduction": 7800,
+        "reduction_percentage": 26.26,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045N00151000000",
+    "comparables": [
+      {
+        "parcel_id": "0044H00107000000",
+        "address": "1506 WOODLAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1800   MURRAY AVE  UNIT 81865",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 21900,
+        "market_value": 21900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0045A00252000000",
+        "address": "1233 DICKSON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "4038   PENN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 21900,
+        "market_value": 21900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045A00310000000",
+        "address": "2823 BREKER ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "4101   BROWNSVILLE RD  STE 200",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 21900,
+        "market_value": 21900,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0076K00361000000",
+        "address": "158 RIVERVIEW AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 21900,
+        "market_value": 21900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0044D00160000000",
+        "address": "1426 FORSYTHE ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1426   FORSYTHE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 22000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045B00224000000",
+        "address": "2715 BRIGHTON RD",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2715   BRIGHTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 22000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0087H00019000000",
     "comparables": [
       {
+        "parcel_id": "0088D00268000000",
+        "address": "2856 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "792   RUBRIGHT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97300,
+        "market_value": 97300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086P00057000000",
         "address": "5552 BEACON ST",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 97400,
         "market_value": 115400,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00271000000",
+        "address": "2852 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "867 1/2  FLEMINGTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97400,
+        "market_value": 97400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00231000000",
@@ -197,7 +223,7 @@
         "assessed_value": 97500,
         "market_value": 115500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087E00015000000",
@@ -210,7 +236,7 @@
         "assessed_value": 97000,
         "market_value": 115000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00061000000",
@@ -223,32 +249,6 @@
         "assessed_value": 97000,
         "market_value": 115000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087F00167000000",
-        "address": "2245 WIGHTMAN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2245   WIGHTMAN ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 97000,
-        "market_value": 115000,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086P00082000000",
-        "address": "2015 WIGHTMAN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6236   5TH AVE  STE 105-C",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 98000,
-        "market_value": 98000,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

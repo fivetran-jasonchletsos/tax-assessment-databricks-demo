@@ -174,6 +174,19 @@
     "parcel_id": "0192B00177000000",
     "comparables": [
       {
+        "parcel_id": "0141E00101000000",
+        "address": "688 FLORIDA AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "PO BOX 14935",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 280400,
+        "market_value": 280400,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141P00383000000",
         "address": "40 HAZEL DR",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 280400,
         "market_value": 298400,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0193G00286000000",
@@ -197,7 +210,33 @@
         "assessed_value": 280500,
         "market_value": 280500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252C00226000000",
+        "address": "181 WOODHAVEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "181   WOODHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 280500,
+        "market_value": 298500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252G00232000000",
+        "address": "196 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "196   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 280300,
+        "market_value": 298300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0192A00172000000",
@@ -210,45 +249,6 @@
         "assessed_value": 280200,
         "market_value": 298200,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0192B00168000000",
-        "address": "246 JEFFERSON DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "246   JEFFERSON DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 280200,
-        "market_value": 298200,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193L00020000000",
-        "address": "189 MAYFAIR DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "189   MAYFAIR DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 280200,
-        "market_value": 298200,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141N00057000000",
-        "address": "31 HAZEL DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "31   HAZEL DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 280000,
-        "market_value": 298000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0085S00227000000",
     "comparables": [
       {
+        "parcel_id": "0127A00147000000",
+        "address": "6604 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "673   LORETTA ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 154000,
+        "market_value": 154000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086H00175000A00",
         "address": "1628 DENNISTON ST",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 154300,
         "market_value": 172300,
         "assessed_value_change_pct": 1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0127A00008000000",
+        "address": "1451 SEVERN ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1451   SEVERN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 153700,
+        "market_value": 171700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086H00278000900",
@@ -197,7 +223,7 @@
         "assessed_value": 154600,
         "market_value": 154600,
         "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085N00274000000",
@@ -210,7 +236,7 @@
         "assessed_value": 154700,
         "market_value": 172700,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085N00227000000",
@@ -223,32 +249,6 @@
         "assessed_value": 153200,
         "market_value": 153200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086B00257000000",
-        "address": "5644 SOLWAY ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5644   SOLWAY ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 153200,
-        "market_value": 153200,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086H00172000000",
-        "address": "1634 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1634   DENNISTON ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 153100,
-        "market_value": 171100,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

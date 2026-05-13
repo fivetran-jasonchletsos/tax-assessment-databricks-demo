@@ -174,6 +174,19 @@
     "parcel_id": "0120L00172000000",
     "comparables": [
       {
+        "parcel_id": "0120S00244000000",
+        "address": "4715 STANTON CT N",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "4715   STANTON CT N",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89700,
+        "market_value": 107700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0120M00202000000",
         "address": "1518 SIMONA DR",
         "city": "11001",
@@ -184,7 +197,46 @@
         "assessed_value": 89900,
         "market_value": 107900,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120R00292000000",
+        "address": "1044 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "219   CHAPEL CREST TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89400,
+        "market_value": 89400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120S00147000000",
+        "address": "1402 HAWTHORNE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1402   HAWTHORNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90000,
+        "market_value": 108000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121E00134000000",
+        "address": "114 HAWTHORNE CT",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1548   TRINITY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90000,
+        "market_value": 90000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121J00180000000",
@@ -197,58 +249,6 @@
         "assessed_value": 89300,
         "market_value": 107300,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0120M00323000000",
-        "address": "1513 WOODBINE ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "32   CAMBRIA POINT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89100,
-        "market_value": 89100,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121E00155000000",
-        "address": "6425 ADELPHIA ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1203   SUGARLAND VALLEY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 90300,
-        "market_value": 90300,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081D00175000000",
-        "address": "170 STANTON CT E",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "170   STANTON CT E",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89000,
-        "market_value": 89000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120M00242000000",
-        "address": "1511 SIMONA DR",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1511   SIMONA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89000,
-        "market_value": 107000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

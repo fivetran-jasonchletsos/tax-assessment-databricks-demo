@@ -174,6 +174,19 @@
     "parcel_id": "0522S00147000000",
     "comparables": [
       {
+        "parcel_id": "0617S00062000000",
+        "address": "2316 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2318   MIDDLE RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 252900,
+        "market_value": 252900,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0436F00064000000",
         "address": "400 FRANCIONI LN",
         "city": "Indiana",
@@ -184,7 +197,7 @@
         "assessed_value": 250900,
         "market_value": 268900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0436J00314000000",
@@ -197,7 +210,20 @@
         "assessed_value": 250800,
         "market_value": 268800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0617S00122000000",
+        "address": "2301 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2301   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 257300,
+        "market_value": 275300,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0435D00048000000",
@@ -210,7 +236,7 @@
         "assessed_value": 249300,
         "market_value": 249300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0436J00222000000",
@@ -223,32 +249,6 @@
         "assessed_value": 245000,
         "market_value": 263000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0523E00278000000",
-        "address": "111 WOODS RUN RD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "111   WOODS RUN RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 262000,
-        "market_value": 280000,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0435H00223000000",
-        "address": "1809 MIDDLE RD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "1809   MIDDLE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263000,
-        "market_value": 281000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

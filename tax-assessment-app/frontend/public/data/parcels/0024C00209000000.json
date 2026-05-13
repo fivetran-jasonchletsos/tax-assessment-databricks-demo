@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0024C00209000000",
+    "address": "1286 SPRING GARDEN AVE",
+    "city": "Ward 24 - Spring Hill-city View",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1308   SPRING GARDEN AVE",
+    "current_mailing_address": "1308   SPRING GARDEN AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+    "acreage": 0.352,
+    "latitude": 40.41668,
+    "longitude": -80.06888
+  },
+  "assessments": {
+    "parcel_id": "0024C00209000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 539300,
+        "market_value": 539300,
+        "land_value": 12900,
+        "improvement_value": 526400,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23992,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 539300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 515308,
+        "market_value": 515308,
+        "land_value": 12326,
+        "improvement_value": 502982,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 515308,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 515308,
+        "market_value": 515308,
+        "land_value": 12326,
+        "improvement_value": 502982,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5206,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 515308,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 520514,
+        "market_value": 520514,
+        "land_value": 12450,
+        "improvement_value": 508064,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24786,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 520514,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 495728,
+        "market_value": 495728,
+        "land_value": 11857,
+        "improvement_value": 483871,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19066,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 495728,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 476662,
+        "market_value": 476662,
+        "land_value": 11401,
+        "improvement_value": 465261,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 476662,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024C00209000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024C00209000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0024C00209000000",
+    "comparables": [
+      {
+        "parcel_id": "0048N00010000000",
+        "address": "1800 LEY ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1622   LOWRY ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 536200,
+        "market_value": 536200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0048N00060000000",
+        "address": "1717 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "554   HAZELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 488100,
+        "market_value": 488100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

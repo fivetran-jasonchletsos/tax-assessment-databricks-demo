@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023R00005000000",
+    "address": "8 ALLEGHENY CENTER",
+    "city": "22nd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1   ALLEGHENY SQ  STE 300",
+    "current_mailing_address": "1   ALLEGHENY SQ  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:40+ UNITS",
+    "acreage": 2.011,
+    "latitude": 40.41764,
+    "longitude": -80.06708
+  },
+  "assessments": {
+    "parcel_id": "0023R00005000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 7360000,
+        "market_value": 7360000,
+        "land_value": 600000,
+        "improvement_value": 6760000,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 530259,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7360000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 6829741,
+        "market_value": 6829741,
+        "land_value": 556772,
+        "improvement_value": 6272969,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 67621,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6829741,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 6762120,
+        "market_value": 6762120,
+        "land_value": 551259,
+        "improvement_value": 6210861,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6762120,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 6762120,
+        "market_value": 6762120,
+        "land_value": 551259,
+        "improvement_value": 6210861,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -68305,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6762120,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 6830425,
+        "market_value": 6830425,
+        "land_value": 556828,
+        "improvement_value": 6273597,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 325258,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6830425,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6505167,
+        "market_value": 6505167,
+        "land_value": 530312,
+        "improvement_value": 5974855,
+        "land_value_percentage": 8.2,
+        "improvement_value_percentage": 91.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6505167,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023R00005000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023R00005000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Jun-16",
+      "most_recent_appeal_date": "1-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8179-2016",
+        "filed_date": "1-Jun-16",
+        "hearing_date": "1-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 3375000,
+        "requested_value": 3375000,
+        "final_value": 7360000,
+        "value_reduction": 0,
+        "reduction_percentage": -118.07,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023R00005000000",
+    "comparables": [
+      {
+        "parcel_id": "0008K00015000000",
+        "address": "316 NORTH SHORE DR",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3400   SOUTH WATER ST",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 7437300,
+        "market_value": 7437300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023L00060000000",
+        "address": "1205 FEDERAL ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 30428",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 7575800,
+        "market_value": 7575800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0008D00050000000",
+        "address": "255 E OHIO ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "17782   SKY PARK CIR",
+        "land_use_description": "HUD PROJ #236",
+        "acreage": null,
+        "assessed_value": 6985000,
+        "market_value": 6985000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0008K00037000000",
+        "address": "220 NORTH SHORE DR",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3400  S WATER ST",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 6932400,
+        "market_value": 6932400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008H00223000000",
+        "address": "117 SANDUSKY ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "4400   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 7974300,
+        "market_value": 7974300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023R00157000000",
+        "address": "6 ALLEGHENY SQ E",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 215",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 8041900,
+        "market_value": 8041900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

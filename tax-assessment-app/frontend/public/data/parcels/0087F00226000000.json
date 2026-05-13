@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0128J00184000000",
+        "address": "6632 FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1223   COUNTRY OAK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 218200,
+        "market_value": 218200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087B00059000000",
         "address": "2146 WIGHTMAN ST",
         "city": "11403",
@@ -197,7 +210,7 @@
         "assessed_value": 218300,
         "market_value": 218300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00127000000",
@@ -210,7 +223,20 @@
         "assessed_value": 218300,
         "market_value": 218300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087M00253000000",
+        "address": "6443 FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1316   PINECREST DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 218300,
+        "market_value": 218300,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087D00113000000",
@@ -223,32 +249,6 @@
         "assessed_value": 218000,
         "market_value": 218000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087D00269000000",
-        "address": "6315 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6315   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 218400,
-        "market_value": 218400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00142000000",
-        "address": "5453 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5453   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 217800,
-        "market_value": 235800,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

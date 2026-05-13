@@ -174,6 +174,19 @@
     "parcel_id": "0169G00370000000",
     "comparables": [
       {
+        "parcel_id": "0122C00162000000",
+        "address": "135 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "107   WHITE GATE RD",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 352400,
+        "market_value": 352400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0169R00092000000",
         "address": "121 4TH ST",
         "city": "Aspinwall",
@@ -184,7 +197,7 @@
         "assessed_value": 352200,
         "market_value": 370200,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169S00207000000",
@@ -197,7 +210,7 @@
         "assessed_value": 352200,
         "market_value": 370200,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0171A00219000000",
@@ -210,7 +223,7 @@
         "assessed_value": 352000,
         "market_value": 370000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0171E00012000000",
@@ -223,7 +236,7 @@
         "assessed_value": 352000,
         "market_value": 370000,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0169C00016000000",
@@ -236,19 +249,6 @@
         "assessed_value": 355300,
         "market_value": 373300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0171A00098000000",
-        "address": "129 LEXINGTON AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "129   LEXINGTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 351000,
-        "market_value": 369000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

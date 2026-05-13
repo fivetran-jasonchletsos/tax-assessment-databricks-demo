@@ -210,6 +210,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0167M00301000000",
+        "address": "702 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "702   MAIN ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167M00401000000",
+        "address": "401 S MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1597   WASHINGTON PIKE  STE A-38-206",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0167L00127000000",
         "address": "112 N MAIN ST",
         "city": "Sharpsburg",
@@ -220,7 +246,20 @@
         "assessed_value": 85700,
         "market_value": 85700,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168L00130000000",
+        "address": "1701 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1315   MAIN ST",
+        "land_use_description": "AUTO SERV STATION",
+        "acreage": null,
+        "assessed_value": 85700,
+        "market_value": 85700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0169J00015000000",
@@ -233,45 +272,6 @@
         "assessed_value": 85700,
         "market_value": 85700,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0168L00186000000",
-        "address": "1711 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1711   MIDDLE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 85800,
-        "market_value": 103800,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168K00079000000",
-        "address": "1414 MAIN ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1414   MAIN ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 85900,
-        "market_value": 103900,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168K00337000000",
-        "address": "1333 S CANAL ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "PO BOX 7765",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 84700,
-        "market_value": 84700,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

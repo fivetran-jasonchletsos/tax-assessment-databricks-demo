@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123E00016000000",
+        "address": "1368 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1   HOME CAMPUS",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 268000,
+        "market_value": 268000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0083D00273000000",
         "address": "6121 JACKSON ST",
         "city": "11101",
@@ -197,7 +210,20 @@
         "assessed_value": 269200,
         "market_value": 287200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123J00109000000",
+        "address": "1331 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1331   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267800,
+        "market_value": 285800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082H00282000000",
@@ -210,45 +236,19 @@
         "assessed_value": 267300,
         "market_value": 285300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082H00290000000",
-        "address": "1453 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1453  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 267200,
-        "market_value": 285200,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00034000000",
-        "address": "938 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "938  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 267200,
-        "market_value": 267200,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082S00207000000",
-        "address": "20 SHERIDAN CT",
+        "parcel_id": "0124A00194000000",
+        "address": "957 WELLESLEY RD",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "20   SHERIDAN CT",
+        "current_owner_name": "957   WELLESLEY RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 266800,
-        "market_value": 266800,
-        "assessed_value_change_pct": -1.1,
+        "assessed_value": 267300,
+        "market_value": 267300,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

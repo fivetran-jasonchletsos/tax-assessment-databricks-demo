@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0127J00143000000",
+        "address": "6510 DARLINGTON RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6510   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 336000,
+        "market_value": 354000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0085J00191000000",
         "address": "5426 KIPLING RD",
         "city": "11401",
@@ -210,7 +223,20 @@
         "assessed_value": 336100,
         "market_value": 354100,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088D00044000000",
+        "address": "124 GILDA AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "124   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 336100,
+        "market_value": 354100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085R00104000000",
@@ -223,32 +249,6 @@
         "assessed_value": 335600,
         "market_value": 353600,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085K00105000000",
-        "address": "5711 LYNNE HAVEN RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5711   LYNNE HAVEN RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 335500,
-        "market_value": 353500,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086M00218000000",
-        "address": "6424 DARLINGTON RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "6580   BEACON ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 336600,
-        "market_value": 336600,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

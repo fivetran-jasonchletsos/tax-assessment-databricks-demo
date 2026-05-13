@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0083S00250000000",
+    "address": "130 LARIMER AVE",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "211  N WHITFIELD ST  STE 204",
+    "current_mailing_address": "211  N WHITFIELD ST  STE 204",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.143,
+    "latitude": 40.46282,
+    "longitude": -79.9252
+  },
+  "assessments": {
+    "parcel_id": "0083S00250000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 325,
+        "market_value": 325,
+        "land_value": 300,
+        "improvement_value": 25,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23,
+        "assessed_value_change_pct": 7.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 325,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 302,
+        "market_value": 302,
+        "land_value": 278,
+        "improvement_value": 24,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8,
+        "assessed_value_change_pct": 2.72,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 302,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 294,
+        "market_value": 294,
+        "land_value": 271,
+        "improvement_value": 23,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5,
+        "assessed_value_change_pct": 1.73,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 294,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 289,
+        "market_value": 289,
+        "land_value": 266,
+        "improvement_value": 23,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2,
+        "assessed_value_change_pct": 0.7,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 289,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 287,
+        "market_value": 287,
+        "land_value": 264,
+        "improvement_value": 23,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 287,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 287,
+        "market_value": 287,
+        "land_value": 264,
+        "improvement_value": 23,
+        "land_value_percentage": 92.3,
+        "improvement_value_percentage": 7.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 287,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083S00250000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083S00250000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083S00250000000",
+    "comparables": [
+      {
+        "parcel_id": "0084D00261001000",
+        "address": "BROAD ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 300,
+        "market_value": 300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

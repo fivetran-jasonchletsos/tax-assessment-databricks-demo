@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0192P00076000000",
+        "address": "115 MOUNT LEBANON BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "3620   CENTERVIEW RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 224800,
+        "market_value": 224800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0192F00012000000",
         "address": "285 PARKWAY DR",
         "city": "Mt.lebanon",
@@ -197,7 +210,20 @@
         "assessed_value": 224700,
         "market_value": 242700,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0251R00204000000",
+        "address": "121 STILWELL CT",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "121   STILWELL CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 224700,
+        "market_value": 242700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0140A00248000000",
@@ -210,7 +236,7 @@
         "assessed_value": 224600,
         "market_value": 242600,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0140P00214000000",
@@ -223,32 +249,6 @@
         "assessed_value": 225000,
         "market_value": 225000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0251J00008000000",
-        "address": "1406 WASHINGTON RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "1406   WASHINGTON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 225000,
-        "market_value": 225000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141P00044000000",
-        "address": "250 ASHLAND AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "250   ASHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 225100,
-        "market_value": 243100,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

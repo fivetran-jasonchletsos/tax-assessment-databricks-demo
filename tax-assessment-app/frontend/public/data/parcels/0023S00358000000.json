@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00358000000",
+    "address": "JAMES ST",
+    "city": "Ward 23 - East Allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3042   ENTERPRISE DR  STE 101",
+    "current_mailing_address": "3042   ENTERPRISE DR  STE 101",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.025,
+    "latitude": 40.41908,
+    "longitude": -80.0786
+  },
+  "assessments": {
+    "parcel_id": "0023S00358000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "land_value": 2000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34,
+        "assessed_value_change_pct": 1.73,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1966,
+        "market_value": 1966,
+        "land_value": 1966,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -20,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1966,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1986,
+        "market_value": 1986,
+        "land_value": 1986,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 94,
+        "assessed_value_change_pct": 4.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1986,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1892,
+        "market_value": 1892,
+        "land_value": 1892,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 72,
+        "assessed_value_change_pct": 3.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1892,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1820,
+        "market_value": 1820,
+        "land_value": 1820,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 53,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1820,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1767,
+        "market_value": 1767,
+        "land_value": 1767,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1767,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00358000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00358000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-19",
+      "most_recent_appeal_date": "10-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29156-2019",
+        "filed_date": "10-Jun-19",
+        "hearing_date": "10-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 2000,
+        "requested_value": 2000,
+        "final_value": 2000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023S00358000000",
+    "comparables": [
+      {
+        "parcel_id": "0023H00193000000",
+        "address": "DUNLOE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6666",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023H00194000000",
+        "address": "DUNLOE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6666",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023H00195000000",
+        "address": "DUNLOE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "P O BOX 6666",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023H00196000000",
+        "address": "DUNLOE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6666",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023H00197000000",
+        "address": "DUNLOE ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6666",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023M00199000B00",
+        "address": "TRIPOLI ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "418   TRIPOLI ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": 2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

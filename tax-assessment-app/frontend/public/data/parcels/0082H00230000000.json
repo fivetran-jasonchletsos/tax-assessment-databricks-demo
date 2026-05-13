@@ -135,6 +135,45 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123N00010000000",
+        "address": "1212 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1212  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 460400,
+        "market_value": 478400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123E00102000000",
+        "address": "6049 BUNKERHILL ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6049   BUNKERHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 462600,
+        "market_value": 462600,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124A00272000000",
+        "address": "1000 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1000   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 464400,
+        "market_value": 482400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0082H00224000000",
         "address": "1421 GREYSTONE DR",
         "city": "11101",
@@ -145,7 +184,7 @@
         "assessed_value": 457000,
         "market_value": 475000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082H00310000000",
@@ -158,45 +197,6 @@
         "assessed_value": 457000,
         "market_value": 475000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082M00294000000",
-        "address": "1218 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1218   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 450900,
-        "market_value": 468900,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082S00318000000",
-        "address": "1000 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1000  N SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 450200,
-        "market_value": 468200,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00267000000",
-        "address": "1422 GREYSTONE DR",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1422   GREYSTONE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 448700,
-        "market_value": 466700,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

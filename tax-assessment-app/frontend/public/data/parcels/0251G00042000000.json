@@ -174,6 +174,19 @@
     "parcel_id": "0251G00042000000",
     "comparables": [
       {
+        "parcel_id": "0141K00285000000",
+        "address": "211 BUCHANAN PL",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1823   PENN AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 221900,
+        "market_value": 221900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0193K00108000000",
         "address": "1150 CEDAR BLVD",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 221900,
         "market_value": 239900,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251G00066000000",
@@ -197,7 +210,7 @@
         "assessed_value": 221900,
         "market_value": 239900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0140J00160000000",
@@ -210,7 +223,7 @@
         "assessed_value": 222000,
         "market_value": 240000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0142D00336000000",
@@ -223,7 +236,7 @@
         "assessed_value": 222000,
         "market_value": 240000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0193R00248000000",
@@ -236,19 +249,6 @@
         "assessed_value": 222000,
         "market_value": 240000,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0251A00246000000",
-        "address": "15 MOUNT LEBANON BLVD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "15   MOUNT LEBANON BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 222000,
-        "market_value": 240000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

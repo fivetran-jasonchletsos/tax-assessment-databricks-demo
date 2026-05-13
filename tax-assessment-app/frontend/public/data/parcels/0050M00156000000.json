@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0050M00156000000",
+    "address": "5422 KINCAID ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "4124   BUTLER ST  STE A",
+    "current_mailing_address": "4124   BUTLER ST  STE A",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.02,
+    "latitude": 40.46198,
+    "longitude": -79.92508
+  },
+  "assessments": {
+    "parcel_id": "0050M00156000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 12000,
+        "market_value": 12000,
+        "land_value": 2000,
+        "improvement_value": 10000,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 747,
+        "assessed_value_change_pct": 6.64,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 11253,
+        "market_value": 11253,
+        "land_value": 1875,
+        "improvement_value": 9378,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 327,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11253,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 10926,
+        "market_value": 10926,
+        "land_value": 1821,
+        "improvement_value": 9105,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 214,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10926,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 10712,
+        "market_value": 10712,
+        "land_value": 1785,
+        "improvement_value": 8927,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 106,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10712,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 10606,
+        "market_value": 10606,
+        "land_value": 1767,
+        "improvement_value": 8839,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10606,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 10606,
+        "market_value": 10606,
+        "land_value": 1767,
+        "improvement_value": 8839,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10606,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050M00156000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050M00156000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050M00156000000",
+    "comparables": [
+      {
+        "parcel_id": "0083A00057000000",
+        "address": "5403 BLACK ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5403   BLACK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 12000,
+        "market_value": 30000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050M00255000000",
+        "address": "KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5441   KINCAID ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12100,
+        "market_value": 12100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050M00156000C00",
+        "address": "5416 KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "4124   BUTLER ST  STE A",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 11800,
+        "market_value": 11800,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050M00194000000",
+        "address": "N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "7227   TRAVELLA BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12200,
+        "market_value": 12200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050M00257000000",
+        "address": "5445 KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5445   KINCAID ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 11800,
+        "market_value": 11800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083H00058000000",
+        "address": "711 COLLINS AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "711   COLLINS AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 11800,
+        "market_value": 29800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

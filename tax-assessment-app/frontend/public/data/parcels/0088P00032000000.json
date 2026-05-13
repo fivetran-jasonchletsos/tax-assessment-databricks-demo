@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0088P00032000000",
+    "address": "BROWNS HILL RD",
+    "city": "11501",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "507   GREENFIELD AVE",
+    "current_mailing_address": "507   GREENFIELD AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.11,
+    "latitude": 40.42132,
+    "longitude": -79.90958
+  },
+  "assessments": {
+    "parcel_id": "0088P00032000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "land_value": 2000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 127,
+        "assessed_value_change_pct": 6.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1873,
+        "market_value": 1873,
+        "land_value": 1873,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 54,
+        "assessed_value_change_pct": 2.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1873,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1819,
+        "market_value": 1819,
+        "land_value": 1819,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35,
+        "assessed_value_change_pct": 1.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1819,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1784,
+        "market_value": 1784,
+        "land_value": 1784,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17,
+        "assessed_value_change_pct": 0.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1784,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1767,
+        "market_value": 1767,
+        "land_value": 1767,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1767,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1767,
+        "market_value": 1767,
+        "land_value": 1767,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1767,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088P00032000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088P00032000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 26800,
+      "total_value_reduction": 26800,
+      "first_appeal_date": "23-Jun-17",
+      "most_recent_appeal_date": "23-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16436-2017",
+        "filed_date": "23-Jun-17",
+        "hearing_date": "23-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 28800,
+        "requested_value": 28800,
+        "final_value": 2000,
+        "value_reduction": 26800,
+        "reduction_percentage": 93.06,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088P00032000000",
+    "comparables": [
+      {
+        "parcel_id": "0089C00202000000",
+        "address": "4650 DESDEMONA ST",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "4652   DESDEMONA AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1700,
+        "market_value": 1700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

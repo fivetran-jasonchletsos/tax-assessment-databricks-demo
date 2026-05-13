@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0050M00324000000",
+    "address": "PENN AVE",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "7072   BENNINGTON WOODS DR",
+    "current_mailing_address": "7072   BENNINGTON WOODS DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.068,
+    "latitude": 40.46162,
+    "longitude": -79.9048
+  },
+  "assessments": {
+    "parcel_id": "0050M00324000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2400,
+        "market_value": 2400,
+        "land_value": 2400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 109,
+        "assessed_value_change_pct": 4.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2291,
+        "market_value": 2291,
+        "land_value": 2291,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2291,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2291,
+        "market_value": 2291,
+        "land_value": 2291,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -24,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2291,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2315,
+        "market_value": 2315,
+        "land_value": 2315,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 110,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2315,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2205,
+        "market_value": 2205,
+        "land_value": 2205,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 84,
+        "assessed_value_change_pct": 3.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2205,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2121,
+        "market_value": 2121,
+        "land_value": 2121,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2121,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050M00324000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050M00324000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050M00324000000",
+    "comparables": [
+      {
+        "parcel_id": "0084H00270000101",
+        "address": "PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083R00240000000",
+        "address": "N HIGHLAND AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 1900,
+        "market_value": 1900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124E00183000000",
+        "address": "6325 SAINT MARIE ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 3000,
+        "market_value": 3000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

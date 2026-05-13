@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123N00160000000",
+        "address": "1015 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1015   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 158300,
+        "market_value": 158300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00072000000",
+        "address": "6426 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6426   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157800,
+        "market_value": 175800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082K00109000000",
         "address": "5506 WELLESLEY AVE",
         "city": "11102",
@@ -197,7 +223,7 @@
         "assessed_value": 158800,
         "market_value": 176800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082B00253000000",
@@ -210,7 +236,7 @@
         "assessed_value": 157500,
         "market_value": 175500,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082P00087000000",
@@ -223,32 +249,6 @@
         "assessed_value": 157500,
         "market_value": 157500,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00144000000",
-        "address": "1410 MELLON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1410   MELLON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 157200,
-        "market_value": 175200,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082G00252000000",
-        "address": "5636 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5636   ELGIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 157000,
-        "market_value": 175000,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

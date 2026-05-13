@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0121F00002000000",
+        "address": "MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 33200,
+        "market_value": 33200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080D00392000000",
+        "address": "DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 33300,
+        "market_value": 33300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0080H00215000000",
         "address": "5222 DUNCAN ST",
         "city": "11003",
@@ -210,45 +236,19 @@
         "assessed_value": 33100,
         "market_value": 51100,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0119S00071000000",
-        "address": "5419 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "209   MOREWOOD AVE  # 1",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 33100,
-        "market_value": 33100,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0119S00072000B00",
-        "address": "5420 DRESDEN WAY",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5420   DRESDEN WAY",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 33100,
-        "market_value": 33100,
-        "assessed_value_change_pct": 2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0119S00222000000",
-        "address": "HARRISON ST",
+        "parcel_id": "0081C00004000000",
+        "address": "HAWTHORNE ST",
         "city": "11003",
         "zip_code": "15201",
-        "current_owner_name": "5439   BUTLER ST",
-        "land_use_description": "VACANT LAND",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
         "acreage": null,
-        "assessed_value": 33300,
-        "market_value": 33300,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 33100,
+        "market_value": 33100,
+        "assessed_value_change_pct": -5.5,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0075C00172000000",
     "comparables": [
       {
+        "parcel_id": "0115N00057000000",
+        "address": "1024 DAVIS AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1024   DAVIS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 270900,
+        "market_value": 288900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0075D00153000000",
         "address": "3521 SHADELAND AVE",
         "city": "Ward 27 - Brighton Heights",
@@ -132,7 +145,7 @@
         "assessed_value": 261200,
         "market_value": 261200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0075H00176000000",
@@ -145,7 +158,33 @@
         "assessed_value": 246800,
         "market_value": 246800,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114F00319000000",
+        "address": "1808 WINHURST ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "571   OAKLYNN CT  APT TA",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 286800,
+        "market_value": 286800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114P00244000000",
+        "address": "1802 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1802   MORRELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 241300,
+        "market_value": 241300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0075B00360000000",
@@ -158,20 +197,7 @@
         "assessed_value": 236000,
         "market_value": 254000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0075D00123000000",
-        "address": "3605 SHADELAND AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "3605   SHADELAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 216500,
-        "market_value": 234500,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
+        "distance_miles": 1.1
       }
     ]
   }

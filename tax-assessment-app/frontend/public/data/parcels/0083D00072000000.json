@@ -122,6 +122,19 @@
     "parcel_id": "0083D00072000000",
     "comparables": [
       {
+        "parcel_id": "0124E00157000000",
+        "address": "6338 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6338   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114000,
+        "market_value": 132000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082L00201000000",
         "address": "1132 N SAINT CLAIR ST",
         "city": "11103",
@@ -132,7 +145,7 @@
         "assessed_value": 113900,
         "market_value": 131900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082R00250000000",
@@ -145,7 +158,7 @@
         "assessed_value": 114100,
         "market_value": 114100,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082L00036000000",
@@ -158,7 +171,7 @@
         "assessed_value": 113800,
         "market_value": 113800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083C00259000000",
@@ -171,7 +184,7 @@
         "assessed_value": 114200,
         "market_value": 132200,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083A00065000000",
@@ -184,19 +197,6 @@
         "assessed_value": 114400,
         "market_value": 114400,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082J00185000000",
-        "address": "845 CHISLETT ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "2917   PEEKABOO LN",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 114500,
-        "market_value": 114500,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

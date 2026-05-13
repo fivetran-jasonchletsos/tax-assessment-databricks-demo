@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0026R00285000000",
+    "address": "3955 BIGELOW BLVD",
+    "city": "5th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "4609   BAYARD ST  STE 1",
+    "current_mailing_address": "4609   BAYARD ST  STE 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:40+ UNITS",
+    "acreage": 0.822,
+    "latitude": 40.435,
+    "longitude": -79.95928
+  },
+  "assessments": {
+    "parcel_id": "0026R00285000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 8750000,
+        "market_value": 8750000,
+        "land_value": 855000,
+        "improvement_value": 7895000,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 389226,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8750000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8360774,
+        "market_value": 8360774,
+        "land_value": 816967,
+        "improvement_value": 7543807,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8360774,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8360774,
+        "market_value": 8360774,
+        "land_value": 816967,
+        "improvement_value": 7543807,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -84453,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8360774,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8445227,
+        "market_value": 8445227,
+        "land_value": 825219,
+        "improvement_value": 7620008,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 402153,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8445227,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8043074,
+        "market_value": 8043074,
+        "land_value": 785923,
+        "improvement_value": 7257151,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 309349,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8043074,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 7733725,
+        "market_value": 7733725,
+        "land_value": 755695,
+        "improvement_value": 6978030,
+        "land_value_percentage": 9.8,
+        "improvement_value_percentage": 90.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7733725,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0026R00285000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0026R00285000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0026R00285000000",
+    "comparables": [
+      {
+        "parcel_id": "0010S00075000000",
+        "address": "209 BRACKENRIDGE ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "150   MOUNT VERNON ST  STE 500",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 6985300,
+        "market_value": 6985300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026R00272000000",
+        "address": "375 N CRAIG ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2   CENTER PLZ  STE 700",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 6860300,
+        "market_value": 6860300,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

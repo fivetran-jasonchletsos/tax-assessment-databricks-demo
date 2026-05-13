@@ -122,6 +122,32 @@
     "parcel_id": "0082F00174000000",
     "comparables": [
       {
+        "parcel_id": "0123P00017000000",
+        "address": "6522 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6522   JACKSON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 48100,
+        "market_value": 66100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124A00003000000",
+        "address": "6323 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6323   GLENVIEW PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 48100,
+        "market_value": 66100,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082H00080000000",
         "address": "1429 N SAINT CLAIR ST",
         "city": "11102",
@@ -132,7 +158,7 @@
         "assessed_value": 46200,
         "market_value": 64200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082H00080000A00",
@@ -145,7 +171,7 @@
         "assessed_value": 46200,
         "market_value": 64200,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083H00234000000",
@@ -158,7 +184,7 @@
         "assessed_value": 45000,
         "market_value": 45000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082F00171000000",
@@ -171,32 +197,6 @@
         "assessed_value": 50000,
         "market_value": 50000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082H00081000000",
-        "address": "1433 N SAINT CLAIR ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1433  N SAINT CLAIR ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 50900,
-        "market_value": 68900,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082F00122000000",
-        "address": "1320 CORDOVA RD",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1320   CORDOVA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 51000,
-        "market_value": 69000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

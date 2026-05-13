@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0080R00100000000",
+    "address": "4600 BUTLER ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 4.71,
+    "latitude": 40.46452,
+    "longitude": -79.9492
+  },
+  "assessments": {
+    "parcel_id": "0080R00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4773700,
+        "market_value": 4773700,
+        "land_value": 762600,
+        "improvement_value": 4011100,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 212349,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4773700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4561351,
+        "market_value": 4561351,
+        "land_value": 728677,
+        "improvement_value": 3832674,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4561351,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4561351,
+        "market_value": 4561351,
+        "land_value": 728677,
+        "improvement_value": 3832674,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -46075,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4561351,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4607426,
+        "market_value": 4607426,
+        "land_value": 736037,
+        "improvement_value": 3871389,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 219401,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4607426,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4388025,
+        "market_value": 4388025,
+        "land_value": 700988,
+        "improvement_value": 3687037,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 168770,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4388025,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4219255,
+        "market_value": 4219255,
+        "land_value": 674027,
+        "improvement_value": 3545228,
+        "land_value_percentage": 16.0,
+        "improvement_value_percentage": 84.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4219255,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080R00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080R00100000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0080R00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0080K00164000000",
+        "address": "4720 HATFIELD ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1200  S PINE ISLAND RD  STE 300",
+        "land_use_description": "INDEPENDENT LIVING (SENIORS)",
+        "acreage": null,
+        "assessed_value": 4625700,
+        "market_value": 4625700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049E00201000000",
+        "address": "177 40TH ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1233   MAIN ST  STE 1500",
+        "land_use_description": "HOTELS",
+        "acreage": null,
+        "assessed_value": 5200000,
+        "market_value": 5200000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

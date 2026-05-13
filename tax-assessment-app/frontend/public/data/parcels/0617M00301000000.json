@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0617M00301000000",
+    "address": "2509 MIDDLE RD",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "2509   MIDDLE RD",
+    "current_mailing_address": "2509   MIDDLE RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.046,
+    "latitude": 40.5273,
+    "longitude": -79.9584
+  },
+  "assessments": {
+    "parcel_id": "0617M00301000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 142500,
+        "market_value": 142500,
+        "land_value": 42400,
+        "improvement_value": 100100,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3511,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 138989,
+        "market_value": 138989,
+        "land_value": 41355,
+        "improvement_value": 97634,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5345,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 138989,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 133644,
+        "market_value": 133644,
+        "land_value": 39764,
+        "improvement_value": 93880,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3892,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 133644,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 129752,
+        "market_value": 129752,
+        "land_value": 38606,
+        "improvement_value": 91146,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2544,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 129752,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 127208,
+        "market_value": 127208,
+        "land_value": 37849,
+        "improvement_value": 89359,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1259,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127208,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 125949,
+        "market_value": 125949,
+        "land_value": 37475,
+        "improvement_value": 88474,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 125949,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0617M00301000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0617M00301000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-May-15",
+      "most_recent_appeal_date": "26-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-6036-2015",
+        "filed_date": "26-May-15",
+        "hearing_date": "26-May-15",
+        "appeal_status": "approved",
+        "original_value": 142500,
+        "requested_value": 142500,
+        "final_value": 142500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0617M00301000000",
+    "comparables": [
+      {
+        "parcel_id": "0617S00021000000",
+        "address": "2302 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2302   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141300,
+        "market_value": 159300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0435D00199000000",
+        "address": "119 ROSE DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "119   ROSE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144300,
+        "market_value": 162300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0523N00353000000",
+        "address": "2004 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2004   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144400,
+        "market_value": 162400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0522S00301000000",
+        "address": "2012 LOUISE DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2012   LOUISE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144600,
+        "market_value": 162600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0617M00209000000",
+        "address": "103 MARY ANN DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "103   MARY ANN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144600,
+        "market_value": 162600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0436G00225000000",
+        "address": "432 FRANCIONI LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "4322   FRANCIONI LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 144800,
+        "market_value": 144800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "parcel": {
+    "parcel_id": "0052M00200000000",
+    "address": "5429 DUNMOYLE ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "310   GRANT ST  STE 1900",
+    "current_mailing_address": "310   GRANT ST  STE 1900",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 2.972,
+    "latitude": 40.41952,
+    "longitude": -79.91906
+  },
+  "assessments": {
+    "parcel_id": "0052M00200000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2625000,
+        "market_value": 2625000,
+        "land_value": 1050000,
+        "improvement_value": 1575000,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 258719,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2625000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2366281,
+        "market_value": 2366281,
+        "land_value": 946512,
+        "improvement_value": 1419769,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 46397,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2366281,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2319884,
+        "market_value": 2319884,
+        "land_value": 927953,
+        "improvement_value": 1391931,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22969,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2319884,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2296915,
+        "market_value": 2296915,
+        "land_value": 918766,
+        "improvement_value": 1378149,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2296915,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2296915,
+        "market_value": 2296915,
+        "land_value": 918766,
+        "improvement_value": 1378149,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -23202,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2296915,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2320117,
+        "market_value": 2320117,
+        "land_value": 928046,
+        "improvement_value": 1392071,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2320117,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052M00200000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052M00200000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-May-18",
+      "most_recent_appeal_date": "16-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22861-2018",
+        "filed_date": "16-May-18",
+        "hearing_date": "16-May-18",
+        "appeal_status": "approved",
+        "original_value": 212800,
+        "requested_value": 212800,
+        "final_value": 4370000,
+        "value_reduction": 0,
+        "reduction_percentage": -1953.57,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052M00200000000",
+    "comparables": [
+      {
+        "parcel_id": "0085H00090000000",
+        "address": "1145 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1145   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 2382000,
+        "market_value": 2400000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085D00160000000",
+        "address": "1054 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1054   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 2056450,
+        "market_value": 2056450,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

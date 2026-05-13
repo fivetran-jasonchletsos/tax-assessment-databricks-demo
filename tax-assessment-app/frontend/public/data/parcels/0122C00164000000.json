@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122C00164000000",
+    "address": "137 FREEPORT RD",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "209   FARMINGTON RD  STE 1806",
+    "current_mailing_address": "209   FARMINGTON RD  STE 1806",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "DWG USED AS OFFICE",
+    "acreage": 0.123,
+    "latitude": 40.49316,
+    "longitude": -79.90888
+  },
+  "assessments": {
+    "parcel_id": "0122C00164000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 250000,
+        "market_value": 250000,
+        "land_value": 85700,
+        "improvement_value": 164300,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3958,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 250000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 246042,
+        "market_value": 246042,
+        "land_value": 84343,
+        "improvement_value": 161699,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2486,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 246042,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 248528,
+        "market_value": 248528,
+        "land_value": 85195,
+        "improvement_value": 163333,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11834,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 248528,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 236694,
+        "market_value": 236694,
+        "land_value": 81138,
+        "improvement_value": 155556,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9103,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 236694,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 227591,
+        "market_value": 227591,
+        "land_value": 78018,
+        "improvement_value": 149573,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6628,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 227591,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 220963,
+        "market_value": 220963,
+        "land_value": 75746,
+        "improvement_value": 145217,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220963,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122C00164000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122C00164000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-Jun-18",
+      "most_recent_appeal_date": "14-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23586-2018",
+        "filed_date": "14-Jun-18",
+        "hearing_date": "14-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 155000,
+        "requested_value": 155000,
+        "final_value": 275300,
+        "value_reduction": 0,
+        "reduction_percentage": -77.61,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122C00164000000",
+    "comparables": [
+      {
+        "parcel_id": "0170N00010000000",
+        "address": "412 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "412   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 250000,
+        "market_value": 268000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0170N00012000000",
+        "address": "410 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "410   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 249900,
+        "market_value": 249900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171E00071000000",
+        "address": "111 DELAFIELD RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "111   DELAFIELD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 250300,
+        "market_value": 250300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0169R00317000000",
+        "address": "202 CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "202   CENTER AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 249500,
+        "market_value": 267500,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0170N00076000000",
+        "address": "409 VIRGINIA AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "385   CHANNING WAY",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 250500,
+        "market_value": 250500,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0122H00006000000",
+        "address": "109 VIRGINIA AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "109   VIRGINIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 249400,
+        "market_value": 267400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

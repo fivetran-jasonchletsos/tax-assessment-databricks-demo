@@ -122,6 +122,19 @@
     "parcel_id": "0087J00219000000",
     "comparables": [
       {
+        "parcel_id": "0088E00085000000",
+        "address": "12 EXETER ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "110   CABIN LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80600,
+        "market_value": 80600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0054H00008000000",
         "address": "3912 BEECHWOOD BLVD",
         "city": "11502",
@@ -132,7 +145,7 @@
         "assessed_value": 80500,
         "market_value": 98500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0054M00270000000",
@@ -145,7 +158,33 @@
         "assessed_value": 80700,
         "market_value": 80700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088A00177000000",
+        "address": "931 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "931   DEELY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80700,
+        "market_value": 98700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088A00207000000",
+        "address": "787 MELBOURNE ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "5479   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80500,
+        "market_value": 80500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0054S00128000000",
@@ -158,45 +197,6 @@
         "assessed_value": 80400,
         "market_value": 98400,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0054S00170000000",
-        "address": "816 LILAC ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "2488   DOGWOOD DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80400,
-        "market_value": 80400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087J00126000000",
-        "address": "1003 FLEMINGTON ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "1003   FLEMINGTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80900,
-        "market_value": 98900,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0055G00259000000",
-        "address": "504 MONTCLAIR ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "504   MONTCLAIR ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80200,
-        "market_value": 98200,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00119000000",
+    "address": "405 E OHIO ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "521   TRIPOLI ST",
+    "current_mailing_address": "521   TRIPOLI ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/STOR OVER",
+    "acreage": 0.199,
+    "latitude": 40.41848,
+    "longitude": -80.08364
+  },
+  "assessments": {
+    "parcel_id": "0023S00119000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 900000,
+        "market_value": 900000,
+        "land_value": 115399,
+        "improvement_value": 784601,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 64844,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 900000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 835156,
+        "market_value": 835156,
+        "land_value": 107085,
+        "improvement_value": 728071,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8268,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 835156,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 826888,
+        "market_value": 826888,
+        "land_value": 106025,
+        "improvement_value": 720863,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 826888,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 826888,
+        "market_value": 826888,
+        "land_value": 106025,
+        "improvement_value": 720863,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8353,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 826888,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 835241,
+        "market_value": 835241,
+        "land_value": 107096,
+        "improvement_value": 728145,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 39773,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 835241,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 795468,
+        "market_value": 795468,
+        "land_value": 101996,
+        "improvement_value": 693472,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 795468,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00119000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00119000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0023S00119000000",
+    "comparables": [
+      {
+        "parcel_id": "0024N00104000000",
+        "address": "540 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1111   POLARIS PKWY  STE 1J",
+        "land_use_description": "BANK",
+        "acreage": null,
+        "assessed_value": 786500,
+        "market_value": 786500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009A00221000000",
+        "address": "720 E LACOCK ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3555   WASHINGTON RD",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 1033500,
+        "market_value": 1033500,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

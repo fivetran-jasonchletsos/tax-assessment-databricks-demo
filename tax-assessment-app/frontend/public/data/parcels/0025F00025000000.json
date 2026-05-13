@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025F00025000000",
+    "address": "40TH ST",
+    "city": "6th Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "2545   RAILROAD ST  STE 300",
+    "current_mailing_address": "2545   RAILROAD ST  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT INDUSTRIAL LAND",
+    "acreage": 0.011,
+    "latitude": 40.43618,
+    "longitude": -79.98946
+  },
+  "assessments": {
+    "parcel_id": "0025F00025000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 800,
+        "market_value": 800,
+        "land_value": 800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 37,
+        "assessed_value_change_pct": 4.85,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 763,
+        "market_value": 763,
+        "land_value": 763,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 763,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 763,
+        "market_value": 763,
+        "land_value": 763,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 763,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 771,
+        "market_value": 771,
+        "land_value": 771,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 36,
+        "assessed_value_change_pct": 4.9,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 771,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 735,
+        "market_value": 735,
+        "land_value": 735,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28,
+        "assessed_value_change_pct": 3.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 735,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 707,
+        "market_value": 707,
+        "land_value": 707,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 707,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025F00025000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025F00025000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-Apr-19",
+      "most_recent_appeal_date": "19-Apr-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22496-2018",
+        "filed_date": "19-Apr-19",
+        "hearing_date": "19-Apr-19",
+        "appeal_status": "approved",
+        "original_value": 800,
+        "requested_value": 800,
+        "final_value": 800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025F00025000000",
+    "comparables": [
+      {
+        "parcel_id": "0025D00293000000",
+        "address": "3340 LIBERTY AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "150   FERRY ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025L00042000000",
+        "address": "SASSAFRAS WAY",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "2900   LIBERTY AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048S00252000000",
+        "address": "3519 BUTLER ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "2727   HOUSTON ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026K00009000000",
+        "address": "BIGELOW BLVD",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025D00187000000",
+        "address": "LIBERTY AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "740   TRUMBULL DR",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0048L00125000000",
+        "address": "33RD ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1524   132ND ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

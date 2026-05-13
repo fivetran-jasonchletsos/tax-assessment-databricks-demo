@@ -197,6 +197,19 @@
     "parcel_id": "0082S00073000000",
     "comparables": [
       {
+        "parcel_id": "0124A00295000000",
+        "address": "931 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "931   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 511400,
+        "market_value": 529400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083D00158000000",
         "address": "931 N SHERIDAN AVE",
         "city": "11101",
@@ -207,7 +220,7 @@
         "assessed_value": 523900,
         "market_value": 541900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083D00288000000",
@@ -220,7 +233,7 @@
         "assessed_value": 506000,
         "market_value": 524000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082M00253000000",
@@ -233,7 +246,20 @@
         "assessed_value": 528400,
         "market_value": 528400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123J00146000000",
+        "address": "1206 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1206   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 498300,
+        "market_value": 516300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00337000000",
@@ -246,32 +272,6 @@
         "assessed_value": 495000,
         "market_value": 495000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00017000000",
-        "address": "900 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "900  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 489500,
-        "market_value": 507500,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00200000000",
-        "address": "1416 N EUCLID AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1416  N EUCLID AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 488900,
-        "market_value": 506900,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

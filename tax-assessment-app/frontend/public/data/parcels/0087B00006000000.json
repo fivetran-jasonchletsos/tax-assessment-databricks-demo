@@ -122,6 +122,32 @@
     "parcel_id": "0087B00006000000",
     "comparables": [
       {
+        "parcel_id": "0087M00037000000",
+        "address": "6351 ALDERSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6351   ALDERSON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 125200,
+        "market_value": 125200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128E00031000000",
+        "address": "2510 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "296   COTTINGHAM PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 124800,
+        "market_value": 124800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087B00076000000",
         "address": "5630 PHILLIPS AVE",
         "city": "11403",
@@ -132,7 +158,7 @@
         "assessed_value": 125300,
         "market_value": 143300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087B00005000000",
@@ -145,7 +171,7 @@
         "assessed_value": 124500,
         "market_value": 124500,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087H00023000000",
@@ -158,45 +184,19 @@
         "assessed_value": 124500,
         "market_value": 124500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087G00267000000",
-        "address": "2331 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2331   SHERBROOK AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 125900,
-        "market_value": 143900,
-        "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00128000000",
-        "address": "5519 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5519   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 124000,
-        "market_value": 142000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087G00005000000",
-        "address": "5700 MELVIN ST",
+        "parcel_id": "0126E00010000000",
+        "address": "506 GETTYSBURG ST",
         "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "1038   PASTURE DR",
-        "land_use_description": "TWO FAMILY",
+        "zip_code": "15206",
+        "current_owner_name": "111   YORKSHIRE DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 124000,
-        "market_value": 124000,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 125800,
+        "market_value": 125800,
+        "assessed_value_change_pct": 14.3,
         "distance_miles": 1.1
       }
     ]

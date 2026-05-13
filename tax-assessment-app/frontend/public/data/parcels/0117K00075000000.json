@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0117K00075000000",
+    "address": "3441 MOUNT TROY RD",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "33   LONSDALE ST",
+    "current_mailing_address": "33   LONSDALE ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FIRE DEPARTMENT/EMS",
+    "acreage": 3.645,
+    "latitude": 40.41812,
+    "longitude": -80.08592
+  },
+  "assessments": {
+    "parcel_id": "0117K00075000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 530900,
+        "market_value": 530900,
+        "land_value": 104000,
+        "improvement_value": 426900,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7433,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 530900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 538333,
+        "market_value": 538333,
+        "land_value": 105456,
+        "improvement_value": 432877,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25634,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 538333,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 512699,
+        "market_value": 512699,
+        "land_value": 100434,
+        "improvement_value": 412265,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19719,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 512699,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 492980,
+        "market_value": 492980,
+        "land_value": 96571,
+        "improvement_value": 396409,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14358,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 492980,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 478622,
+        "market_value": 478622,
+        "land_value": 93759,
+        "improvement_value": 384863,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9384,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 478622,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 469238,
+        "market_value": 469238,
+        "land_value": 91920,
+        "improvement_value": 377318,
+        "land_value_percentage": 19.6,
+        "improvement_value_percentage": 80.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 469238,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0117K00075000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0117K00075000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0117K00075000000",
+    "comparables": [
+      {
+        "parcel_id": "0117P00030000000",
+        "address": "3201 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 4900",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 508000,
+        "market_value": 508000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0078C00170000000",
+        "address": "3109 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "3109   MOUNT TROY RD",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 461000,
+        "market_value": 461000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0079N00048000000",
+        "address": "2023 E HOMESTEAD ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2023  E HOMESTEAD ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 454400,
+        "market_value": 454400,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

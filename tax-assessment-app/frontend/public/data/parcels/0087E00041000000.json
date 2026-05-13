@@ -122,6 +122,19 @@
     "parcel_id": "0087E00041000000",
     "comparables": [
       {
+        "parcel_id": "0126E00024000000",
+        "address": "419 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "247   LEISIE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 165000,
+        "market_value": 183000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087C00271000000",
         "address": "5838 DOUGLAS ST",
         "city": "11403",
@@ -132,7 +145,7 @@
         "assessed_value": 165000,
         "market_value": 165000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087D00073000000",
@@ -145,7 +158,7 @@
         "assessed_value": 165000,
         "market_value": 165000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087H00170000000",
@@ -158,7 +171,7 @@
         "assessed_value": 165000,
         "market_value": 165000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087G00016000000",
@@ -171,32 +184,19 @@
         "assessed_value": 164900,
         "market_value": 164900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00100000000",
-        "address": "5514 KAMIN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5514   KAMIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 164600,
-        "market_value": 164600,
-        "assessed_value_change_pct": -5.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085M00243000000",
-        "address": "706 HASTINGS ST",
+        "parcel_id": "0087L00333000000",
+        "address": "6317 ALDERSON ST",
         "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "706   HASTINGS ST",
+        "zip_code": "15217",
+        "current_owner_name": "6317   ALDERSON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 165700,
-        "market_value": 183700,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 164700,
+        "market_value": 164700,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

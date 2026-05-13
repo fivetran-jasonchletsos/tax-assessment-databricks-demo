@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0047S00320000000",
+    "address": "1630 LOWRIE ST",
+    "city": "24th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "922   WESTERN AVE",
+    "current_mailing_address": "922   WESTERN AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.151,
+    "latitude": 40.41848,
+    "longitude": -80.0648
+  },
+  "assessments": {
+    "parcel_id": "0047S00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 327800,
+        "market_value": 327800,
+        "land_value": 60000,
+        "improvement_value": 267800,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23619,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 327800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 304181,
+        "market_value": 304181,
+        "land_value": 55676,
+        "improvement_value": 248505,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3011,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 304181,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 301170,
+        "market_value": 301170,
+        "land_value": 55125,
+        "improvement_value": 246045,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 301170,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 301170,
+        "market_value": 301170,
+        "land_value": 55125,
+        "improvement_value": 246045,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3043,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 301170,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 304213,
+        "market_value": 304213,
+        "land_value": 55682,
+        "improvement_value": 248531,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14486,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 304213,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 289727,
+        "market_value": 289727,
+        "land_value": 53031,
+        "improvement_value": 236696,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 289727,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047S00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047S00320000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-Jun-19",
+      "most_recent_appeal_date": "19-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29449-2019",
+        "filed_date": "19-Jun-19",
+        "hearing_date": "19-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 290000,
+        "requested_value": 290000,
+        "final_value": 327800,
+        "value_reduction": 0,
+        "reduction_percentage": -13.03,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047S00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0048P00213000000",
+        "address": "100 WATERFRONT DR",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "100   WATERFRONT DR",
+        "land_use_description": "MARINA",
+        "acreage": null,
+        "assessed_value": 328800,
+        "market_value": 328800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047M00095000000",
+        "address": "1550 SPRING GARDEN AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 316900,
+        "market_value": 316900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0047R00088000000",
+        "address": "1414 SPRING GARDEN AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1414   SPRING GARDEN AVE",
+        "land_use_description": "MINI WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 315900,
+        "market_value": 315900,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024C00111000000",
+        "address": "1410 HIGH ST",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1410   HIGH ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 340000,
+        "market_value": 340000,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024C00216000000",
+        "address": "1307 HIGH ST",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1610   HIGH ST",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 350000,
+        "market_value": 350000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024C00311000000",
+        "address": "1274 VOSKAMP ST",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1267   FAIRSTEAD LN",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 380800,
+        "market_value": 380800,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

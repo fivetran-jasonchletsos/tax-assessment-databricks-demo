@@ -122,6 +122,32 @@
     "parcel_id": "0086R00208000000",
     "comparables": [
       {
+        "parcel_id": "0128N00206000000",
+        "address": "2808 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2808   FERNWALD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191300,
+        "market_value": 209300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128N00189000000",
+        "address": "143 ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "143   ANITA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191400,
+        "market_value": 191400,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087C00181000000",
         "address": "5835 NICHOLSON ST",
         "city": "11403",
@@ -132,7 +158,7 @@
         "assessed_value": 191100,
         "market_value": 209100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087F00224000000",
@@ -145,7 +171,20 @@
         "assessed_value": 191100,
         "market_value": 209100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088D00228000000",
+        "address": "2950 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2950   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191100,
+        "market_value": 209100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00060000000",
@@ -158,45 +197,6 @@
         "assessed_value": 191600,
         "market_value": 209600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087D00005000000",
-        "address": "5880 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5880   DOUGLAS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 191700,
-        "market_value": 191700,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087D00033000000",
-        "address": "2226 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2226   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 191800,
-        "market_value": 209800,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00306000000",
-        "address": "5479 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5479   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 192000,
-        "market_value": 210000,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

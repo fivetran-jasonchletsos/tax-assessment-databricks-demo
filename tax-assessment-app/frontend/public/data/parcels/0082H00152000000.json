@@ -174,6 +174,19 @@
     "parcel_id": "0082H00152000000",
     "comparables": [
       {
+        "parcel_id": "0124A00112000000",
+        "address": "6437 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6437   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140200,
+        "market_value": 140200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082G00293000000",
         "address": "5627 BRYANT ST",
         "city": "11102",
@@ -184,7 +197,20 @@
         "assessed_value": 139700,
         "market_value": 157700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00053000000",
+        "address": "6376 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6376   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140500,
+        "market_value": 158500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082B00217000000",
@@ -197,7 +223,20 @@
         "assessed_value": 140600,
         "market_value": 158600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123N00171000A00",
+        "address": "1031 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1450  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 139400,
+        "market_value": 139400,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082F00143000000",
@@ -210,45 +249,6 @@
         "assessed_value": 139300,
         "market_value": 157300,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082K00060000000",
-        "address": "1037 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1037   KING AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 140900,
-        "market_value": 158900,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082P00023000000",
-        "address": "5554 WELLESLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5554   WELLESLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 139000,
-        "market_value": 157000,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082B00247000000",
-        "address": "1321 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1321   KING AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 141500,
-        "market_value": 159500,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

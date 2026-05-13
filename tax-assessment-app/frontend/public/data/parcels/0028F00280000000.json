@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0028F00280000000",
+    "address": "3434 IROQUOIS WAY",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "11   CLEVELAND CIR",
+    "current_mailing_address": "11   CLEVELAND CIR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.073,
+    "latitude": 40.4332,
+    "longitude": -79.94752
+  },
+  "assessments": {
+    "parcel_id": "0028F00280000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 105900,
+        "market_value": 105900,
+        "land_value": 102300,
+        "improvement_value": 3600,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1676,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 104224,
+        "market_value": 104224,
+        "land_value": 100680,
+        "improvement_value": 3544,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1053,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 104224,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 105277,
+        "market_value": 105277,
+        "land_value": 101698,
+        "improvement_value": 3579,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5013,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105277,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 100264,
+        "market_value": 100264,
+        "land_value": 96855,
+        "improvement_value": 3409,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3856,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100264,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 96408,
+        "market_value": 96408,
+        "land_value": 93130,
+        "improvement_value": 3278,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2808,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96408,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 93600,
+        "market_value": 93600,
+        "land_value": 90418,
+        "improvement_value": 3182,
+        "land_value_percentage": 96.6,
+        "improvement_value_percentage": 3.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93600,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028F00280000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028F00280000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0028F00280000000",
+    "comparables": [
+      {
+        "parcel_id": "0028L00112000000",
+        "address": "358 MCKEE PL",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 106000,
+        "market_value": 106000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00113000000",
+        "address": "360 MCKEE PL",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 106000,
+        "market_value": 106000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028F00279000000",
+        "address": "3434 IROQUOIS WAY",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "11   CLEVELAND CIR",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 105300,
+        "market_value": 105300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052J00329000000",
+        "address": "4610 WINTHROP ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "934   ROUTE 910",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 106700,
+        "market_value": 106700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028G00212000000",
+        "address": "247 ATWOOD ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "243   ATWOOD ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 104400,
+        "market_value": 104400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0027H00229000000",
+        "address": "BAYARD ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4609   BAYARD ST  STE 1",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 102900,
+        "market_value": 102900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

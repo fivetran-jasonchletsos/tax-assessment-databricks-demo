@@ -174,6 +174,19 @@
     "parcel_id": "0087A00204000000",
     "comparables": [
       {
+        "parcel_id": "0126E00011000000",
+        "address": "504 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "111   YORKSHIRE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 177000,
+        "market_value": 177000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086R00150000000",
         "address": "5847 DOUGLAS ST",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 177000,
         "market_value": 195000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087F00197000000",
@@ -197,7 +210,7 @@
         "assessed_value": 177000,
         "market_value": 195000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087H00160000000",
@@ -210,7 +223,7 @@
         "assessed_value": 177000,
         "market_value": 195000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086N00279000000",
@@ -223,7 +236,7 @@
         "assessed_value": 176900,
         "market_value": 194900,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00080000000",
@@ -236,19 +249,6 @@
         "assessed_value": 177100,
         "market_value": 195100,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087E00069000000",
-        "address": "5502 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5502   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 176900,
-        "market_value": 194900,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

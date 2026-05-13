@@ -197,6 +197,19 @@
     "parcel_id": "0083H00252000000",
     "comparables": [
       {
+        "parcel_id": "0124E00206000000",
+        "address": "6320 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6320   SAINT MARIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 299500,
+        "market_value": 317500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083C00019000000",
         "address": "839 N SAINT CLAIR ST",
         "city": "11103",
@@ -207,7 +220,7 @@
         "assessed_value": 298500,
         "market_value": 316500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083F00210000000",
@@ -220,7 +233,7 @@
         "assessed_value": 300800,
         "market_value": 318800,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082M00209000000",
@@ -233,7 +246,7 @@
         "assessed_value": 301600,
         "market_value": 301600,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083D00111000000",
@@ -246,7 +259,7 @@
         "assessed_value": 297400,
         "market_value": 315400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00114000000",
@@ -259,19 +272,6 @@
         "assessed_value": 302000,
         "market_value": 320000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083H00174000000",
-        "address": "6058 STANTON AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "6058   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 297000,
-        "market_value": 315000,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

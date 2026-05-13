@@ -122,6 +122,19 @@
     "parcel_id": "0086E00336000000",
     "comparables": [
       {
+        "parcel_id": "0127K00003000000",
+        "address": "1863 SHAW AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1863   SHAW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 425800,
+        "market_value": 443800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085J00103000000",
         "address": "1130 WIGHTMAN ST",
         "city": "11401",
@@ -132,7 +145,20 @@
         "assessed_value": 425900,
         "market_value": 443900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0129A00217000000",
+        "address": "1111 CRESCENT PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1111   CRESCENT PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 425900,
+        "market_value": 443900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086S00180000000",
@@ -145,7 +171,7 @@
         "assessed_value": 426000,
         "market_value": 444000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086H00033000000",
@@ -158,45 +184,19 @@
         "assessed_value": 425500,
         "market_value": 443500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086H00108000000",
-        "address": "1545 SHADY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1545   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 426500,
-        "market_value": 444500,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085J00197000000",
-        "address": "5414 KIPLING RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5414   KIPLING RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 425000,
-        "market_value": 425000,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086H00261000000",
-        "address": "1650 BEECHWOOD BLVD",
+        "parcel_id": "0088D00310000000",
+        "address": "15 ROSEMONT LN",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1650   BEECHWOOD BLVD",
+        "current_owner_name": "15   ROSEMONT LN",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 425000,
-        "market_value": 425000,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 425300,
+        "market_value": 425300,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

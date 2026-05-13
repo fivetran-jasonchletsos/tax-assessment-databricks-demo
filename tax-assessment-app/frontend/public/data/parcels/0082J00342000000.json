@@ -174,6 +174,19 @@
     "parcel_id": "0082J00342000000",
     "comparables": [
       {
+        "parcel_id": "0121N00082000000",
+        "address": "1609 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1609   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112200,
+        "market_value": 130200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082A00054000000",
         "address": "1215 DUFFIELD ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 112100,
         "market_value": 112100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082E00166000000",
@@ -197,7 +210,7 @@
         "assessed_value": 112100,
         "market_value": 130100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0081B00241000000",
@@ -210,7 +223,20 @@
         "assessed_value": 112000,
         "market_value": 130000,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120P00012000000",
+        "address": "5617 CELADINE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5617   CELADINE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 112000,
+        "market_value": 112000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082E00273000000",
@@ -223,32 +249,6 @@
         "assessed_value": 112000,
         "market_value": 112000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121F00262000000",
-        "address": "6727 GREENWOOD ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "6727   GREENWOOD ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 112000,
-        "market_value": 130000,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0121G00243000000",
-        "address": "7106 BAKER ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "7106   BAKER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 112400,
-        "market_value": 112400,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

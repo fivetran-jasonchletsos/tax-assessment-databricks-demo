@@ -174,6 +174,19 @@
     "parcel_id": "0087D00256000000",
     "comparables": [
       {
+        "parcel_id": "0128A00030000000",
+        "address": "2416 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2416   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 203200,
+        "market_value": 221200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087A00048000000",
         "address": "5439 GUARINO RD",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 203100,
         "market_value": 203100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087D00204000000",
@@ -197,7 +210,33 @@
         "assessed_value": 203100,
         "market_value": 221100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087S00110000000",
+        "address": "6457 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6457   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 203100,
+        "market_value": 221100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087S00178000000",
+        "address": "2835 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2835   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 203100,
+        "market_value": 221100,
+        "assessed_value_change_pct": 1.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086R00135000000",
@@ -210,45 +249,6 @@
         "assessed_value": 203000,
         "market_value": 221000,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087E00046000000",
-        "address": "5550 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5550   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203500,
-        "market_value": 221500,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085H00011000000",
-        "address": "617 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "617   GETTYSBURG ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203600,
-        "market_value": 221600,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00142000000",
-        "address": "2304 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2304   SHERBROOK ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 202800,
-        "market_value": 220800,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

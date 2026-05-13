@@ -122,6 +122,19 @@
     "parcel_id": "0027G00066000000",
     "comparables": [
       {
+        "parcel_id": "0027L00212000000",
+        "address": "4104 BIGELOW BLVD",
+        "city": "10401",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 278700,
+        "market_value": 278700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0027L00276000000",
         "address": "4208 PARKMAN AVE",
         "city": "10401",
@@ -132,7 +145,7 @@
         "assessed_value": 272700,
         "market_value": 290700,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0027G00174000000",
@@ -145,7 +158,7 @@
         "assessed_value": 269300,
         "market_value": 287300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0027G00076000000",
@@ -158,7 +171,7 @@
         "assessed_value": 289400,
         "market_value": 307400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0027L00008000000",
@@ -171,7 +184,7 @@
         "assessed_value": 297000,
         "market_value": 315000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0027G00176000000",
@@ -184,19 +197,6 @@
         "assessed_value": 257000,
         "market_value": 275000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0027G00272000000",
-        "address": "4135 BIGELOW BLVD",
-        "city": "10401",
-        "zip_code": "15213",
-        "current_owner_name": "1   PPG PL  STE 1500",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 300000,
-        "market_value": 300000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

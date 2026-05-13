@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120S00012000000",
+        "address": "1415 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1415   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100900,
+        "market_value": 118900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120R00264000000",
+        "address": "1125 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1125   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101000,
+        "market_value": 119000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0121J00198000000",
         "address": "1637 EL PASO ST",
         "city": "11001",
@@ -145,7 +171,7 @@
         "assessed_value": 101000,
         "market_value": 119000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0120H00019000000",
@@ -158,45 +184,19 @@
         "assessed_value": 101100,
         "market_value": 101100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121J00015000000",
-        "address": "1631 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1631   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100500,
-        "market_value": 100500,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121J00016000000",
-        "address": "1633 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "110   DOUGLAS DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100500,
-        "market_value": 100500,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0120L00227000000",
-        "address": "1121 OGLETHORPE AVE",
+        "parcel_id": "0120R00198000A00",
+        "address": "1137 DOWNLOOK ST",
         "city": "11001",
         "zip_code": "15201",
-        "current_owner_name": "1121   OGLETHORPE AVE",
+        "current_owner_name": "1137   DOWNLOOK ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 101200,
-        "market_value": 119200,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 101100,
+        "market_value": 101100,
+        "assessed_value_change_pct": 2.5,
         "distance_miles": 1.1
       }
     ]

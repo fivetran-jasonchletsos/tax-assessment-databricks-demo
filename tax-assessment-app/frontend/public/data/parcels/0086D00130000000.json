@@ -122,6 +122,32 @@
     "parcel_id": "0086D00130000000",
     "comparables": [
       {
+        "parcel_id": "0053C00002000000",
+        "address": "5142 SKIBO DR",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 510100,
+        "market_value": 510100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128P00129000000",
+        "address": "1031 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1031   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 509500,
+        "market_value": 527500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085R00046000000",
         "address": "5847 SOLWAY ST",
         "city": "11401",
@@ -132,7 +158,7 @@
         "assessed_value": 510200,
         "market_value": 528200,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086A00105000000",
@@ -145,7 +171,7 @@
         "assessed_value": 510200,
         "market_value": 528200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052S00230000000",
@@ -158,7 +184,7 @@
         "assessed_value": 509100,
         "market_value": 527100,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053H00076000000",
@@ -171,32 +197,6 @@
         "assessed_value": 509100,
         "market_value": 527100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086C00076000000",
-        "address": "1522 MURRAY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "8001   OXFORD CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 508700,
-        "market_value": 508700,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086M00056000000",
-        "address": "1715 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1715   DENNISTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 511000,
-        "market_value": 529000,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

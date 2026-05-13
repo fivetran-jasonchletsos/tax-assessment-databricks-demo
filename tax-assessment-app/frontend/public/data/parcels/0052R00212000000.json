@@ -174,6 +174,19 @@
     "parcel_id": "0052R00212000000",
     "comparables": [
       {
+        "parcel_id": "0053C00088000000",
+        "address": "5218 FORBES AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 239300,
+        "market_value": 239300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053D00221000000",
         "address": "5410 NORMLEE PL",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 240000,
         "market_value": 258000,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085P00210000000",
@@ -197,7 +210,20 @@
         "assessed_value": 240000,
         "market_value": 258000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127K00038000000",
+        "address": "1856 SHAW AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1850   SHAW AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 240000,
+        "market_value": 240000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052S00043000000",
@@ -210,7 +236,7 @@
         "assessed_value": 240200,
         "market_value": 258200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00029000000",
@@ -223,32 +249,6 @@
         "assessed_value": 240300,
         "market_value": 258300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086M00133000000",
-        "address": "6309 DARLINGTON RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "3042   ENTERPRISE DR  STE 101",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 240300,
-        "market_value": 240300,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086D00218000000",
-        "address": "6514 DALZELL PL",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "6514   DALZELL PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 238800,
-        "market_value": 256800,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

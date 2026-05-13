@@ -145,6 +145,19 @@
     "parcel_id": "0001G00113000000",
     "comparables": [
       {
+        "parcel_id": "0001H00340000000",
+        "address": "340 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "140   PUBLIC SQ  STE 2800",
+        "land_use_description": "BANK",
+        "acreage": null,
+        "assessed_value": 1400000,
+        "market_value": 1400000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0001G00112000000",
         "address": "101 MARKET ST",
         "city": "1st Ward (Pittsburgh)",
@@ -155,20 +168,59 @@
         "assessed_value": 1437260,
         "market_value": 1437260,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
-        "parcel_id": "0001G00111000000",
-        "address": "161 1ST AVE",
+        "parcel_id": "0001M00096000000",
+        "address": "101 WOOD ST",
         "city": "1st Ward (Pittsburgh)",
         "zip_code": "15222",
-        "current_owner_name": "161   1ST AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "201   WOOD ST",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
         "acreage": null,
-        "assessed_value": 1596500,
-        "market_value": 1614500,
-        "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.3
+        "assessed_value": 1477100,
+        "market_value": 1477100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001C00224000000",
+        "address": "500 LIBERTY AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "204   5TH AVE  STE 404",
+        "land_use_description": "BANK",
+        "acreage": null,
+        "assessed_value": 1300000,
+        "market_value": 1300000,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001H00311000000",
+        "address": "337 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "337   4TH AVE",
+        "land_use_description": "LODGE HALL/AMUSEMENT PARK",
+        "acreage": null,
+        "assessed_value": 1296000,
+        "market_value": 1296000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001H00063000000",
+        "address": "244 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "244   BLVD OF THE ALLIES",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1571800,
+        "market_value": 1571800,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
       }
     ]
   }

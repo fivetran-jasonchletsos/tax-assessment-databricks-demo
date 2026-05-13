@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088A00174000000",
+        "address": "925 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "925   DEELY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143700,
+        "market_value": 161700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087J00306000000",
         "address": "918 WELFER ST",
         "city": "11502",
@@ -145,7 +158,33 @@
         "assessed_value": 144800,
         "market_value": 162800,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087N00054000C00",
+        "address": "968 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "420   NORTH EUCLID AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 143600,
+        "market_value": 143600,
+        "assessed_value_change_pct": 2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087N00164000000",
+        "address": "933 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "6331   PHILLIPS AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 144900,
+        "market_value": 144900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0055D00138000000",
@@ -158,45 +197,6 @@
         "assessed_value": 145000,
         "market_value": 163000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0055G00161000000",
-        "address": "4330 GLEN LYTLE RD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "4330   GLEN LYTLE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 143400,
-        "market_value": 161400,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054S00177000000",
-        "address": "834 LILAC ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "331   FOREST AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 145300,
-        "market_value": 145300,
-        "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0055D00286000000",
-        "address": "711 MELBOURNE ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "711   MELBOURNE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 145300,
-        "market_value": 145300,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

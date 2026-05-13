@@ -174,6 +174,32 @@
     "parcel_id": "0082S00236000000",
     "comparables": [
       {
+        "parcel_id": "0123J00024000000",
+        "address": "1325 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1325  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 253200,
+        "market_value": 271200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123E00014000000",
+        "address": "1372 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1372  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 253700,
+        "market_value": 253700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082H00269000000",
         "address": "1418 GREYSTONE DR",
         "city": "11101",
@@ -184,7 +210,20 @@
         "assessed_value": 253800,
         "market_value": 271800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124A00247000000",
+        "address": "962 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "962   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 252600,
+        "market_value": 270600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083C00181000000",
@@ -197,7 +236,7 @@
         "assessed_value": 252500,
         "market_value": 270500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082H00284000000",
@@ -210,45 +249,6 @@
         "assessed_value": 252000,
         "market_value": 270000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0083C00174000000",
-        "address": "5836 WAYNE RD",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "5836   WAYNE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 255800,
-        "market_value": 255800,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082H00271000000",
-        "address": "1414 GREYSTONE DR",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1414   GREYSTONE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 249900,
-        "market_value": 267900,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00286000000",
-        "address": "1445 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1445  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 257700,
-        "market_value": 257700,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

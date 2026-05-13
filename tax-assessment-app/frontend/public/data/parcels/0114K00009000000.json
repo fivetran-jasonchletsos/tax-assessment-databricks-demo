@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0114K00009000000",
+    "address": "2042 STONELEA ST",
+    "city": "Ward 27 - Brighton Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "320   FORT DUQUESNE BLVD  STE 120",
+    "current_mailing_address": "320   FORT DUQUESNE BLVD  STE 120",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.115,
+    "latitude": 40.4174,
+    "longitude": -80.06612
+  },
+  "assessments": {
+    "parcel_id": "0114K00009000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 80200,
+        "market_value": 80200,
+        "land_value": 26000,
+        "improvement_value": 54200,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1271,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 78929,
+        "market_value": 78929,
+        "land_value": 25587,
+        "improvement_value": 53342,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -798,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78929,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 79727,
+        "market_value": 79727,
+        "land_value": 25846,
+        "improvement_value": 53881,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3796,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79727,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 75931,
+        "market_value": 75931,
+        "land_value": 24616,
+        "improvement_value": 51315,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2920,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75931,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73011,
+        "market_value": 73011,
+        "land_value": 23669,
+        "improvement_value": 49342,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2126,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73011,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 70885,
+        "market_value": 70885,
+        "land_value": 22980,
+        "improvement_value": 47905,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70885,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0114K00009000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0114K00009000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0114K00009000000",
+    "comparables": [
+      {
+        "parcel_id": "0114F00101000000",
+        "address": "4069 CAMBRONNE ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "4069   CAMBRONNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80200,
+        "market_value": 98200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0114P00248000000",
+        "address": "1710 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1710   MORRELL ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 80200,
+        "market_value": 98200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0114N00075000000",
+        "address": "3817 WILKSBORO AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3817   WILKSBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80100,
+        "market_value": 98100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114C00133000000",
+        "address": "4000 SHOREHAM ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "4000   SHOREHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80400,
+        "market_value": 80400,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114J00040000000",
+        "address": "3846 WILKSBORO AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3846   WILKSBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80400,
+        "market_value": 80400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0114K00115000000",
+        "address": "4017 OSWALD ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "920   REISS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80400,
+        "market_value": 80400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

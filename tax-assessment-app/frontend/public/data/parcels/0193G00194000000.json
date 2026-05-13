@@ -174,6 +174,19 @@
     "parcel_id": "0193G00194000000",
     "comparables": [
       {
+        "parcel_id": "0252D00168000000",
+        "address": "51 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "51   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 294800,
+        "market_value": 312800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0193G00238000000",
         "address": "125 VERNON DR",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 294900,
         "market_value": 312900,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251N00034000000",
@@ -197,7 +210,20 @@
         "assessed_value": 294900,
         "market_value": 312900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252H00030000000",
+        "address": "161 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "161   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 294700,
+        "market_value": 312700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141E00197000000",
@@ -210,7 +236,7 @@
         "assessed_value": 295000,
         "market_value": 295000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0192B00095000000",
@@ -223,32 +249,6 @@
         "assessed_value": 294600,
         "market_value": 312600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193H00104000000",
-        "address": "101 VERNON DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "101   VERNON DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 294600,
-        "market_value": 312600,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0251B00188000000",
-        "address": "64 MOUNT LEBANON BLVD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "64   MOUNT LEBANON BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 295000,
-        "market_value": 313000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

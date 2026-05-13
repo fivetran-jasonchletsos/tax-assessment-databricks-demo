@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0084D00198000000",
+    "address": "ENRIGHT CT",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "100  N SHERIDAN AVE  FL 4TH",
+    "current_mailing_address": "100  N SHERIDAN AVE  FL 4TH",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.086,
+    "latitude": 40.46246,
+    "longitude": -79.92076
+  },
+  "assessments": {
+    "parcel_id": "0084D00198000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5900,
+        "market_value": 5900,
+        "land_value": 5900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 264,
+        "assessed_value_change_pct": 4.68,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5636,
+        "market_value": 5636,
+        "land_value": 5636,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5636,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5636,
+        "market_value": 5636,
+        "land_value": 5636,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -57,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5636,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 5693,
+        "market_value": 5693,
+        "land_value": 5693,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 271,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5693,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 5422,
+        "market_value": 5422,
+        "land_value": 5422,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 208,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5422,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5214,
+        "market_value": 5214,
+        "land_value": 5214,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5214,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084D00198000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084D00198000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 16750,
+      "total_value_reduction": 33500,
+      "first_appeal_date": "28-Jun-18",
+      "most_recent_appeal_date": "6-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16293-2017",
+        "filed_date": "6-Jun-17",
+        "hearing_date": "6-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 39400,
+        "requested_value": 39400,
+        "final_value": 39400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-23178-2018",
+        "filed_date": "28-Jun-18",
+        "hearing_date": "28-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 39400,
+        "requested_value": 39400,
+        "final_value": 5900,
+        "value_reduction": 33500,
+        "reduction_percentage": 85.03,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084D00198000000",
+    "comparables": [
+      {
+        "parcel_id": "0083F00054000000",
+        "address": "5543 BLACK ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "416   THORN ST",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 6000,
+        "market_value": 6000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083E00274000000",
+        "address": "DOROTHY PL",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "417  N FAIRMOUNT ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6400,
+        "market_value": 6400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082L00026000A00",
+        "address": "5626 BRYANT ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5626   BRYANT ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 5300,
+        "market_value": 5300,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050H00152000000",
+        "address": "N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1628   DENNISTON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6600,
+        "market_value": 6600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050M00173000000",
+        "address": "227 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "227  N GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 5000,
+        "market_value": 23000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083F00219000000",
+        "address": "EAST LIBERTY BLVD",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "PO BOX 99584",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5000,
+        "market_value": 5000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

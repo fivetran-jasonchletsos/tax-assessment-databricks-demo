@@ -174,6 +174,19 @@
     "parcel_id": "0081B00032000000",
     "comparables": [
       {
+        "parcel_id": "0121N00061000000",
+        "address": "1436 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1436   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64400,
+        "market_value": 82400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080D00173000000",
         "address": "5239 KEYSTONE ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 64300,
         "market_value": 64300,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0080H00095000000",
@@ -197,7 +210,7 @@
         "assessed_value": 64500,
         "market_value": 64500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080H00112000000",
@@ -210,7 +223,7 @@
         "assessed_value": 64500,
         "market_value": 82500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0081A00175000000",
@@ -223,7 +236,7 @@
         "assessed_value": 64300,
         "market_value": 82300,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0081B00171000000",
@@ -236,19 +249,6 @@
         "assessed_value": 64500,
         "market_value": 82500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081E00039000A00",
-        "address": "9238 BISSELL WAY",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "923   MCCANDLESS AVE  REAR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 64300,
-        "market_value": 64300,
-        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

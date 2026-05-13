@@ -145,6 +145,19 @@
     "parcel_id": "0169R00051000000",
     "comparables": [
       {
+        "parcel_id": "0122D00220000000",
+        "address": "311 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "511   CEDAR RUN RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 290900,
+        "market_value": 290900,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0171A00024000000",
         "address": "205 DELAFIELD RD",
         "city": "Aspinwall",
@@ -155,7 +168,7 @@
         "assessed_value": 290500,
         "market_value": 308500,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169L00242000000",
@@ -168,7 +181,7 @@
         "assessed_value": 290200,
         "market_value": 308200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169C00044000000",
@@ -181,7 +194,20 @@
         "assessed_value": 291500,
         "market_value": 291500,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122D00130000100",
+        "address": "12 BRILLIANT AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "514   SANDRA LN",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 290000,
+        "market_value": 290000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0169L00096000000",
@@ -194,32 +220,6 @@
         "assessed_value": 290000,
         "market_value": 290000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122D00024000000",
-        "address": "132 EMERSON AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "132   EMERSON AVE",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 292000,
-        "market_value": 310000,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122D00261000000",
-        "address": "330 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "330   2ND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 289600,
-        "market_value": 307600,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,32 @@
     "parcel_id": "0055D00123000000",
     "comparables": [
       {
+        "parcel_id": "0088E00060000000",
+        "address": "764 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "764   MONTCLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97300,
+        "market_value": 97300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088E00369000000",
+        "address": "4348 MURRAY AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4348   MURRAY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97300,
+        "market_value": 115300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0054S00169000000",
         "address": "814 LILAC ST",
         "city": "11502",
@@ -184,7 +210,7 @@
         "assessed_value": 97400,
         "market_value": 97400,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087E00247000000",
@@ -197,7 +223,20 @@
         "assessed_value": 97200,
         "market_value": 97200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088A00182000000",
+        "address": "914 DELEVAN ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "5899   DEVEREAUX LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97400,
+        "market_value": 97400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0054M00055000000",
@@ -210,45 +249,6 @@
         "assessed_value": 97500,
         "market_value": 97500,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0054M00271000000",
-        "address": "3965 BEECHWOOD BLVD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "3965   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97100,
-        "market_value": 115100,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054M00303000000",
-        "address": "4002 BEECHWOOD BLVD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "130   MARYLAND PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97100,
-        "market_value": 97100,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0055D00113000000",
-        "address": "4115 BEEHNER RD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "4115   BEEHNER RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97100,
-        "market_value": 115100,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

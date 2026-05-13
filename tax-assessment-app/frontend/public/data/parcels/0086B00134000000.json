@@ -174,6 +174,19 @@
     "parcel_id": "0086B00134000000",
     "comparables": [
       {
+        "parcel_id": "0127P00156000000",
+        "address": "2093 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2093   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 357700,
+        "market_value": 375700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053G00118000000",
         "address": "105 SCHENLEY RD",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 357800,
         "market_value": 357800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086M00209000000",
@@ -197,7 +210,33 @@
         "assessed_value": 357800,
         "market_value": 375800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127P00160000000",
+        "address": "2089 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2089   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 357800,
+        "market_value": 375800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127P00162000000",
+        "address": "2087 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2087   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 357600,
+        "market_value": 375600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053H00049000000",
@@ -210,45 +249,6 @@
         "assessed_value": 357400,
         "market_value": 375400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0053D00138000000",
-        "address": "1231 MALVERN AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1231   MALVERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 357300,
-        "market_value": 375300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0052R00067000000",
-        "address": "5125 BEELER ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5271   FORBES AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 357000,
-        "market_value": 357000,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0053G00115000000",
-        "address": "101 SCHENLEY RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "101   SCHENLEY RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 357000,
-        "market_value": 375000,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

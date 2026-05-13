@@ -1,0 +1,188 @@
+{
+  "parcel": {
+    "parcel_id": "0023L00232000000",
+    "address": "1212 LORAINE ST",
+    "city": "Ward 22 - North Shore/allegheny",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "511   POINDEXTER DR",
+    "current_mailing_address": "511   POINDEXTER DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.046,
+    "latitude": 40.41716,
+    "longitude": -80.06912
+  },
+  "assessments": {
+    "parcel_id": "0023L00232000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "land_value": 2500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 64,
+        "assessed_value_change_pct": 2.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2436,
+        "market_value": 2436,
+        "land_value": 2436,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 93,
+        "assessed_value_change_pct": 3.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2436,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2343,
+        "market_value": 2343,
+        "land_value": 2343,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 68,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2343,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2275,
+        "market_value": 2275,
+        "land_value": 2275,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 44,
+        "assessed_value_change_pct": 1.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2275,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2231,
+        "market_value": 2231,
+        "land_value": 2231,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2231,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2209,
+        "market_value": 2209,
+        "land_value": 2209,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2209,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023L00232000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023L00232000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jul-18",
+      "most_recent_appeal_date": "16-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22461-2018",
+        "filed_date": "16-Jul-18",
+        "hearing_date": "16-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 2500,
+        "requested_value": 2500,
+        "final_value": 2500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023L00232000000",
+    "comparables": [
+      {
+        "parcel_id": "0023K00258000000",
+        "address": "ELOISE ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "204  W NORTH AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2650,
+        "market_value": 2650,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023K00383000000",
+        "address": "REDDOUR ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "1301   REDDOUR ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2700,
+        "market_value": 2700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023P00500000002",
+        "address": "DIAMOND ST",
+        "city": "Ward 22 - North Shore/allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2900,
+        "market_value": 2900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0167R00040000000",
+    "address": "17 3RD ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "4823   OAKHURST AVE",
+    "current_mailing_address": "4823   OAKHURST AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.059,
+    "latitude": 40.4952,
+    "longitude": -79.90396
+  },
+  "assessments": {
+    "parcel_id": "0167R00040000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5700,
+        "market_value": 5700,
+        "land_value": 5700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 565,
+        "assessed_value_change_pct": 11.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5135,
+        "market_value": 5135,
+        "land_value": 5135,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 100,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5135,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5035,
+        "market_value": 5035,
+        "land_value": 5035,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 49,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5035,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4986,
+        "market_value": 4986,
+        "land_value": 4986,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4986,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4986,
+        "market_value": 4986,
+        "land_value": 4986,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -51,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4986,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5037,
+        "market_value": 5037,
+        "land_value": 5037,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5037,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0167R00040000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0167R00040000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "21-Aug-18",
+      "most_recent_appeal_date": "21-Aug-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23969-2018",
+        "filed_date": "21-Aug-18",
+        "hearing_date": "21-Aug-18",
+        "appeal_status": "approved",
+        "original_value": 33500,
+        "requested_value": 33500,
+        "final_value": 33500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0167R00040000000",
+    "comparables": [
+      {
+        "parcel_id": "0168M00337000000",
+        "address": "1842 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "3027   MEYERIDGE RD",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0168G00018000000",
+        "address": "FRONT ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "2936   MCNEAL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5900,
+        "market_value": 5900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167S00096000000",
+        "address": "101 ALI ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "100   ALI ST",
+        "land_use_description": "OTHER",
+        "acreage": null,
+        "assessed_value": 6100,
+        "market_value": 6100,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168K00057000000",
+        "address": "MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1326   MAIN ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6100,
+        "market_value": 6100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0167R00070000000",
+        "address": "17 2ND ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "17   2ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 6200,
+        "market_value": 24200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168M00213000000",
+        "address": "1902 MIDDLE ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1902   MIDDLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 6200,
+        "market_value": 24200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

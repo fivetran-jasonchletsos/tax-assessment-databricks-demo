@@ -197,6 +197,19 @@
     "parcel_id": "0251A00242000000",
     "comparables": [
       {
+        "parcel_id": "0252L00008000000",
+        "address": "217 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "217   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 339200,
+        "market_value": 357200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141P00017000000",
         "address": "200 HAZEL DR",
         "city": "Mt.lebanon",
@@ -207,7 +220,7 @@
         "assessed_value": 338900,
         "market_value": 356900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0192A00204000000",
@@ -220,7 +233,20 @@
         "assessed_value": 338900,
         "market_value": 356900,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252L00020000000",
+        "address": "227 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "227   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 339300,
+        "market_value": 357300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0192A00140000000",
@@ -233,7 +259,7 @@
         "assessed_value": 338800,
         "market_value": 356800,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0140N00159000000",
@@ -245,32 +271,6 @@
         "acreage": null,
         "assessed_value": 339600,
         "market_value": 357600,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0192G00048000000",
-        "address": "339 PARKWAY DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "339   PARKWAY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 339600,
-        "market_value": 357600,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0193H00094000000",
-        "address": "89 PARKRIDGE LN",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "89   PARKRIDGE LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 338300,
-        "market_value": 356300,
         "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }

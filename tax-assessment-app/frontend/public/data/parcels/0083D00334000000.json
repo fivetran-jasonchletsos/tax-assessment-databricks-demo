@@ -122,6 +122,32 @@
     "parcel_id": "0083D00334000000",
     "comparables": [
       {
+        "parcel_id": "0123E00030000000",
+        "address": "116 HIGH PARK PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "116   HIGH PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 227000,
+        "market_value": 245000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124A00210000000",
+        "address": "935 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "935   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 227300,
+        "market_value": 245300,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082H00225000000",
         "address": "1427 GREYSTONE DR",
         "city": "11101",
@@ -132,7 +158,7 @@
         "assessed_value": 227400,
         "market_value": 245400,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083D00136000000",
@@ -145,7 +171,20 @@
         "assessed_value": 225600,
         "market_value": 225600,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124A00228000000",
+        "address": "901 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "901   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 227800,
+        "market_value": 245800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00080000000",
@@ -158,45 +197,6 @@
         "assessed_value": 228000,
         "market_value": 228000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082S00138000000",
-        "address": "1015 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1015   FARRAGUT ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 228200,
-        "market_value": 246200,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082H00253000000",
-        "address": "1454 GREYSTONE DR",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1454   GREYSTONE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 229000,
-        "market_value": 247000,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082M00243000000",
-        "address": "1214 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1214  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 229300,
-        "market_value": 247300,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

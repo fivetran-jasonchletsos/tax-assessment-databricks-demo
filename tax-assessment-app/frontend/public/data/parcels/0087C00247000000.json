@@ -174,6 +174,19 @@
     "parcel_id": "0087C00247000000",
     "comparables": [
       {
+        "parcel_id": "0126E00074000000",
+        "address": "428 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "428   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 325200,
+        "market_value": 343200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087A00179000000",
         "address": "5432 HOBART ST",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 325200,
         "market_value": 343200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087F00053000000",
@@ -197,7 +210,20 @@
         "assessed_value": 325000,
         "market_value": 325000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0126E00075000000",
+        "address": "426 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "426   HASTINGS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 326500,
+        "market_value": 344500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087C00223000000",
@@ -210,45 +236,19 @@
         "assessed_value": 326800,
         "market_value": 326800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087D00163000000",
-        "address": "6337 CROMBIE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6337   CROMBIE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 327000,
-        "market_value": 327000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00188000000",
-        "address": "5454 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5454   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 323300,
-        "market_value": 341300,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087A00082000000",
-        "address": "5414 GUARINO RD",
+        "parcel_id": "0128A00133000000",
+        "address": "6435 PHILLIPS AVE",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5414   GUARINO RD",
+        "current_owner_name": "6435   PHILLIPS AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 322900,
-        "market_value": 340900,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 326800,
+        "market_value": 344800,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

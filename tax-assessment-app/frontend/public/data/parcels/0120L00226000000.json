@@ -174,6 +174,19 @@
     "parcel_id": "0120L00226000000",
     "comparables": [
       {
+        "parcel_id": "0120S00016000000",
+        "address": "1407 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1407   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82300,
+        "market_value": 100300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0120K00092000000",
         "address": "1006 DOWNLOOK ST",
         "city": "11001",
@@ -184,7 +197,7 @@
         "assessed_value": 82400,
         "market_value": 100400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0121E00201000000",
@@ -197,7 +210,7 @@
         "assessed_value": 82400,
         "market_value": 100400,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0120L00203000000",
@@ -210,7 +223,7 @@
         "assessed_value": 82500,
         "market_value": 100500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0120L00224000000",
@@ -223,7 +236,7 @@
         "assessed_value": 82100,
         "market_value": 100100,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0120M00222000000",
@@ -236,19 +249,6 @@
         "assessed_value": 82100,
         "market_value": 100100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120M00218000000",
-        "address": "1446 SIMONA DR",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1446   SIMONA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 82600,
-        "market_value": 100600,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

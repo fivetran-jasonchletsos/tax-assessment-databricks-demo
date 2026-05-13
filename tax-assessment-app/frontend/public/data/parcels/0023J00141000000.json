@@ -122,6 +122,19 @@
     "parcel_id": "0023J00141000000",
     "comparables": [
       {
+        "parcel_id": "0023J00129000000",
+        "address": "1400 BUENA VISTA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "2280   WHITED ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 179000,
+        "market_value": 179000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0023E00174000000",
         "address": "504 ARMANDALE ST",
         "city": "Ward 25",
@@ -132,7 +145,7 @@
         "assessed_value": 179300,
         "market_value": 197300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0023F00259000000",
@@ -145,7 +158,7 @@
         "assessed_value": 180000,
         "market_value": 180000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0023J00029000000",
@@ -158,7 +171,7 @@
         "assessed_value": 180100,
         "market_value": 198100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0023H00390000000",
@@ -171,7 +184,7 @@
         "assessed_value": 176000,
         "market_value": 194000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0023F00416000C00",
@@ -184,19 +197,6 @@
         "assessed_value": 175700,
         "market_value": 175700,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0022M00039000000",
-        "address": "1523 BRIGHTON PL",
-        "city": "Ward 25",
-        "zip_code": "15212",
-        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 181200,
-        "market_value": 181200,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

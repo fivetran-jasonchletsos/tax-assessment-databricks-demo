@@ -122,6 +122,19 @@
     "parcel_id": "0082P00167000000",
     "comparables": [
       {
+        "parcel_id": "0123N00322000000",
+        "address": "6504 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6504   JACKSON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 166000,
+        "market_value": 184000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082K00107000000",
         "address": "5500 WELLESLEY AVE",
         "city": "11102",
@@ -132,7 +145,7 @@
         "assessed_value": 166300,
         "market_value": 184300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082G00291000000",
@@ -145,7 +158,7 @@
         "assessed_value": 165500,
         "market_value": 165500,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082K00154000000",
@@ -158,7 +171,7 @@
         "assessed_value": 165500,
         "market_value": 183500,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082G00181000000",
@@ -171,7 +184,7 @@
         "assessed_value": 165300,
         "market_value": 183300,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082P00093000000",
@@ -184,19 +197,6 @@
         "assessed_value": 164800,
         "market_value": 164800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082F00162000000",
-        "address": "1167 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1167   KING AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 167900,
-        "market_value": 185900,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

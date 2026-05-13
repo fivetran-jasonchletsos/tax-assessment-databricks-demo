@@ -122,6 +122,19 @@
     "parcel_id": "0075C00170000000",
     "comparables": [
       {
+        "parcel_id": "0114P00202000000",
+        "address": "1821 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1821   MORRELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105100,
+        "market_value": 123100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0075C00142000000",
         "address": "3615 FLEMING AVE",
         "city": "Ward 27 - Brighton Heights",
@@ -132,7 +145,33 @@
         "assessed_value": 105300,
         "market_value": 105300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0114G00040000000",
+        "address": "3933 BRIGHTON RD",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3933   BRIGHTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104800,
+        "market_value": 122800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0115N00136000000",
+        "address": "1017 PEMBERTON ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1017   PEMBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105400,
+        "market_value": 123400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0075D00151000000",
@@ -145,58 +184,19 @@
         "assessed_value": 104700,
         "market_value": 122700,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0075D00018000000",
-        "address": "1416 DAVIS AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "1416   DAVIS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 105900,
-        "market_value": 123900,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0075D00132000000",
-        "address": "3567 SHADELAND AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "3567   SHADELAND AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 104300,
-        "market_value": 122300,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0075C00116000000",
-        "address": "1621 TERMON AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "1621   TERMON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107000,
-        "market_value": 125000,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0075H00249000000",
-        "address": "3401 SHADELAND AVE",
+        "parcel_id": "0114C00108000000",
+        "address": "4025 KLEBER ST",
         "city": "Ward 27 - Brighton Heights",
         "zip_code": "15212",
-        "current_owner_name": "3401   SHADELAND AVE",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "4025   KLEBER ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 103200,
-        "market_value": 121200,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 104700,
+        "market_value": 122700,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

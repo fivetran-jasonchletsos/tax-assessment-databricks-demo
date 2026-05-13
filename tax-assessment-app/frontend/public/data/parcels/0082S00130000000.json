@@ -122,6 +122,19 @@
     "parcel_id": "0082S00130000000",
     "comparables": [
       {
+        "parcel_id": "0124A00293000000",
+        "address": "935 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "935   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238700,
+        "market_value": 256700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082H00210000000",
         "address": "5913 CALLOWHILL ST",
         "city": "11101",
@@ -132,7 +145,7 @@
         "assessed_value": 238900,
         "market_value": 256900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082S00285000000",
@@ -145,7 +158,20 @@
         "assessed_value": 239000,
         "market_value": 257000,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124A00212000000",
+        "address": "933 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "933   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238400,
+        "market_value": 256400,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083D00297000000",
@@ -158,45 +184,19 @@
         "assessed_value": 239400,
         "market_value": 257400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082H00191000000",
-        "address": "1434 N EUCLID AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6020   SAWYER ST  FL 2",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 240000,
-        "market_value": 240000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083C00156000000",
-        "address": "5833 WAYNE RD",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "5833   WAYNE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 240100,
-        "market_value": 258100,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082M00285000000",
-        "address": "1209 FARRAGUT ST",
+        "parcel_id": "0123J00114000000",
+        "address": "1323 HEBERTON ST",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "1209   FARRAGUT ST",
+        "current_owner_name": "1323   HEBERTON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 237200,
-        "market_value": 255200,
-        "assessed_value_change_pct": -1.1,
+        "assessed_value": 237500,
+        "market_value": 255500,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

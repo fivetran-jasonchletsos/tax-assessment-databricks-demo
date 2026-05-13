@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0161S00125000000",
+    "address": "BENTON AVE",
+    "city": "Ross",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2   GAMBLE ST",
+    "current_mailing_address": "2   GAMBLE ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 3.95,
+    "latitude": 40.41848,
+    "longitude": -80.08664
+  },
+  "assessments": {
+    "parcel_id": "0161S00125000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 13400,
+        "market_value": 13400,
+        "land_value": 13400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 967,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 12433,
+        "market_value": 12433,
+        "land_value": 12433,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 123,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12433,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 12310,
+        "market_value": 12310,
+        "land_value": 12310,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12310,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 12310,
+        "market_value": 12310,
+        "land_value": 12310,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -125,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12310,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 12435,
+        "market_value": 12435,
+        "land_value": 12435,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 592,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12435,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 11843,
+        "market_value": 11843,
+        "land_value": 11843,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11843,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0161S00125000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0161S00125000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0161S00125000000",
+    "comparables": [
+      {
+        "parcel_id": "0161S00219000000",
+        "address": "MALCOLM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "140   MALCOLM AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12200,
+        "market_value": 12200,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

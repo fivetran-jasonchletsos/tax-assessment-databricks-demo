@@ -120,6 +120,33 @@
   },
   "comparables": {
     "parcel_id": "0436H00355000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0436A00290000000",
+        "address": "MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "211  N ROSE DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14200,
+        "market_value": 14200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0523P00041000000",
+        "address": "3013 BOARDWALK CT",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "3034   CANTERBURY DR",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 8800,
+        "market_value": 8800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      }
+    ]
   }
 }

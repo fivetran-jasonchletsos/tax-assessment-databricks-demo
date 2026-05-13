@@ -145,6 +145,19 @@
     "parcel_id": "0355A00176000000",
     "comparables": [
       {
+        "parcel_id": "0615N00058000000",
+        "address": "182 ELMWOOD DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "182   ELMWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100600,
+        "market_value": 118600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0222L00181000000",
         "address": "59 BETHANY DR",
         "city": "Shaler",
@@ -155,7 +168,7 @@
         "assessed_value": 100600,
         "market_value": 118600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0353D00057000000",
@@ -168,7 +181,7 @@
         "assessed_value": 100700,
         "market_value": 100700,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355P00299000000",
@@ -181,7 +194,20 @@
         "assessed_value": 100700,
         "market_value": 118700,
         "assessed_value_change_pct": 1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0615S00080000000",
+        "address": "111 FIELDSTONE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "111   FIELDSTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100700,
+        "market_value": 118700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0222H00015000000",
@@ -194,32 +220,6 @@
         "assessed_value": 100700,
         "market_value": 118700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00046000000",
-        "address": "106 CREST LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "106   CREST LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100800,
-        "market_value": 118800,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355H00185000000",
-        "address": "811 ALEXANDER ST",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "811   ALEXANDER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100800,
-        "market_value": 118800,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

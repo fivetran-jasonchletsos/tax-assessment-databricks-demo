@@ -174,6 +174,19 @@
     "parcel_id": "0087E00046000000",
     "comparables": [
       {
+        "parcel_id": "0127P00003000000",
+        "address": "149 PHILLIPS PL",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "149   PHILLIPS PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 203500,
+        "market_value": 221500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085H00011000000",
         "address": "617 GETTYSBURG ST",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 203600,
         "market_value": 221600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087C00143000000",
@@ -197,7 +210,7 @@
         "assessed_value": 203800,
         "market_value": 203800,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00256000000",
@@ -210,7 +223,20 @@
         "assessed_value": 203200,
         "market_value": 221200,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00030000000",
+        "address": "2416 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2416   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 203200,
+        "market_value": 221200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085H00042000A00",
@@ -223,32 +249,6 @@
         "assessed_value": 203900,
         "market_value": 221900,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00048000000",
-        "address": "5439 GUARINO RD",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5439   GUARINO RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203100,
-        "market_value": 203100,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087D00204000000",
-        "address": "6347 WALDRON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6347   WALDRON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203100,
-        "market_value": 221100,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

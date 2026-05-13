@@ -122,6 +122,19 @@
     "parcel_id": "0122D00102000000",
     "comparables": [
       {
+        "parcel_id": "0169M00024000000",
+        "address": "803 CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "39   DORIS AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 537500,
+        "market_value": 537500,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0169S00361000000",
         "address": "301 EASTERN AVE",
         "city": "Aspinwall",
@@ -132,7 +145,7 @@
         "assessed_value": 544500,
         "market_value": 562500,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0122D00308000000",
@@ -145,7 +158,20 @@
         "assessed_value": 545700,
         "market_value": 545700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0169S00279000000",
+        "address": "231 EASTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 81067",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 551000,
+        "market_value": 551000,
+        "assessed_value_change_pct": 1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169S00332000000",
@@ -158,45 +184,19 @@
         "assessed_value": 528100,
         "market_value": 546100,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0169S00364000000",
-        "address": "211 EASTERN AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "211   EASTERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 512000,
-        "market_value": 530000,
-        "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122D00318000000",
-        "address": "205 EASTERN AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "205   EASTERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 482400,
-        "market_value": 500400,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0122D00044000000",
-        "address": "112 EMERSON AVE",
+        "parcel_id": "0122C00166000000",
+        "address": "139 FREEPORT RD",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "112   EMERSON AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "615   WHISPERING PINES DR",
+        "land_use_description": "DWG USED AS OFFICE",
         "acreage": null,
-        "assessed_value": 482000,
-        "market_value": 500000,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value": 525000,
+        "market_value": 525000,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

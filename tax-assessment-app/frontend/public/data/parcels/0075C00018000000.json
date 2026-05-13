@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0075C00018000000",
+    "address": "3600 CALIFORNIA AVE",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3600   CALIFORNIA AVE",
+    "current_mailing_address": "3600   CALIFORNIA AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+    "acreage": 0.321,
+    "latitude": 40.41716,
+    "longitude": -80.06864
+  },
+  "assessments": {
+    "parcel_id": "0075C00018000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1189200,
+        "market_value": 1189200,
+        "land_value": 57000,
+        "improvement_value": 1132200,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29284,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1189200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1159916,
+        "market_value": 1159916,
+        "land_value": 55596,
+        "improvement_value": 1104320,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 44612,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1159916,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1115304,
+        "market_value": 1115304,
+        "land_value": 53458,
+        "improvement_value": 1061846,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32484,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1115304,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1082820,
+        "market_value": 1082820,
+        "land_value": 51901,
+        "improvement_value": 1030919,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21231,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1082820,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1061589,
+        "market_value": 1061589,
+        "land_value": 50883,
+        "improvement_value": 1010706,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10510,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1061589,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1051079,
+        "market_value": 1051079,
+        "land_value": 50379,
+        "improvement_value": 1000700,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1051079,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075C00018000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075C00018000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0075C00018000000",
+    "comparables": [
+      {
+        "parcel_id": "0045N00195000000",
+        "address": "1400 INGHAM ST",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "530   MARSHALL AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 1136300,
+        "market_value": 1136300,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0044H00242000001",
+        "address": "2688 CALIFORNIA AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "2326   DUNCAN AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 1024500,
+        "market_value": 1024500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0076J00191000000",
+        "address": "3210 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "510   VOLVO PKWY",
+        "land_use_description": "DISCOUNT STORE",
+        "acreage": null,
+        "assessed_value": 975000,
+        "market_value": 975000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

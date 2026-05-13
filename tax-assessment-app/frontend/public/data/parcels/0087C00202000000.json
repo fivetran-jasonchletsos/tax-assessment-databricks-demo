@@ -174,6 +174,19 @@
     "parcel_id": "0087C00202000000",
     "comparables": [
       {
+        "parcel_id": "0128N00134000000",
+        "address": "2833 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "140   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134600,
+        "market_value": 134600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087H00049000000",
         "address": "6314 CROMBIE ST",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 134500,
         "market_value": 152500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128N00258000000",
+        "address": "2759 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2759   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134700,
+        "market_value": 152700,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086R00079000000",
@@ -197,7 +223,7 @@
         "assessed_value": 134400,
         "market_value": 152400,
         "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087D00172000000",
@@ -210,7 +236,7 @@
         "assessed_value": 134400,
         "market_value": 152400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087C00118000000",
@@ -222,32 +248,6 @@
         "acreage": null,
         "assessed_value": 134900,
         "market_value": 152900,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085H00014000000",
-        "address": "607 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "607   GETTYSBURG ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 135000,
-        "market_value": 135000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00127000000",
-        "address": "2323 ELDRIDGE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2323   ELDRIDGE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 135000,
-        "market_value": 135000,
         "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }

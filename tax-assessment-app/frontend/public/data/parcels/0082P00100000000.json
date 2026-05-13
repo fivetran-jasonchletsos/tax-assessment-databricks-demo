@@ -122,6 +122,19 @@
     "parcel_id": "0082P00100000000",
     "comparables": [
       {
+        "parcel_id": "0123N00195000000",
+        "address": "1203 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1203   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 164000,
+        "market_value": 182000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082P00131000000",
         "address": "5535 JACKSON ST",
         "city": "11102",
@@ -132,7 +145,33 @@
         "assessed_value": 163800,
         "market_value": 181800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124B00029000000",
+        "address": "6479 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6479   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163700,
+        "market_value": 181700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124A00045000000",
+        "address": "6360 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6360   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 164500,
+        "market_value": 164500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082P00093000000",
@@ -145,58 +184,19 @@
         "assessed_value": 164800,
         "market_value": 164800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082G00181000000",
-        "address": "5626 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5626   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 165300,
-        "market_value": 183300,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082G00210000000",
-        "address": "5615 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5524   BEVERLY PL",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 162500,
-        "market_value": 162500,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00291000000",
-        "address": "5625 BRYANT ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5625   BRYANT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 165500,
-        "market_value": 165500,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082K00154000000",
-        "address": "5536 HAMPTON ST",
+        "parcel_id": "0124B00035000000",
+        "address": "6467 STANTON AVE",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5536   HAMPTON ST",
+        "current_owner_name": "6467   STANTON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 165500,
-        "market_value": 183500,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 162800,
+        "market_value": 180800,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

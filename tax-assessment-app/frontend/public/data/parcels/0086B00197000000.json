@@ -174,6 +174,19 @@
     "parcel_id": "0086B00197000000",
     "comparables": [
       {
+        "parcel_id": "0127A00160000000",
+        "address": "6526 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6526   DALZELL PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 298300,
+        "market_value": 316300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086C00087000200",
         "address": "1534 ASBURY PL",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 298200,
         "market_value": 316200,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088M00004000000",
+        "address": "210 BURKETON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "210   BURKETON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 298200,
+        "market_value": 316200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086H00214000000",
@@ -197,7 +223,7 @@
         "assessed_value": 298500,
         "market_value": 298500,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086H00265000000",
@@ -210,45 +236,19 @@
         "assessed_value": 297800,
         "market_value": 315800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085N00041000000",
-        "address": "5463 FAIR OAKS ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1415   BENNINGTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 297700,
-        "market_value": 315700,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053C00019000000",
-        "address": "208 GLADSTONE RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "208   GLADSTONE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 297400,
-        "market_value": 315400,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052R00216000000",
-        "address": "125 TECHVIEW TER",
+        "parcel_id": "0088M00009000000",
+        "address": "1562 OVERTON LN",
         "city": "11401",
-        "zip_code": "15213",
-        "current_owner_name": "11103  NE 174TH ST",
+        "zip_code": "15217",
+        "current_owner_name": "1562   OVERTON LN",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 299300,
-        "market_value": 299300,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 298800,
+        "market_value": 316800,
+        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

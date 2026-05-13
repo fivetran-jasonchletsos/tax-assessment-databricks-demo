@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0121K00328000000",
+    "address": "1814 CHISLETT ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1010  N SHERIDAN AVE",
+    "current_mailing_address": "1010  N SHERIDAN AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.46174,
+    "longitude": -79.90156
+  },
+  "assessments": {
+    "parcel_id": "0121K00328000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 87200,
+        "market_value": 87200,
+        "land_value": 26300,
+        "improvement_value": 60900,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6284,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 80916,
+        "market_value": 80916,
+        "land_value": 24404,
+        "improvement_value": 56512,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 801,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80916,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 80115,
+        "market_value": 80115,
+        "land_value": 24163,
+        "improvement_value": 55952,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80115,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 80115,
+        "market_value": 80115,
+        "land_value": 24163,
+        "improvement_value": 55952,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -810,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80115,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 80925,
+        "market_value": 80925,
+        "land_value": 24407,
+        "improvement_value": 56518,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3853,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 80925,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 77072,
+        "market_value": 77072,
+        "land_value": 23245,
+        "improvement_value": 53827,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77072,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121K00328000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121K00328000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0121K00328000000",
+    "comparables": [
+      {
+        "parcel_id": "0081A00305000000",
+        "address": "5505 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5505   CAMELIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87200,
+        "market_value": 105200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080H00156000B00",
+        "address": "5233 DUNCAN ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5233   DUNCAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87300,
+        "market_value": 105300,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121L00087000000",
+        "address": "6929 BISHOP ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6929   BISHOP ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87300,
+        "market_value": 105300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080D00280000000",
+        "address": "5230 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5230   KEYSTONE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87000,
+        "market_value": 105000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0081B00178000000",
+        "address": "4315 UPVIEW TER",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "4315   UPVIEW TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87400,
+        "market_value": 105400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082J00276000000",
+        "address": "915 HIGHVIEW ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "915   HIGHVIEW ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87000,
+        "market_value": 105000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

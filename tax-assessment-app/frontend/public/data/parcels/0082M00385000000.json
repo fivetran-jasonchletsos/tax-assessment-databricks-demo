@@ -174,6 +174,19 @@
     "parcel_id": "0082M00385000000",
     "comparables": [
       {
+        "parcel_id": "0124A00249000000",
+        "address": "966 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "966   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283900,
+        "market_value": 301900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082H00249000000",
         "address": "1462 GREYSTONE DR",
         "city": "11101",
@@ -184,7 +197,7 @@
         "assessed_value": 284300,
         "market_value": 302300,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083D00060000000",
@@ -197,7 +210,20 @@
         "assessed_value": 284400,
         "market_value": 302400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00065000000",
+        "address": "1103 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1103   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 284600,
+        "market_value": 302600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082H00251000000",
@@ -210,45 +236,19 @@
         "assessed_value": 285200,
         "market_value": 303200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082S00113000000",
-        "address": "6021 WELLESLEY AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6021   WELLESLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 285600,
-        "market_value": 303600,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082S00160000000",
-        "address": "1100 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1100  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 286100,
-        "market_value": 286100,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0083D00260000000",
-        "address": "6139 JACKSON ST",
+        "parcel_id": "0124A00189000000",
+        "address": "971 WELLESLEY RD",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "510   LOCKHART ST",
-        "land_use_description": "FOUR FAMILY",
+        "current_owner_name": "971   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 281100,
-        "market_value": 281100,
-        "assessed_value_change_pct": -4.1,
+        "assessed_value": 282100,
+        "market_value": 300100,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

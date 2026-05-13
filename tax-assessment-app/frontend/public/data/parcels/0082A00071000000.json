@@ -174,6 +174,19 @@
     "parcel_id": "0082A00071000000",
     "comparables": [
       {
+        "parcel_id": "0121L00098000000",
+        "address": "6936 BISHOP ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6936   BISHOP ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105100,
+        "market_value": 123100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080G00172000A00",
         "address": "5129 DRESDEN WAY",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 105000,
         "market_value": 105000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0080H00144000000",
@@ -197,7 +210,7 @@
         "assessed_value": 105200,
         "market_value": 105200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0081F00002000000",
@@ -210,7 +223,7 @@
         "assessed_value": 105000,
         "market_value": 105000,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0119S00074000000",
@@ -223,7 +236,7 @@
         "assessed_value": 105200,
         "market_value": 123200,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0120K00186000000",
@@ -236,19 +249,6 @@
         "assessed_value": 105000,
         "market_value": 105000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082A00184000000",
-        "address": "1217 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1217   JANCEY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 105000,
-        "market_value": 123000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

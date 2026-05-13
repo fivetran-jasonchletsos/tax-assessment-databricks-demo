@@ -122,6 +122,19 @@
     "parcel_id": "0085R00293000000",
     "comparables": [
       {
+        "parcel_id": "0126N00250000000",
+        "address": "6689 WOODWELL ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6689   WOODWELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 330000,
+        "market_value": 348000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086J00038000000",
         "address": "5540 DARLINGTON RD",
         "city": "11402",
@@ -132,7 +145,7 @@
         "assessed_value": 330400,
         "market_value": 348400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086R00299000000",
@@ -145,7 +158,20 @@
         "assessed_value": 329200,
         "market_value": 347200,
         "assessed_value_change_pct": 1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0125N00108000000",
+        "address": "114 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "114   ELYSIAN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 331200,
+        "market_value": 349200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086L00165000000",
@@ -158,45 +184,19 @@
         "assessed_value": 331300,
         "market_value": 349300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086L00089000000",
-        "address": "5831 DARLINGTON RD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5831   DARLINGTON RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 328200,
-        "market_value": 346200,
-        "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053S00030000000",
-        "address": "5400 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5400   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 332000,
-        "market_value": 350000,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085P00304000000",
-        "address": "5725 WILKINS AVE",
+        "parcel_id": "0125N00089000000",
+        "address": "127 ELYSIAN ST",
         "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "930   PENN AVE  APT 6B",
+        "zip_code": "15206",
+        "current_owner_name": "127   ELYSIAN ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 328000,
-        "market_value": 328000,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 331600,
+        "market_value": 349600,
+        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0001D00115000000",
+    "address": "500 LIBERTY AVE",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "4136   BIGELOW BLVD",
+    "current_mailing_address": "4136   BIGELOW BLVD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "RETL/STOR OVER",
+    "acreage": 0.046,
+    "latitude": 40.45922,
+    "longitude": -79.99342
+  },
+  "assessments": {
+    "parcel_id": "0001D00115000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 333400,
+        "market_value": 333400,
+        "land_value": 155900,
+        "improvement_value": 177500,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5276,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 333400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 328124,
+        "market_value": 328124,
+        "land_value": 153432,
+        "improvement_value": 174692,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3315,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 328124,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 331439,
+        "market_value": 331439,
+        "land_value": 154983,
+        "improvement_value": 176456,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15782,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 331439,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 315657,
+        "market_value": 315657,
+        "land_value": 147603,
+        "improvement_value": 168054,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12140,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 315657,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 303517,
+        "market_value": 303517,
+        "land_value": 141926,
+        "improvement_value": 161591,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8840,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 303517,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 294677,
+        "market_value": 294677,
+        "land_value": 137792,
+        "improvement_value": 156885,
+        "land_value_percentage": 46.8,
+        "improvement_value_percentage": 53.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 294677,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001D00115000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001D00115000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001D00115000000",
+    "comparables": [
+      {
+        "parcel_id": "0001H00218000000",
+        "address": "3 MARKET SQ",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "210   BERKELEY WAY",
+        "land_use_description": "FAST FOOD/DRIVE THRU WINDOW",
+        "acreage": null,
+        "assessed_value": 333000,
+        "market_value": 333000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001M00138000000",
+        "address": "116 SMITHFIELD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "345   LINHART LN",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 318400,
+        "market_value": 318400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001H00223000000",
+        "address": "2 MARKET SQ",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2100   WHARTON ST  STE 503",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 350100,
+        "market_value": 350100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00192000100",
+        "address": "411 WOOD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "527   COURT PL",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 313200,
+        "market_value": 313200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001M00139000000",
+        "address": "114 SMITHFIELD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "114   SMITHFIELD ST",
+        "land_use_description": "OFFICE-WALKUP -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 353900,
+        "market_value": 353900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001D00145000000",
+        "address": "433 MARKET ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "433   MARKET ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 360200,
+        "market_value": 360200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

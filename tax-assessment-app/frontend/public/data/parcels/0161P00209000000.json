@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0161P00209000000",
+    "address": "530 BASCOM AVE",
+    "city": "Ross",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "567   JACKS RUN RD",
+    "current_mailing_address": "567   JACKS RUN RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.083,
+    "latitude": 40.41848,
+    "longitude": -80.08484
+  },
+  "assessments": {
+    "parcel_id": "0161P00209000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 50000,
+        "market_value": 50000,
+        "land_value": 34400,
+        "improvement_value": 15600,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3605,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 46395,
+        "market_value": 46395,
+        "land_value": 31919,
+        "improvement_value": 14476,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 459,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 46395,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 45936,
+        "market_value": 45936,
+        "land_value": 31603,
+        "improvement_value": 14333,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45936,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 45936,
+        "market_value": 45936,
+        "land_value": 31603,
+        "improvement_value": 14333,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -465,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45936,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 46401,
+        "market_value": 46401,
+        "land_value": 31923,
+        "improvement_value": 14478,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2209,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 46401,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 44192,
+        "market_value": 44192,
+        "land_value": 30404,
+        "improvement_value": 13788,
+        "land_value_percentage": 68.8,
+        "improvement_value_percentage": 31.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44192,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0161P00209000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0161P00209000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 47400,
+      "total_value_reduction": 47400,
+      "first_appeal_date": "10-May-17",
+      "most_recent_appeal_date": "10-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-17177-2017",
+        "filed_date": "10-May-17",
+        "hearing_date": "10-May-17",
+        "appeal_status": "approved",
+        "original_value": 97400,
+        "requested_value": 97400,
+        "final_value": 50000,
+        "value_reduction": 47400,
+        "reduction_percentage": 48.67,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0161P00209000000",
+    "comparables": [
+      {
+        "parcel_id": "0114C00257000000",
+        "address": "1435 CLIFFVIEW RD",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "1435   CLIFFVIEW RD",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 49400,
+        "market_value": 49400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0115A00290000000",
+        "address": "703 SPECK ST",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "703   SPECK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49000,
+        "market_value": 67000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0519C00027000000",
+        "address": "ALBINE DR",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 55300,
+        "market_value": 55300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0519C00068000000",
+        "address": "ALBINE DR",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 55400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0614R00274000000",
+        "address": "HAWK DR",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "1000   ROSS MUNICIPAL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 55400,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0432L00186000000",
+        "address": "HODIL RD",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "544   THOMPSON RUN RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 56700,
+        "market_value": 56700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

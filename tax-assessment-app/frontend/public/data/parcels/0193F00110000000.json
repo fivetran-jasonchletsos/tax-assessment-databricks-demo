@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0252D00185000000",
+        "address": "40 SUNNYHILL DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "40   SUNNYHILL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222600,
+        "market_value": 240600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0140E00067000000",
         "address": "705 BRAFFERTON DR",
         "city": "Mt.lebanon",
@@ -197,7 +210,7 @@
         "assessed_value": 222700,
         "market_value": 240700,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0193G00030000000",
@@ -210,7 +223,20 @@
         "assessed_value": 222700,
         "market_value": 240700,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252C00081000000",
+        "address": "77 ALTADENA DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "77   ALTADENA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 222500,
+        "market_value": 240500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141A00062000000",
@@ -223,32 +249,6 @@
         "assessed_value": 222400,
         "market_value": 240400,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193F00023000000",
-        "address": "1138 CEDAR BLVD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "1138   CEDAR BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 222900,
-        "market_value": 222900,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0193G00322000000",
-        "address": "125 MAYFAIR DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "125   MAYFAIR DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 222300,
-        "market_value": 240300,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

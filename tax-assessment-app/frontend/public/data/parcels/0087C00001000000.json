@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087C00001000000",
+    "address": "5703 HOBART ST",
+    "city": "14th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "6236   5TH AVE",
+    "current_mailing_address": "6236   5TH AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:20-39 UNITS",
+    "acreage": 0.395,
+    "latitude": 40.41916,
+    "longitude": -79.9223
+  },
+  "assessments": {
+    "parcel_id": "0087C00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1110000,
+        "market_value": 1110000,
+        "land_value": 260000,
+        "improvement_value": 850000,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17559,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1110000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1092441,
+        "market_value": 1092441,
+        "land_value": 255887,
+        "improvement_value": 836554,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -11035,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1092441,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1103476,
+        "market_value": 1103476,
+        "land_value": 258471,
+        "improvement_value": 845005,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 52546,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1103476,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1050930,
+        "market_value": 1050930,
+        "land_value": 246163,
+        "improvement_value": 804767,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40420,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1050930,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1010510,
+        "market_value": 1010510,
+        "land_value": 236696,
+        "improvement_value": 773814,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29432,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1010510,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 981078,
+        "market_value": 981078,
+        "land_value": 229802,
+        "improvement_value": 751276,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 981078,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087C00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087C00001000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 546000,
+      "total_value_reduction": 546000,
+      "first_appeal_date": "5-Aug-15",
+      "most_recent_appeal_date": "5-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2245-2015",
+        "filed_date": "5-Aug-15",
+        "hearing_date": "5-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 1656000,
+        "requested_value": 1656000,
+        "final_value": 1110000,
+        "value_reduction": 546000,
+        "reduction_percentage": 32.97,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087C00001000000",
+    "comparables": [
+      {
+        "parcel_id": "0086M00029000000",
+        "address": "6300 FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5989   CENTRE AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 1091200,
+        "market_value": 1091200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086R00035000000",
+        "address": "1922 MURRAY AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1922   MURRAY AVE",
+        "land_use_description": "OTHER RETAIL STRUCTURES",
+        "acreage": null,
+        "assessed_value": 1130800,
+        "market_value": 1130800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087G0015500CU00",
+        "address": "5808 FORWARD AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "611   WILLIAM PENN PL  STE 800",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 1134900,
+        "market_value": 1134900,
+        "assessed_value_change_pct": 9.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087C00041000000",
+        "address": "2136 MURRAY AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5636   BARTLETT ST",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 1085000,
+        "market_value": 1085000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086R00101000000",
+        "address": "5726 BEACON ST",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1823   PENN AVE",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 1075000,
+        "market_value": 1075000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086L00048000000",
+        "address": "5850 FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5850   FORBES AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 1070500,
+        "market_value": 1070500,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

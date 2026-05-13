@@ -197,6 +197,19 @@
     "parcel_id": "0085F00086000000",
     "comparables": [
       {
+        "parcel_id": "0125N00088000000",
+        "address": "125 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "125   ELYSIAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 417000,
+        "market_value": 435000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086N00156000000",
         "address": "5448 BARTLETT ST",
         "city": "11402",
@@ -207,7 +220,7 @@
         "assessed_value": 416600,
         "market_value": 434600,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085H00059000000",
@@ -220,7 +233,7 @@
         "assessed_value": 415800,
         "market_value": 433800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085L00045000000",
@@ -233,7 +246,7 @@
         "assessed_value": 418200,
         "market_value": 436200,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085C00070041600",
@@ -246,32 +259,19 @@
         "assessed_value": 415700,
         "market_value": 433700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085S00105000000",
-        "address": "1342 BEECHWOOD BLVD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1342   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 419200,
-        "market_value": 437200,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086N00014000000",
-        "address": "5429 BARTLETT ST",
+        "parcel_id": "0126N00274000000",
+        "address": "6654 KINSMAN RD",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5429   BARTLETT ST",
+        "current_owner_name": "6654   KINSMAN RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 414400,
-        "market_value": 432400,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 415400,
+        "market_value": 433400,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088A00274000000",
+        "address": "980 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "980   LILAC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 99500,
+        "market_value": 117500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0054S00103000000",
         "address": "807 GREENFIELD AVE",
         "city": "11502",
@@ -145,7 +158,7 @@
         "assessed_value": 99400,
         "market_value": 117400,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0054S00143000000",
@@ -158,7 +171,7 @@
         "assessed_value": 99400,
         "market_value": 117400,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0055D00210000000",
@@ -171,32 +184,19 @@
         "assessed_value": 99400,
         "market_value": 117400,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054M00307000000",
-        "address": "3988 BEECHWOOD BLVD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "3988   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 99700,
-        "market_value": 99700,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0055C00278000000",
-        "address": "4273 GLEN LYTLE RD",
+        "parcel_id": "0088A00098000000",
+        "address": "770 MELBOURNE ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "4273   GLEN LYTLE RD",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "770   MELBOURNE ST",
+        "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 99700,
-        "market_value": 117700,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 99600,
+        "market_value": 117600,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

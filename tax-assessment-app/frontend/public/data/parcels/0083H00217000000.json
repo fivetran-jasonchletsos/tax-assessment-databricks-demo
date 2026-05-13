@@ -122,6 +122,19 @@
     "parcel_id": "0083H00217000000",
     "comparables": [
       {
+        "parcel_id": "0123K00005000000",
+        "address": "6634 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6634   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155200,
+        "market_value": 173200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082F00145000000",
         "address": "1223 KING AVE",
         "city": "11102",
@@ -132,7 +145,7 @@
         "assessed_value": 155100,
         "market_value": 173100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083H00216000000",
@@ -145,7 +158,33 @@
         "assessed_value": 155300,
         "market_value": 155300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123K00009000000",
+        "address": "6739 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6739   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155100,
+        "market_value": 173100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124E00069000000",
+        "address": "6337 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6337   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155400,
+        "market_value": 155400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082H00062000000",
@@ -158,45 +197,6 @@
         "assessed_value": 154700,
         "market_value": 172700,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082M00047000000",
-        "address": "5815 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5901   ELGIN ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 154600,
-        "market_value": 154600,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00281000000",
-        "address": "1200 N NEGLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1200  N NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 154500,
-        "market_value": 172500,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082B00206000000",
-        "address": "1349 CORDOVA RD",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1349   CORDOVA RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 154300,
-        "market_value": 172300,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

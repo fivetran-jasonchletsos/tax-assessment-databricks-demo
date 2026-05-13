@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0048S00161000000",
+    "address": "3503 MULBERRY WAY",
+    "city": "6th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "129   PURVIS RD",
+    "current_mailing_address": "129   PURVIS RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.052,
+    "latitude": 40.46596,
+    "longitude": -79.96252
+  },
+  "assessments": {
+    "parcel_id": "0048S00161000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 235100,
+        "market_value": 235100,
+        "land_value": 36800,
+        "improvement_value": 198300,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3290,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 235100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 238390,
+        "market_value": 238390,
+        "land_value": 37314,
+        "improvement_value": 201076,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11351,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 238390,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 227039,
+        "market_value": 227039,
+        "land_value": 35538,
+        "improvement_value": 191501,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8732,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 227039,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 218307,
+        "market_value": 218307,
+        "land_value": 34171,
+        "improvement_value": 184136,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6358,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 218307,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 211949,
+        "market_value": 211949,
+        "land_value": 33176,
+        "improvement_value": 178773,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4155,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211949,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 207794,
+        "market_value": 207794,
+        "land_value": 32525,
+        "improvement_value": 175269,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 207794,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0048S00161000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0048S00161000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "29-Aug-18",
+      "most_recent_appeal_date": "29-Aug-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22748-2018",
+        "filed_date": "29-Aug-18",
+        "hearing_date": "29-Aug-18",
+        "appeal_status": "approved",
+        "original_value": 312300,
+        "requested_value": 312300,
+        "final_value": 607400,
+        "value_reduction": 0,
+        "reduction_percentage": -94.49,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0048S00161000000",
+    "comparables": [
+      {
+        "parcel_id": "0049E00136000000",
+        "address": "39TH ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "460   VIRGINIA AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 233800,
+        "market_value": 233800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026F00232000000",
+        "address": "3519 BIGELOW BLVD",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3150   MOUNT TROY RD",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 236800,
+        "market_value": 236800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025K00250000000",
+        "address": "2726 PENN AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2722   PENN AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 231800,
+        "market_value": 231800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026A00184000000",
+        "address": "SASSAFRAS ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 238800,
+        "market_value": 238800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049N00174000000",
+        "address": "3415 LIGONIER ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "3415   LIGONIER ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 229700,
+        "market_value": 229700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049P00193000000",
+        "address": "3832 MINTWOOD ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "281   38TH ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 241900,
+        "market_value": 241900,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

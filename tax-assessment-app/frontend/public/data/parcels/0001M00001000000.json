@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0001M00001000000",
+    "address": "217 FORT PITT BLVD",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "153   TODD RD RD",
+    "current_mailing_address": "153   TODD RD RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-WALKUP -3 + STORIES",
+    "acreage": 0.147,
+    "latitude": 40.45958,
+    "longitude": -79.99486
+  },
+  "assessments": {
+    "parcel_id": "0001M00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1072200,
+        "market_value": 1072200,
+        "land_value": 25600,
+        "improvement_value": 1046600,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 105677,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1072200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 966523,
+        "market_value": 966523,
+        "land_value": 23076,
+        "improvement_value": 943447,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18951,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 966523,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 947572,
+        "market_value": 947572,
+        "land_value": 22624,
+        "improvement_value": 924948,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9381,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 947572,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 938191,
+        "market_value": 938191,
+        "land_value": 22400,
+        "improvement_value": 915791,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 938191,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 938191,
+        "market_value": 938191,
+        "land_value": 22400,
+        "improvement_value": 915791,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -9477,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 938191,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 947668,
+        "market_value": 947668,
+        "land_value": 22626,
+        "improvement_value": 925042,
+        "land_value_percentage": 2.4,
+        "improvement_value_percentage": 97.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 947668,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001M00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001M00001000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Jun-19",
+      "most_recent_appeal_date": "8-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-7896-2016",
+        "filed_date": "8-Jun-16",
+        "hearing_date": "8-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 1000000,
+        "requested_value": 1000000,
+        "final_value": 1000000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-28958-2019",
+        "filed_date": "24-Jun-19",
+        "hearing_date": "24-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 1000000,
+        "requested_value": 1000000,
+        "final_value": 2383600,
+        "value_reduction": 0,
+        "reduction_percentage": -138.36,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001M00001000000",
+    "comparables": [
+      {
+        "parcel_id": "0001H00177000000",
+        "address": "209 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "401   LIBERTY AVE  STE 13 E",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1052300,
+        "market_value": 1052300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001B00024000000",
+        "address": "601 COMMONWEALTH PL",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "101   COMMONWEALTH PL  STE 2",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 1098000,
+        "market_value": 1098000,
+        "assessed_value_change_pct": 13.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001H00185000000",
+        "address": "235 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "33  N 3RD ST",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1100000,
+        "market_value": 1100000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00073000000",
+        "address": "216 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "216   BLVD OF THE ALLIES",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1024800,
+        "market_value": 1024800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001M00018000000",
+        "address": "1 SMITHFIELD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "750   HOLIDAY DR  STE 570",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 1121100,
+        "market_value": 1121100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001H00334000000",
+        "address": "320 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "33  N 3RD ST",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1000000,
+        "market_value": 1000000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0082E00283000000",
     "comparables": [
       {
+        "parcel_id": "0121P00004000000",
+        "address": "1643 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1023   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 107900,
+        "market_value": 107900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082E00174000000",
         "address": "1118 MORNINGSIDE AVE",
         "city": "11003",
@@ -132,7 +145,33 @@
         "assessed_value": 108000,
         "market_value": 126000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121L00062000000",
+        "address": "7238 STANDISH ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "7238   STANDISH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 108000,
+        "market_value": 126000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121P00164000000",
+        "address": "1622 VILLANOVA RD",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1622   VILLANOVA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 107800,
+        "market_value": 107800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082J00071000000",
@@ -145,7 +184,7 @@
         "assessed_value": 107700,
         "market_value": 107700,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00114000000",
@@ -158,45 +197,6 @@
         "assessed_value": 107600,
         "market_value": 125600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082J00069000000",
-        "address": "1008 MORNINGSIDE AVE",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1016   MORNINGSIDE AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 107400,
-        "market_value": 107400,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082J00130000000",
-        "address": "1015 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1112  N NEGLEY AVE",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 108400,
-        "market_value": 108400,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120N00021000000",
-        "address": "5430 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "3816   PIER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107300,
-        "market_value": 107300,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0053H00252000000",
     "comparables": [
       {
+        "parcel_id": "0088H00170000000",
+        "address": "1581 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1581   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 521200,
+        "market_value": 539200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053H00044000000",
         "address": "5419 NORTHUMBERLAND ST",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 521800,
         "market_value": 539800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0129E00139000000",
+        "address": "1259 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1259   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 520000,
+        "market_value": 538000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086E00040000000",
@@ -197,7 +223,7 @@
         "assessed_value": 519900,
         "market_value": 537900,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053G00136000000",
@@ -210,45 +236,19 @@
         "assessed_value": 522000,
         "market_value": 540000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086E00020000000",
-        "address": "5445 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 90113",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 522200,
-        "market_value": 522200,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053H00242000000",
-        "address": "212 SCHENLEY RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "212   SCHENLEY RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 523000,
-        "market_value": 523000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086C00275000000",
-        "address": "1466 SHADY AVE",
+        "parcel_id": "0088R00108000000",
+        "address": "1777 PARKVIEW BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1466   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1777   PARKVIEW BLVD",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 518700,
-        "market_value": 536700,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 519700,
+        "market_value": 519700,
+        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

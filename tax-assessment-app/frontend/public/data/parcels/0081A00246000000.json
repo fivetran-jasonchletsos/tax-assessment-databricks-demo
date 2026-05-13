@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120P00100000000",
+        "address": "525 56TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "525   56TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67600,
+        "market_value": 67600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121L00032000000",
+        "address": "6916 MANISTEE ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "3213   WATERFORD CT",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 67600,
+        "market_value": 67600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0080H00177000000",
         "address": "5115 DUNCAN ST",
         "city": "11003",
@@ -197,7 +223,20 @@
         "assessed_value": 67700,
         "market_value": 67700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120P00106000000",
+        "address": "513 56TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "509   ALLENBY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67500,
+        "market_value": 67500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121G00123000000",
@@ -210,45 +249,6 @@
         "assessed_value": 67500,
         "market_value": 67500,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0080D00066000000",
-        "address": "5263 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "8006   BENNETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 67800,
-        "market_value": 67800,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080D00158000000",
-        "address": "5211 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5211   KEYSTONE ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 67400,
-        "market_value": 67400,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081B00144000000",
-        "address": "5511 MCCANDLESS AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5511   MCCANDLESS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 67400,
-        "market_value": 67400,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

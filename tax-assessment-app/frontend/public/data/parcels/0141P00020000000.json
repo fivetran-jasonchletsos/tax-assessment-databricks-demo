@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0251R00036000000",
+        "address": "109 MARSHALL DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "109   MARSHALL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259700,
+        "market_value": 277700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0193S00083000000",
         "address": "106 WOODHAVEN DR",
         "city": "Mt.lebanon",
@@ -210,7 +223,20 @@
         "assessed_value": 259800,
         "market_value": 277800,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252B00157000000",
+        "address": "162 SENECA DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "162   SENECA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 259600,
+        "market_value": 277600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0140K00251000000",
@@ -223,32 +249,6 @@
         "assessed_value": 260000,
         "market_value": 278000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0191A00143000000",
-        "address": "704 GYPSY LN",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "704   GYPSY LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 260000,
-        "market_value": 278000,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0192G00166000000",
-        "address": "380 AVON DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "380   AVON DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 259400,
-        "market_value": 277400,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

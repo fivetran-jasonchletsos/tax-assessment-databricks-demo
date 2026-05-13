@@ -174,6 +174,32 @@
     "parcel_id": "0519B00128000000",
     "comparables": [
       {
+        "parcel_id": "0161S00240000000",
+        "address": "139 MALCOLM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "139   MALCOLM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126000,
+        "market_value": 144000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0161P00143000000",
+        "address": "513 JOHN ST",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "965   MARKMAN PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125800,
+        "market_value": 125800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0519B00007000000",
         "address": "122 RENE DR",
         "city": "Ross",
@@ -184,7 +210,20 @@
         "assessed_value": 126500,
         "market_value": 144500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0161S00209000000",
+        "address": "124 MALCOLM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "124   MALCOLM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125400,
+        "market_value": 125400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0519B00004000000",
@@ -197,58 +236,19 @@
         "assessed_value": 125200,
         "market_value": 143200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0519B00084000000",
-        "address": "112 LINGAY DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "112   LINGAY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 125000,
-        "market_value": 143000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0519K00163000000",
-        "address": "109 AMITY RD",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "109   AMITY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 127100,
-        "market_value": 145100,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0519K00177000000",
-        "address": "108 AMITY RD",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "108   AMITY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 124900,
-        "market_value": 142900,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0519B00066000000",
-        "address": "239 AMITY RD",
+        "parcel_id": "0614P00186000000",
+        "address": "123 CARRIAGE HILL RD",
         "city": "Ross",
         "zip_code": "15116",
-        "current_owner_name": "239   AMITY RD",
+        "current_owner_name": "123   CARRIAGE HILL RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 127200,
-        "market_value": 145200,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 125200,
+        "market_value": 143200,
+        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084B00086000000",
+    "address": "132 S HIGHLAND AVE",
+    "city": "8th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "357   LINCOLN HWY",
+    "current_mailing_address": "357   LINCOLN HWY",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+    "acreage": 0.049,
+    "latitude": 40.46174,
+    "longitude": -79.9024
+  },
+  "assessments": {
+    "parcel_id": "0084B00086000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 312950,
+        "market_value": 312950,
+        "land_value": 204799,
+        "improvement_value": 108151,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22548,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 312950,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 290402,
+        "market_value": 290402,
+        "land_value": 190044,
+        "improvement_value": 100358,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2875,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 290402,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 287527,
+        "market_value": 287527,
+        "land_value": 188162,
+        "improvement_value": 99365,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 287527,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 287527,
+        "market_value": 287527,
+        "land_value": 188162,
+        "improvement_value": 99365,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2905,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 287527,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 290432,
+        "market_value": 290432,
+        "land_value": 190063,
+        "improvement_value": 100369,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13830,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 290432,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 276602,
+        "market_value": 276602,
+        "land_value": 181013,
+        "improvement_value": 95589,
+        "land_value_percentage": 65.4,
+        "improvement_value_percentage": 34.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 276602,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084B00086000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084B00086000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jun-18",
+      "most_recent_appeal_date": "13-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23172-2018",
+        "filed_date": "13-Jun-18",
+        "hearing_date": "13-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 50100,
+        "requested_value": 50100,
+        "final_value": 279700,
+        "value_reduction": 0,
+        "reduction_percentage": -458.28,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084B00086000000",
+    "comparables": [
+      {
+        "parcel_id": "0051P00068000000",
+        "address": "280 MOREWOOD AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2804   EDWARDS WAY",
+        "land_use_description": "BARS",
+        "acreage": null,
+        "assessed_value": 314200,
+        "market_value": 314200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050S00033000000",
+        "address": "5460 PENN AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5460   PENN AVE",
+        "land_use_description": "GROUP HOME",
+        "acreage": null,
+        "assessed_value": 310500,
+        "market_value": 310500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084A00100000000",
+        "address": "305 S NEGLEY AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "9718   FOXGROVE LN",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 316000,
+        "market_value": 316000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084B00226000000",
+        "address": "5929 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "923   1ST AVE",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 308500,
+        "market_value": 308500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051H00268000000",
+        "address": "5634 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 308100,
+        "market_value": 308100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051G00265000000",
+        "address": "408 S GRAHAM ST",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "515  S AIKEN AVE  STE 100",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 306300,
+        "market_value": 306300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0192K00021000000",
     "comparables": [
       {
+        "parcel_id": "0252A00238000000",
+        "address": "1281 CEDAR BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1281   CEDAR BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 118900,
+        "market_value": 136900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0098N00136000000",
         "address": "432 CLOKEY AVE",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 118800,
         "market_value": 136800,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0140E00161000000",
@@ -145,7 +158,7 @@
         "assessed_value": 118800,
         "market_value": 136800,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0140L00228000000",
@@ -158,7 +171,7 @@
         "assessed_value": 119000,
         "market_value": 137000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141D00178000000",
@@ -171,7 +184,7 @@
         "assessed_value": 119000,
         "market_value": 137000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141M00251000000",
@@ -184,19 +197,6 @@
         "assessed_value": 119000,
         "market_value": 137000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141M00315000000",
-        "address": "241 BROADMOOR AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "241   BROADMOOR AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 118800,
-        "market_value": 136800,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

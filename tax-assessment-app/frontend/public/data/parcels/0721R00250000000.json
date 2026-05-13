@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0721R00250000000",
+    "address": "3920 GREEN VALLEY DR",
+    "city": "Hampton",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "3101   MCCULLY RD",
+    "current_mailing_address": "3101   MCCULLY RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.095,
+    "latitude": 40.52778,
+    "longitude": -79.95444
+  },
+  "assessments": {
+    "parcel_id": "0721R00250000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4600,
+        "market_value": 4600,
+        "land_value": 3600,
+        "improvement_value": 1000,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 333,
+        "assessed_value_change_pct": 7.8,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4267,
+        "market_value": 4267,
+        "land_value": 3339,
+        "improvement_value": 928,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 42,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4267,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4225,
+        "market_value": 4225,
+        "land_value": 3306,
+        "improvement_value": 919,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4225,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4225,
+        "market_value": 4225,
+        "land_value": 3306,
+        "improvement_value": 919,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -43,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4225,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4268,
+        "market_value": 4268,
+        "land_value": 3340,
+        "improvement_value": 928,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 203,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4268,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4065,
+        "market_value": 4065,
+        "land_value": 3181,
+        "improvement_value": 884,
+        "land_value_percentage": 78.3,
+        "improvement_value_percentage": 21.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4065,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0721R00250000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0721R00250000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0721R00250000000",
+    "comparables": [
+      {
+        "parcel_id": "0720M00085000000",
+        "address": "3925 KRAMER RD",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "3925   KRAMER RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 4800,
+        "market_value": 4800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0720S00182000000",
+        "address": "3919 KRAMER RD",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "3919   KRAMER RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5400,
+        "market_value": 5400,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0617D00229000000",
+        "address": "MIDDLE RD",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "4107   MIDDLE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3600,
+        "market_value": 3600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

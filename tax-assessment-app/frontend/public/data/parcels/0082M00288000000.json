@@ -171,6 +171,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0123E00026000000",
+        "address": "1437 BROWNING RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1437   BROWNING RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 421700,
+        "market_value": 439700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00116000000",
+        "address": "1126 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1126   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 422500,
+        "market_value": 440500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0083D00066000000",
         "address": "6017 JACKSON ST",
         "city": "11101",
@@ -181,7 +207,7 @@
         "assessed_value": 423300,
         "market_value": 441300,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00312000000",
@@ -194,32 +220,6 @@
         "assessed_value": 423900,
         "market_value": 423900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082M00322000000",
-        "address": "6051 GRAFTON ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6051   GRAFTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 415000,
-        "market_value": 415000,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00318000000",
-        "address": "1429 BROWNING RD",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1429   BROWNING RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 425000,
-        "market_value": 443000,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

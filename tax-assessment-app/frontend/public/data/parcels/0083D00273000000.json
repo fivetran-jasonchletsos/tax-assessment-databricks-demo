@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123N00006000000",
+        "address": "1200 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1200  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 269800,
+        "market_value": 269800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0083D00279000000",
         "address": "6113 JACKSON ST",
         "city": "11101",
@@ -197,7 +210,7 @@
         "assessed_value": 268500,
         "market_value": 286500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082M00327000000",
@@ -210,45 +223,32 @@
         "assessed_value": 270300,
         "market_value": 288300,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0083D00023000000",
-        "address": "916 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "916  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 271000,
-        "market_value": 271000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0082H00282000000",
-        "address": "1431 N HIGHLAND AVE",
+        "parcel_id": "0123E00016000000",
+        "address": "1368 N SHERIDAN AVE",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "1431  N HIGHLAND AVE",
+        "current_owner_name": "1   HOME CAMPUS",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 267300,
-        "market_value": 285300,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 268000,
+        "market_value": 268000,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082H00290000000",
-        "address": "1453 N HIGHLAND AVE",
+        "parcel_id": "0123E00008000000",
+        "address": "1375 HEBERTON ST",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "1453  N HIGHLAND AVE",
+        "current_owner_name": "1375   HEBERTON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 267200,
-        "market_value": 285200,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 270600,
+        "market_value": 288600,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

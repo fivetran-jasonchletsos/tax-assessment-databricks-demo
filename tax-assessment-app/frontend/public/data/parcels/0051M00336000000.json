@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0051M00336000000",
+    "address": "555 S NEGLEY AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "555  S NEGLEY AVE",
+    "current_mailing_address": "555  S NEGLEY AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+    "acreage": 0.011,
+    "latitude": 40.4423,
+    "longitude": -79.94354
+  },
+  "assessments": {
+    "parcel_id": "0051M00336000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 10200,
+        "market_value": 10200,
+        "land_value": 8300,
+        "improvement_value": 1900,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 253,
+        "assessed_value_change_pct": 2.54,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9947,
+        "market_value": 9947,
+        "land_value": 8094,
+        "improvement_value": 1853,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 382,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9947,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 9565,
+        "market_value": 9565,
+        "land_value": 7783,
+        "improvement_value": 1782,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 278,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9565,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 9287,
+        "market_value": 9287,
+        "land_value": 7557,
+        "improvement_value": 1730,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 182,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9287,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 9105,
+        "market_value": 9105,
+        "land_value": 7408,
+        "improvement_value": 1697,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 90,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9105,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 9015,
+        "market_value": 9015,
+        "land_value": 7335,
+        "improvement_value": 1680,
+        "land_value_percentage": 81.4,
+        "improvement_value_percentage": 18.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9015,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051M00336000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051M00336000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0051M00336000000",
+    "comparables": [
+      {
+        "parcel_id": "0084J00042000E00",
+        "address": "555 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "14   HEMINGWAY ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 10200,
+        "market_value": 10200,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084J00149000000",
+        "address": "PIERCE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 10100,
+        "market_value": 10100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084J00378000100",
+        "address": "MARYLAND AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "639   MARYLAND AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 10300,
+        "market_value": 10300,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085A00273000000",
+        "address": "HOWE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 90160",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 10100,
+        "market_value": 10100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084J00158000000",
+        "address": "COLLEGE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 10500,
+        "market_value": 10500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051M00335000000",
+        "address": "561 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "561  S NEGLEY AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 9800,
+        "market_value": 9800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

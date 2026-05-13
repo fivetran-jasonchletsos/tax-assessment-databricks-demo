@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024B00100000000",
+    "address": "1201 HASLAGE AVE",
+    "city": "Ward 24 - Spring Garden",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "7333  NW 13TH CT",
+    "current_mailing_address": "7333  NW 13TH CT",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.073,
+    "latitude": 40.43936,
+    "longitude": -80.08124
+  },
+  "assessments": {
+    "parcel_id": "0024B00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 29400,
+        "market_value": 29400,
+        "land_value": 9100,
+        "improvement_value": 20300,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1829,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 27571,
+        "market_value": 27571,
+        "land_value": 8533,
+        "improvement_value": 19038,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 803,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27571,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 26768,
+        "market_value": 26768,
+        "land_value": 8285,
+        "improvement_value": 18483,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 524,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26768,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 26244,
+        "market_value": 26244,
+        "land_value": 8123,
+        "improvement_value": 18121,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 259,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26244,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 25985,
+        "market_value": 25985,
+        "land_value": 8042,
+        "improvement_value": 17943,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25985,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 25985,
+        "market_value": 25985,
+        "land_value": 8042,
+        "improvement_value": 17943,
+        "land_value_percentage": 31.0,
+        "improvement_value_percentage": 69.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25985,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024B00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024B00100000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-May-18",
+      "most_recent_appeal_date": "14-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22473-2018",
+        "filed_date": "14-May-18",
+        "hearing_date": "14-May-18",
+        "appeal_status": "approved",
+        "original_value": 29400,
+        "requested_value": 29400,
+        "final_value": 29400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024B00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0024A00135000000",
+        "address": "22 ROSTOCK ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "22   ROSTOCK ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 29400,
+        "market_value": 47400,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024C00152000000",
+        "address": "1234 HIGH ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1022   RICHFIELD RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 29400,
+        "market_value": 29400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024F00054000000",
+        "address": "1005 HIGH ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "570   WEBFORD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 29300,
+        "market_value": 29300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0047N00146000000",
+        "address": "41 SOLAR ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "41   SOLAR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 29200,
+        "market_value": 47200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047R00322000000",
+        "address": "1164 ADMIRAL ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1164   ADMIRAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 29600,
+        "market_value": 47600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024A00164000000",
+        "address": "60 ROSTOCK ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "3727  W MAGNOLIA BLVD  UNIT 482",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 29700,
+        "market_value": 29700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

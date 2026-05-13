@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0125E00042000000",
+    "address": "143 ENTERPRISE ST",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "535   SMITHFIELD ST  UNIT 2425",
+    "current_mailing_address": "535   SMITHFIELD ST  UNIT 2425",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.083,
+    "latitude": 40.46066,
+    "longitude": -79.91116
+  },
+  "assessments": {
+    "parcel_id": "0125E00042000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5000,
+        "market_value": 5000,
+        "land_value": 1800,
+        "improvement_value": 3200,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 81,
+        "assessed_value_change_pct": 1.65,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4919,
+        "market_value": 4919,
+        "land_value": 1770,
+        "improvement_value": 3149,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -50,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4919,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4969,
+        "market_value": 4969,
+        "land_value": 1788,
+        "improvement_value": 3181,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 236,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4969,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4733,
+        "market_value": 4733,
+        "land_value": 1703,
+        "improvement_value": 3030,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 182,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4733,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4551,
+        "market_value": 4551,
+        "land_value": 1638,
+        "improvement_value": 2913,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 132,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4551,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4419,
+        "market_value": 4419,
+        "land_value": 1590,
+        "improvement_value": 2829,
+        "land_value_percentage": 36.0,
+        "improvement_value_percentage": 64.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4419,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0125E00042000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0125E00042000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0125E00042000000",
+    "comparables": [
+      {
+        "parcel_id": "0124K00139000000",
+        "address": "SHETLAND ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5000,
+        "market_value": 5000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124N00074000000",
+        "address": "PAULSON AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5100,
+        "market_value": 5100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0173N00159000000",
+        "address": "LINCOLN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "7003   CHAUCER ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5200,
+        "market_value": 5200,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124P00113000000",
+        "address": "WINFIELD ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "532   PAULSON AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5400,
+        "market_value": 5400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124P00115000000",
+        "address": "WINFIELD ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "532   PAULSON AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5400,
+        "market_value": 5400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0125A00123000000",
+        "address": "LOWELL ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1240   FARRAGUT ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 5400,
+        "market_value": 5400,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

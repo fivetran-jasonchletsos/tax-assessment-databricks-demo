@@ -122,6 +122,19 @@
     "parcel_id": "0052S00029000000",
     "comparables": [
       {
+        "parcel_id": "0088S00015000000",
+        "address": "SHELBURNE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 147300,
+        "market_value": 147300,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085P00074000000",
         "address": "1324 S NEGLEY AVE",
         "city": "11401",
@@ -132,7 +145,20 @@
         "assessed_value": 147600,
         "market_value": 165600,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0126N00047000000",
+        "address": "1459 BARNSDALE ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1459   BARNSDALE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147600,
+        "market_value": 147600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085N00177000000",
@@ -145,7 +171,20 @@
         "assessed_value": 146000,
         "market_value": 164000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127J00239000000",
+        "address": "6702 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6702   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148200,
+        "market_value": 166200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085F00250000000",
@@ -158,45 +197,6 @@
         "assessed_value": 145600,
         "market_value": 145600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086B00005000A00",
-        "address": "1400 WIGHTMAN ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1823   PENN AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 145000,
-        "market_value": 145000,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085N00259000000",
-        "address": "5519 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5745   SOLWAY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 149900,
-        "market_value": 149900,
-        "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052L00085000000",
-        "address": "1034 DEVON RD",
-        "city": "11401",
-        "zip_code": "15213",
-        "current_owner_name": "102   BUCKINGHAM RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 150000,
-        "market_value": 150000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

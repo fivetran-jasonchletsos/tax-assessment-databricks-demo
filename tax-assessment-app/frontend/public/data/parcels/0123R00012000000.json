@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0123R00012000000",
+    "address": "6389 OLIVANT ST",
+    "city": "11201",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 1.498,
+    "latitude": 40.46162,
+    "longitude": -79.90756
+  },
+  "assessments": {
+    "parcel_id": "0123R00012000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 61900,
+        "market_value": 61900,
+        "land_value": 19400,
+        "improvement_value": 42500,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2756,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 59144,
+        "market_value": 59144,
+        "land_value": 18536,
+        "improvement_value": 40608,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59144,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 59144,
+        "market_value": 59144,
+        "land_value": 18536,
+        "improvement_value": 40608,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -598,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59144,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 59742,
+        "market_value": 59742,
+        "land_value": 18723,
+        "improvement_value": 41019,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2844,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59742,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 56898,
+        "market_value": 56898,
+        "land_value": 17832,
+        "improvement_value": 39066,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2188,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56898,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 54710,
+        "market_value": 54710,
+        "land_value": 17146,
+        "improvement_value": 37564,
+        "land_value_percentage": 31.3,
+        "improvement_value_percentage": 68.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54710,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123R00012000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0123R00012000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0123R00012000000",
+    "comparables": [
+      {
+        "parcel_id": "0123S00022000000",
+        "address": "736 OLIVANT PL",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "736   OLIVANT PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 61100,
+        "market_value": 61100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0172P00101000000",
+        "address": "7057 CAMPANIA AVE",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "7250   LEMINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 61100,
+        "market_value": 61100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0173L00101000000",
+        "address": "1516 OBERLIN ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "1412   OAKDENE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 63300,
+        "market_value": 63300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0172P00154000000",
+        "address": "7062 CAMPANIA AVE",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "7062   CAMPANIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60400,
+        "market_value": 78400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0173R00029000000",
+        "address": "1428 OAKDENE ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "PO BOX 5408",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60300,
+        "market_value": 60300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124D00038000000",
+        "address": "714 DUNMORE ST",
+        "city": "11201",
+        "zip_code": "15206",
+        "current_owner_name": "714   DUNMORE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60200,
+        "market_value": 78200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

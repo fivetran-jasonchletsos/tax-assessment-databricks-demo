@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023B00218000000",
+    "address": "1663 PERRYSVILLE AVE",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2344   PERRYSVILLE AVE",
+    "current_mailing_address": "2344   PERRYSVILLE AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PUBLIC PARK",
+    "acreage": 0.084,
+    "latitude": 40.41644,
+    "longitude": -80.07008
+  },
+  "assessments": {
+    "parcel_id": "0023B00218000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 26000,
+        "market_value": 26000,
+        "land_value": 26000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -362,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 26362,
+        "market_value": 26362,
+        "land_value": 26362,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1255,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26362,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 25107,
+        "market_value": 25107,
+        "land_value": 25107,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 965,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25107,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 24142,
+        "market_value": 24142,
+        "land_value": 24142,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 703,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24142,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 23439,
+        "market_value": 23439,
+        "land_value": 23439,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 459,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23439,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 22980,
+        "market_value": 22980,
+        "land_value": 22980,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22980,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023B00218000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023B00218000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jul-16",
+      "most_recent_appeal_date": "12-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8160-2016",
+        "filed_date": "12-Jul-16",
+        "hearing_date": "12-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 26000,
+        "requested_value": 26000,
+        "final_value": 26000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023B00218000000",
+    "comparables": [
+      {
+        "parcel_id": "0022H00217000000",
+        "address": "1537 BRIGHTON PL",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "33   BAYVIEW AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 26000,
+        "market_value": 26000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022H00237000000",
+        "address": "BRIGHTON PL",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "759   DOUBLE CHURCHES RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 26000,
+        "market_value": 26000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0022M00047000000",
+        "address": "1522 MARQUIS WAY",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD  STE 1",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 25900,
+        "market_value": 25900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0022D00148000000",
+        "address": "1826 BRIGHTON RD",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1939   SEDGWICK ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 26200,
+        "market_value": 26200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023D00176000000",
+        "address": "21 CARRIE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "21   CARRIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 25800,
+        "market_value": 43800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023H00227000000",
+        "address": "114 FOUNTAIN ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "114   FOUNTAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 25800,
+        "market_value": 43800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

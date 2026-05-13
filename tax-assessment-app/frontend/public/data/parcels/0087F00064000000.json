@@ -122,6 +122,19 @@
     "parcel_id": "0087F00064000000",
     "comparables": [
       {
+        "parcel_id": "0126A00137000000",
+        "address": "350 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "19634   DRESDEN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148500,
+        "market_value": 148500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087F00011000000",
         "address": "5557 POCUSSET ST",
         "city": "11403",
@@ -132,7 +145,33 @@
         "assessed_value": 148500,
         "market_value": 148500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128A00149000000",
+        "address": "2220 IMPERIAL ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2220   IMPERIAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148700,
+        "market_value": 166700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0128E00018000000",
+        "address": "6449 NICHOLSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6449   NICHOLSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148500,
+        "market_value": 166500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087A00323000000",
@@ -145,7 +184,7 @@
         "assessed_value": 148800,
         "market_value": 166800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00138000000",
@@ -157,45 +196,6 @@
         "acreage": null,
         "assessed_value": 148400,
         "market_value": 166400,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087C00154000000",
-        "address": "2307 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "731   HAZELWOOOD AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 148300,
-        "market_value": 148300,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087F00067000000",
-        "address": "2217 WIGHTMAN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "956   BEAR ISLAND CIR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 148900,
-        "market_value": 148900,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087B00079000000",
-        "address": "5632 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5632   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 149000,
-        "market_value": 167000,
         "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }

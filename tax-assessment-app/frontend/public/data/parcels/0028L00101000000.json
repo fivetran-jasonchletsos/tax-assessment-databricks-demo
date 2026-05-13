@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028L00101000000",
+    "address": "318 MCKEE PL",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5500   WALNUT ST  STE 300",
+    "current_mailing_address": "5500   WALNUT ST  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.208,
+    "latitude": 40.43296,
+    "longitude": -79.95232
+  },
+  "assessments": {
+    "parcel_id": "0028L00101000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 900000,
+        "market_value": 900000,
+        "land_value": 120000,
+        "improvement_value": 780000,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22164,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 900000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 877836,
+        "market_value": 877836,
+        "land_value": 117044,
+        "improvement_value": 760792,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 33762,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 877836,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 844074,
+        "market_value": 844074,
+        "land_value": 112543,
+        "improvement_value": 731531,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24584,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 844074,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 819490,
+        "market_value": 819490,
+        "land_value": 109265,
+        "improvement_value": 710225,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16068,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 819490,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 803422,
+        "market_value": 803422,
+        "land_value": 107122,
+        "improvement_value": 696300,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7954,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 803422,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 795468,
+        "market_value": 795468,
+        "land_value": 106062,
+        "improvement_value": 689406,
+        "land_value_percentage": 13.3,
+        "improvement_value_percentage": 86.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 795468,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028L00101000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028L00101000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-May-18",
+      "most_recent_appeal_date": "25-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22543-2018",
+        "filed_date": "25-May-18",
+        "hearing_date": "25-May-18",
+        "appeal_status": "approved",
+        "original_value": 445300,
+        "requested_value": 445300,
+        "final_value": 445300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028L00101000000",
+    "comparables": [
+      {
+        "parcel_id": "0028B00131000000",
+        "address": "3531 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "216   OAKLAND AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 900000,
+        "market_value": 900000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0027D00308000000",
+        "address": "4638 CENTRE AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4638   CENTRE AVE",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 904400,
+        "market_value": 904400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0027L00081000200",
+        "address": "120 LYTTON AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "600   GRANT ST  FL 60",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 910000,
+        "market_value": 7000000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028E00237000000",
+        "address": "151 ROBINSON ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "710   5TH AVE  STE 2000",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 884800,
+        "market_value": 884800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00300000000",
+        "address": "161 BURROWS ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "HUD PROJ #213",
+        "acreage": null,
+        "assessed_value": 882600,
+        "market_value": 882600,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028F00032000000",
+        "address": "3500 5TH AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1823   PENN AVE  STE 3",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 920000,
+        "market_value": 920000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

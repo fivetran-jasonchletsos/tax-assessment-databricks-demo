@@ -174,6 +174,19 @@
     "parcel_id": "0087A00184000000",
     "comparables": [
       {
+        "parcel_id": "0128A00006000000",
+        "address": "2444 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2444   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 314200,
+        "market_value": 332200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087A00044000000",
         "address": "5453 GUARINO RD",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 314500,
         "market_value": 332500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128J00316000000",
+        "address": "2515 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2515   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 314500,
+        "market_value": 332500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086R00168000000",
@@ -197,58 +223,32 @@
         "assessed_value": 314600,
         "market_value": 314600,
         "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0087B00048000000",
-        "address": "5568 COVODE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5568   COVODE ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 315400,
-        "market_value": 315400,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087A00286000000",
-        "address": "5449 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "1735   MOYNELLE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 312800,
-        "market_value": 330800,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0087C00240000000",
-        "address": "5845 PHILLIPS AVE",
+        "parcel_id": "0128K00020000000",
+        "address": "2434 MOUNT ROYAL RD",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "2546   BEECHWOOD BLVD",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "2434   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 311200,
-        "market_value": 311200,
+        "assessed_value": 313600,
+        "market_value": 331600,
         "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087A00321000000",
-        "address": "5517 PHILLIPS AVE",
+        "parcel_id": "0126A00251000000",
+        "address": "315 HASTINGS ST",
         "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5517   PHILLIPS AVE",
+        "zip_code": "15206",
+        "current_owner_name": "315   HASTINGS ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 317300,
-        "market_value": 335300,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 313500,
+        "market_value": 331500,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

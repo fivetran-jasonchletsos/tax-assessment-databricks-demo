@@ -174,6 +174,19 @@
     "parcel_id": "0169J00135000000",
     "comparables": [
       {
+        "parcel_id": "0168J00268000000",
+        "address": "1001 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11202",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 104400,
+        "market_value": 104400,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0168E00024000000",
         "address": "322 13TH ST",
         "city": "Sharpsburg",
@@ -184,7 +197,7 @@
         "assessed_value": 104100,
         "market_value": 122100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0167R00004000000",
@@ -197,7 +210,20 @@
         "assessed_value": 104000,
         "market_value": 104000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0167M00331000000",
+        "address": "920 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "P O BOX 11202",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0167M00049000000",
@@ -210,7 +236,7 @@
         "assessed_value": 105000,
         "market_value": 105000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168L00227000000",
@@ -223,32 +249,6 @@
         "assessed_value": 105200,
         "market_value": 123200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0167S00150000000",
-        "address": "9 5TH ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "REGULAR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 103400,
-        "market_value": 103400,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0167H00014000000",
-        "address": "911 HIGH ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "911   HIGH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103200,
-        "market_value": 103200,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

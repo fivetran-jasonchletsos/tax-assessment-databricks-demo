@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0169M00106000000",
+    "address": "7TH ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "303   FREEPORT RD  UNIT B",
+    "current_mailing_address": "303   FREEPORT RD  UNIT B",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.41,
+    "latitude": 40.4952,
+    "longitude": -79.90216
+  },
+  "assessments": {
+    "parcel_id": "0169M00106000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 7100,
+        "market_value": 7100,
+        "land_value": 7100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 701,
+        "assessed_value_change_pct": 10.95,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 6399,
+        "market_value": 6399,
+        "land_value": 6399,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 125,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6399,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 6274,
+        "market_value": 6274,
+        "land_value": 6274,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 62,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6274,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 6212,
+        "market_value": 6212,
+        "land_value": 6212,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6212,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 6212,
+        "market_value": 6212,
+        "land_value": 6212,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -63,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6212,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6275,
+        "market_value": 6275,
+        "land_value": 6275,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6275,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0169M00106000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0169M00106000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0169M00106000000",
+    "comparables": [
+      {
+        "parcel_id": "0169R00338000000",
+        "address": "100 WESTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "400   HASTINGS ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 8100,
+        "market_value": 8100,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169M00104000000",
+        "address": "7TH ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "303   FREEPORT RD  UNIT B",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 8500,
+        "market_value": 8500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

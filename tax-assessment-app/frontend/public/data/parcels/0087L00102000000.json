@@ -197,6 +197,19 @@
     "parcel_id": "0087L00102000000",
     "comparables": [
       {
+        "parcel_id": "0088G00070000000",
+        "address": "3217 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3217   SHADY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 233200,
+        "market_value": 251200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085F00063000000",
         "address": "1044 MURRAY HILL AVE",
         "city": "11402",
@@ -207,7 +220,7 @@
         "assessed_value": 233300,
         "market_value": 233300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085P00310000000",
@@ -220,7 +233,7 @@
         "assessed_value": 233300,
         "market_value": 251300,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086N00152000000",
@@ -233,45 +246,32 @@
         "assessed_value": 233300,
         "market_value": 251300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087L00191000000",
-        "address": "6325 BURCHFIELD AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "6325   BURCHFIELD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 232500,
-        "market_value": 250500,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0086J00163000000",
-        "address": "5549 DARLINGTON RD",
+        "parcel_id": "0088C00011000000",
+        "address": "6376 CATON ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5549   DARLINGTON RD",
+        "current_owner_name": "6376   CATON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 232200,
-        "market_value": 250200,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 233400,
+        "market_value": 251400,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086K00139000000",
-        "address": "5630 DARLINGTON RD",
+        "parcel_id": "0126N00192000000",
+        "address": "6624 WOODWELL ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5630   DARLINGTON RD",
+        "current_owner_name": "6624   WOODWELL ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 232000,
-        "market_value": 250000,
-        "assessed_value_change_pct": -1.1,
+        "assessed_value": 232600,
+        "market_value": 250600,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0010A00021000000",
+    "address": "2216 PENN AVE",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "3955   BIGELOW BLVD  APT 716",
+    "current_mailing_address": "3955   BIGELOW BLVD  APT 716",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 0.055,
+    "latitude": 40.45838,
+    "longitude": -80.00002
+  },
+  "assessments": {
+    "parcel_id": "0010A00021000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 62200,
+        "market_value": 62200,
+        "land_value": 60000,
+        "improvement_value": 2200,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 987,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 61213,
+        "market_value": 61213,
+        "land_value": 59047,
+        "improvement_value": 2166,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -619,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61213,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 61832,
+        "market_value": 61832,
+        "land_value": 59645,
+        "improvement_value": 2187,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2944,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61832,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 58888,
+        "market_value": 58888,
+        "land_value": 56805,
+        "improvement_value": 2083,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2264,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58888,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 56624,
+        "market_value": 56624,
+        "land_value": 54621,
+        "improvement_value": 2003,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1649,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56624,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 54975,
+        "market_value": 54975,
+        "land_value": 53030,
+        "improvement_value": 1945,
+        "land_value_percentage": 96.5,
+        "improvement_value_percentage": 3.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54975,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0010A00021000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0010A00021000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0010A00021000000",
+    "comparables": [
+      {
+        "parcel_id": "0009G00069000000",
+        "address": "1529 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 62000,
+        "market_value": 62000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025N00282000000",
+        "address": "2315 LIBERTY AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2315   LIBERTY AVE",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 61700,
+        "market_value": 246800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0009N00080000500",
+        "address": "808 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "441   FOUR LAKES DR",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 65000,
+        "market_value": 65000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009N00080000800",
+        "address": "808 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "441   FOUR LAKES DR",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 65000,
+        "market_value": 65000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008S00147000000",
+        "address": "137 7TH ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "803   LIBERTY AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 65900,
+        "market_value": 65900,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009G00077000000",
+        "address": "1529 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 66000,
+        "market_value": 66000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0011C00210000000",
+    "address": "111 HYMAN PL",
+    "city": "10503",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+    "current_mailing_address": "412   BLVD OF THE ALLIES   FL 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:40+ UNITS",
+    "acreage": 0.82,
+    "latitude": 40.45504,
+    "longitude": -79.9606
+  },
+  "assessments": {
+    "parcel_id": "0011C00210000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4082400,
+        "market_value": 4082400,
+        "land_value": 56900,
+        "improvement_value": 4025500,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 402359,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4082400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3680041,
+        "market_value": 3680041,
+        "land_value": 51291,
+        "improvement_value": 3628750,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 72157,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3680041,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3607884,
+        "market_value": 3607884,
+        "land_value": 50286,
+        "improvement_value": 3557598,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35721,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3607884,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3572163,
+        "market_value": 3572163,
+        "land_value": 49788,
+        "improvement_value": 3522375,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3572163,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3572163,
+        "market_value": 3572163,
+        "land_value": 49788,
+        "improvement_value": 3522375,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -36083,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3572163,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3608246,
+        "market_value": 3608246,
+        "land_value": 50291,
+        "improvement_value": 3557955,
+        "land_value_percentage": 1.4,
+        "improvement_value_percentage": 98.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3608246,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011C00210000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011C00210000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011C00210000000",
+    "comparables": [
+      {
+        "parcel_id": "0011C00205000000",
+        "address": "100 HYMAN PL",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 4609200,
+        "market_value": 4609200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00400000000",
+        "address": "228 OAK HILL DR",
+        "city": "10503",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 3296500,
+        "market_value": 3296500,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

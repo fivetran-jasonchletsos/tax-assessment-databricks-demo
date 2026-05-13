@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0167R00084000000",
+    "address": "18 1ST ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "1389   OLD FREEPORT RD",
+    "current_mailing_address": "1389   OLD FREEPORT RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE/WAREHOUSE",
+    "acreage": 0.118,
+    "latitude": 40.49616,
+    "longitude": -79.91884
+  },
+  "assessments": {
+    "parcel_id": "0167R00084000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 196700,
+        "market_value": 196700,
+        "land_value": 42000,
+        "improvement_value": 154700,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12224,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 184476,
+        "market_value": 184476,
+        "land_value": 39389,
+        "improvement_value": 145087,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5373,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 184476,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 179103,
+        "market_value": 179103,
+        "land_value": 38242,
+        "improvement_value": 140861,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3511,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 179103,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 175592,
+        "market_value": 175592,
+        "land_value": 37492,
+        "improvement_value": 138100,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1738,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 175592,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 173854,
+        "market_value": 173854,
+        "land_value": 37121,
+        "improvement_value": 136733,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173854,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 173854,
+        "market_value": 173854,
+        "land_value": 37121,
+        "improvement_value": 136733,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 173854,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0167R00084000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0167R00084000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Jun-18",
+      "most_recent_appeal_date": "13-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23970-2018",
+        "filed_date": "13-Jun-18",
+        "hearing_date": "13-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 106800,
+        "requested_value": 106800,
+        "final_value": 196700,
+        "value_reduction": 0,
+        "reduction_percentage": -84.18,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0167R00084000000",
+    "comparables": [
+      {
+        "parcel_id": "0167M00142000000",
+        "address": "216 8TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "225   WOODBRIDGE CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196900,
+        "market_value": 196900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167M00320000000",
+        "address": "820 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1650   GREENTREE RD",
+        "land_use_description": "FUNERAL HOMES",
+        "acreage": null,
+        "assessed_value": 196400,
+        "market_value": 196400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167M00324000000",
+        "address": "904 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1219  N SHERIDAN AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 197900,
+        "market_value": 197900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0167H00060000001",
+        "address": "210 PENN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "210   PENN ST",
+        "land_use_description": "DAYCARE/PRIVATE SCHOOL",
+        "acreage": null,
+        "assessed_value": 195000,
+        "market_value": 195000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168J00355000000",
+        "address": "1300 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1014   PERRY HWY  FL 2",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 199200,
+        "market_value": 199200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0167M00283000000",
+        "address": "600 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "600   MAIN ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 193000,
+        "market_value": 193000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

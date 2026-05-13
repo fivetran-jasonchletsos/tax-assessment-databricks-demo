@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087C00313000000",
+    "address": "2111 MURRAY AVE",
+    "city": "14th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1101  S CAPITAL OF TEXAS HWY  BLDG B-220",
+    "current_mailing_address": "1101  S CAPITAL OF TEXAS HWY  BLDG B-220",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.154,
+    "latitude": 40.41988,
+    "longitude": -79.91594
+  },
+  "assessments": {
+    "parcel_id": "0087C00313000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 561000,
+        "market_value": 561000,
+        "land_value": 104000,
+        "improvement_value": 457000,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7855,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 561000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 568855,
+        "market_value": 568855,
+        "land_value": 105456,
+        "improvement_value": 463399,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27088,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 568855,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 541767,
+        "market_value": 541767,
+        "land_value": 100434,
+        "improvement_value": 441333,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20837,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 541767,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 520930,
+        "market_value": 520930,
+        "land_value": 96571,
+        "improvement_value": 424359,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15172,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 520930,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 505758,
+        "market_value": 505758,
+        "land_value": 93759,
+        "improvement_value": 411999,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9916,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 505758,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 495842,
+        "market_value": 495842,
+        "land_value": 91920,
+        "improvement_value": 403922,
+        "land_value_percentage": 18.5,
+        "improvement_value_percentage": 81.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 495842,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087C00313000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087C00313000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "22-Jun-16",
+      "most_recent_appeal_date": "22-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9019-2016",
+        "filed_date": "22-Jun-16",
+        "hearing_date": "22-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 406800,
+        "requested_value": 406800,
+        "final_value": 406800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087C00313000000",
+    "comparables": [
+      {
+        "parcel_id": "0087R00274000000",
+        "address": "6225 MONITOR ST",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1222   BEECHWOOD BLVD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 560000,
+        "market_value": 560000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053D00213000000",
+        "address": "5251 FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5213   5TH AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 564500,
+        "market_value": 564500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086M00009000000",
+        "address": "5878 FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 11195",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 565100,
+        "market_value": 565100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086D00252000000",
+        "address": "6517 NORTHUMBERLAND ST",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5213   5TH AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 565400,
+        "market_value": 565400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086R00075000000",
+        "address": "5710 MUNHALL RD",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "4929   LEONARD ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 565400,
+        "market_value": 565400,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087B00156000000",
+        "address": "5624 HEMPSTEAD RD",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1174   BEECHWOOD BLVD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 565400,
+        "market_value": 565400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0120M00252000000",
     "comparables": [
       {
+        "parcel_id": "0120R00271000000",
+        "address": "1105 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1105   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67400,
+        "market_value": 85400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121E00277000000",
         "address": "6500 MARTHA ST",
         "city": "11001",
@@ -184,7 +197,7 @@
         "assessed_value": 67500,
         "market_value": 85500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0120M00185000000",
@@ -197,7 +210,20 @@
         "assessed_value": 67000,
         "market_value": 85000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00100000000",
+        "address": "1346 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1346   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0121J00036000000",
@@ -210,45 +236,19 @@
         "assessed_value": 67000,
         "market_value": 85000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0120L00174000000",
-        "address": "1110 OGLETHORPE AVE",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1110   OGLETHORPE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 68000,
-        "market_value": 68000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0120M00088000000",
-        "address": "1500 HAWTHORNE ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1500   HAWTHORNE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 66500,
-        "market_value": 84500,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0121E00176000000",
-        "address": "6619 GREENWOOD ST",
+        "parcel_id": "0120S00175000000",
+        "address": "1342 HAWTHORNE ST",
         "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "6619   GREENWOOD ST",
+        "zip_code": "15201",
+        "current_owner_name": "1342   HAWTHORNE ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 66500,
-        "market_value": 84500,
-        "assessed_value_change_pct": -4.1,
+        "assessed_value": 67700,
+        "market_value": 85700,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

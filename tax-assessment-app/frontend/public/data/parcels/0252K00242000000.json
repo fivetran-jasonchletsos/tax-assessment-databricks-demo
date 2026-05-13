@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0252K00242000000",
+    "address": "418 UPPER RD",
+    "city": "Upper St. Clair",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "521   UPPER RD",
+    "current_mailing_address": "521   UPPER RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.146,
+    "latitude": 40.35904,
+    "longitude": -80.03646
+  },
+  "assessments": {
+    "parcel_id": "0252K00242000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 600,
+        "market_value": 600,
+        "land_value": 600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 45,
+        "assessed_value_change_pct": 8.11,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 555,
+        "market_value": 555,
+        "land_value": 555,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5,
+        "assessed_value_change_pct": 0.91,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 555,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 550,
+        "market_value": 550,
+        "land_value": 550,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 550,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 550,
+        "market_value": 550,
+        "land_value": 550,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6,
+        "assessed_value_change_pct": -1.08,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 550,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 556,
+        "market_value": 556,
+        "land_value": 556,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26,
+        "assessed_value_change_pct": 4.91,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 556,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 530,
+        "market_value": 530,
+        "land_value": 530,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 530,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0252K00242000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0252K00242000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0252K00242000000",
+    "comparables": [
+      {
+        "parcel_id": "0252J00390000000",
+        "address": "OLD GILKESON RD",
+        "city": "Upper St. Clair",
+        "zip_code": "15228",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0252K00230000000",
+        "address": "OLD GILKESON RD",
+        "city": "Upper St. Clair",
+        "zip_code": "15228",
+        "current_owner_name": "3901   WASHIGNTON RD  UNIT 302",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

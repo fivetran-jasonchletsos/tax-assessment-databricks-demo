@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0081G00062000000",
+    "address": "ELENA CT",
+    "city": "11002",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1506   31ST ST",
+    "current_mailing_address": "1506   31ST ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.14,
+    "latitude": 40.46416,
+    "longitude": -79.9474
+  },
+  "assessments": {
+    "parcel_id": "0081G00062000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 9353,
+        "market_value": 9353,
+        "land_value": 9353,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 234,
+        "assessed_value_change_pct": 2.57,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9353,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9119,
+        "market_value": 9119,
+        "land_value": 9119,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 350,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9119,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8769,
+        "market_value": 8769,
+        "land_value": 8769,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 255,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8769,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8514,
+        "market_value": 8514,
+        "land_value": 8514,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 166,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8514,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8348,
+        "market_value": 8348,
+        "land_value": 8348,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 82,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8348,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8266,
+        "market_value": 8266,
+        "land_value": 8266,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8266,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0081G00062000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0081G00062000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0081G00062000000",
+    "comparables": [
+      {
+        "parcel_id": "0081H00064000000",
+        "address": "COLERIDGE ST",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4826   COLERIDGE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 9900,
+        "market_value": 9900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081H00055000000",
+        "address": "STANTON AVE",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "4826   COLERIDGE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 8300,
+        "market_value": 8300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0081M00329000000",
+        "address": "SCHENLEY MANOR DR",
+        "city": "11002",
+        "zip_code": "15201",
+        "current_owner_name": "231   SCHENLEY MANOR DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 11600,
+        "market_value": 11600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

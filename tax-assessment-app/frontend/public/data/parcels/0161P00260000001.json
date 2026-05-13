@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0161P00260000001",
+    "address": "525 BASCOM AVE",
+    "city": "Ross",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2630   LYNN HAVEN DR",
+    "current_mailing_address": "2630   LYNN HAVEN DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CEMETERY/MONUMENTS",
+    "acreage": 6.95,
+    "latitude": 40.41824,
+    "longitude": -80.06324
+  },
+  "assessments": {
+    "parcel_id": "0161P00260000001",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4400,
+        "market_value": 55000,
+        "land_value": 1550,
+        "improvement_value": 2850,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": 72,
+        "assessed_value_change_pct": 1.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4328,
+        "market_value": 54100,
+        "land_value": 1524,
+        "improvement_value": 2804,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": -44,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4328,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4372,
+        "market_value": 54650,
+        "land_value": 1540,
+        "improvement_value": 2832,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": 208,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4372,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4164,
+        "market_value": 52050,
+        "land_value": 1466,
+        "improvement_value": 2698,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": 160,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4164,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4004,
+        "market_value": 50050,
+        "land_value": 1410,
+        "improvement_value": 2594,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": 116,
+        "assessed_value_change_pct": 2.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4004,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3888,
+        "market_value": 48600,
+        "land_value": 1369,
+        "improvement_value": 2519,
+        "land_value_percentage": 35.2,
+        "improvement_value_percentage": 64.8,
+        "market_to_assessed_ratio": 12.5,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3888,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0161P00260000001",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0161P00260000001",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0161P00260000001",
+    "comparables": [
+      {
+        "parcel_id": "0519K00152000000",
+        "address": "101 AMITY RD",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "1000   ROSS MUNICIPAL DR",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 3900,
+        "market_value": 3900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0519L00209000000",
+        "address": "W SUTTER RD",
+        "city": "Ross",
+        "zip_code": "15116",
+        "current_owner_name": "1024  W SUTTER RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3900,
+        "market_value": 3900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0052D00107000100",
+    "address": "S AIKEN AVE",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5257   CAMDEN AVE",
+    "current_mailing_address": "5257   CAMDEN AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.0,
+    "latitude": 40.44098,
+    "longitude": -79.92674
+  },
+  "assessments": {
+    "parcel_id": "0052D00107000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100,
+        "market_value": 100,
+        "land_value": 100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6,
+        "assessed_value_change_pct": 6.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 94,
+        "market_value": 94,
+        "land_value": 94,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 94,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 94,
+        "market_value": 94,
+        "land_value": 94,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1,
+        "assessed_value_change_pct": -1.05,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 94,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 95,
+        "market_value": 95,
+        "land_value": 95,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4,
+        "assessed_value_change_pct": 4.4,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 91,
+        "market_value": 91,
+        "land_value": 91,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3,
+        "assessed_value_change_pct": 3.41,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88,
+        "market_value": 88,
+        "land_value": 88,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052D00107000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052D00107000100",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0052D00107000100",
+    "comparables": [
+      {
+        "parcel_id": "0052B00086000000",
+        "address": "BAYARD PL",
+        "city": "Shadyside",
+        "zip_code": "15213",
+        "current_owner_name": "555   MOREWOOD AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0121G00048000000",
     "comparables": [
       {
+        "parcel_id": "0121G00020000000",
+        "address": "BUTLER ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 34300,
+        "market_value": 34300,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121G00065000000",
         "address": "7321 BUTLER ST",
         "city": "11003",
@@ -132,7 +145,20 @@
         "assessed_value": 34300,
         "market_value": 34300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121G00190000000",
+        "address": "101 RESERVOIR DR",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 34300,
+        "market_value": 34300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121K00065000000",
@@ -145,7 +171,7 @@
         "assessed_value": 34300,
         "market_value": 52300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080D00187000000",
@@ -158,7 +184,7 @@
         "assessed_value": 34200,
         "market_value": 34200,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080D00349000000",
@@ -171,32 +197,6 @@
         "assessed_value": 34400,
         "market_value": 52400,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080G00272000000",
-        "address": "5122 NATRONA WAY",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "3607   FORBES TRAIL DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34200,
-        "market_value": 34200,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080H00090000000",
-        "address": "5121 HOLMES ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5121   HOLMES ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34200,
-        "market_value": 52200,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0619N00322000000",
+        "address": "426 BLACK WALNUT LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "426   BLACK WALNUT LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117000,
+        "market_value": 135000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0523B00141000000",
         "address": "109 HILLSIDE LN",
         "city": "Indiana",
@@ -210,19 +223,6 @@
         "assessed_value": 117500,
         "market_value": 135500,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0522S00151000000",
-        "address": "2012 PEMBROOK DR",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "2012   PEMBROOK DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 116800,
-        "market_value": 134800,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 0.7
       },
       {
@@ -239,16 +239,16 @@
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0522S00173000000",
-        "address": "2017 PEMBROOK DR",
+        "parcel_id": "0522S00151000000",
+        "address": "2012 PEMBROOK DR",
         "city": "Indiana",
         "zip_code": "15116",
-        "current_owner_name": "2017   PEMBROOK DR",
+        "current_owner_name": "2012   PEMBROOK DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 118200,
-        "market_value": 136200,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 116800,
+        "market_value": 134800,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

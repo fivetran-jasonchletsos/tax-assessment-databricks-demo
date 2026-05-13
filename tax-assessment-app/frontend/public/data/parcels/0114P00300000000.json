@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0114P00300000000",
+    "address": "1927 MARMADUKE ST",
+    "city": "Ward 27 - Brighton Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "414   52ND ST",
+    "current_mailing_address": "414   52ND ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.098,
+    "latitude": 40.41728,
+    "longitude": -80.07104
+  },
+  "assessments": {
+    "parcel_id": "0114P00300000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 62900,
+        "market_value": 62900,
+        "land_value": 24200,
+        "improvement_value": 38700,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -879,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 63779,
+        "market_value": 63779,
+        "land_value": 24538,
+        "improvement_value": 39241,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3037,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63779,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 60742,
+        "market_value": 60742,
+        "land_value": 23369,
+        "improvement_value": 37373,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2336,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60742,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 58406,
+        "market_value": 58406,
+        "land_value": 22470,
+        "improvement_value": 35936,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1701,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58406,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 56705,
+        "market_value": 56705,
+        "land_value": 21816,
+        "improvement_value": 34889,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1111,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56705,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 55594,
+        "market_value": 55594,
+        "land_value": 21389,
+        "improvement_value": 34205,
+        "land_value_percentage": 38.5,
+        "improvement_value_percentage": 61.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55594,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0114P00300000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0114P00300000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 21600,
+      "total_value_reduction": 43200,
+      "first_appeal_date": "15-May-19",
+      "most_recent_appeal_date": "23-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9285-2016",
+        "filed_date": "23-May-16",
+        "hearing_date": "23-May-16",
+        "appeal_status": "approved",
+        "original_value": 106100,
+        "requested_value": 106100,
+        "final_value": 106100,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-30416-2019",
+        "filed_date": "15-May-19",
+        "hearing_date": "15-May-19",
+        "appeal_status": "approved",
+        "original_value": 106100,
+        "requested_value": 106100,
+        "final_value": 62900,
+        "value_reduction": 43200,
+        "reduction_percentage": 40.72,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0114P00300000000",
+    "comparables": [
+      {
+        "parcel_id": "0114L00101000000",
+        "address": "1822 KLEBER ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1822   KLEBER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63000,
+        "market_value": 81000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0114P00014000000",
+        "address": "3834 OSWEGO ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3834   OSWEGO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62800,
+        "market_value": 80800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0115P00018000000",
+        "address": "3645 HARBISON AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3645   HARBISON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62800,
+        "market_value": 80800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114K00005000000",
+        "address": "3851 OSWEGO ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3851   OSWEGO ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62700,
+        "market_value": 80700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114K00026000000",
+        "address": "2000 STONELEA ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2000   STONELEA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63100,
+        "market_value": 63100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0114P00097000000",
+        "address": "3735 HIAWATHA ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3735   HIAWATHA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63100,
+        "market_value": 63100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

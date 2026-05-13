@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0720S00058000000",
+    "address": "SUNNYFIELD DR",
+    "city": "Hampton",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "3943   RALPH DR",
+    "current_mailing_address": "3943   RALPH DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 3.842,
+    "latitude": 40.5285,
+    "longitude": -79.97064
+  },
+  "assessments": {
+    "parcel_id": "0720S00058000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 26900,
+        "market_value": 26900,
+        "land_value": 26900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1198,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 25702,
+        "market_value": 25702,
+        "land_value": 25702,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25702,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 25702,
+        "market_value": 25702,
+        "land_value": 25702,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -260,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25702,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 25962,
+        "market_value": 25962,
+        "land_value": 25962,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1236,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25962,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 24726,
+        "market_value": 24726,
+        "land_value": 24726,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 951,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24726,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 23775,
+        "market_value": 23775,
+        "land_value": 23775,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23775,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0720S00058000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0720S00058000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0720S00058000000",
+    "comparables": [
+      {
+        "parcel_id": "0618A00305000000",
+        "address": "3050 JOHN GIEL DR",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "3062   JOHN GIEL DR",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 26600,
+        "market_value": 26600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0721N00104000000",
+        "address": "3057 JOHN GIEL DR",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "3057   JOHN GIEL DR",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 30700,
+        "market_value": 30700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0721P00010000000",
+        "address": "MIDDLE RD",
+        "city": "Hampton",
+        "zip_code": "15116",
+        "current_owner_name": "3074   JOHN GIEL DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 21800,
+        "market_value": 21800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

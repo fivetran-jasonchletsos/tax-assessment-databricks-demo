@@ -122,6 +122,19 @@
     "parcel_id": "0080D00233000000",
     "comparables": [
       {
+        "parcel_id": "0121P00114000000",
+        "address": "1614 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1614   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 77500,
+        "market_value": 95500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080D00156000000",
         "address": "5207 KEYSTONE ST",
         "city": "11003",
@@ -132,7 +145,7 @@
         "assessed_value": 77600,
         "market_value": 77600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082E00044000000",
@@ -145,7 +158,7 @@
         "assessed_value": 77600,
         "market_value": 95600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121J00286000000",
@@ -158,7 +171,7 @@
         "assessed_value": 77400,
         "market_value": 95400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0121J00313000000",
@@ -171,7 +184,7 @@
         "assessed_value": 77600,
         "market_value": 95600,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121J00368000000",
@@ -184,19 +197,6 @@
         "assessed_value": 77400,
         "market_value": 95400,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080D00207000000",
-        "address": "5305 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "230   BROOKSIDE AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 77300,
-        "market_value": 77300,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

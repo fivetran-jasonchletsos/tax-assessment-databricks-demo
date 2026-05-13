@@ -122,6 +122,45 @@
     "parcel_id": "0087L00071000000",
     "comparables": [
       {
+        "parcel_id": "0087R00155000000",
+        "address": "6366 MONITOR ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6366   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 240700,
+        "market_value": 258700,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088F00166000000",
+        "address": "4321 SALINE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "4321   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 240700,
+        "market_value": 258700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00200000000",
+        "address": "6670 LANDVIEW RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6670   LANDVIEW ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 240500,
+        "market_value": 258500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0085F00133000000",
         "address": "1027 MURRAY HILL AVE",
         "city": "11402",
@@ -132,7 +171,7 @@
         "assessed_value": 241000,
         "market_value": 259000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086R00296000000",
@@ -145,58 +184,19 @@
         "assessed_value": 241000,
         "market_value": 241000,
         "assessed_value_change_pct": 1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0086R00014000000",
-        "address": "5724 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5724   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 241300,
-        "market_value": 259300,
-        "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086R00302000000",
-        "address": "5839 BEACON ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "6321   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 240000,
-        "market_value": 240000,
-        "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087L00150000000",
-        "address": "2805 SHADY AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "2805   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 241800,
-        "market_value": 259800,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085S00070000000",
-        "address": "6401 WILKINS AVE",
+        "parcel_id": "0088C00290000000",
+        "address": "6603 BIRCHWOOD AVE",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "6401   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "2805   BEECHWOOD BLVD",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 242000,
-        "market_value": 260000,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 240200,
+        "market_value": 240200,
+        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

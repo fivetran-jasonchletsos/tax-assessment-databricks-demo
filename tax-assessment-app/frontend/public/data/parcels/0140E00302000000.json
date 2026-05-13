@@ -174,6 +174,19 @@
     "parcel_id": "0140E00302000000",
     "comparables": [
       {
+        "parcel_id": "0141B00375000100",
+        "address": "WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 233900,
+        "market_value": 233900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141H00290000000",
         "address": "225 CATALPA PL",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 233700,
         "market_value": 233700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0141J00079000000",
@@ -197,7 +210,7 @@
         "assessed_value": 233700,
         "market_value": 251700,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0193G00276000000",
@@ -210,7 +223,7 @@
         "assessed_value": 233700,
         "market_value": 251700,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0193K00292000000",
@@ -223,7 +236,7 @@
         "assessed_value": 233700,
         "market_value": 251700,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0251L00010000000",
@@ -236,19 +249,6 @@
         "assessed_value": 233900,
         "market_value": 251900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141G00081000000",
-        "address": "120 LANCASTER AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "120   LANCASTER AVE",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 233600,
-        "market_value": 251600,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

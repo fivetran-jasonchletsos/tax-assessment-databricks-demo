@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088D00038000000",
+        "address": "152 GILDA AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "152   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 310600,
+        "market_value": 328600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086D00242000000",
         "address": "1448 SEVERN ST",
         "city": "11401",
@@ -197,7 +210,7 @@
         "assessed_value": 310500,
         "market_value": 328500,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085N00205000000",
@@ -210,45 +223,32 @@
         "assessed_value": 310400,
         "market_value": 328400,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085N00194000000",
-        "address": "1246 BELLEROCK ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "7228   BUTLER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 311300,
-        "market_value": 311300,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0052M00021000000",
-        "address": "5331 BEELER ST",
+        "parcel_id": "0127P00068000000",
+        "address": "6759 FOREST GLEN RD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "414   DALLAS AVE",
+        "current_owner_name": "6759   FOREST GLEN RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 310000,
-        "market_value": 310000,
-        "assessed_value_change_pct": -4.1,
+        "assessed_value": 311000,
+        "market_value": 329000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085J00100000000",
-        "address": "1136 WIGHTMAN ST",
+        "parcel_id": "0127A00129000000",
+        "address": "6640 DALZELL PL",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1136   WIGHTMAN ST",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "6640   DALZELL PL",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 311500,
-        "market_value": 329500,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 310200,
+        "market_value": 328200,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

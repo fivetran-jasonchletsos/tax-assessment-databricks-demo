@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0078B00038000000",
+    "address": "HOWARD ST",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "REGULAR-ETAL",
+    "current_mailing_address": "REGULAR-ETAL",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.172,
+    "latitude": 40.41764,
+    "longitude": -80.06564
+  },
+  "assessments": {
+    "parcel_id": "0078B00038000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "land_value": 20200,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1458,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 18742,
+        "market_value": 18742,
+        "land_value": 18742,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 185,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18742,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 18557,
+        "market_value": 18557,
+        "land_value": 18557,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18557,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 18557,
+        "market_value": 18557,
+        "land_value": 18557,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -188,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18557,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18745,
+        "market_value": 18745,
+        "land_value": 18745,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 892,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18745,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 17853,
+        "market_value": 17853,
+        "land_value": 17853,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17853,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0078B00038000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0078B00038000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0078B00038000000",
+    "comparables": [
+      {
+        "parcel_id": "0047D00169000000",
+        "address": "CARRIE ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047H00339000000",
+        "address": "BOROUGH ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0078B00012000000",
+        "address": "MARJORIE ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0078B00025000000",
+        "address": "MARJORIE ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0078B00030000000",
+        "address": "MARJORIE ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0078B00075000000",
+        "address": "HARVEY ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "35801   THAMES ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20200,
+        "market_value": 20200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

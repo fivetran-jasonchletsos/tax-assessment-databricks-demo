@@ -1,0 +1,201 @@
+{
+  "parcel": {
+    "parcel_id": "0089C00177000000",
+    "address": "DESDEMONA ST",
+    "city": "11501",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 459",
+    "current_mailing_address": "PO BOX 459",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.1,
+    "latitude": 40.42108,
+    "longitude": -79.92962
+  },
+  "assessments": {
+    "parcel_id": "0089C00177000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 15590,
+        "market_value": 15590,
+        "land_value": 15590,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1125,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15590,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 14465,
+        "market_value": 14465,
+        "land_value": 14465,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 143,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14465,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 14322,
+        "market_value": 14322,
+        "land_value": 14322,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14322,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 14322,
+        "market_value": 14322,
+        "land_value": 14322,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -145,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14322,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 14467,
+        "market_value": 14467,
+        "land_value": 14467,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 688,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14467,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 13779,
+        "market_value": 13779,
+        "land_value": 13779,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13779,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0089C00177000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0089C00177000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Aug-16",
+      "most_recent_appeal_date": "1-Aug-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9044-2016",
+        "filed_date": "1-Aug-16",
+        "hearing_date": "1-Aug-16",
+        "appeal_status": "approved",
+        "original_value": 26200,
+        "requested_value": 26200,
+        "final_value": 26200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0089C00177000000",
+    "comparables": [
+      {
+        "parcel_id": "0089C00173000000",
+        "address": "237 DESDEMONA ST",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "5847   DOUGLAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0089C00151000000",
+        "address": "DESDEMONA ST",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "4618   HENRY ST  FL 1",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12850,
+        "market_value": 12850,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0089C00153000000",
+        "address": "DESDEMONA ST",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "4618   HENRY ST  FL 1",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12850,
+        "market_value": 12850,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088R00260000000",
+        "address": "BROWNS HILL RD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "3411   BEECHWOOD BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 12000,
+        "market_value": 12000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

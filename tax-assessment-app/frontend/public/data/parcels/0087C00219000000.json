@@ -174,6 +174,19 @@
     "parcel_id": "0087C00219000000",
     "comparables": [
       {
+        "parcel_id": "0087M00023000000",
+        "address": "6377 ALDERSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1850   MAJOR DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 178500,
+        "market_value": 178500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086S00127000000",
         "address": "6351 DOUGLAS ST",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 178400,
         "market_value": 196400,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128E00070000000",
+        "address": "2529 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2529   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 178600,
+        "market_value": 196600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087C00173000000",
@@ -197,7 +223,7 @@
         "assessed_value": 178700,
         "market_value": 196700,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085M00271000000",
@@ -210,45 +236,19 @@
         "assessed_value": 178800,
         "market_value": 196800,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086R00237000000",
-        "address": "5854 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5854   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 179000,
-        "market_value": 197000,
-        "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087C00117000000",
-        "address": "2308 ELDRIDGE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2308   ELDRIDGE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 178000,
-        "market_value": 196000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087E00121000000",
-        "address": "5320 POCUSSET ST",
+        "parcel_id": "0128A00155000000",
+        "address": "6416 PHILLIPS AVE",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5320   POCUSSET ST",
+        "current_owner_name": "1071   LYNDHURST DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 179300,
-        "market_value": 197300,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 178200,
+        "market_value": 178200,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

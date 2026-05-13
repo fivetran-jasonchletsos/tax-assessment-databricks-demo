@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028N00037000000",
+    "address": "3240 CRAFT PL",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5500   WALNUT ST  STE 300",
+    "current_mailing_address": "5500   WALNUT ST  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 0.734,
+    "latitude": 40.43416,
+    "longitude": -79.96564
+  },
+  "assessments": {
+    "parcel_id": "0028N00037000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4248300,
+        "market_value": 4248300,
+        "land_value": 450700,
+        "improvement_value": 3797600,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 188978,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4248300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4059322,
+        "market_value": 4059322,
+        "land_value": 430651,
+        "improvement_value": 3628671,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4059322,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4059322,
+        "market_value": 4059322,
+        "land_value": 430651,
+        "improvement_value": 3628671,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -41004,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4059322,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4100326,
+        "market_value": 4100326,
+        "land_value": 435001,
+        "improvement_value": 3665325,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 195253,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4100326,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3905073,
+        "market_value": 3905073,
+        "land_value": 414287,
+        "improvement_value": 3490786,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 150195,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3905073,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3754878,
+        "market_value": 3754878,
+        "land_value": 398353,
+        "improvement_value": 3356525,
+        "land_value_percentage": 10.6,
+        "improvement_value_percentage": 89.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3754878,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028N00037000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028N00037000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "20-Jun-18",
+      "most_recent_appeal_date": "20-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22552-2018",
+        "filed_date": "20-Jun-18",
+        "hearing_date": "20-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 316500,
+        "requested_value": 316500,
+        "final_value": 316500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028N00037000000",
+    "comparables": [
+      {
+        "parcel_id": "0011H00175000000",
+        "address": "101 OAK HILL DR",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 4311800,
+        "market_value": 4311800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0027D00033000000",
+        "address": "4400 CENTRE AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "46   MAIN ST  STE 339",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 4326600,
+        "market_value": 4326600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028F00159000000",
+        "address": "3501 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 4138100,
+        "market_value": 17242100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028F00194000000",
+        "address": "3343 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3525   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 3819300,
+        "market_value": 3819300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028J00097000300",
+        "address": "3335 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1000   CONTINENTAL DR  STE 550",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 3771000,
+        "market_value": 3771000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011H00235000000",
+        "address": "2200 BENTLEY DR",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 3755200,
+        "market_value": 3755200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

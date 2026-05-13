@@ -122,6 +122,19 @@
     "parcel_id": "0122D00189000000",
     "comparables": [
       {
+        "parcel_id": "0122H00051000000",
+        "address": "353 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "117   WESTCHESTER DR",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 254000,
+        "market_value": 254000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0169H00039000000",
         "address": "222 10TH ST",
         "city": "Aspinwall",
@@ -132,7 +145,7 @@
         "assessed_value": 254300,
         "market_value": 272300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169R00332000000",
@@ -145,7 +158,7 @@
         "assessed_value": 254400,
         "market_value": 254400,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169S00051000000",
@@ -158,7 +171,7 @@
         "assessed_value": 253500,
         "market_value": 271500,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169S00212000000",
@@ -171,32 +184,19 @@
         "assessed_value": 253500,
         "market_value": 271500,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0171A00022000000",
-        "address": "203 DELAFIELD RD",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "203   DELAFIELD RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 253200,
-        "market_value": 271200,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0122C00077000000",
-        "address": "215 1ST ST",
+        "parcel_id": "0122D00147000000",
+        "address": "337 FREEPORT RD",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "100   CENTER AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1819   MIDDLE RD",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
         "acreage": null,
-        "assessed_value": 254900,
-        "market_value": 272900,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 253300,
+        "market_value": 253300,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

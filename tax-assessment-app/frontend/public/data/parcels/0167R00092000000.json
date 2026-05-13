@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0167R00092000000",
+    "address": "15 2ND ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "3041   CANTERBURY DR",
+    "current_mailing_address": "3041   CANTERBURY DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "COMMERCIAL GARAGE",
+    "acreage": 0.459,
+    "latitude": 40.49604,
+    "longitude": -79.92016
+  },
+  "assessments": {
+    "parcel_id": "0167R00092000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 123300,
+        "market_value": 123300,
+        "land_value": 15999,
+        "improvement_value": 107301,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12154,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 111146,
+        "market_value": 111146,
+        "land_value": 14422,
+        "improvement_value": 96724,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2179,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111146,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 108967,
+        "market_value": 108967,
+        "land_value": 14140,
+        "improvement_value": 94827,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1078,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 108967,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 107889,
+        "market_value": 107889,
+        "land_value": 14000,
+        "improvement_value": 93889,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107889,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 107889,
+        "market_value": 107889,
+        "land_value": 14000,
+        "improvement_value": 93889,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1090,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107889,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 108979,
+        "market_value": 108979,
+        "land_value": 14141,
+        "improvement_value": 94838,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 108979,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0167R00092000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0167R00092000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Sep-15",
+      "most_recent_appeal_date": "16-Sep-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-3274-2015",
+        "filed_date": "16-Sep-15",
+        "hearing_date": "16-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 163200,
+        "requested_value": 163200,
+        "final_value": 163200,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0167R00092000000",
+    "comparables": [
+      {
+        "parcel_id": "0167L00189000000",
+        "address": "103 N MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "100  E GENESSEE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 122500,
+        "market_value": 122500,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167M00331000100",
+        "address": "918 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11202",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 122400,
+        "market_value": 122400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168J00367000000",
+        "address": "1315 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1315   MAIN ST",
+        "land_use_description": "AUTO SERV STATION",
+        "acreage": null,
+        "assessed_value": 124300,
+        "market_value": 124300,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168J00098000000",
+        "address": "211 LINDEN AVE",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "211   LINDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0169J00032000000",
+        "address": "136 22ND ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "136   22ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168M00325000000",
+        "address": "1862 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1862   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121800,
+        "market_value": 139800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

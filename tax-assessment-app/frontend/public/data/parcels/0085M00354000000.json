@@ -197,6 +197,19 @@
     "parcel_id": "0085M00354000000",
     "comparables": [
       {
+        "parcel_id": "0125N00140000000",
+        "address": "1036 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1036   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 832000,
+        "market_value": 850000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085H00122000000",
         "address": "150 W LYNDHURST DR",
         "city": "11402",
@@ -207,7 +220,7 @@
         "assessed_value": 832800,
         "market_value": 832800,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085M00132000000",
@@ -220,7 +233,7 @@
         "assessed_value": 834400,
         "market_value": 852400,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085D00013000000",
@@ -233,7 +246,7 @@
         "assessed_value": 826800,
         "market_value": 844800,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052M00210000000",
@@ -246,7 +259,7 @@
         "assessed_value": 842000,
         "market_value": 860000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085K00237000000",
@@ -259,19 +272,6 @@
         "assessed_value": 819400,
         "market_value": 819400,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085H00174000000",
-        "address": "1216 BEECHWOOD BLVD",
-        "city": "11402",
-        "zip_code": "15206",
-        "current_owner_name": "1216   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 816800,
-        "market_value": 816800,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

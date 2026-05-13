@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0128A00154000000",
+        "address": "6418 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "331   DEWEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142200,
+        "market_value": 160200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087S00133000000",
+        "address": "6474 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6474   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142700,
+        "market_value": 160700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0087C00203000000",
         "address": "5820 PHILLIPS AVE",
         "city": "11403",
@@ -210,7 +236,7 @@
         "assessed_value": 142000,
         "market_value": 160000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087C00305000000",
@@ -223,32 +249,6 @@
         "assessed_value": 142000,
         "market_value": 160000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087E00017000000",
-        "address": "5522 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5522   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087E00055000000",
-        "address": "5534 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5534   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0119S00219000000",
+    "address": "5422 HARRISON ST",
+    "city": "11003",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "300   WASHINGTON RD  APT 307",
+    "current_mailing_address": "300   WASHINGTON RD  APT 307",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.03,
+    "latitude": 40.46632,
+    "longitude": -79.95772
+  },
+  "assessments": {
+    "parcel_id": "0119S00219000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 17100,
+        "market_value": 17100,
+        "land_value": 13300,
+        "improvement_value": 3800,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1234,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 15866,
+        "market_value": 15866,
+        "land_value": 12340,
+        "improvement_value": 3526,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 157,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15866,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 15709,
+        "market_value": 15709,
+        "land_value": 12218,
+        "improvement_value": 3491,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15709,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 15709,
+        "market_value": 15709,
+        "land_value": 12218,
+        "improvement_value": 3491,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -159,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15709,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 15868,
+        "market_value": 15868,
+        "land_value": 12341,
+        "improvement_value": 3527,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 755,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15868,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 15113,
+        "market_value": 15113,
+        "land_value": 11754,
+        "improvement_value": 3359,
+        "land_value_percentage": 77.8,
+        "improvement_value_percentage": 22.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15113,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119S00219000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0119S00219000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0119S00219000000",
+    "comparables": [
+      {
+        "parcel_id": "0081E00135000000",
+        "address": "5310 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5310   CAMELIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0120K00014000000",
+        "address": "209 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "209   57TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120K00035000000",
+        "address": "209 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "209   57TH ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 17000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120K00040000000",
+        "address": "DONSON WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "204   58TH ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 17200,
+        "market_value": 17200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121G00154000000",
+        "address": "7227 BAKER ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "7227   BAKER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0121P00018000000",
+        "address": "1666 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1666   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 17000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

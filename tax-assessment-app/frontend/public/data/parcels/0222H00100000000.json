@@ -122,6 +122,32 @@
     "parcel_id": "0222H00100000000",
     "comparables": [
       {
+        "parcel_id": "0168C00010000000",
+        "address": "109 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "3   MURRAY ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 73200,
+        "market_value": 73200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0435M00070000000",
+        "address": "MIDDLECREST DR",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "325   FOX CHAPEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 73000,
+        "market_value": 73000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0223F00054000000",
         "address": "CASCADE WAY",
         "city": "O''hara",
@@ -132,7 +158,7 @@
         "assessed_value": 72700,
         "market_value": 72700,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168F00211000000",
@@ -145,7 +171,7 @@
         "assessed_value": 72400,
         "market_value": 90400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0223P00096000000",
@@ -158,7 +184,7 @@
         "assessed_value": 74000,
         "market_value": 74000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0223N00016000000",
@@ -171,32 +197,6 @@
         "assessed_value": 72200,
         "market_value": 72200,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0222S00184000000",
-        "address": "625 MIDWAY DR",
-        "city": "O''hara",
-        "zip_code": "15215",
-        "current_owner_name": "625   MIDWAY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 74300,
-        "market_value": 92300,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0435S00068000000",
-        "address": "119 MILDRED LN",
-        "city": "O''hara",
-        "zip_code": "15116",
-        "current_owner_name": "119   MILDRED AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 72000,
-        "market_value": 90000,
-        "assessed_value_change_pct": 0.3,
         "distance_miles": 1.1
       }
     ]

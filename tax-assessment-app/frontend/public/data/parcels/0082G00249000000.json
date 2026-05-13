@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0124B00031000000",
+        "address": "6471 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6471   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 419500,
+        "market_value": 437500,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082G00161000000",
         "address": "5704 CALLOWHILL ST",
         "city": "11102",
@@ -210,7 +223,7 @@
         "assessed_value": 420000,
         "market_value": 420000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082L00315000000",
@@ -223,32 +236,19 @@
         "assessed_value": 407000,
         "market_value": 425000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00169000000",
-        "address": "5654 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5654   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 400000,
-        "market_value": 400000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082G00010000000",
-        "address": "5549 BRYANT ST",
+        "parcel_id": "0123N00166000000",
+        "address": "6307 HAMPTON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5549   BRYANT ST",
+        "current_owner_name": "6307   HAMPTON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 430300,
-        "market_value": 448300,
-        "assessed_value_change_pct": -5.1,
+        "assessed_value": 407000,
+        "market_value": 425000,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

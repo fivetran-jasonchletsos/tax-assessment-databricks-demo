@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0080G00093000000",
+    "address": "4933 BUTLER ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1025   CATHEDRAL ST",
+    "current_mailing_address": "1025   CATHEDRAL ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.059,
+    "latitude": 40.46452,
+    "longitude": -79.94344
+  },
+  "assessments": {
+    "parcel_id": "0080G00093000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 141000,
+        "market_value": 141000,
+        "land_value": 30300,
+        "improvement_value": 110700,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6274,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 134726,
+        "market_value": 134726,
+        "land_value": 28951,
+        "improvement_value": 105775,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 134726,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 134726,
+        "market_value": 134726,
+        "land_value": 28951,
+        "improvement_value": 105775,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1361,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 134726,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 136087,
+        "market_value": 136087,
+        "land_value": 29244,
+        "improvement_value": 106843,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6480,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136087,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 129607,
+        "market_value": 129607,
+        "land_value": 27851,
+        "improvement_value": 101756,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4984,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 129607,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 124623,
+        "market_value": 124623,
+        "land_value": 26780,
+        "improvement_value": 97843,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124623,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080G00093000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080G00093000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "2-Aug-17",
+      "most_recent_appeal_date": "2-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16195-2017",
+        "filed_date": "2-Aug-17",
+        "hearing_date": "2-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 141000,
+        "requested_value": 141000,
+        "final_value": 141000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0080G00093000000",
+    "comparables": [
+      {
+        "parcel_id": "0049B00235000000",
+        "address": "4302 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "6610   VERONA RD",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 140000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049A00313000000",
+        "address": "4012 WILLOW ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "403   SPENCER LANE  EXT",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 134100,
+        "market_value": 134100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080G00057000000",
+        "address": "4900 HATFIELD ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "4900   HATFIELD ST",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 149100,
+        "market_value": 149100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0049B00176000000",
+        "address": "4211 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "8   GRAHAM PL",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 149400,
+        "market_value": 149400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080G00016000000",
+        "address": "4901 HATFIELD ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "4901   HATFIELD ST",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049L00210000000",
+        "address": "454 42ND ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "223  S WINEBIDDLE ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 131000,
+        "market_value": 131000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

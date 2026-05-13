@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120P00012000000",
+        "address": "5617 CELADINE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5617   CELADINE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 112000,
+        "market_value": 112000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0121F00262000000",
         "address": "6727 GREENWOOD ST",
         "city": "11003",
@@ -145,7 +158,20 @@
         "assessed_value": 112000,
         "market_value": 130000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121P00073000000",
+        "address": "1641 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1641   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082A00054000000",
@@ -158,7 +184,7 @@
         "assessed_value": 112100,
         "market_value": 112100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082E00166000000",
@@ -171,32 +197,6 @@
         "assessed_value": 112100,
         "market_value": 130100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080C00168000000",
-        "address": "5236 HARRISON ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5236   HARRISON ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 111800,
-        "market_value": 129800,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082E00182000000",
-        "address": "1136 MORNINGSIDE AVE",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1136   MORNINGSIDE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 111800,
-        "market_value": 111800,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0168J00330000000",
+    "address": "1220 MAIN ST",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "1611   MAIN ST",
+    "current_mailing_address": "1611   MAIN ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 0.109,
+    "latitude": 40.4946,
+    "longitude": -79.90648
+  },
+  "assessments": {
+    "parcel_id": "0168J00330000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 11200,
+        "market_value": 11200,
+        "land_value": 6600,
+        "improvement_value": 4600,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 279,
+        "assessed_value_change_pct": 2.55,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 10921,
+        "market_value": 10921,
+        "land_value": 6435,
+        "improvement_value": 4486,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 420,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10921,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 10501,
+        "market_value": 10501,
+        "land_value": 6188,
+        "improvement_value": 4313,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 305,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10501,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 10196,
+        "market_value": 10196,
+        "land_value": 6008,
+        "improvement_value": 4188,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 199,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10196,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 9997,
+        "market_value": 9997,
+        "land_value": 5891,
+        "improvement_value": 4106,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 98,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9997,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 9899,
+        "market_value": 9899,
+        "land_value": 5833,
+        "improvement_value": 4066,
+        "land_value_percentage": 58.9,
+        "improvement_value_percentage": 41.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9899,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0168J00330000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0168J00330000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0168J00330000000",
+    "comparables": [
+      {
+        "parcel_id": "0167L00235000000",
+        "address": "300 S MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "300  S MAIN ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 11400,
+        "market_value": 11400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167S00015000000",
+        "address": "907 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "135   GREENWOOD RD",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 11500,
+        "market_value": 11500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167L00124000000",
+        "address": "N MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "122  N MAIN ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 11600,
+        "market_value": 11600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0168E00095000000",
+        "address": "318 10TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "318   10TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 11800,
+        "market_value": 29800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168K00300000000",
+        "address": "15TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "761   OSAGE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 10500,
+        "market_value": 10500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0168K00036000000",
+        "address": "1407 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1407   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 12000,
+        "market_value": 30000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

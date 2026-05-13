@@ -122,6 +122,32 @@
     "parcel_id": "0080D00382000000",
     "comparables": [
       {
+        "parcel_id": "0120P00131000000",
+        "address": "222 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "12271   TRAIL SPRING CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 189900,
+        "market_value": 189900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121L00057000000",
+        "address": "6933 STANDISH ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6933   STANDISH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 191800,
+        "market_value": 209800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0080D00290000000",
         "address": "5210 KEYSTONE ST",
         "city": "11003",
@@ -132,7 +158,7 @@
         "assessed_value": 189000,
         "market_value": 207000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080H00025000000",
@@ -145,7 +171,7 @@
         "assessed_value": 192700,
         "market_value": 210700,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080G00176000000",
@@ -158,7 +184,7 @@
         "assessed_value": 192900,
         "market_value": 192900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00208000A00",
@@ -171,32 +197,6 @@
         "assessed_value": 188700,
         "market_value": 188700,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080C00171000000",
-        "address": "5230 HARRISON ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5230   HARRISON ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 193300,
-        "market_value": 211300,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081A00008000000",
-        "address": "516 54TH ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "516   54TH ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 188300,
-        "market_value": 188300,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

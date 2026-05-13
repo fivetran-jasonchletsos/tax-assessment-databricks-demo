@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120R00070000000",
+        "address": "4440 CAMELIA ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "5712   HAMPTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90800,
+        "market_value": 90800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0081D00165000000",
         "address": "167 STANTON CT E",
         "city": "11001",
@@ -197,7 +210,7 @@
         "assessed_value": 90900,
         "market_value": 108900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121E00155000000",
@@ -210,45 +223,32 @@
         "assessed_value": 90300,
         "market_value": 90300,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0120M00202000000",
-        "address": "1518 SIMONA DR",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1518   SIMONA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89900,
-        "market_value": 107900,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0121E00232000000",
-        "address": "1641 TRINITY ST",
+        "parcel_id": "0120S00147000000",
+        "address": "1402 HAWTHORNE ST",
         "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "118   EMERSON AVE",
+        "zip_code": "15201",
+        "current_owner_name": "1402   HAWTHORNE ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 91300,
-        "market_value": 91300,
-        "assessed_value_change_pct": -5.5,
+        "assessed_value": 90000,
+        "market_value": 108000,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0120M00022000000",
-        "address": "1510 TRINITY ST",
+        "parcel_id": "0121E00134000000",
+        "address": "114 HAWTHORNE CT",
         "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1510   TRINITY ST",
+        "zip_code": "15201",
+        "current_owner_name": "1548   TRINITY ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 91400,
-        "market_value": 109400,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 90000,
+        "market_value": 90000,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

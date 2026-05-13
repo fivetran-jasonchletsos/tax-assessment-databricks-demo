@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0167M00326000000",
+        "address": "908 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "5101   KEYSTONE ST  # 3",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 42000,
+        "market_value": 42000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0168J00296000000",
+        "address": "1221 N CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "209   13TH ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 42000,
+        "market_value": 42000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0168M00195000000",
         "address": "1938 MIDDLE ST",
         "city": "Sharpsburg",
@@ -197,7 +223,7 @@
         "assessed_value": 42000,
         "market_value": 60000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169J00044000000",
@@ -210,7 +236,7 @@
         "assessed_value": 42000,
         "market_value": 42000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0167M00043000000",
@@ -223,32 +249,6 @@
         "assessed_value": 41700,
         "market_value": 41700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168J00182000000",
-        "address": "212 SCHOOL ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "212   SCHOOL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 41700,
-        "market_value": 59700,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168K00168000000",
-        "address": "1324 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1319   SOUTH CANAL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 41700,
-        "market_value": 41700,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

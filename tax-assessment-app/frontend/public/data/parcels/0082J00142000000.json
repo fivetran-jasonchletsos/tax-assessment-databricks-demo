@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121P00032000000",
+        "address": "1634 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1634   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 115400,
+        "market_value": 115400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0050M00029000000",
         "address": "241 N AIKEN AVE",
         "city": "11003",
@@ -197,7 +210,7 @@
         "assessed_value": 115100,
         "market_value": 115100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082E00230000000",
@@ -210,7 +223,7 @@
         "assessed_value": 115500,
         "market_value": 115500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0121G00304000000",
@@ -223,32 +236,19 @@
         "assessed_value": 115500,
         "market_value": 133500,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082A00267000000",
-        "address": "1209 CHISLETT ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "5161 1/2  CARNEGIE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 115700,
-        "market_value": 115700,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082E00262000000",
-        "address": "1138 JANCEY ST",
+        "parcel_id": "0121K00194000000",
+        "address": "1853 CHISLETT ST",
         "city": "11003",
         "zip_code": "15206",
-        "current_owner_name": "1138   JANCEY ST",
+        "current_owner_name": "1853   CHISLETT ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 114900,
-        "market_value": 132900,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 115600,
+        "market_value": 133600,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

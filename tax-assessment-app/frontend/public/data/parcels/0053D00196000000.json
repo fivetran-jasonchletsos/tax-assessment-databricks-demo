@@ -145,6 +145,19 @@
     "parcel_id": "0053D00196000000",
     "comparables": [
       {
+        "parcel_id": "0127A00089000000",
+        "address": "6529 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6529   DALZELL PL",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 254000,
+        "market_value": 254000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0052R00065000000",
         "address": "5121 BEELER ST",
         "city": "11401",
@@ -155,7 +168,20 @@
         "assessed_value": 254200,
         "market_value": 272200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0127A00178000000",
+        "address": "6539 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6539   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 254200,
+        "market_value": 254200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0052M00002000000",
@@ -168,7 +194,20 @@
         "assessed_value": 253600,
         "market_value": 271600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127N00002000000",
+        "address": "6547 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6547   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 254600,
+        "market_value": 272600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085J00177000000",
@@ -181,45 +220,6 @@
         "assessed_value": 253200,
         "market_value": 271200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085J00249000000",
-        "address": "5475 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5475   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 255000,
-        "market_value": 273000,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086G00035000000",
-        "address": "5830 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5843   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 255000,
-        "market_value": 255000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086G00039000000",
-        "address": "5822 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5822   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 253000,
-        "market_value": 271000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

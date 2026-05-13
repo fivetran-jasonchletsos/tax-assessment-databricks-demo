@@ -122,6 +122,19 @@
     "parcel_id": "0167M00157000000",
     "comparables": [
       {
+        "parcel_id": "0167L00265000000",
+        "address": "100 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "3041   CANTERBURY DR",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 53700,
+        "market_value": 53700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0167M00323000000",
         "address": "901 CLAY ST",
         "city": "Sharpsburg",
@@ -132,7 +145,20 @@
         "assessed_value": 53700,
         "market_value": 53700,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167R00200000000",
+        "address": "CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "650  W PEACHTREE ST NW",
+        "land_use_description": "R.R. - USED IN OPERATION",
+        "acreage": null,
+        "assessed_value": 53500,
+        "market_value": 53500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168J00141000000",
@@ -145,7 +171,20 @@
         "assessed_value": 53900,
         "market_value": 71900,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168L00255000000",
+        "address": "1629 MARYS AVE",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "761   OSAGE RD",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 53500,
+        "market_value": 53500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0169J00093000000",
@@ -158,45 +197,6 @@
         "assessed_value": 53900,
         "market_value": 71900,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0168J00297000000",
-        "address": "1205 STATION ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1205   STATION ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 54000,
-        "market_value": 72000,
-        "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168K00220000000",
-        "address": "1523 MARYS AVE",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "PO BOX 11206",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 53400,
-        "market_value": 53400,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168K00321000000",
-        "address": "1407 S CANAL ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1407  S CANAL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 54000,
-        "market_value": 72000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

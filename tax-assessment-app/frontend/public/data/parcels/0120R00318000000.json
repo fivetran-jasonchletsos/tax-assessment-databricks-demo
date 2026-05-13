@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0120R00318000000",
+    "address": "1112 PREMIER ST",
+    "city": "11001",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1112   PREMIER ST",
+    "current_mailing_address": "1112   PREMIER ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.08,
+    "latitude": 40.46524,
+    "longitude": -79.96252
+  },
+  "assessments": {
+    "parcel_id": "0120R00318000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 82500,
+        "market_value": 82500,
+        "land_value": 22600,
+        "improvement_value": 59900,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1308,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 81192,
+        "market_value": 81192,
+        "land_value": 22241,
+        "improvement_value": 58951,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -821,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81192,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 82013,
+        "market_value": 82013,
+        "land_value": 22466,
+        "improvement_value": 59547,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3905,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82013,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 78108,
+        "market_value": 78108,
+        "land_value": 21396,
+        "improvement_value": 56712,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3004,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78108,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 75104,
+        "market_value": 75104,
+        "land_value": 20573,
+        "improvement_value": 54531,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2187,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75104,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 72917,
+        "market_value": 72917,
+        "land_value": 19974,
+        "improvement_value": 52943,
+        "land_value_percentage": 27.4,
+        "improvement_value_percentage": 72.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72917,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0120R00318000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0120R00318000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0120R00318000000",
+    "comparables": [
+      {
+        "parcel_id": "0120L00203000000",
+        "address": "1013 OGLETHORPE AVE",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1013   OGLETHORPE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82500,
+        "market_value": 100500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0120R00316000000",
+        "address": "1110 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1112   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82500,
+        "market_value": 82500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120K00092000000",
+        "address": "1006 DOWNLOOK ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1006   DOWNLOOK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82400,
+        "market_value": 100400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120M00218000000",
+        "address": "1446 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1446   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82600,
+        "market_value": 100600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121E00201000000",
+        "address": "6514 ADELPHIA ST",
+        "city": "11001",
+        "zip_code": "15206",
+        "current_owner_name": "6514   ADELPHIA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82400,
+        "market_value": 100400,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0120L00226000000",
+        "address": "1125 OGLETHORPE AVE",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1125   OGLETHORPE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 82300,
+        "market_value": 100300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

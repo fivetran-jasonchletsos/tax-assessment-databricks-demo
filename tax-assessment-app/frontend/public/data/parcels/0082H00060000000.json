@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0124E00023000A00",
+        "address": "6345 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6345   GLENVIEW PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84200,
+        "market_value": 102200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082P00057000000",
         "address": "5535 AVONDALE PL",
         "city": "11102",
@@ -158,7 +171,20 @@
         "assessed_value": 83800,
         "market_value": 101800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123N00274000A00",
+        "address": "6609 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1504   BEECHVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83800,
+        "market_value": 83800,
+        "assessed_value_change_pct": 1.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082B00221000000",
@@ -171,32 +197,6 @@
         "assessed_value": 83700,
         "market_value": 101700,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082F00225000000",
-        "address": "5506 BRYANT ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "343   PEARL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 85000,
-        "market_value": 85000,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082G00091000000",
-        "address": "7 HIGHLAND CT",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "7   HIGHLAND CT",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 83200,
-        "market_value": 101200,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

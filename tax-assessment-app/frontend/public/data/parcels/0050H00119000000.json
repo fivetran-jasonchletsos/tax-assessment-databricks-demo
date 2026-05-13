@@ -145,6 +145,32 @@
     "parcel_id": "0050H00119000000",
     "comparables": [
       {
+        "parcel_id": "0124E00200000000",
+        "address": "6308 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "170   FOREST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 206900,
+        "market_value": 206900,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124E00207000000",
+        "address": "6356 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 206800,
+        "market_value": 206800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0083F00004000000",
         "address": "429 N NEGLEY AVE",
         "city": "11103",
@@ -155,7 +181,7 @@
         "assessed_value": 207100,
         "market_value": 207100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083K00067000000",
@@ -168,7 +194,7 @@
         "assessed_value": 206700,
         "market_value": 206700,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083K00209000000",
@@ -181,7 +207,7 @@
         "assessed_value": 206400,
         "market_value": 206400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083L00043000000",
@@ -194,32 +220,6 @@
         "assessed_value": 207500,
         "market_value": 207500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083G00132000000",
-        "address": "731 N BEATTY ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "731  N BEATTY ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 205500,
-        "market_value": 205500,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083F00185000000",
-        "address": "5627 HAYS ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "5627   HAYS ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 205000,
-        "market_value": 223000,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

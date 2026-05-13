@@ -174,6 +174,19 @@
     "parcel_id": "0087J00272000000",
     "comparables": [
       {
+        "parcel_id": "0087N00020000000",
+        "address": "925 GREENFIELD AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "925   GREENFIELD AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 54000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0054M00150000000",
         "address": "856 MONTEIRO ST",
         "city": "11502",
@@ -184,7 +197,7 @@
         "assessed_value": 36100,
         "market_value": 54100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0054M00196000000",
@@ -197,58 +210,45 @@
         "assessed_value": 35900,
         "market_value": 53900,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0054S00088000000",
-        "address": "843 GREENFIELD AVE",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "843   GREENFIELD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34000,
-        "market_value": 52000,
-        "assessed_value_change_pct": 0.1,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0087J00109000000",
-        "address": "933 FLEMINGTON ST",
+        "parcel_id": "0088E00033000000",
+        "address": "717 MONTCLAIR ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "933   FLEMINGTON ST",
-        "land_use_description": "VACANT LAND",
+        "current_owner_name": "717   MONTCLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 38600,
-        "market_value": 38600,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 36200,
+        "market_value": 54200,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0087J00128000000",
-        "address": "1009 FLEMINGTON ST",
+        "parcel_id": "0087N00041000D00",
+        "address": "4136 DELEVAN ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "1009   FLEMINGTON ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "4136   DELEVAN ST",
+        "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 33100,
-        "market_value": 51100,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": 2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0055D00002000000",
-        "address": "4242 MCCASLIN ST",
+        "parcel_id": "0088E00084000000",
+        "address": "10 EXETER ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "4242   MCCASLIN ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "PO BOX 55190",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 39000,
-        "market_value": 57000,
-        "assessed_value_change_pct": -5.5,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0087H00068000000",
     "comparables": [
       {
+        "parcel_id": "0126A00256000000",
+        "address": "327 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "3750   CHILDS ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 145000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086S00064000000",
         "address": "5886 HOBART ST",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 145000,
         "market_value": 163000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086S00084000000",
@@ -197,7 +210,7 @@
         "assessed_value": 145000,
         "market_value": 163000,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087C00158000000",
@@ -210,7 +223,7 @@
         "assessed_value": 145000,
         "market_value": 145000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087H00153000000",
@@ -223,32 +236,19 @@
         "assessed_value": 145000,
         "market_value": 145000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087B00078000000",
-        "address": "5626 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5626   PHILLIPS AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 144700,
-        "market_value": 144700,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087A00050000000",
-        "address": "5417 GUARINO RD",
+        "parcel_id": "0087L00337000000",
+        "address": "6331 ALDERSON ST",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5417   GUARINO RD",
+        "current_owner_name": "6331   ALDERSON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 144600,
-        "market_value": 162600,
-        "assessed_value_change_pct": -4.5,
+        "assessed_value": 145000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

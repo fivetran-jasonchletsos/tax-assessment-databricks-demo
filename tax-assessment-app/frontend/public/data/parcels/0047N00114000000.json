@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0047N00114000000",
+    "address": "55 LAREDA ST",
+    "city": "Ward 24 - Spring Garden",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1318   HILL AVE",
+    "current_mailing_address": "1318   HILL AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.043,
+    "latitude": 40.418,
+    "longitude": -80.066
+  },
+  "assessments": {
+    "parcel_id": "0047N00114000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 14700,
+        "market_value": 14700,
+        "land_value": 12400,
+        "improvement_value": 2300,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 365,
+        "assessed_value_change_pct": 2.55,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 14335,
+        "market_value": 14335,
+        "land_value": 12092,
+        "improvement_value": 2243,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 551,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14335,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 13784,
+        "market_value": 13784,
+        "land_value": 11627,
+        "improvement_value": 2157,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 401,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13784,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 13383,
+        "market_value": 13383,
+        "land_value": 11289,
+        "improvement_value": 2094,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 262,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13383,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 13121,
+        "market_value": 13121,
+        "land_value": 11068,
+        "improvement_value": 2053,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 129,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13121,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 12992,
+        "market_value": 12992,
+        "land_value": 10959,
+        "improvement_value": 2033,
+        "land_value_percentage": 84.4,
+        "improvement_value_percentage": 15.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12992,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047N00114000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047N00114000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 10300,
+      "total_value_reduction": 10300,
+      "first_appeal_date": "27-Sep-16",
+      "most_recent_appeal_date": "27-Sep-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8464-2016",
+        "filed_date": "27-Sep-16",
+        "hearing_date": "27-Sep-16",
+        "appeal_status": "approved",
+        "original_value": 25000,
+        "requested_value": 25000,
+        "final_value": 14700,
+        "value_reduction": 10300,
+        "reduction_percentage": 41.2,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047N00114000000",
+    "comparables": [
+      {
+        "parcel_id": "0047R00057000000",
+        "address": "WALZ ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "59   PENN CIR W APT V401",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14700,
+        "market_value": 14700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047R00137000A00",
+        "address": "FIRTH ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14700,
+        "market_value": 14700,
+        "assessed_value_change_pct": 2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024B00104000000",
+        "address": "1206 ZANG WAY",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1206   ZANG WAY",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14600,
+        "market_value": 14600,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0047N00131000000",
+        "address": "LAREDA ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "41   LAREDA ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14800,
+        "market_value": 14800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047N00287000000",
+        "address": "SOLAR ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 14600,
+        "market_value": 14600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023H00134000000",
+        "address": "COMPROMISE ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14900,
+        "market_value": 14900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

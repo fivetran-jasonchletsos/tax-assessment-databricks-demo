@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0126N00034000000",
+        "address": "1424 BARNSDALE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "149   MONTICELLO DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 218200,
+        "market_value": 218200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0085S00076000000",
         "address": "6415 WILKINS AVE",
         "city": "11402",
@@ -210,7 +223,20 @@
         "assessed_value": 218100,
         "market_value": 236100,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088G00161000000",
+        "address": "3078 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3078   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 218100,
+        "market_value": 236100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085E00262000000",
@@ -223,32 +249,6 @@
         "assessed_value": 218000,
         "market_value": 236000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085K00211000000",
-        "address": "1166 MURRAY HILL AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1166   MURRAYHILL AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 219200,
-        "market_value": 219200,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086J00214000000",
-        "address": "5456 FORBES AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5456   FORBES AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 216900,
-        "market_value": 216900,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

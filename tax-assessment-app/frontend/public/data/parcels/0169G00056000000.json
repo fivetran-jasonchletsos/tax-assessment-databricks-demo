@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0169G00056000000",
+    "address": "109 W 9TH ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "10409   COURTHOUSE DR",
+    "current_mailing_address": "10409   COURTHOUSE DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.137,
+    "latitude": 40.49496,
+    "longitude": -79.92532
+  },
+  "assessments": {
+    "parcel_id": "0169G00056000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2400,
+        "market_value": 2400,
+        "land_value": 2400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 109,
+        "assessed_value_change_pct": 4.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2291,
+        "market_value": 2291,
+        "land_value": 2291,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2291,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2291,
+        "market_value": 2291,
+        "land_value": 2291,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -24,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2291,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2315,
+        "market_value": 2315,
+        "land_value": 2315,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 110,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2315,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2205,
+        "market_value": 2205,
+        "land_value": 2205,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 84,
+        "assessed_value_change_pct": 3.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2205,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2121,
+        "market_value": 2121,
+        "land_value": 2121,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2121,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0169G00056000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0169G00056000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0169G00056000000",
+    "comparables": [
+      {
+        "parcel_id": "0122D00278000000",
+        "address": "205 BRILLIANT AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "111   BLVD OF THE ALLIES",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169G00006000000",
+        "address": "1101 CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1101   CENTER AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2100,
+        "market_value": 2100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171A00200000000",
+        "address": "209 VIRGINIA AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "209   VIRGINIA AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1900,
+        "market_value": 1900,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

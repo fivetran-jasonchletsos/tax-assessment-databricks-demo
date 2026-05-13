@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087M00088000000",
+        "address": "2766 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2766   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 242000,
+        "market_value": 260000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00011000000",
+        "address": "2877 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2877   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 242000,
+        "market_value": 260000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086P00066000000",
         "address": "5564 BEACON ST",
         "city": "11403",
@@ -145,7 +171,20 @@
         "assessed_value": 240900,
         "market_value": 258900,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00180000000",
+        "address": "2425 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "505   BURKES DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 242300,
+        "market_value": 242300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087G00255000000",
@@ -158,45 +197,6 @@
         "assessed_value": 242400,
         "market_value": 242400,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086R00174000000",
-        "address": "5842 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5842   HOBART ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 240600,
-        "market_value": 240600,
-        "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087B00013000000",
-        "address": "5569 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "701   HASTINGS ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 240300,
-        "market_value": 240300,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00013000000",
-        "address": "5426 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5426   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 240200,
-        "market_value": 258200,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

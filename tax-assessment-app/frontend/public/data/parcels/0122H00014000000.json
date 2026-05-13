@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122H00014000000",
+    "address": "503 FREEPORT RD",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "503   FREEPORT RD",
+    "current_mailing_address": "503   FREEPORT RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+    "acreage": 0.104,
+    "latitude": 40.49304,
+    "longitude": -79.91224
+  },
+  "assessments": {
+    "parcel_id": "0122H00014000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 288400,
+        "market_value": 288400,
+        "land_value": 164600,
+        "improvement_value": 123800,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4038,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 288400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 292438,
+        "market_value": 292438,
+        "land_value": 166904,
+        "improvement_value": 125534,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13925,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 292438,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 278513,
+        "market_value": 278513,
+        "land_value": 158957,
+        "improvement_value": 119556,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10712,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 278513,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 267801,
+        "market_value": 267801,
+        "land_value": 152843,
+        "improvement_value": 114958,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7800,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267801,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 260001,
+        "market_value": 260001,
+        "land_value": 148391,
+        "improvement_value": 111610,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5098,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 260001,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 254903,
+        "market_value": 254903,
+        "land_value": 145482,
+        "improvement_value": 109421,
+        "land_value_percentage": 57.1,
+        "improvement_value_percentage": 42.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 254903,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122H00014000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122H00014000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-May-19",
+      "most_recent_appeal_date": "10-May-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30477-2019",
+        "filed_date": "10-May-19",
+        "hearing_date": "10-May-19",
+        "appeal_status": "approved",
+        "original_value": 148800,
+        "requested_value": 148800,
+        "final_value": 288400,
+        "value_reduction": 0,
+        "reduction_percentage": -93.82,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122H00014000000",
+    "comparables": [
+      {
+        "parcel_id": "0171E00008000000",
+        "address": "112 VIRGINIA AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "112   VIRGINIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 288400,
+        "market_value": 306400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122C00186000000",
+        "address": "225 COMMERCIAL AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1  E CRAFTON AVE",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 288500,
+        "market_value": 288500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0169C00034000000",
+        "address": "535 GUYASUTA RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "535   GUYASUTA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 287600,
+        "market_value": 305600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122C00187000000",
+        "address": "227 COMMERCIAL AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "3330   CRAMLINGTON DR",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 289500,
+        "market_value": 289500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122D00261000000",
+        "address": "330 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "330   2ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 289600,
+        "market_value": 307600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0122D00130000100",
+        "address": "12 BRILLIANT AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "514   SANDRA LN",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 290000,
+        "market_value": 290000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

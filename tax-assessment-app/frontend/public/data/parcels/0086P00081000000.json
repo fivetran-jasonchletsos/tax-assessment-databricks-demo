@@ -122,6 +122,32 @@
     "parcel_id": "0086P00081000000",
     "comparables": [
       {
+        "parcel_id": "0126E00076000000",
+        "address": "424 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "424   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 151500,
+        "market_value": 169500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0126E00106000000",
+        "address": "421 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "421   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 151400,
+        "market_value": 169400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087D00145000000",
         "address": "2269 SHADY AVE",
         "city": "11403",
@@ -132,7 +158,20 @@
         "assessed_value": 151800,
         "market_value": 169800,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0128J00214000000",
+        "address": "6521 FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6521   FORWARD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 151800,
+        "market_value": 169800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085M00257000000",
@@ -145,7 +184,7 @@
         "assessed_value": 151900,
         "market_value": 169900,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00129000000",
@@ -158,45 +197,6 @@
         "assessed_value": 151300,
         "market_value": 169300,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087A00118000000",
-        "address": "2045 WENDOVER ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5544   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 152000,
-        "market_value": 152000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087B00036000000",
-        "address": "2116 WIGHTMAN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2116   WIGHTMAN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 152000,
-        "market_value": 170000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00157000000",
-        "address": "2300 PITTOCK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2300   PITTOCK ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 152000,
-        "market_value": 170000,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

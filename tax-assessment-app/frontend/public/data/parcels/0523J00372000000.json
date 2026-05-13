@@ -174,6 +174,19 @@
     "parcel_id": "0523J00372000000",
     "comparables": [
       {
+        "parcel_id": "0617S00021000000",
+        "address": "2302 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2302   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 141300,
+        "market_value": 159300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0435D00369000000",
         "address": "1904 LOUISE DR",
         "city": "Indiana",
@@ -184,7 +197,7 @@
         "assessed_value": 138700,
         "market_value": 156700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0522S00203000000",
@@ -197,7 +210,7 @@
         "assessed_value": 138600,
         "market_value": 156600,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0436D00130000000",
@@ -210,7 +223,20 @@
         "assessed_value": 138200,
         "market_value": 156200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0617M00301000000",
+        "address": "2509 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2509   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142500,
+        "market_value": 142500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0435D00333000000",
@@ -223,32 +249,6 @@
         "assessed_value": 137600,
         "market_value": 137600,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0523A00395000000",
-        "address": "207 INDIANA DR",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "207   INDIANA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 137000,
-        "market_value": 155000,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0436J00296000000",
-        "address": "133 BERRYHILL RD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "133   BERRYHILL RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 136700,
-        "market_value": 154700,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045B00156000000",
+    "address": "2976 STAYTON ST",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3901   CALIFORNIA AVE",
+    "current_mailing_address": "3901   CALIFORNIA AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CAR WASH",
+    "acreage": 0.229,
+    "latitude": 40.41704,
+    "longitude": -80.06744
+  },
+  "assessments": {
+    "parcel_id": "0045B00156000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 109300,
+        "market_value": 109300,
+        "land_value": 31200,
+        "improvement_value": 78100,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6793,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 109300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 102507,
+        "market_value": 102507,
+        "land_value": 29260,
+        "improvement_value": 73247,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2985,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 102507,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 99522,
+        "market_value": 99522,
+        "land_value": 28408,
+        "improvement_value": 71114,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1951,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 99522,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 97571,
+        "market_value": 97571,
+        "land_value": 27851,
+        "improvement_value": 69720,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 966,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97571,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 96605,
+        "market_value": 96605,
+        "land_value": 27576,
+        "improvement_value": 69029,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96605,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 96605,
+        "market_value": 96605,
+        "land_value": 27576,
+        "improvement_value": 69029,
+        "land_value_percentage": 28.5,
+        "improvement_value_percentage": 71.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96605,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045B00156000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045B00156000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 130600,
+      "total_value_reduction": 130600,
+      "first_appeal_date": "4-Apr-18",
+      "most_recent_appeal_date": "4-Apr-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22716-2018",
+        "filed_date": "4-Apr-18",
+        "hearing_date": "4-Apr-18",
+        "appeal_status": "approved",
+        "original_value": 239900,
+        "requested_value": 239900,
+        "final_value": 109300,
+        "value_reduction": 130600,
+        "reduction_percentage": 54.44,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045B00156000000",
+    "comparables": [
+      {
+        "parcel_id": "0075S00123000000",
+        "address": "3184 MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "2834   BEDFORD AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 110000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0076J00014000000",
+        "address": "3313 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "427   LINCOLN AVE",
+        "land_use_description": "FUNERAL HOMES",
+        "acreage": null,
+        "assessed_value": 110000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0075L00034000000",
+        "address": "3421 CALIFORNIA AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "103   BELL CT",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 110200,
+        "market_value": 110200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0076J00033000000",
+        "address": "3308 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3152   BRIGHTON RD",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 108000,
+        "market_value": 108000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075S00114000000",
+        "address": "3190 MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1020   AUTUMN WOODS DR",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 107500,
+        "market_value": 107500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045F00139000000",
+        "address": "1200 HODGKISS ST",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "117   GAMOR DR",
+        "land_use_description": "BARS",
+        "acreage": null,
+        "assessed_value": 111400,
+        "market_value": 111400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

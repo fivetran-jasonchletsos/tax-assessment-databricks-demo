@@ -1,0 +1,201 @@
+{
+  "parcel": {
+    "parcel_id": "0170P00028000000",
+    "address": "ALPINE CIR",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 11286",
+    "current_mailing_address": "PO BOX 11286",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.748,
+    "latitude": 40.49496,
+    "longitude": -79.92472
+  },
+  "assessments": {
+    "parcel_id": "0170P00028000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 750,
+        "market_value": 750,
+        "land_value": 750,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 36,
+        "assessed_value_change_pct": 5.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 750,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 714,
+        "market_value": 714,
+        "land_value": 714,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 714,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 714,
+        "market_value": 714,
+        "land_value": 714,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8,
+        "assessed_value_change_pct": -1.11,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 714,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 722,
+        "market_value": 722,
+        "land_value": 722,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34,
+        "assessed_value_change_pct": 4.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 722,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 688,
+        "market_value": 688,
+        "land_value": 688,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26,
+        "assessed_value_change_pct": 3.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 688,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 662,
+        "market_value": 662,
+        "land_value": 662,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 662,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170P00028000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170P00028000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jul-16",
+      "most_recent_appeal_date": "8-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9765-2016",
+        "filed_date": "8-Jul-16",
+        "hearing_date": "8-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 16300,
+        "requested_value": 16300,
+        "final_value": 16300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0170P00028000000",
+    "comparables": [
+      {
+        "parcel_id": "0224H00048000000",
+        "address": "BUCKINGHAM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "310   BUCKINGHAM RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0225P00086000000",
+        "address": "PASADENA DR N",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11286",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0225R00035000000",
+        "address": "COLBERT LN",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0170K00018000000",
+        "address": "PARK BLVD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11286",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 580,
+        "market_value": 580,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

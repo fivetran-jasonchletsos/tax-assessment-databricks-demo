@@ -174,6 +174,19 @@
     "parcel_id": "0085H00083000000",
     "comparables": [
       {
+        "parcel_id": "0126A00011000000",
+        "address": "6570 LYNDHURST GRN",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "6570   LYNDHURST GRN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302800,
+        "market_value": 320800,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085G00032000000",
         "address": "1105 SHADY AVE",
         "city": "11402",
@@ -184,7 +197,7 @@
         "assessed_value": 303100,
         "market_value": 321100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085H00179000000",
@@ -197,7 +210,33 @@
         "assessed_value": 303200,
         "market_value": 321200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0126N00168000000",
+        "address": "6674 WOODWELL ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6674   WOODWELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302000,
+        "market_value": 320000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126A00040000000",
+        "address": "1065 LYNDHURST DR",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1065   LYNDHURST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 301900,
+        "market_value": 319900,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087K00149000000",
@@ -209,45 +248,6 @@
         "acreage": null,
         "assessed_value": 301900,
         "market_value": 319900,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085L00069000000",
-        "address": "1169 SHADY AVE",
-        "city": "11402",
-        "zip_code": "15232",
-        "current_owner_name": "1169   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 301900,
-        "market_value": 319900,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085H00151000000",
-        "address": "1205 BEECHWOOD CT",
-        "city": "11402",
-        "zip_code": "15206",
-        "current_owner_name": "1205   BEECHWOOD CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 303800,
-        "market_value": 321800,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087K00167000000",
-        "address": "5858 BURCHFIELD AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1956   BEECHWOOD BLVD",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 301600,
-        "market_value": 301600,
         "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }

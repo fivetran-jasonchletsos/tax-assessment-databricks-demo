@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0124E00069000000",
+    "address": "6337 STANTON AVE",
+    "city": "11102",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6337   STANTON AVE",
+    "current_mailing_address": "6337   STANTON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.102,
+    "latitude": 40.46162,
+    "longitude": -79.92508
+  },
+  "assessments": {
+    "parcel_id": "0124E00069000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 155400,
+        "market_value": 155400,
+        "land_value": 61300,
+        "improvement_value": 94100,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6914,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 148486,
+        "market_value": 148486,
+        "land_value": 58572,
+        "improvement_value": 89914,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148486,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 148486,
+        "market_value": 148486,
+        "land_value": 58572,
+        "improvement_value": 89914,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1500,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148486,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 149986,
+        "market_value": 149986,
+        "land_value": 59164,
+        "improvement_value": 90822,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7142,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 149986,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 142844,
+        "market_value": 142844,
+        "land_value": 56347,
+        "improvement_value": 86497,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5494,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142844,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 137350,
+        "market_value": 137350,
+        "land_value": 54179,
+        "improvement_value": 83171,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137350,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0124E00069000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0124E00069000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0124E00069000000",
+    "comparables": [
+      {
+        "parcel_id": "0083H00216000000",
+        "address": "816 HEBERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "825   HEBERTON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 155300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083H00217000000",
+        "address": "818 HEBERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "121   EDGEWOOD AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155200,
+        "market_value": 155200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123K00005000000",
+        "address": "6634 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6634   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155200,
+        "market_value": 173200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082F00145000000",
+        "address": "1223 KING AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1223   KING AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155100,
+        "market_value": 173100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123K00009000000",
+        "address": "6739 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6739   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155100,
+        "market_value": 173100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124E00099000000",
+        "address": "6393 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6393   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155700,
+        "market_value": 173700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

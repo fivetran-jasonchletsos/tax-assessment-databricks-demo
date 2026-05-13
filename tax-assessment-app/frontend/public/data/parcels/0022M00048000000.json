@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0022M00048000000",
+    "address": "1530 MARQUIS WAY",
+    "city": "Ward 25",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1300   BRIGHTON RD  STE 1",
+    "current_mailing_address": "1300   BRIGHTON RD  STE 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.029,
+    "latitude": 40.41776,
+    "longitude": -80.08664
+  },
+  "assessments": {
+    "parcel_id": "0022M00048000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 23300,
+        "market_value": 23300,
+        "land_value": 11300,
+        "improvement_value": 12000,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2299,
+        "assessed_value_change_pct": 10.95,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 21001,
+        "market_value": 21001,
+        "land_value": 10185,
+        "improvement_value": 10816,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 411,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21001,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 20590,
+        "market_value": 20590,
+        "land_value": 9985,
+        "improvement_value": 10605,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 203,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20590,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 20387,
+        "market_value": 20387,
+        "land_value": 9887,
+        "improvement_value": 10500,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20387,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 20387,
+        "market_value": 20387,
+        "land_value": 9887,
+        "improvement_value": 10500,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -206,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20387,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 20593,
+        "market_value": 20593,
+        "land_value": 9987,
+        "improvement_value": 10606,
+        "land_value_percentage": 48.5,
+        "improvement_value_percentage": 51.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20593,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022M00048000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022M00048000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0022M00048000000",
+    "comparables": [
+      {
+        "parcel_id": "0023C00182000000",
+        "address": "402 CATOMA ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "402   CATOMA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 23300,
+        "market_value": 41300,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023D00203000000",
+        "address": "1724 WARREN ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1724   WARREN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 23300,
+        "market_value": 41300,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023E00372000000",
+        "address": "1708 BRIGHTON RD",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 6837",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 23300,
+        "market_value": 41300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023D00183000A00",
+        "address": "9 CARRIE ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "832   PITTSBURGH RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 23200,
+        "market_value": 23200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023E00026000000",
+        "address": "REDKNAP ST",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "1728   BUENA VISTA ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 23200,
+        "market_value": 23200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023F00219000000",
+        "address": "110 ALPINE AVE",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "4   ARTHURS WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 23400,
+        "market_value": 23400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

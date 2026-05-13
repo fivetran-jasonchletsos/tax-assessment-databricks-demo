@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0120G00098000000",
+    "address": "BUTLER ST",
+    "city": "10th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 7",
+    "current_mailing_address": "PO BOX 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.367,
+    "latitude": 40.46452,
+    "longitude": -79.96336
+  },
+  "assessments": {
+    "parcel_id": "0120G00098000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 12600,
+        "market_value": 12600,
+        "land_value": 9600,
+        "improvement_value": 3000,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 562,
+        "assessed_value_change_pct": 4.67,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 12038,
+        "market_value": 12038,
+        "land_value": 9171,
+        "improvement_value": 2867,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12038,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 12038,
+        "market_value": 12038,
+        "land_value": 9171,
+        "improvement_value": 2867,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -122,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12038,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 12160,
+        "market_value": 12160,
+        "land_value": 9264,
+        "improvement_value": 2896,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 579,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12160,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 11581,
+        "market_value": 11581,
+        "land_value": 8823,
+        "improvement_value": 2758,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 445,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11581,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 11136,
+        "market_value": 11136,
+        "land_value": 8484,
+        "improvement_value": 2652,
+        "land_value_percentage": 76.2,
+        "improvement_value_percentage": 23.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11136,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0120G00098000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0120G00098000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0120G00098000000",
+    "comparables": [
+      {
+        "parcel_id": "0080R00500000000",
+        "address": "ORANMORE ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 13200,
+        "market_value": 13200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0120K00143000000",
+        "address": "6020 BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "314   DOWNING ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 14800,
+        "market_value": 14800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120K00065000000",
+        "address": "BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "219   57TH ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 10000,
+        "market_value": 10000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

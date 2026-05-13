@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127A00190000000",
+        "address": "6621 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6621   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262500,
+        "market_value": 280500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00173000000",
         "address": "5612 WOODMONT ST",
         "city": "11401",
@@ -145,7 +158,33 @@
         "assessed_value": 262600,
         "market_value": 280600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088L00084000000",
+        "address": "1665 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1665   BILTMORE LN",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 262600,
+        "market_value": 280600,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127P00054000000",
+        "address": "6752 FOREST GLEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6752   FOREST GLEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262400,
+        "market_value": 280400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085P00202000000",
@@ -158,45 +197,6 @@
         "assessed_value": 262200,
         "market_value": 262200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086C00037000000",
-        "address": "1442 MURRAY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1442   MURRAY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 262100,
-        "market_value": 280100,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0052M00039000000",
-        "address": "5361 BEELER ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "138  W LYNDHURST DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 262000,
-        "market_value": 262000,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085N00020000000",
-        "address": "5372 BEELER ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5372   BEELER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263000,
-        "market_value": 281000,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

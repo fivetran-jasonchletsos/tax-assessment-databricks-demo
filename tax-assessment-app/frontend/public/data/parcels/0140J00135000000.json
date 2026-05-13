@@ -174,6 +174,19 @@
     "parcel_id": "0140J00135000000",
     "comparables": [
       {
+        "parcel_id": "0252A00252000000",
+        "address": "1295 CEDAR BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1295   CEDAR BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123400,
+        "market_value": 141400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141H00072000000",
         "address": "10 JONQUIL PL",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 123500,
         "market_value": 141500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0141H00104000000",
@@ -197,7 +210,7 @@
         "assessed_value": 123500,
         "market_value": 141500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0141H00264000000",
@@ -210,7 +223,7 @@
         "assessed_value": 123500,
         "market_value": 141500,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141R00203000000",
@@ -223,7 +236,7 @@
         "assessed_value": 123500,
         "market_value": 141500,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0191E00068000000",
@@ -236,19 +249,6 @@
         "assessed_value": 123500,
         "market_value": 141500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0193R00092000000",
-        "address": "55 SENECA DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "212   SIEAFORTH AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 123300,
-        "market_value": 123300,
-        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

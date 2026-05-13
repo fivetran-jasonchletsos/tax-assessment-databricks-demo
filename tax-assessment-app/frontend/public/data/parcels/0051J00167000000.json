@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0051J00167000000",
+    "address": "S MILLVALE AVE",
+    "city": "10802",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 0.612,
+    "latitude": 40.43368,
+    "longitude": -79.96612
+  },
+  "assessments": {
+    "parcel_id": "0051J00167000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 10500,
+        "market_value": 10500,
+        "land_value": 10500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 655,
+        "assessed_value_change_pct": 6.65,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9845,
+        "market_value": 9845,
+        "land_value": 9845,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 286,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9845,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 9559,
+        "market_value": 9559,
+        "land_value": 9559,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 187,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9559,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 9372,
+        "market_value": 9372,
+        "land_value": 9372,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 92,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9372,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 9280,
+        "market_value": 9280,
+        "land_value": 9280,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9280,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 9280,
+        "market_value": 9280,
+        "land_value": 9280,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9280,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051J00167000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051J00167000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0051J00167000000",
+    "comparables": [
+      {
+        "parcel_id": "0026M00152000000",
+        "address": "704 ENFIELD ST",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "181   ROBINSON DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 11200,
+        "market_value": 11200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051J00165000000",
+        "address": "ENFIELD ST",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

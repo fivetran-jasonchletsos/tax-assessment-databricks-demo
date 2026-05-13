@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0123E00100000000",
+    "address": "6045 BUNKERHILL ST",
+    "city": "11101",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6045   BUNKERHILL ST",
+    "current_mailing_address": "6045   BUNKERHILL ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.158,
+    "latitude": 40.48382,
+    "longitude": -79.91788
+  },
+  "assessments": {
+    "parcel_id": "0123E00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 273300,
+        "market_value": 273300,
+        "land_value": 120500,
+        "improvement_value": 152800,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4325,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 273300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 268975,
+        "market_value": 268975,
+        "land_value": 118593,
+        "improvement_value": 150382,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2717,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 268975,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 271692,
+        "market_value": 271692,
+        "land_value": 119791,
+        "improvement_value": 151901,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12937,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 271692,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 258755,
+        "market_value": 258755,
+        "land_value": 114087,
+        "improvement_value": 144668,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9952,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 258755,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 248803,
+        "market_value": 248803,
+        "land_value": 109699,
+        "improvement_value": 139104,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7246,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 248803,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 241557,
+        "market_value": 241557,
+        "land_value": 106504,
+        "improvement_value": 135053,
+        "land_value_percentage": 44.1,
+        "improvement_value_percentage": 55.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 241557,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123E00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0123E00100000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0123E00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0082S00120000000",
+        "address": "1000 N HIGHLAND AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1000  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 273800,
+        "market_value": 291800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082S00148000000",
+        "address": "1119 FARRAGUT ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1119   FARRAGUT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 274000,
+        "market_value": 274000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082M00387000000",
+        "address": "1410 N HIGHLAND AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1410  N HIGHLAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272500,
+        "market_value": 290500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123E00038000000",
+        "address": "1428 BROWNING RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1428   BROWNING RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272500,
+        "market_value": 272500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123E00034000000",
+        "address": "128 HIGH PARK PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "128   HIGH PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 274200,
+        "market_value": 292200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0123E00047000000",
+        "address": "1365 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1365   SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 272000,
+        "market_value": 290000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

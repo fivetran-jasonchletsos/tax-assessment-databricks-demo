@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0009P00007000000",
+    "address": "1111 PENN AVE",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "570   SOUTH AVE E STE 4",
+    "current_mailing_address": "570   SOUTH AVE E STE 4",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/OFF OVER",
+    "acreage": 0.165,
+    "latitude": 40.43762,
+    "longitude": -79.98202
+  },
+  "assessments": {
+    "parcel_id": "0009P00007000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1178600,
+        "market_value": 1178600,
+        "land_value": 252100,
+        "improvement_value": 926500,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -16505,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1178600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1195105,
+        "market_value": 1195105,
+        "land_value": 255630,
+        "improvement_value": 939475,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 56909,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1195105,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1138196,
+        "market_value": 1138196,
+        "land_value": 243457,
+        "improvement_value": 894739,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 43776,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1138196,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1094420,
+        "market_value": 1094420,
+        "land_value": 234094,
+        "improvement_value": 860326,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 31876,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1094420,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1062544,
+        "market_value": 1062544,
+        "land_value": 227275,
+        "improvement_value": 835269,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20834,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1062544,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1041710,
+        "market_value": 1041710,
+        "land_value": 222819,
+        "improvement_value": 818891,
+        "land_value_percentage": 21.4,
+        "improvement_value_percentage": 78.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1041710,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0009P00007000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0009P00007000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "8-Jun-16",
+      "most_recent_appeal_date": "8-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-7963-2016",
+        "filed_date": "8-Jun-16",
+        "hearing_date": "8-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 915000,
+        "requested_value": 915000,
+        "final_value": 1840000,
+        "value_reduction": 0,
+        "reduction_percentage": -101.09,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0009P00007000000",
+    "comparables": [
+      {
+        "parcel_id": "0008S00125000000",
+        "address": "720 FORT DUQUESNE BLVD",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "803   LIBERTY AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 1175940,
+        "market_value": 1175940,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009N00141000000",
+        "address": "931 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "5544   DARLINGTON RD",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 1186000,
+        "market_value": 1186000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025P00003000000",
+        "address": "202 26TH ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 1193200,
+        "market_value": 1193200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001D00099000000",
+        "address": "535 LIBERTY AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "94  S 13TH ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 1200000,
+        "market_value": 1200000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0009H00011000000",
+        "address": "1649 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1649   PENN AVE",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 1200000,
+        "market_value": 1200000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009N00198000000",
+        "address": "800 FORT DUQUESNE BLVD",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "803   LIBERTY AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 1206500,
+        "market_value": 1206500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

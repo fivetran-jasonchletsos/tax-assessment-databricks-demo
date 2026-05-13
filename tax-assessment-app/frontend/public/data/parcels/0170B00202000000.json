@@ -122,6 +122,19 @@
     "parcel_id": "0170B00202000000",
     "comparables": [
       {
+        "parcel_id": "0170C00131000000",
+        "address": "341 FOX CHAPEL RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 56300,
+        "market_value": 56300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0225L00125000000",
         "address": "EDGEWOOD RD",
         "city": "Fox Chapel",
@@ -132,7 +145,33 @@
         "assessed_value": 70000,
         "market_value": 70000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170A00011000000",
+        "address": "W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 73400,
+        "market_value": 73400,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0287B00050000000",
+        "address": "DORSEYVILLE RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11286",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 47300,
+        "market_value": 47300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
       }
     ]
   }

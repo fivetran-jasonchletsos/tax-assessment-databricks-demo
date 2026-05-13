@@ -122,6 +122,19 @@
     "parcel_id": "0052L00300000000",
     "comparables": [
       {
+        "parcel_id": "0126N00018000000",
+        "address": "1449 SEVERN ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1449   SEVERN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173100,
+        "market_value": 191100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086B00249000000",
         "address": "5710 SOLWAY ST",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 173300,
         "market_value": 191300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086H00171000000",
@@ -145,7 +158,20 @@
         "assessed_value": 173300,
         "market_value": 173300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127E00004000000",
+        "address": "1621 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1621   BEECHWOOD BLVD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 172700,
+        "market_value": 190700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085P00036000000",
@@ -158,7 +184,7 @@
         "assessed_value": 172300,
         "market_value": 172300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085J00093000000",
@@ -171,32 +197,6 @@
         "assessed_value": 172000,
         "market_value": 190000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086D00098000000",
-        "address": "1516 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1516   DENNISTON AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 172000,
-        "market_value": 190000,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085N00231000000",
-        "address": "5508 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "362   BARCLAY AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 171600,
-        "market_value": 189600,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

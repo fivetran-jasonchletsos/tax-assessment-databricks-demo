@@ -122,6 +122,32 @@
     "parcel_id": "0082M00051000000",
     "comparables": [
       {
+        "parcel_id": "0124A00135000000",
+        "address": "6363 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6363   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152400,
+        "market_value": 170400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123N00209000000",
+        "address": "1200 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1200   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152300,
+        "market_value": 170300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082K00077000000",
         "address": "1115 KING AVE",
         "city": "11102",
@@ -132,7 +158,7 @@
         "assessed_value": 152000,
         "market_value": 170000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082K00123000000",
@@ -145,7 +171,20 @@
         "assessed_value": 152000,
         "market_value": 170000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124E00085000000",
+        "address": "6371 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6371   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152000,
+        "market_value": 170000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082B00228000000",
@@ -158,45 +197,6 @@
         "assessed_value": 153000,
         "market_value": 153000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082G00023000000",
-        "address": "1201 N NEGLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "311   PEACH GROVE LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 151100,
-        "market_value": 151100,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082B00230000000",
-        "address": "1375 CORDOVA RD",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1375   CORDOVA RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 154000,
-        "market_value": 172000,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083H00233000000",
-        "address": "821 HEBERTON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "821   HEBERTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 150800,
-        "market_value": 168800,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

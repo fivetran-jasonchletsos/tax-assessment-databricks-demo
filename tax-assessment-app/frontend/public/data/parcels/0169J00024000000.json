@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0168S00025000000",
+        "address": "1925 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1915   MAIN ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 148000,
+        "market_value": 148000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0168K00178000000",
         "address": "1400 MIDDLE ST",
         "city": "Sharpsburg",
@@ -145,7 +158,7 @@
         "assessed_value": 146500,
         "market_value": 146500,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169J00100000000",
@@ -158,7 +171,7 @@
         "assessed_value": 152500,
         "market_value": 170500,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169J00102000000",
@@ -171,7 +184,7 @@
         "assessed_value": 152600,
         "market_value": 170600,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168G00021000000",
@@ -184,19 +197,6 @@
         "assessed_value": 145700,
         "market_value": 145700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168L00386000000",
-        "address": "1800 S CANAL ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1800  S CANAL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 153500,
-        "market_value": 171500,
-        "assessed_value_change_pct": 0.1,
         "distance_miles": 1.1
       }
     ]

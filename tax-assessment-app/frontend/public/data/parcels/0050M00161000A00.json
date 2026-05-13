@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0050M00161000A00",
+    "address": "KINCAID ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5402   KINCAID ST",
+    "current_mailing_address": "5402   KINCAID ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.022,
+    "latitude": 40.46354,
+    "longitude": -79.90144
+  },
+  "assessments": {
+    "parcel_id": "0050M00161000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 500,
+        "market_value": 500,
+        "land_value": 500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 52,
+        "assessed_value_change_pct": 11.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 448,
+        "market_value": 448,
+        "land_value": 448,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8,
+        "assessed_value_change_pct": 1.82,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 448,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 440,
+        "market_value": 440,
+        "land_value": 440,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4,
+        "assessed_value_change_pct": 0.92,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 440,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 436,
+        "market_value": 436,
+        "land_value": 436,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 436,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 436,
+        "market_value": 436,
+        "land_value": 436,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5,
+        "assessed_value_change_pct": -1.13,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 436,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 441,
+        "market_value": 441,
+        "land_value": 441,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 441,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050M00161000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050M00161000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0050M00161000A00",
+    "comparables": [
+      {
+        "parcel_id": "0050H00102000000",
+        "address": "N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050M00161000000",
+        "address": "KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050M00242000000",
+        "address": "ROSETTA ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083D00011000000",
+        "address": "826 N HIGHLAND AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "826  N HIGHLAND AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0083F00141000000",
+        "address": "N NEGLEY AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083F00183000A00",
+        "address": "713 MELLON ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "713   MELLON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 500,
+        "market_value": 500,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

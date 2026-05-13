@@ -158,6 +158,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127A00019000000",
+        "address": "1465 BARNSDALE ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1465   BARNSDALE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 123400,
+        "market_value": 141400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0127K00021000000",
+        "address": "1888 SHAW AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1888   SHAW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123400,
+        "market_value": 141400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086B00259000000",
         "address": "5648 SOLWAY ST",
         "city": "11401",
@@ -168,7 +194,7 @@
         "assessed_value": 124200,
         "market_value": 142200,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086B00258000000",
@@ -181,45 +207,19 @@
         "assessed_value": 124400,
         "market_value": 142400,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085P00169000000",
-        "address": "5615 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1   KRASHES CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 125000,
-        "market_value": 125000,
-        "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085G00280000000",
-        "address": "5901 BRAEBURN PL",
-        "city": "11401",
-        "zip_code": "15232",
-        "current_owner_name": "5901   BRAEBURN PL",
-        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
-        "acreage": null,
-        "assessed_value": 119100,
-        "market_value": 119100,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085P00041000000",
-        "address": "1326 WIGHTMAN ST",
+        "parcel_id": "0127A00115000000",
+        "address": "6641 DALZELL PL",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5929   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "6641   DALZELL PL",
+        "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 119000,
-        "market_value": 137000,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 124700,
+        "market_value": 142700,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0434K00335000000",
+    "address": "1608 WILLIAM FLYNN HWY",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "171   BURTNER RD",
+    "current_mailing_address": "171   BURTNER RD",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "AUTO SALES & SERVICE",
+    "acreage": 0.851,
+    "latitude": 40.52754,
+    "longitude": -79.95276
+  },
+  "assessments": {
+    "parcel_id": "0434K00335000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 388100,
+        "market_value": 388100,
+        "land_value": 155600,
+        "improvement_value": 232500,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6142,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 381958,
+        "market_value": 381958,
+        "land_value": 153137,
+        "improvement_value": 228821,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3859,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 381958,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 385817,
+        "market_value": 385817,
+        "land_value": 154684,
+        "improvement_value": 231133,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18372,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 385817,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 367445,
+        "market_value": 367445,
+        "land_value": 147318,
+        "improvement_value": 220127,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14132,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 367445,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 353313,
+        "market_value": 353313,
+        "land_value": 141652,
+        "improvement_value": 211661,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10290,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 353313,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 343023,
+        "market_value": 343023,
+        "land_value": 137527,
+        "improvement_value": 205496,
+        "land_value_percentage": 40.1,
+        "improvement_value_percentage": 59.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 343023,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0434K00335000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0434K00335000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-Jun-16",
+      "most_recent_appeal_date": "17-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-11793-2016",
+        "filed_date": "17-Jun-16",
+        "hearing_date": "17-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 261800,
+        "requested_value": 261800,
+        "final_value": 261800,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0434K00335000000",
+    "comparables": [
+      {
+        "parcel_id": "0355G00178000000",
+        "address": "1512 CLINTON RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1512   CLINTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 387000,
+        "market_value": 405000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0354A00125000000",
+        "address": "545 GLENHAVEN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "545   GLENHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0284H00060000000",
+        "address": "1040 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "387   STEINER BRIDGE RD",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 383300,
+        "market_value": 383300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0284H00055000000",
+        "address": "1036 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1040   WILLIAM FLYNN HWY",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 381200,
+        "market_value": 381200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0356J00150000000",
+        "address": "1215 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "141   BONNIE VIEW DR",
+        "land_use_description": "MEDIUM MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 395400,
+        "market_value": 395400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0434E00252000000",
+        "address": "1645 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "5820   ROUTE 8",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 380000,
+        "market_value": 380000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

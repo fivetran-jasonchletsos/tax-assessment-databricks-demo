@@ -174,6 +174,19 @@
     "parcel_id": "0085N00282000000",
     "comparables": [
       {
+        "parcel_id": "0127K00044000000",
+        "address": "2106 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2106   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 383400,
+        "market_value": 401400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085N00198000000",
         "address": "1238 BELLEROCK ST",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 383100,
         "market_value": 401100,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088M00094000000",
+        "address": "1650 OVERTON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1650   OVERTON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 383600,
+        "market_value": 401600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086B00334000000",
@@ -197,7 +223,20 @@
         "assessed_value": 382800,
         "market_value": 400800,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127J00130000000",
+        "address": "6511 DARLINGTON RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6511   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 383900,
+        "market_value": 383900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00244000000",
@@ -210,45 +249,6 @@
         "assessed_value": 384000,
         "market_value": 402000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086C00208000000",
-        "address": "5825 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5825   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 384200,
-        "market_value": 384200,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0052S00151000000",
-        "address": "5423 FAIR OAKS ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5423   FAIR OAKS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 382000,
-        "market_value": 400000,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085J00073000000",
-        "address": "1115 WIGHTMAN ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1115   WIGHTMAN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 382000,
-        "market_value": 400000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

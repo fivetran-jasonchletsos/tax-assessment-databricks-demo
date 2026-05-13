@@ -174,6 +174,19 @@
     "parcel_id": "0055H00152000000",
     "comparables": [
       {
+        "parcel_id": "0088A00261000000",
+        "address": "981 GREENFIELD AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "981   GREENFIELD AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 77200,
+        "market_value": 95200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0054M00104000000",
         "address": "809 FLEMINGTON ST",
         "city": "11502",
@@ -184,7 +197,7 @@
         "assessed_value": 77100,
         "market_value": 95100,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087J00030000000",
@@ -197,7 +210,7 @@
         "assessed_value": 77100,
         "market_value": 95100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087K00244000000",
@@ -210,7 +223,7 @@
         "assessed_value": 77300,
         "market_value": 95300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0054L00260000000",
@@ -223,7 +236,7 @@
         "assessed_value": 77000,
         "market_value": 95000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0054L00262000000",
@@ -236,19 +249,6 @@
         "assessed_value": 77000,
         "market_value": 95000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0054M00047000000",
-        "address": "856 FLEMINGTON ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "856   FLEMINGTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 77000,
-        "market_value": 95000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

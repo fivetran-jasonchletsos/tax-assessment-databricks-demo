@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121K00290000000",
+        "address": "6912 GREENWOOD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6912   GREENWOOD ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 44800,
+        "market_value": 62800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0080D00209000500",
         "address": "5309 KEYSTONE ST",
         "city": "11003",
@@ -197,7 +210,7 @@
         "assessed_value": 44900,
         "market_value": 44900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080H00145000000",
@@ -210,7 +223,7 @@
         "assessed_value": 44900,
         "market_value": 44900,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0119S00082000000",
@@ -223,7 +236,7 @@
         "assessed_value": 44900,
         "market_value": 44900,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0120N00294000000",
@@ -236,19 +249,6 @@
         "assessed_value": 44900,
         "market_value": 62900,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080C00011000000",
-        "address": "5167 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "139   PETER DR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 45000,
-        "market_value": 45000,
-        "assessed_value_change_pct": 13.9,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0055H00167000000",
     "comparables": [
       {
+        "parcel_id": "0088A00093000000",
+        "address": "782 MELBOURNE ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "782   MELBOURNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87600,
+        "market_value": 105600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0055C00272000000",
         "address": "4246 GLEN LYTLE RD",
         "city": "11502",
@@ -132,7 +145,7 @@
         "assessed_value": 87500,
         "market_value": 105500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0055D00003000000",
@@ -145,7 +158,7 @@
         "assessed_value": 87500,
         "market_value": 87500,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087J00135000000",
@@ -158,45 +171,32 @@
         "assessed_value": 87500,
         "market_value": 105500,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0055H00156000000",
-        "address": "638 MONTCLAIR ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "638   MONTCLAIR ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 87900,
-        "market_value": 105900,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0087J00262000000",
-        "address": "1006 MIRROR ST",
+        "parcel_id": "0087N00119000000",
+        "address": "930 KENNEBEC ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "1809   GIBSON DR",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "930   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 87900,
-        "market_value": 87900,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 87700,
+        "market_value": 105700,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0054M00316000000",
-        "address": "3968 BEECHWOOD BLVD",
+        "parcel_id": "0087N00275000000",
+        "address": "4137 WINDSOR ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "3968   BEECHWOOD BLVD",
+        "current_owner_name": "1406   EAST END AVE EXT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 87200,
-        "market_value": 105200,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 87500,
+        "market_value": 87500,
+        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

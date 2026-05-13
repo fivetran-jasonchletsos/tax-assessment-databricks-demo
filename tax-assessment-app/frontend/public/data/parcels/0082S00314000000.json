@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123E00002000000",
+        "address": "1353 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1353   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 243900,
+        "market_value": 261900,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00238000000",
+        "address": "912 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "912   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 244500,
+        "market_value": 262500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0083D00057000000",
         "address": "915 FARRAGUT ST",
         "city": "11101",
@@ -197,7 +223,7 @@
         "assessed_value": 244800,
         "market_value": 262800,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083D00064000000",
@@ -210,7 +236,7 @@
         "assessed_value": 244800,
         "market_value": 262800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00320000000",
@@ -223,32 +249,6 @@
         "assessed_value": 245000,
         "market_value": 263000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00025000000",
-        "address": "920 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "920  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 245800,
-        "market_value": 263800,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082S00329000000",
-        "address": "6221 WELLESLEY AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6221   WELLESLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 242500,
-        "market_value": 260500,
-        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

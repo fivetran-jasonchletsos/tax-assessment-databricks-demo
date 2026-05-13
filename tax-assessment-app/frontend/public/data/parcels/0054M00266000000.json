@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088A00231000000",
+        "address": "958 GREENFIELD AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "958   GREENFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 98000,
+        "market_value": 116000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0054M00123000000",
         "address": "806 MONTEIRO ST",
         "city": "11502",
@@ -145,7 +158,7 @@
         "assessed_value": 98100,
         "market_value": 116100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0055H00019000000",
@@ -158,7 +171,7 @@
         "assessed_value": 98100,
         "market_value": 116100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0055H00107000000",
@@ -171,32 +184,19 @@
         "assessed_value": 97900,
         "market_value": 97900,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054S00184000000",
-        "address": "852 LILAC ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 43",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97700,
-        "market_value": 97700,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0055D00345000000",
-        "address": "917 DEELY ST",
+        "parcel_id": "0087N00120000000",
+        "address": "932 KENNEBEC ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "917   DEELY ST",
+        "current_owner_name": "932   KENNEBEC ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 97700,
-        "market_value": 115700,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 98100,
+        "market_value": 116100,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

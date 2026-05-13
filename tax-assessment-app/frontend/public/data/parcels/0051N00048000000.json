@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0051N00048000000",
+    "address": "4749 BAUM BLVD",
+    "city": "8th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "6025   BROAD ST",
+    "current_mailing_address": "6025   BROAD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 0.433,
+    "latitude": 40.43392,
+    "longitude": -79.96564
+  },
+  "assessments": {
+    "parcel_id": "0051N00048000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 700000,
+        "market_value": 700000,
+        "land_value": 368100,
+        "improvement_value": 331900,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -9803,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 700000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 709803,
+        "market_value": 709803,
+        "land_value": 373254,
+        "improvement_value": 336549,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 33800,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 709803,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 676003,
+        "market_value": 676003,
+        "land_value": 355481,
+        "improvement_value": 320522,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26000,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 676003,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 650003,
+        "market_value": 650003,
+        "land_value": 341808,
+        "improvement_value": 308195,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18932,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 650003,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 631071,
+        "market_value": 631071,
+        "land_value": 331853,
+        "improvement_value": 299218,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12373,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 631071,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 618698,
+        "market_value": 618698,
+        "land_value": 325346,
+        "improvement_value": 293352,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 618698,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051N00048000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051N00048000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-16",
+      "most_recent_appeal_date": "10-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8514-2016",
+        "filed_date": "10-Jun-16",
+        "hearing_date": "10-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 972400,
+        "requested_value": 972400,
+        "final_value": 972400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0051N00048000000",
+    "comparables": [
+      {
+        "parcel_id": "0051N00158000000",
+        "address": "4740 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2000   CORPORATE DR  STE 240",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 700000,
+        "market_value": 700000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084B00275000000",
+        "address": "215 S EUCLID AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5900   BAUM BLVD",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 699200,
+        "market_value": 699200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051L00165000000",
+        "address": "5438 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "317  E CARSON ST  STE 146",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 716900,
+        "market_value": 716900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051N00133000000",
+        "address": "4828 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "815   HEBERTON ST",
+        "land_use_description": "CAR WASH",
+        "acreage": null,
+        "assessed_value": 678600,
+        "market_value": 678600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084F00032000000",
+        "address": "134 S HIGHLAND AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "15   ALLEGHENY AVE",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 722700,
+        "market_value": 722700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051N00135000000",
+        "address": "4800 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2424   RIDGE RD",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 738900,
+        "market_value": 738900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

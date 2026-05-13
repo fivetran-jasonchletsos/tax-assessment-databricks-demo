@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0121N00162000000",
+    "address": "1641 DUFFIELD ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1641   DUFFIELD ST",
+    "current_mailing_address": "1641   DUFFIELD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.066,
+    "latitude": 40.46162,
+    "longitude": -79.90456
+  },
+  "assessments": {
+    "parcel_id": "0121N00162000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 101400,
+        "market_value": 101400,
+        "land_value": 27600,
+        "improvement_value": 73800,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4513,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 96887,
+        "market_value": 96887,
+        "land_value": 26371,
+        "improvement_value": 70516,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96887,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 96887,
+        "market_value": 96887,
+        "land_value": 26371,
+        "improvement_value": 70516,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -979,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96887,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 97866,
+        "market_value": 97866,
+        "land_value": 26638,
+        "improvement_value": 71228,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4660,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97866,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 93206,
+        "market_value": 93206,
+        "land_value": 25369,
+        "improvement_value": 67837,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3584,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93206,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 89622,
+        "market_value": 89622,
+        "land_value": 24394,
+        "improvement_value": 65228,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89622,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121N00162000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121N00162000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0121N00162000000",
+    "comparables": [
+      {
+        "parcel_id": "0121N00019000000",
+        "address": "1619 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1619   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101500,
+        "market_value": 101500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121P00119000000",
+        "address": "1604 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1604   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101500,
+        "market_value": 101500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080C00162000000",
+        "address": "5250 HARRISON ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5250   HARRISON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 119200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080H00219000B00",
+        "address": "5231 POE WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5231   POE WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101600,
+        "market_value": 101600,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082A00259000000",
+        "address": "1201 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1201   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101600,
+        "market_value": 119600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0082B00008000000",
+        "address": "1241 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "224   18TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101600,
+        "market_value": 101600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

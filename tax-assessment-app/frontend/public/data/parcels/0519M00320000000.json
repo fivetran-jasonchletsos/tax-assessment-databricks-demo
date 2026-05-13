@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0615N00244000000",
+        "address": "303 PETERS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "303   PETERS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142700,
+        "market_value": 160700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0355R00276000000",
         "address": "102 THERMON AVE",
         "city": "Shaler",
@@ -197,7 +210,7 @@
         "assessed_value": 142600,
         "market_value": 160600,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0520C00283000000",
@@ -210,7 +223,7 @@
         "assessed_value": 142600,
         "market_value": 142600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0614M00245000000",
@@ -223,32 +236,19 @@
         "assessed_value": 142800,
         "market_value": 160800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0354H00120000000",
-        "address": "1814 PRESIDENT DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1814   PRESIDENT DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142900,
-        "market_value": 160900,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0354M00041000000",
-        "address": "129 WETZEL RD",
+        "parcel_id": "0615N00260000000",
+        "address": "173 RICHARD DR",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "129   WETZEL RD",
+        "current_owner_name": "173   RICHARD DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 142900,
-        "market_value": 160900,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 142600,
+        "market_value": 160600,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

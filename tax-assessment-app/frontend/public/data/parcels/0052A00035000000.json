@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052A00035000000",
+    "address": "327 N NEVILLE ST",
+    "city": "7th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 8409",
+    "current_mailing_address": "PO BOX 8409",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.139,
+    "latitude": 40.432,
+    "longitude": -79.95364
+  },
+  "assessments": {
+    "parcel_id": "0052A00035000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 655500,
+        "market_value": 655500,
+        "land_value": 159200,
+        "improvement_value": 496300,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40733,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 655500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 614767,
+        "market_value": 614767,
+        "land_value": 149307,
+        "improvement_value": 465460,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17905,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 614767,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 596862,
+        "market_value": 596862,
+        "land_value": 144958,
+        "improvement_value": 451904,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11703,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 596862,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 585159,
+        "market_value": 585159,
+        "land_value": 142116,
+        "improvement_value": 443043,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5793,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 585159,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 579366,
+        "market_value": 579366,
+        "land_value": 140709,
+        "improvement_value": 438657,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 579366,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 579366,
+        "market_value": 579366,
+        "land_value": 140709,
+        "improvement_value": 438657,
+        "land_value_percentage": 24.3,
+        "improvement_value_percentage": 75.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 579366,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052A00035000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052A00035000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-Jun-19",
+      "most_recent_appeal_date": "17-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29519-2019",
+        "filed_date": "17-Jun-19",
+        "hearing_date": "17-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 310900,
+        "requested_value": 310900,
+        "final_value": 655500,
+        "value_reduction": 0,
+        "reduction_percentage": -110.84,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052A00035000000",
+    "comparables": [
+      {
+        "parcel_id": "0084M00013000000",
+        "address": "6349 WALNUT ST",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5801   BEACON ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 657400,
+        "market_value": 657400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084J00238000000",
+        "address": "5825 ELLSWORTH AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "241   SPAHR ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 651800,
+        "market_value": 651800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084R00189000000",
+        "address": "512 SHADY AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "272   SHADY AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 659600,
+        "market_value": 659600,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0052D00340000000",
+        "address": "5500 ELMER ST",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 661500,
+        "market_value": 661500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084M00016000000",
+        "address": "6351 WALNUT ST",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "2147   ARDMORE BLVD  STE A",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 645500,
+        "market_value": 645500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052D00231000000",
+        "address": "5514 WALNUT ST",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "2011   GARRICK DR",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 644400,
+        "market_value": 644400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

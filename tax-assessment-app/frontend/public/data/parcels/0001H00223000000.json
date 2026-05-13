@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0001H00223000000",
+    "address": "2 MARKET SQ",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "2100   WHARTON ST  STE 503",
+    "current_mailing_address": "2100   WHARTON ST  STE 503",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.031,
+    "latitude": 40.4357,
+    "longitude": -79.99138
+  },
+  "assessments": {
+    "parcel_id": "0001H00223000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 350100,
+        "market_value": 350100,
+        "land_value": 163200,
+        "improvement_value": 186900,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21756,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 350100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 328344,
+        "market_value": 328344,
+        "land_value": 153058,
+        "improvement_value": 175286,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9563,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 328344,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 318781,
+        "market_value": 318781,
+        "land_value": 148600,
+        "improvement_value": 170181,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6250,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 318781,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 312531,
+        "market_value": 312531,
+        "land_value": 145687,
+        "improvement_value": 166844,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3094,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 312531,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 309437,
+        "market_value": 309437,
+        "land_value": 144244,
+        "improvement_value": 165193,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 309437,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 309437,
+        "market_value": 309437,
+        "land_value": 144244,
+        "improvement_value": 165193,
+        "land_value_percentage": 46.6,
+        "improvement_value_percentage": 53.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 309437,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001H00223000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001H00223000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001H00223000000",
+    "comparables": [
+      {
+        "parcel_id": "0001M00139000000",
+        "address": "114 SMITHFIELD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "114   SMITHFIELD ST",
+        "land_use_description": "OFFICE-WALKUP -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 353900,
+        "market_value": 353900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001D00145000000",
+        "address": "433 MARKET ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "433   MARKET ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 360200,
+        "market_value": 360200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001D00115000000",
+        "address": "500 LIBERTY AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "4136   BIGELOW BLVD",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 333400,
+        "market_value": 333400,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00218000000",
+        "address": "3 MARKET SQ",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "210   BERKELEY WAY",
+        "land_use_description": "FAST FOOD/DRIVE THRU WINDOW",
+        "acreage": null,
+        "assessed_value": 333000,
+        "market_value": 333000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001H00180000000",
+        "address": "219 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "309   PAINTERS DR",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 369600,
+        "market_value": 369600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001M00138000000",
+        "address": "116 SMITHFIELD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "345   LINHART LN",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 318400,
+        "market_value": 318400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

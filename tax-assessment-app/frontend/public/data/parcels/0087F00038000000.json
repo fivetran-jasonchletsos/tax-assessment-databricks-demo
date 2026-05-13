@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0087F00038000000",
+    "address": "2214 WIGHTMAN ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5255   FAIR OAKS ST",
+    "current_mailing_address": "5255   FAIR OAKS ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+    "acreage": 0.019,
+    "latitude": 40.42072,
+    "longitude": -79.90886
+  },
+  "assessments": {
+    "parcel_id": "0087F00038000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "land_value": 7500,
+        "improvement_value": 1500,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -124,
+        "assessed_value_change_pct": -1.36,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9124,
+        "market_value": 9124,
+        "land_value": 7603,
+        "improvement_value": 1521,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 434,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9124,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8690,
+        "market_value": 8690,
+        "land_value": 7241,
+        "improvement_value": 1449,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 334,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8690,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8356,
+        "market_value": 8356,
+        "land_value": 6963,
+        "improvement_value": 1393,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 243,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8356,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8113,
+        "market_value": 8113,
+        "land_value": 6760,
+        "improvement_value": 1353,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 159,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8113,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 7954,
+        "market_value": 7954,
+        "land_value": 6628,
+        "improvement_value": 1326,
+        "land_value_percentage": 83.3,
+        "improvement_value_percentage": 16.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7954,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087F00038000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087F00038000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0087F00038000000",
+    "comparables": [
+      {
+        "parcel_id": "0087A00022000000",
+        "address": "KAMIN ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5525   KAMIN ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 9100,
+        "market_value": 9100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128J00242000000",
+        "address": "FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "105   BEAUMONT LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 10800,
+        "market_value": 10800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

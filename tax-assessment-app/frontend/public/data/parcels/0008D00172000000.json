@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0008D00172000000",
+    "address": "500 LOCKHART ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 146",
+    "current_mailing_address": "PO BOX 146",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.185,
+    "latitude": 40.41692,
+    "longitude": -80.06888
+  },
+  "assessments": {
+    "parcel_id": "0008D00172000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1232800,
+        "market_value": 1232800,
+        "land_value": 67700,
+        "improvement_value": 1165100,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 121505,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1232800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1111295,
+        "market_value": 1111295,
+        "land_value": 61027,
+        "improvement_value": 1050268,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21790,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1111295,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1089505,
+        "market_value": 1089505,
+        "land_value": 59830,
+        "improvement_value": 1029675,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10787,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1089505,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1078718,
+        "market_value": 1078718,
+        "land_value": 59238,
+        "improvement_value": 1019480,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1078718,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1078718,
+        "market_value": 1078718,
+        "land_value": 59238,
+        "improvement_value": 1019480,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -10897,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1078718,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1089615,
+        "market_value": 1089615,
+        "land_value": 59836,
+        "improvement_value": 1029779,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1089615,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0008D00172000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0008D00172000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "4-Jun-18",
+      "most_recent_appeal_date": "4-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22298-2018",
+        "filed_date": "4-Jun-18",
+        "hearing_date": "4-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 295000,
+        "requested_value": 295000,
+        "final_value": 369700,
+        "value_reduction": 0,
+        "reduction_percentage": -25.32,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0008D00172000000",
+    "comparables": [
+      {
+        "parcel_id": "0009A00221000000",
+        "address": "720 E LACOCK ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3555   WASHINGTON RD",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 1033500,
+        "market_value": 1033500,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

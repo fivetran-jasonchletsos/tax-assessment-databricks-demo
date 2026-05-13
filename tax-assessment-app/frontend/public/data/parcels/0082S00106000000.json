@@ -197,6 +197,19 @@
     "parcel_id": "0082S00106000000",
     "comparables": [
       {
+        "parcel_id": "0123N00093000000",
+        "address": "6225 WELLESLEY AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6225   WELLESLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 312600,
+        "market_value": 330600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083D00324000000",
         "address": "6119 CALLERY ST",
         "city": "11101",
@@ -207,7 +220,7 @@
         "assessed_value": 315000,
         "market_value": 333000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083D00348000000",
@@ -220,7 +233,20 @@
         "assessed_value": 315200,
         "market_value": 333200,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123J00060000000",
+        "address": "1228 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1228  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 315700,
+        "market_value": 333700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082H00239000000",
@@ -233,7 +259,7 @@
         "assessed_value": 309000,
         "market_value": 327000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082S00257000000",
@@ -246,32 +272,6 @@
         "assessed_value": 309000,
         "market_value": 327000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082M00344000000",
-        "address": "1304 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1304  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 308700,
-        "market_value": 326700,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082M00022000000",
-        "address": "5924 CALLOWHILL ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "5924   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 308400,
-        "market_value": 326400,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

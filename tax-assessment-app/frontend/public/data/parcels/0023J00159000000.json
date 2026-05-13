@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0023J00159000000",
+    "address": "1414 BRIGHTON RD",
+    "city": "25th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1414   BRIGHTON RD",
+    "current_mailing_address": "1414   BRIGHTON RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 0.078,
+    "latitude": 40.41788,
+    "longitude": -80.08472
+  },
+  "assessments": {
+    "parcel_id": "0023J00159000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 672200,
+        "market_value": 672200,
+        "land_value": 50300,
+        "improvement_value": 621900,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 41770,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 672200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 630430,
+        "market_value": 630430,
+        "land_value": 47174,
+        "improvement_value": 583256,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18362,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 630430,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 612068,
+        "market_value": 612068,
+        "land_value": 45800,
+        "improvement_value": 566268,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12001,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 612068,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 600067,
+        "market_value": 600067,
+        "land_value": 44902,
+        "improvement_value": 555165,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5941,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 600067,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 594126,
+        "market_value": 594126,
+        "land_value": 44457,
+        "improvement_value": 549669,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 594126,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 594126,
+        "market_value": 594126,
+        "land_value": 44457,
+        "improvement_value": 549669,
+        "land_value_percentage": 7.5,
+        "improvement_value_percentage": 92.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 594126,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023J00159000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023J00159000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0023J00159000000",
+    "comparables": [
+      {
+        "parcel_id": "0023H00247000S00",
+        "address": "357 HEMLOCK ST",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "120   5TH AVE  STE 2900",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 620900,
+        "market_value": 620900,
+        "assessed_value_change_pct": 3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022H00251000000",
+        "address": "841 CALIFORNIA AVE",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "841   CALIFORNIA AVE",
+        "land_use_description": "OFFICE-WALKUP -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 585500,
+        "market_value": 585500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023F00398000000",
+        "address": "22 SAMPSONIA ST",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "22   SAMPSONIA ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 577400,
+        "market_value": 577400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0086E00036000000",
     "comparables": [
       {
+        "parcel_id": "0088M00013000000",
+        "address": "1543 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1543   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 615200,
+        "market_value": 633200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086S00178000000",
         "address": "6302 BEACON ST",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 614800,
         "market_value": 632800,
         "assessed_value_change_pct": 1.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086S00255000000",
@@ -197,7 +210,7 @@
         "assessed_value": 616000,
         "market_value": 616000,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0052S00168000000",
@@ -210,7 +223,7 @@
         "assessed_value": 614500,
         "market_value": 632500,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086C00256000000",
@@ -223,7 +236,7 @@
         "assessed_value": 616500,
         "market_value": 634500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053H00255000000",
@@ -236,19 +249,6 @@
         "assessed_value": 616700,
         "market_value": 616700,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086G00167000000",
-        "address": "5722 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5722   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 613800,
-        "market_value": 631800,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

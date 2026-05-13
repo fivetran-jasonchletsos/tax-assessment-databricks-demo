@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0011M00049000000",
+    "address": "BEELEN ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 0.246,
+    "latitude": 40.43344,
+    "longitude": -79.96648
+  },
+  "assessments": {
+    "parcel_id": "0011M00049000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3500,
+        "market_value": 3500,
+        "land_value": 3500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 254,
+        "assessed_value_change_pct": 7.83,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3246,
+        "market_value": 3246,
+        "land_value": 3246,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 32,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3246,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3214,
+        "market_value": 3214,
+        "land_value": 3214,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3214,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3214,
+        "market_value": 3214,
+        "land_value": 3214,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -33,
+        "assessed_value_change_pct": -1.02,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3214,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3247,
+        "market_value": 3247,
+        "land_value": 3247,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 154,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3247,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3093,
+        "market_value": 3093,
+        "land_value": 3093,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3093,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011M00049000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011M00049000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011M00049000000",
+    "comparables": [
+      {
+        "parcel_id": "0029G00173000000",
+        "address": "KEELEN ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 3200,
+        "market_value": 3200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

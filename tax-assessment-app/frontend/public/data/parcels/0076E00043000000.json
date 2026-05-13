@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0076E00043000000",
+    "address": "1134 WOODS RUN AVE",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1131   WOODS RUN AVE",
+    "current_mailing_address": "1131   WOODS RUN AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.089,
+    "latitude": 40.41728,
+    "longitude": -80.06972
+  },
+  "assessments": {
+    "parcel_id": "0076E00043000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4700,
+        "market_value": 4700,
+        "land_value": 1899,
+        "improvement_value": 2801,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -64,
+        "assessed_value_change_pct": -1.34,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4764,
+        "market_value": 4764,
+        "land_value": 1925,
+        "improvement_value": 2839,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 226,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4764,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4538,
+        "market_value": 4538,
+        "land_value": 1834,
+        "improvement_value": 2704,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 174,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4538,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4364,
+        "market_value": 4364,
+        "land_value": 1764,
+        "improvement_value": 2600,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 127,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4364,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4237,
+        "market_value": 4237,
+        "land_value": 1712,
+        "improvement_value": 2525,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 83,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4237,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4154,
+        "market_value": 4154,
+        "land_value": 1679,
+        "improvement_value": 2475,
+        "land_value_percentage": 40.4,
+        "improvement_value_percentage": 59.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4154,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076E00043000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076E00043000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0076E00043000000",
+    "comparables": [
+      {
+        "parcel_id": "0075M00320000000",
+        "address": "3218 LECKY AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "4905   LUCERNE AVE",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 4000,
+        "market_value": 4000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0076J00057000000",
+        "address": "WOODS RUN AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1213   ROY ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 4000,
+        "market_value": 4000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0075S00125000000",
+        "address": "MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3178   MCCLURE AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 5500,
+        "market_value": 5500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

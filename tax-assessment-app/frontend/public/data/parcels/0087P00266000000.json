@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087P00266000000",
+    "address": "4014 LUDWICK ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "4014   LUDWICK ST",
+    "current_mailing_address": "4014   LUDWICK ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.115,
+    "latitude": 40.42228,
+    "longitude": -79.9241
+  },
+  "assessments": {
+    "parcel_id": "0087P00266000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 311000,
+        "market_value": 311000,
+        "land_value": 133700,
+        "improvement_value": 177300,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7661,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 311000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 303339,
+        "market_value": 303339,
+        "land_value": 130406,
+        "improvement_value": 172933,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11666,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 303339,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 291673,
+        "market_value": 291673,
+        "land_value": 125391,
+        "improvement_value": 166282,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8495,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 291673,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 283178,
+        "market_value": 283178,
+        "land_value": 121739,
+        "improvement_value": 161439,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5552,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 283178,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 277626,
+        "market_value": 277626,
+        "land_value": 119352,
+        "improvement_value": 158274,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2748,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 277626,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 274878,
+        "market_value": 274878,
+        "land_value": 118171,
+        "improvement_value": 156707,
+        "land_value_percentage": 43.0,
+        "improvement_value_percentage": 57.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274878,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087P00266000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087P00266000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "23-Jun-15",
+      "most_recent_appeal_date": "23-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2310-2015",
+        "filed_date": "23-Jun-15",
+        "hearing_date": "23-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 256200,
+        "requested_value": 256200,
+        "final_value": 311000,
+        "value_reduction": 0,
+        "reduction_percentage": -21.39,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087P00266000000",
+    "comparables": [
+      {
+        "parcel_id": "0085H00135000000",
+        "address": "1174 BEECHWOOD CT",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1174   BEECHWOOD CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 310900,
+        "market_value": 328900,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125N00124000000",
+        "address": "6633 REYNOLDS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "6633   REYNOLDS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 311100,
+        "market_value": 329100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086N00103000000",
+        "address": "5557 RALEIGH ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5557   RALEIGH ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 310800,
+        "market_value": 328800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086P00050000000",
+        "address": "5557 BEACON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "733   CATHERDAL POINTE LN",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 311400,
+        "market_value": 311400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126A00177000000",
+        "address": "216 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1200   EDGEHILL DR",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 310000,
+        "market_value": 310000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086K00158000000",
+        "address": "5617 DARLINGTON RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5617   DARLINGTON RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 312000,
+        "market_value": 330000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0085E00282000000",
     "comparables": [
       {
+        "parcel_id": "0126A00007000000",
+        "address": "1043 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "1043   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238400,
+        "market_value": 256400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087K00159000000",
         "address": "5872 BURCHFIELD AVE",
         "city": "11402",
@@ -184,7 +197,20 @@
         "assessed_value": 238000,
         "market_value": 256000,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087P00249000000",
+        "address": "4035 LUDWICK ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6107   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238800,
+        "market_value": 238800,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085M00043000000",
@@ -197,7 +223,7 @@
         "assessed_value": 238900,
         "market_value": 238900,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086P00002000000",
@@ -210,45 +236,19 @@
         "assessed_value": 237500,
         "market_value": 237500,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085C00431000000",
-        "address": "128 N WOODLAND RD",
-        "city": "11402",
-        "zip_code": "15232",
-        "current_owner_name": "128  N WOODLAND RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 239100,
-        "market_value": 239100,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086J00196000000",
-        "address": "5500 FORBES AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5500   FORBES AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 236988,
-        "market_value": 236988,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086F00248000000",
-        "address": "1635 WIGHTMAN ST",
+        "parcel_id": "0125N00122000000",
+        "address": "1023 BEECHWOOD BLVD",
         "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1635   WIGHTMAN ST",
+        "zip_code": "15206",
+        "current_owner_name": "1023   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 236700,
-        "market_value": 254700,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 239000,
+        "market_value": 257000,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

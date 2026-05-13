@@ -122,6 +122,19 @@
     "parcel_id": "0087C00072000000",
     "comparables": [
       {
+        "parcel_id": "0126A00262000000",
+        "address": "337 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "339   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087B00008000000",
         "address": "2038 WIGHTMAN ST",
         "city": "11403",
@@ -132,7 +145,20 @@
         "assessed_value": 100000,
         "market_value": 100000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087L00336000000",
+        "address": "6329 ALDERSON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1   KRASHES CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00270000000",
@@ -145,7 +171,20 @@
         "assessed_value": 100500,
         "market_value": 118500,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087S00255000000",
+        "address": "2873 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2873   FERNWALD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086P00055000000",
@@ -158,45 +197,6 @@
         "assessed_value": 100600,
         "market_value": 100600,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085M00198000000",
-        "address": "6712 FENNIMORE ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "1609   IWI WAY  UNIT C",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 99300,
-        "market_value": 99300,
-        "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087F00238000000",
-        "address": "5614 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 8122",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 99300,
-        "market_value": 99300,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087G00229000000",
-        "address": "2330 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2330   SHERBROOK ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 100700,
-        "market_value": 118700,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0126A00249000000",
+        "address": "311 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "311   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 237000,
+        "market_value": 255000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0087H00041000000",
         "address": "6334 CROMBIE ST",
         "city": "11403",
@@ -210,7 +223,20 @@
         "assessed_value": 237800,
         "market_value": 237800,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128J00004000000",
+        "address": "2621 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2621   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 237800,
+        "market_value": 255800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087C00297000000",
@@ -223,32 +249,6 @@
         "assessed_value": 237900,
         "market_value": 237900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087C00176000000",
-        "address": "5847 NICHOLSON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "1311   HODGKISS ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 238000,
-        "market_value": 238000,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085M00175000000",
-        "address": "642 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "642   GETTYSBURG ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 236700,
-        "market_value": 254700,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

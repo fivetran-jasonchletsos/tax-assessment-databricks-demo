@@ -174,6 +174,32 @@
     "parcel_id": "0082P00140000000",
     "comparables": [
       {
+        "parcel_id": "0124A00015000000",
+        "address": "850 HEBERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "850   HEBERTON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 73700,
+        "market_value": 91700,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082F00063000000",
+        "address": "5431 HAMPTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 74500,
+        "market_value": 74500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082K00056000000",
         "address": "1029 KING AVE",
         "city": "11102",
@@ -184,7 +210,7 @@
         "assessed_value": 74800,
         "market_value": 92800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082P00070000000",
@@ -197,7 +223,20 @@
         "assessed_value": 74800,
         "market_value": 92800,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123J00184000000",
+        "address": "6621 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6621   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73200,
+        "market_value": 91200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082F00168000000",
@@ -210,45 +249,6 @@
         "assessed_value": 74900,
         "market_value": 92900,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082G00288000000",
-        "address": "5619 BRYANT ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5619   BRYANT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 75000,
-        "market_value": 93000,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00126000B00",
-        "address": "5651 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5651   CALLOWHILL ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 72500,
-        "market_value": 90500,
-        "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082F00268000000",
-        "address": "5529 BRYANT ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5529   BRYANT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 72000,
-        "market_value": 90000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

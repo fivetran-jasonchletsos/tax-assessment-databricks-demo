@@ -197,6 +197,19 @@
     "parcel_id": "0086A00208000000",
     "comparables": [
       {
+        "parcel_id": "0128A00080000000",
+        "address": "2311 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2311   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 437000,
+        "market_value": 455000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086F00072000000",
         "address": "5615 AYLESBORO AVE",
         "city": "11401",
@@ -207,7 +220,7 @@
         "assessed_value": 436800,
         "market_value": 454800,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0052S00249000000",
@@ -220,7 +233,7 @@
         "assessed_value": 437300,
         "market_value": 455300,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086B00217000000",
@@ -233,7 +246,7 @@
         "assessed_value": 437600,
         "market_value": 455600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053H00039000000",
@@ -246,7 +259,7 @@
         "assessed_value": 436300,
         "market_value": 454300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086H00210000000",
@@ -259,19 +272,6 @@
         "assessed_value": 436300,
         "market_value": 436300,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086B00236000000",
-        "address": "5701 WOODMONT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5701   WOODMONT ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 437900,
-        "market_value": 455900,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

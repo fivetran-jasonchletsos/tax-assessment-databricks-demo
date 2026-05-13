@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052G00147000000",
+    "address": "5105 5TH AVE",
+    "city": "7th Ward (Pittsburgh)",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "614   PRESSLEY ST",
+    "current_mailing_address": "614   PRESSLEY ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "HOTELS",
+    "acreage": 0.819,
+    "latitude": 40.4417,
+    "longitude": -79.9223
+  },
+  "assessments": {
+    "parcel_id": "0052G00147000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1750000,
+        "market_value": 1750000,
+        "land_value": 600000,
+        "improvement_value": 1150000,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27683,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1750000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1722317,
+        "market_value": 1722317,
+        "land_value": 590508,
+        "improvement_value": 1131809,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -17398,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1722317,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1739715,
+        "market_value": 1739715,
+        "land_value": 596473,
+        "improvement_value": 1143242,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 82843,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1739715,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1656872,
+        "market_value": 1656872,
+        "land_value": 568070,
+        "improvement_value": 1088802,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 63725,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1656872,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1593147,
+        "market_value": 1593147,
+        "land_value": 546221,
+        "improvement_value": 1046926,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 46402,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1593147,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1546745,
+        "market_value": 1546745,
+        "land_value": 530312,
+        "improvement_value": 1016433,
+        "land_value_percentage": 34.3,
+        "improvement_value_percentage": 65.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1546745,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052G00147000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052G00147000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "19-Jun-19",
+      "most_recent_appeal_date": "19-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29545-2019",
+        "filed_date": "19-Jun-19",
+        "hearing_date": "19-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 2657600,
+        "requested_value": 2657600,
+        "final_value": 3496000,
+        "value_reduction": 0,
+        "reduction_percentage": -31.55,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052G00147000000",
+    "comparables": [
+      {
+        "parcel_id": "0084J00278000000",
+        "address": "5850 ELLSWORTH AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "241   SPAHR ST",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 1750000,
+        "market_value": 1750000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051P00166000000",
+        "address": "319 MOREWOOD AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1823   PENN AVE  STE 3",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 1753400,
+        "market_value": 1753400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085A00039000000",
+        "address": "5542 WALNUT ST",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "5500   WALNUT ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 1744200,
+        "market_value": 1744200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051L00044000000",
+        "address": "5430 CENTRE AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "5430   CENTRE AVE",
+        "land_use_description": "NEIGH SHOP CENTER",
+        "acreage": null,
+        "assessed_value": 1757800,
+        "market_value": 1757800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084K00246000000",
+        "address": "340 S HIGHLAND AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "272   SHADY AVE  STE 1",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 1730000,
+        "market_value": 1730000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084F00233000000",
+        "address": "200 S HIGHLAND AVE",
+        "city": "7th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 1770300,
+        "market_value": 1770300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

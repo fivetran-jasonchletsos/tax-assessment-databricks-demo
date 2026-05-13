@@ -122,6 +122,19 @@
     "parcel_id": "0053D00134000000",
     "comparables": [
       {
+        "parcel_id": "0088M00134000000",
+        "address": "1670 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1670   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 355200,
+        "market_value": 373200,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085N00145000000",
         "address": "1236 MURDOCH RD",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 355100,
         "market_value": 373100,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086C00124000000",
@@ -145,7 +158,7 @@
         "assessed_value": 355300,
         "market_value": 373300,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085K00047000000",
@@ -158,45 +171,32 @@
         "assessed_value": 355400,
         "market_value": 373400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086G00006000000",
-        "address": "1523 VALMONT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1523   VALMONT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 354900,
-        "market_value": 372900,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0052K00182000000",
-        "address": "1011 DEVONSHIRE RD",
+        "parcel_id": "0127N00196000000",
+        "address": "2222 BEECHWOOD BLVD",
         "city": "11401",
-        "zip_code": "15213",
-        "current_owner_name": "5000   FORBES AVE",
+        "zip_code": "15217",
+        "current_owner_name": "2222   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 355700,
-        "market_value": 355700,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 355000,
+        "market_value": 373000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085N00096000000",
-        "address": "1201 INVERNESS AVE",
+        "parcel_id": "0129E00006000000",
+        "address": "1408 FAIRSTEAD LN",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1201   INVERNESS AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1408   FAIRSTEAD LN",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 355700,
-        "market_value": 373700,
-        "assessed_value_change_pct": -0.3,
+        "assessed_value": 355000,
+        "market_value": 373000,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

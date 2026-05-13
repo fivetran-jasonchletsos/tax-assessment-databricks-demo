@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088M00080000000",
+        "address": "231 BEARDSLEY LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "231   BEARDSLEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 549500,
+        "market_value": 567500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00141000000",
         "address": "5631 NORTHUMBERLAND ST",
         "city": "11401",
@@ -220,7 +233,20 @@
         "assessed_value": 550600,
         "market_value": 550600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088L00071000000",
+        "address": "1641 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "300   150TH AVE  UNIT 203",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 550700,
+        "market_value": 550700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086C00260000000",
@@ -233,7 +259,7 @@
         "assessed_value": 550800,
         "market_value": 568800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052R00007000000",
@@ -246,32 +272,6 @@
         "assessed_value": 551000,
         "market_value": 569000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085K00114000000",
-        "address": "5714 LYNNE HAVEN RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5714   LYNNE HAVEN RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 548900,
-        "market_value": 566900,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0053H00110000000",
-        "address": "5425 ALBEMARLE AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5425   ALBEMARLE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 548200,
-        "market_value": 548200,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

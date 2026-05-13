@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123J00173000000",
+        "address": "1224 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1224   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 220000,
+        "market_value": 220000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082M00060000000",
         "address": "5911 ELGIN ST",
         "city": "11102",
@@ -197,7 +210,7 @@
         "assessed_value": 215900,
         "market_value": 215900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082F00277000000",
@@ -210,7 +223,20 @@
         "assessed_value": 215800,
         "market_value": 233800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124B00025000000",
+        "address": "6491 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6491   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 220400,
+        "market_value": 238400,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082G00199000000",
@@ -223,32 +249,6 @@
         "assessed_value": 215500,
         "market_value": 215500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082B00225000000",
-        "address": "1365 CORDOVA RD",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1365   CORDOVA RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 220700,
-        "market_value": 220700,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082M00063000000",
-        "address": "5915 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5915   ELGIN ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 221100,
-        "market_value": 221100,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

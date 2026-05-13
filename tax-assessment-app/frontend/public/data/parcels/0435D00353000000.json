@@ -174,6 +174,19 @@
     "parcel_id": "0435D00353000000",
     "comparables": [
       {
+        "parcel_id": "0618N00098000000",
+        "address": "124 HIAWATHA DR",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "124   HIAWATHA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0522M00160000000",
         "address": "2033 MIDDLE RD",
         "city": "Indiana",
@@ -184,7 +197,7 @@
         "assessed_value": 95000,
         "market_value": 113000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0523A00234000000",
@@ -197,7 +210,7 @@
         "assessed_value": 94500,
         "market_value": 112500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0522S00023000000",
@@ -210,45 +223,32 @@
         "assessed_value": 95800,
         "market_value": 113800,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0435D00132000000",
-        "address": "113 ROSE DR",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "113   ROSE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 93200,
-        "market_value": 111200,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0435D00290000000",
-        "address": "108 ROSE DR",
+        "parcel_id": "0618N00328000000",
+        "address": "205 KLEIN RD",
         "city": "Indiana",
         "zip_code": "15116",
-        "current_owner_name": "108   ROSE DR",
+        "current_owner_name": "205   KLEIN RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 93100,
-        "market_value": 111100,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 95800,
+        "market_value": 113800,
+        "assessed_value_change_pct": -0.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0436E00095000000",
-        "address": "119 BERRYHILL RD",
+        "parcel_id": "0618P00225000000",
+        "address": "219 KLEIN RD",
         "city": "Indiana",
         "zip_code": "15116",
-        "current_owner_name": "119   BERRYHILL RD",
+        "current_owner_name": "219   KLEIN RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 97100,
-        "market_value": 115100,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 96000,
+        "market_value": 114000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

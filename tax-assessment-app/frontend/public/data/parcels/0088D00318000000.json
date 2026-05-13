@@ -1,0 +1,201 @@
+{
+  "parcel": {
+    "parcel_id": "0088D00318000000",
+    "address": "300 ANITA AVE",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "300   ANITA AVE",
+    "current_mailing_address": "300   ANITA AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.22,
+    "latitude": 40.42072,
+    "longitude": -79.90886
+  },
+  "assessments": {
+    "parcel_id": "0088D00318000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 797400,
+        "market_value": 797400,
+        "land_value": 91000,
+        "improvement_value": 706400,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -11166,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 797400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 808566,
+        "market_value": 808566,
+        "land_value": 92274,
+        "improvement_value": 716292,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 38503,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 808566,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 770063,
+        "market_value": 770063,
+        "land_value": 87880,
+        "improvement_value": 682183,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29617,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 770063,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 740446,
+        "market_value": 740446,
+        "land_value": 84500,
+        "improvement_value": 655946,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21566,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 740446,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 718880,
+        "market_value": 718880,
+        "land_value": 82039,
+        "improvement_value": 636841,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14095,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 718880,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 704785,
+        "market_value": 704785,
+        "land_value": 80430,
+        "improvement_value": 624355,
+        "land_value_percentage": 11.4,
+        "improvement_value_percentage": 88.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 704785,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088D00318000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088D00318000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jul-17",
+      "most_recent_appeal_date": "18-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16422-2017",
+        "filed_date": "18-Jul-17",
+        "hearing_date": "18-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 428300,
+        "requested_value": 428300,
+        "final_value": 1045200,
+        "value_reduction": 0,
+        "reduction_percentage": -144.03,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088D00318000000",
+    "comparables": [
+      {
+        "parcel_id": "0054D00005000000",
+        "address": "5400 BEACON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5400   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 803700,
+        "market_value": 821700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128E00054000000",
+        "address": "2557 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2557   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 692000,
+        "market_value": 710000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00128000000",
+        "address": "275 ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "18   WHITETAIL LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 679300,
+        "market_value": 679300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087A00269000000",
+        "address": "1 HYDIN RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "480   PARK AVE  APT 5-B",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 640300,
+        "market_value": 640300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

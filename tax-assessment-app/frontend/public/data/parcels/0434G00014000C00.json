@@ -174,6 +174,19 @@
     "parcel_id": "0434G00014000C00",
     "comparables": [
       {
+        "parcel_id": "0284M00190000000",
+        "address": "964 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "4201   COHASSET LN",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 157000,
+        "market_value": 157000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0355D00079000000",
         "address": "1491 BUTLER PLANK RD",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0355H00289000000",
@@ -197,7 +210,7 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355K00050000000",
@@ -210,7 +223,7 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0432R00008000000",
@@ -223,7 +236,7 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433F00258000000",
@@ -236,19 +249,6 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0433M00101000000",
-        "address": "2007 WOODSIDE RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2007   WOODSIDE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 157000,
-        "market_value": 175000,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

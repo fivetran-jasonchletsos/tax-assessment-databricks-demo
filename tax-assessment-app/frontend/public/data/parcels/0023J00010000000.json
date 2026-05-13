@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "0023J00010000000",
+    "address": "1516 BRIGHTON RD",
+    "city": "25th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 1567",
+    "current_mailing_address": "PO BOX 1567",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+    "acreage": 0.374,
+    "latitude": 40.4162,
+    "longitude": -80.0768
+  },
+  "assessments": {
+    "parcel_id": "0023J00010000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1010400,
+        "market_value": 1010400,
+        "land_value": 345700,
+        "improvement_value": 664700,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 62785,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1010400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 947615,
+        "market_value": 947615,
+        "land_value": 324218,
+        "improvement_value": 623397,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27600,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 947615,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 920015,
+        "market_value": 920015,
+        "land_value": 314775,
+        "improvement_value": 605240,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18039,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 920015,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 901976,
+        "market_value": 901976,
+        "land_value": 308603,
+        "improvement_value": 593373,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8930,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 901976,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 893046,
+        "market_value": 893046,
+        "land_value": 305548,
+        "improvement_value": 587498,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 893046,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 893046,
+        "market_value": 893046,
+        "land_value": 305548,
+        "improvement_value": 587498,
+        "land_value_percentage": 34.2,
+        "improvement_value_percentage": 65.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 893046,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023J00010000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023J00010000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jun-15",
+      "most_recent_appeal_date": "26-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-580-2015",
+        "filed_date": "26-Jun-15",
+        "hearing_date": "26-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 552400,
+        "requested_value": 552400,
+        "final_value": 552400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023J00010000000",
+    "comparables": [
+      {
+        "parcel_id": "0022H00132000000",
+        "address": "1601 BRIGHTON RD",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1601   BRIGHTON RD",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 1019800,
+        "market_value": 1019800,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

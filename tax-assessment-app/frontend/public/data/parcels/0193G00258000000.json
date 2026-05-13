@@ -122,6 +122,32 @@
     "parcel_id": "0193G00258000000",
     "comparables": [
       {
+        "parcel_id": "0252E00050000000",
+        "address": "CEDAR BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "710   WASHINGTON RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 70800,
+        "market_value": 70800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0252E00084000000",
+        "address": "GILKESON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "710   WASHINGTON RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 71100,
+        "market_value": 71100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0140R00278000000",
         "address": "505 SLEEPY HOLLOW RD",
         "city": "Mt.lebanon",
@@ -132,7 +158,7 @@
         "assessed_value": 70000,
         "market_value": 88000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0141M00257000000",
@@ -145,58 +171,32 @@
         "assessed_value": 70000,
         "market_value": 70000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0141E00248000000",
-        "address": "118 ATLANTA PL",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "118   ATLANTA PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 71600,
-        "market_value": 89600,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0141J00025040500",
-        "address": "750 WASHINGTON RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "750   WASHINGTON RD  APT 405",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 71800,
-        "market_value": 89800,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0141K0017500G600",
-        "address": "722 WISTERIA AVE",
+        "parcel_id": "0141B00069010100",
+        "address": "520 WASHINGTON RD",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "1346   NAVAHOE DR",
-        "land_use_description": "CONDOMINIUM",
+        "current_owner_name": "1537   MCFARLAND RD  UNIT 905",
+        "land_use_description": "CONDOMINIUM UNIT",
         "acreage": null,
-        "assessed_value": 69400,
-        "market_value": 69400,
-        "assessed_value_change_pct": 3.1,
+        "assessed_value": 71300,
+        "market_value": 71300,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0141K00175F00500",
-        "address": "722 WISTERIA AVE",
+        "parcel_id": "0141B00069010200",
+        "address": "520 WASHINGTON RD",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "722   WISTERIA AVE  APT F5",
-        "land_use_description": "CONDOMINIUM",
+        "current_owner_name": "1537   MCFARLAND RD",
+        "land_use_description": "CONDOMINIUM UNIT",
         "acreage": null,
-        "assessed_value": 69400,
-        "market_value": 69400,
-        "assessed_value_change_pct": 2.7,
+        "assessed_value": 71300,
+        "market_value": 71300,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

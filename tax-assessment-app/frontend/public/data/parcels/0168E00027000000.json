@@ -122,6 +122,32 @@
     "parcel_id": "0168E00027000000",
     "comparables": [
       {
+        "parcel_id": "0168M00045000000",
+        "address": "1836 CECIL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "403   SPENCER LN EXT",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167M00165000001",
+        "address": "201 9TH ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "201   9TH ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 99996,
+        "market_value": 354826,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0168H00020000000",
         "address": "1 HILL ST",
         "city": "Sharpsburg",
@@ -132,7 +158,7 @@
         "assessed_value": 99900,
         "market_value": 117900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168J00010000000",
@@ -145,7 +171,7 @@
         "assessed_value": 100100,
         "market_value": 118100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0168L00360000000",
@@ -158,7 +184,7 @@
         "assessed_value": 100100,
         "market_value": 118100,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168M00230000000",
@@ -171,32 +197,6 @@
         "assessed_value": 100100,
         "market_value": 118100,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168J00158000000",
-        "address": "218 12TH ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "218   12TH ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 99700,
-        "market_value": 117700,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168K00161000000",
-        "address": "1325 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "4839   BAYFIELD RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100500,
-        "market_value": 100500,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

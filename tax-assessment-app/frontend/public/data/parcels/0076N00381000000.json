@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0076N00381000000",
+    "address": "3051 BRIGHTON RD",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "222   STRATFORD AVE",
+    "current_mailing_address": "222   STRATFORD AVE",
+    "current_ownership_type": "REGULAR-UNFINISHED",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.123,
+    "latitude": 40.41896,
+    "longitude": -80.08352
+  },
+  "assessments": {
+    "parcel_id": "0076N00381000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 153000,
+        "market_value": 153000,
+        "land_value": 25900,
+        "improvement_value": 127100,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2139,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 155139,
+        "market_value": 155139,
+        "land_value": 26262,
+        "improvement_value": 128877,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7387,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 155139,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 147752,
+        "market_value": 147752,
+        "land_value": 25011,
+        "improvement_value": 122741,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5682,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147752,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 142070,
+        "market_value": 142070,
+        "land_value": 24049,
+        "improvement_value": 118021,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4137,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 142070,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 137933,
+        "market_value": 137933,
+        "land_value": 23349,
+        "improvement_value": 114584,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2704,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 137933,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 135229,
+        "market_value": 135229,
+        "land_value": 22891,
+        "improvement_value": 112338,
+        "land_value_percentage": 16.9,
+        "improvement_value_percentage": 83.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135229,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076N00381000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076N00381000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 75400,
+      "total_value_reduction": 75400,
+      "first_appeal_date": "8-Jul-19",
+      "most_recent_appeal_date": "8-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29841-2019",
+        "filed_date": "8-Jul-19",
+        "hearing_date": "8-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 228400,
+        "requested_value": 228400,
+        "final_value": 153000,
+        "value_reduction": 75400,
+        "reduction_percentage": 33.01,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0076N00381000000",
+    "comparables": [
+      {
+        "parcel_id": "0076J00046000000",
+        "address": "1216 WOODS RUN AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1213   ROY ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 152500,
+        "market_value": 152500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075G00052000000",
+        "address": "3527 CALIFORNIA AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3527   CALIFORNIA AVE",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 148400,
+        "market_value": 166400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045B00207000000",
+        "address": "2811 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "142   PAULINE PL",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075G00229000000",
+        "address": "1600 FALCK AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "312   HORNING RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 160000,
+        "market_value": 160000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114G00114000000",
+        "address": "3898 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3113   PERRYSVILLE AVE",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 146000,
+        "market_value": 146000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075L00140000000",
+        "address": "3250 CALIFORNIA AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3250   CALIFORNIA AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 160880,
+        "market_value": 1608810,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

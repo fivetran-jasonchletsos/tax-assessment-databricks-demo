@@ -197,6 +197,32 @@
     "parcel_id": "0087A00030000000",
     "comparables": [
       {
+        "parcel_id": "0127N00143000000",
+        "address": "6379 DOUGLAS ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6379   DOUGLAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 299800,
+        "market_value": 317800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0126E00063000000",
+        "address": "526 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "526   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 299900,
+        "market_value": 317900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087A00300000000",
         "address": "5469 POCUSSET ST",
         "city": "11403",
@@ -207,7 +233,20 @@
         "assessed_value": 299900,
         "market_value": 317900,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0128J00306000000",
+        "address": "2543 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2543   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 299700,
+        "market_value": 317700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086R00245000000",
@@ -220,7 +259,7 @@
         "assessed_value": 300000,
         "market_value": 300000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087C00047000000",
@@ -233,45 +272,6 @@
         "assessed_value": 300000,
         "market_value": 300000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087C00068000000",
-        "address": "5734 MELVIN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2546   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 300200,
-        "market_value": 300200,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086R00154000000",
-        "address": "5861 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5875   FORBES AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 300500,
-        "market_value": 300500,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087D00132000000",
-        "address": "2300 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "200   MAPLE ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 299000,
-        "market_value": 299000,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087S00228000000",
+        "address": "2878 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2878   FERNWALD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147000,
+        "market_value": 165000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087D00144000000",
         "address": "2271 SHADY AVE",
         "city": "11403",
@@ -197,7 +210,33 @@
         "assessed_value": 147100,
         "market_value": 165100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088D00252000000",
+        "address": "2876 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2876   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146900,
+        "market_value": 164900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128N00130000000",
+        "address": "2825 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2825   FERNWALD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146900,
+        "market_value": 164900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087D00193000000",
@@ -210,45 +249,6 @@
         "assessed_value": 146800,
         "market_value": 146800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086P00120000000",
-        "address": "5723 MUNHALL RD",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2305   CHALET CT",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 147300,
-        "market_value": 147300,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087D00148000000",
-        "address": "2261 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 170",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146700,
-        "market_value": 146700,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00014000000",
-        "address": "5710 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5710   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 147400,
-        "market_value": 165400,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

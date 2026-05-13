@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0161S00048000000",
+    "address": "BENTON AVE",
+    "city": "Ross",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "110   BRUNNER CT",
+    "current_mailing_address": "110   BRUNNER CT",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.193,
+    "latitude": 40.41896,
+    "longitude": -80.08184
+  },
+  "assessments": {
+    "parcel_id": "0161S00048000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3100,
+        "market_value": 3100,
+        "land_value": 3100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -40,
+        "assessed_value_change_pct": -1.27,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3140,
+        "market_value": 3140,
+        "land_value": 3140,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 149,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3140,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2991,
+        "market_value": 2991,
+        "land_value": 2991,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 115,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2991,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2876,
+        "market_value": 2876,
+        "land_value": 2876,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 83,
+        "assessed_value_change_pct": 2.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2876,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2793,
+        "market_value": 2793,
+        "land_value": 2793,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 54,
+        "assessed_value_change_pct": 1.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2793,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2739,
+        "market_value": 2739,
+        "land_value": 2739,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2739,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0161S00048000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0161S00048000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0161S00048000000",
+    "comparables": [
+      {
+        "parcel_id": "0161P00230000000",
+        "address": "GAMBLE AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "107   SHORT ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3200,
+        "market_value": 3200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0161L00002000000",
+        "address": "HILLARD DR",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2900,
+        "market_value": 2900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

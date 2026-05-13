@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0128A00019000000",
+        "address": "6353 WALDRON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6353   WALDRON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 290000,
+        "market_value": 308000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128J00330000000",
+        "address": "2502 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2502   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 289500,
+        "market_value": 307500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086R00243000000",
         "address": "5840 BEACON ST",
         "city": "11403",
@@ -145,7 +171,20 @@
         "assessed_value": 291400,
         "market_value": 309400,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087S00181000000",
+        "address": "2843 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2843   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 289000,
+        "market_value": 289000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00114000000",
@@ -158,45 +197,6 @@
         "assessed_value": 292000,
         "market_value": 310000,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087D00276000000",
-        "address": "2235 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2235   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 292000,
-        "market_value": 310000,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087G00225000000",
-        "address": "2324 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2324   SHERBROOK ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 288400,
-        "market_value": 306400,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085M00235000000",
-        "address": "722 HASTINGS ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "722   HASTINGS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 288200,
-        "market_value": 288200,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

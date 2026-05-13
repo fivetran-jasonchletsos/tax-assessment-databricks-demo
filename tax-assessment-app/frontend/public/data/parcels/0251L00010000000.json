@@ -174,6 +174,19 @@
     "parcel_id": "0251L00010000000",
     "comparables": [
       {
+        "parcel_id": "0141B00375000100",
+        "address": "WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 233900,
+        "market_value": 233900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0140E00302000000",
         "address": "322 OLD FARM RD",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 233800,
         "market_value": 251800,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0192L00192000000",
@@ -197,7 +210,7 @@
         "assessed_value": 234000,
         "market_value": 252000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0193G00212000000",
@@ -210,45 +223,32 @@
         "assessed_value": 234000,
         "market_value": 252000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0141H00290000000",
-        "address": "225 CATALPA PL",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "225   CATALPA PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 233700,
-        "market_value": 233700,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0141J00079000000",
-        "address": "806 WASHINGTON RD",
+        "parcel_id": "0251R00076000000",
+        "address": "132 MARSHALL DR",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "806   WASHINGTON RD",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "132   MARSHALL DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 233700,
-        "market_value": 251700,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 234000,
+        "market_value": 252000,
+        "assessed_value_change_pct": -0.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0193G00276000000",
-        "address": "197 VERNON DR",
+        "parcel_id": "0252C00058000000",
+        "address": "133 ALTADENA DR",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "197   VERNON DR",
+        "current_owner_name": "133   ALTADENA DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 233700,
-        "market_value": 251700,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 234000,
+        "market_value": 252000,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

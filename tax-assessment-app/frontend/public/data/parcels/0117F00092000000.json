@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0117F00092000000",
+    "address": "119 KLEMENTINA DR",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "119   KLEMENTINA DR",
+    "current_mailing_address": "119   KLEMENTINA DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.126,
+    "latitude": 40.4174,
+    "longitude": -80.06636
+  },
+  "assessments": {
+    "parcel_id": "0117F00092000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 105200,
+        "market_value": 123200,
+        "land_value": 35100,
+        "improvement_value": 70100,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 1666,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 87200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 103534,
+        "market_value": 121248,
+        "land_value": 34544,
+        "improvement_value": 68990,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": -1046,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 85534,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 104580,
+        "market_value": 122473,
+        "land_value": 34893,
+        "improvement_value": 69687,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 4980,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 86580,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 99600,
+        "market_value": 116641,
+        "land_value": 33231,
+        "improvement_value": 66369,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 3830,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 81600,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 95770,
+        "market_value": 112156,
+        "land_value": 31953,
+        "improvement_value": 63817,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 2789,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 77770,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 92981,
+        "market_value": 108890,
+        "land_value": 31023,
+        "improvement_value": 61958,
+        "land_value_percentage": 33.4,
+        "improvement_value_percentage": 66.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 74981,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0117F00092000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0117F00092000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "5-Sep-19",
+      "most_recent_appeal_date": "5-Sep-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30432-2019",
+        "filed_date": "5-Sep-19",
+        "hearing_date": "5-Sep-19",
+        "appeal_status": "approved",
+        "original_value": 97700,
+        "requested_value": 97700,
+        "final_value": 123200,
+        "value_reduction": 0,
+        "reduction_percentage": -26.1,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0117F00092000000",
+    "comparables": [
+      {
+        "parcel_id": "0078G00074000000",
+        "address": "2879 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2879   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105200,
+        "market_value": 123200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0078S00092000000",
+        "address": "2500 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2500   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104600,
+        "market_value": 122600,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0117K00114000000",
+        "address": "116 GARDENVIEW DR",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "116   GARDENVIEW DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 105800,
+        "market_value": 123800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0164P00139000000",
+        "address": "818 GEYER RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "818   GEYER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104500,
+        "market_value": 104500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0078M00226000000",
+        "address": "2815 WOHLEBER ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2815   WOHLEBER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104400,
+        "market_value": 122400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0079J00046000000",
+        "address": "202 JOYCE DR",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "202   JOYCE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104400,
+        "market_value": 122400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

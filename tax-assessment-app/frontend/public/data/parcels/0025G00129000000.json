@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025G00129000000",
+    "address": "2923 PENN AVE",
+    "city": "6th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "2923   PENN AVE",
+    "current_mailing_address": "2923   PENN AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+    "acreage": 0.215,
+    "latitude": 40.4644,
+    "longitude": -79.9426
+  },
+  "assessments": {
+    "parcel_id": "0025G00129000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 306100,
+        "market_value": 306100,
+        "land_value": 60900,
+        "improvement_value": 245200,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4844,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 306100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 301256,
+        "market_value": 301256,
+        "land_value": 59936,
+        "improvement_value": 241320,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3043,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 301256,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 304299,
+        "market_value": 304299,
+        "land_value": 60541,
+        "improvement_value": 243758,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14490,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 304299,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 289809,
+        "market_value": 289809,
+        "land_value": 57658,
+        "improvement_value": 232151,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11146,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 289809,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 278663,
+        "market_value": 278663,
+        "land_value": 55441,
+        "improvement_value": 223222,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8116,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 278663,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 270547,
+        "market_value": 270547,
+        "land_value": 53826,
+        "improvement_value": 216721,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 270547,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025G00129000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025G00129000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-May-18",
+      "most_recent_appeal_date": "25-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22507-2018",
+        "filed_date": "25-May-18",
+        "hearing_date": "25-May-18",
+        "appeal_status": "approved",
+        "original_value": 301000,
+        "requested_value": 301000,
+        "final_value": 348000,
+        "value_reduction": 0,
+        "reduction_percentage": -15.61,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025G00129000000",
+    "comparables": [
+      {
+        "parcel_id": "0025F00046000000",
+        "address": "28TH ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2545   RAILROAD ST  STE 300",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 304900,
+        "market_value": 304900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025C00237000000",
+        "address": "3131 PENN AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1120   PERRY HWY",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 304800,
+        "market_value": 304800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048H00090000000",
+        "address": "55 38TH ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025C00177000000",
+        "address": "3201 SMALLMAN ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "3201   SMALLMAN ST",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 299700,
+        "market_value": 299700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0048S00088000000",
+        "address": "116 34TH ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "15   27TH ST",
+        "land_use_description": "MINI WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 313000,
+        "market_value": 313000,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0049A00005000000",
+        "address": "39TH ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "460   VIRGINIA AVE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 299000,
+        "market_value": 299000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

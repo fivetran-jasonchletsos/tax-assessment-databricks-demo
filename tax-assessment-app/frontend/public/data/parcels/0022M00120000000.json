@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0022M00120000000",
+    "address": "1500 BRIGHTON PL",
+    "city": "25th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "425   6TH AVE  STE 950",
+    "current_mailing_address": "425   6TH AVE  STE 950",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.194,
+    "latitude": 40.41668,
+    "longitude": -80.07344
+  },
+  "assessments": {
+    "parcel_id": "0022M00120000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 10000,
+        "market_value": 10000,
+        "land_value": 10000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 447,
+        "assessed_value_change_pct": 4.68,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9553,
+        "market_value": 9553,
+        "land_value": 9553,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9553,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 9553,
+        "market_value": 9553,
+        "land_value": 9553,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -97,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9553,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 9650,
+        "market_value": 9650,
+        "land_value": 9650,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 459,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9650,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 9191,
+        "market_value": 9191,
+        "land_value": 9191,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 353,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9191,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8838,
+        "market_value": 8838,
+        "land_value": 8838,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8838,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022M00120000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022M00120000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0022M00120000000",
+    "comparables": [
+      {
+        "parcel_id": "0022H00071000000",
+        "address": "1811 BRIGHTON PL",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1811   BRIGHTON PL",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 10000,
+        "market_value": 10000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0022H00247000000",
+        "address": "841 CALIFORNIA AVE",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "841   CALIFORNIA AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 9100,
+        "market_value": 9100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0022M00110000000",
+        "address": "BRIGHTON PL",
+        "city": "25th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "108   MOUNT VERNON DR",
+        "land_use_description": "OTHER",
+        "acreage": null,
+        "assessed_value": 8700,
+        "market_value": 8700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

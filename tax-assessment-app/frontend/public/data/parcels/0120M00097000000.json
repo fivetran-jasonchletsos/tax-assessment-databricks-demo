@@ -174,6 +174,19 @@
     "parcel_id": "0120M00097000000",
     "comparables": [
       {
+        "parcel_id": "0120S00239000000",
+        "address": "4725 STANTON CT N",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "4725  N STANTON CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104600,
+        "market_value": 122600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0120H00002000000",
         "address": "125 HAWTHORNE CT",
         "city": "11001",
@@ -184,7 +197,46 @@
         "assessed_value": 104500,
         "market_value": 122500,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120S00106000000",
+        "address": "1421 HAWTHORNE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1421   HAWTHORNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104500,
+        "market_value": 104500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00096000000",
+        "address": "1338 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1338   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104800,
+        "market_value": 122800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120R00078000000",
+        "address": "1316 WOODBINE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1316   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104900,
+        "market_value": 122900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121J00233000000",
@@ -197,58 +249,6 @@
         "assessed_value": 104900,
         "market_value": 122900,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0120L00135000000",
-        "address": "1007 FAIRFIELD ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1007   FAIRFIELD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 105100,
-        "market_value": 105100,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121J00193000000",
-        "address": "1625 EL PASO ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1625   EL PASO ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 104100,
-        "market_value": 122100,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121J00108000000",
-        "address": "1525 WINDCREST DR",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1525   WINDCREST DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 105200,
-        "market_value": 123200,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120M00319000000",
-        "address": "1501 WOODBINE ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1501   WOODBINE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103900,
-        "market_value": 121900,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0222C00085000000",
+    "address": "BADALI DR",
+    "city": "Shaler",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "624   BADALI ST",
+    "current_mailing_address": "624   BADALI ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.034,
+    "latitude": 40.49352,
+    "longitude": -79.90624
+  },
+  "assessments": {
+    "parcel_id": "0222C00085000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 600,
+        "market_value": 600,
+        "land_value": 600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 61,
+        "assessed_value_change_pct": 11.32,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 539,
+        "market_value": 539,
+        "land_value": 539,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10,
+        "assessed_value_change_pct": 1.89,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 539,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 529,
+        "market_value": 529,
+        "land_value": 529,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5,
+        "assessed_value_change_pct": 0.95,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 529,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 524,
+        "market_value": 524,
+        "land_value": 524,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 524,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 524,
+        "market_value": 524,
+        "land_value": 524,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6,
+        "assessed_value_change_pct": -1.13,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 524,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 530,
+        "market_value": 530,
+        "land_value": 530,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 530,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0222C00085000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0222C00085000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0222C00085000000",
+    "comparables": [
+      {
+        "parcel_id": "0355D00220000000",
+        "address": "SPENCER LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0355H00226000000",
+        "address": "CHARLES ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0356E00122000000",
+        "address": "BEECH ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0356E00134000000",
+        "address": "WILLOW ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0356E00147000000",
+        "address": "BEECH ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0356E00151000000",
+        "address": "BEECH ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 600,
+        "market_value": 600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

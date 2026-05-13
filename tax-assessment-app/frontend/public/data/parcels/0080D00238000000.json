@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0121K00301000000",
+        "address": "6936 GREENWOOD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "PO BOX 622",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0080H00111000000",
         "address": "5118 HOLMES ST",
         "city": "11003",
@@ -158,7 +171,20 @@
         "assessed_value": 70100,
         "market_value": 70100,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120P00147000000",
+        "address": "248 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "248   57TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69900,
+        "market_value": 69900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082E00301000000",
@@ -171,32 +197,6 @@
         "assessed_value": 70100,
         "market_value": 88100,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081A00321000000",
-        "address": "5418 CAMELIA ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5602   CAMELIA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 70200,
-        "market_value": 70200,
-        "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081B00225000000",
-        "address": "4369 STANTON AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4369   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 70200,
-        "market_value": 88200,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

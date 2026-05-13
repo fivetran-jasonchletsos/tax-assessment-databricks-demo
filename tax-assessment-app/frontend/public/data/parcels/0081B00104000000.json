@@ -174,6 +174,19 @@
     "parcel_id": "0081B00104000000",
     "comparables": [
       {
+        "parcel_id": "0121K00248000000",
+        "address": "1720 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1720   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 99800,
+        "market_value": 117800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0081A00329000000",
         "address": "5427 MCCANDLESS AVE",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 99700,
         "market_value": 99700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082E00260000000",
@@ -197,7 +210,7 @@
         "assessed_value": 99700,
         "market_value": 117700,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121F00365000000",
@@ -210,45 +223,32 @@
         "assessed_value": 99700,
         "market_value": 99700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0080D00254000000",
-        "address": "5272 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5272   KEYSTONE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100000,
-        "market_value": 118000,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0080D00273000A00",
-        "address": "5242 KEYSTONE ST",
+        "parcel_id": "0121N00007000000",
+        "address": "1441 JANCEY ST",
         "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5242   KEYSTONE ST",
+        "zip_code": "15206",
+        "current_owner_name": "1441   JANCEY ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 100000,
-        "market_value": 118000,
-        "assessed_value_change_pct": -0.5,
+        "assessed_value": 99900,
+        "market_value": 99900,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0080D00371000000",
-        "address": "5243 DUNCAN ST",
+        "parcel_id": "0121N00037000000",
+        "address": "1648 MORNINGSIDE AVE",
         "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5243   DUNCAN ST",
-        "land_use_description": "THREE FAMILY",
+        "zip_code": "15206",
+        "current_owner_name": "1648   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 100000,
-        "market_value": 100000,
-        "assessed_value_change_pct": -4.1,
+        "assessed_value": 99900,
+        "market_value": 117900,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0084D00150000000",
+    "address": "6314 STATION ST",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+    "current_mailing_address": "412   BLVD OF THE ALLIES   FL 7",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OWNED BY METRO HOUSING AU",
+    "acreage": 2.921,
+    "latitude": 40.46102,
+    "longitude": -79.91068
+  },
+  "assessments": {
+    "parcel_id": "0084D00150000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 14072600,
+        "market_value": 14072600,
+        "land_value": 482000,
+        "improvement_value": 13590600,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1386981,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14072600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 12685619,
+        "market_value": 12685619,
+        "land_value": 434494,
+        "improvement_value": 12251125,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 248737,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12685619,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 12436882,
+        "market_value": 12436882,
+        "land_value": 425975,
+        "improvement_value": 12010907,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 123137,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12436882,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 12313745,
+        "market_value": 12313745,
+        "land_value": 421757,
+        "improvement_value": 11891988,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12313745,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 12313745,
+        "market_value": 12313745,
+        "land_value": 421757,
+        "improvement_value": 11891988,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -124382,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12313745,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 12438127,
+        "market_value": 12438127,
+        "land_value": 426017,
+        "improvement_value": 12012110,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12438127,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084D00150000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084D00150000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0084D00150000000",
+    "comparables": [
+      {
+        "parcel_id": "0082H00052000000",
+        "address": "5700 BUNKERHILL ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1900   SRPING RD  STE 216",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 14865700,
+        "market_value": 14865700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084C00100000000",
+        "address": "6231 PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1000   NICOLLET MALL",
+        "land_use_description": "DISCOUNT STORE",
+        "acreage": null,
+        "assessed_value": 15500000,
+        "market_value": 15500000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

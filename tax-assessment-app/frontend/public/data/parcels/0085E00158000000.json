@@ -122,6 +122,19 @@
     "parcel_id": "0085E00158000000",
     "comparables": [
       {
+        "parcel_id": "0126N00080000000",
+        "address": "6680 RIDGEVILLE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6680   RIDGEVILLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 229900,
+        "market_value": 229900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086K00120000000",
         "address": "5700 DARLINGTON RD",
         "city": "11402",
@@ -132,7 +145,20 @@
         "assessed_value": 230000,
         "market_value": 230000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088C00055000000",
+        "address": "6334 CATON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6334   CATON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 229200,
+        "market_value": 247200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085L00019000000",
@@ -145,57 +171,31 @@
         "assessed_value": 230100,
         "market_value": 248100,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0085G00002000000",
-        "address": "1202 DENNISTON ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1202   DENNISTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 230400,
-        "market_value": 248400,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085S00078000000",
-        "address": "6425 WILKINS AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "6425   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 228700,
-        "market_value": 246700,
-        "assessed_value_change_pct": 0.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0053S00022000000",
-        "address": "5401 BARTLETT ST",
+        "parcel_id": "0088C00049000000",
+        "address": "6340 CATON ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5401   BARTLETT ST",
+        "current_owner_name": "6340   CATON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 228600,
-        "market_value": 246600,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 229000,
+        "market_value": 247000,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086N00230000000",
-        "address": "5531 BEACON ST",
+        "parcel_id": "0126J00257000000",
+        "address": "615 WORTH ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5531   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "615   WORTH ST",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 228400,
-        "market_value": 246400,
+        "assessed_value": 228900,
+        "market_value": 246900,
         "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }

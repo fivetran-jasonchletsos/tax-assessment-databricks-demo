@@ -174,6 +174,19 @@
     "parcel_id": "0432G00240000000",
     "comparables": [
       {
+        "parcel_id": "0161P00122000000",
+        "address": "516 JOHN ST",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "516   JOHN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 99700,
+        "market_value": 117700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0519B00036000000",
         "address": "106 LINGAY DR",
         "city": "Ross",
@@ -184,7 +197,20 @@
         "assessed_value": 99400,
         "market_value": 117400,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0161S00194000000",
+        "address": "108 MALCOLM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "108   MALCOLM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 99800,
+        "market_value": 117800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0519F00204000000",
@@ -197,7 +223,7 @@
         "assessed_value": 100000,
         "market_value": 118000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0432G00232000000",
@@ -210,45 +236,19 @@
         "assessed_value": 99100,
         "market_value": 99100,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0519C00037000000",
-        "address": "102 ALBINE DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "102   ALBINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100200,
-        "market_value": 118200,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0519G00173000000",
-        "address": "220 BLAZE CIR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "220   BLAZE CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 98700,
-        "market_value": 116700,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0519F00076000000",
-        "address": "203 AMITY RD",
+        "parcel_id": "0161P00098000000",
+        "address": "12 OCENAS AVE",
         "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "203   AMITY RD",
+        "zip_code": "15212",
+        "current_owner_name": "12   OCENAS AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 100600,
-        "market_value": 118600,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 100100,
+        "market_value": 118100,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

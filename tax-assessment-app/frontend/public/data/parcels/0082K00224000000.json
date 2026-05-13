@@ -197,6 +197,19 @@
     "parcel_id": "0082K00224000000",
     "comparables": [
       {
+        "parcel_id": "0124A00148000000",
+        "address": "6337 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6337   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 430500,
+        "market_value": 448500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082G00010000000",
         "address": "5549 BRYANT ST",
         "city": "11102",
@@ -207,7 +220,7 @@
         "assessed_value": 430300,
         "market_value": 448300,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082G00161000000",
@@ -220,7 +233,20 @@
         "assessed_value": 420000,
         "market_value": 420000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124B00031000000",
+        "address": "6471 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6471   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 419500,
+        "market_value": 437500,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082G00151000000",
@@ -233,7 +259,7 @@
         "assessed_value": 418900,
         "market_value": 436900,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082G00249000000",
@@ -246,32 +272,6 @@
         "assessed_value": 413800,
         "market_value": 431800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00150000000",
-        "address": "5705 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5705   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 452000,
-        "market_value": 470000,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082G00255000000",
-        "address": "5628 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5628   ELGIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 408800,
-        "market_value": 426800,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

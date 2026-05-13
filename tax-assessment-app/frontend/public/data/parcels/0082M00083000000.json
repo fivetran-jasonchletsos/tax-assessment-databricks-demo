@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0082M00083000000",
+    "address": "MILBRAE WAY",
+    "city": "11101",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5926   ELGIN ST",
+    "current_mailing_address": "5926   ELGIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+    "acreage": 0.005,
+    "latitude": 40.46246,
+    "longitude": -79.92436
+  },
+  "assessments": {
+    "parcel_id": "0082M00083000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 6900,
+        "market_value": 6900,
+        "land_value": 2800,
+        "improvement_value": 4100,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 309,
+        "assessed_value_change_pct": 4.69,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 6591,
+        "market_value": 6591,
+        "land_value": 2674,
+        "improvement_value": 3917,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6591,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 6591,
+        "market_value": 6591,
+        "land_value": 2674,
+        "improvement_value": 3917,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -67,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6591,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 6658,
+        "market_value": 6658,
+        "land_value": 2701,
+        "improvement_value": 3957,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 317,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6658,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 6341,
+        "market_value": 6341,
+        "land_value": 2573,
+        "improvement_value": 3768,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 243,
+        "assessed_value_change_pct": 3.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6341,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6098,
+        "market_value": 6098,
+        "land_value": 2474,
+        "improvement_value": 3624,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6098,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082M00083000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082M00083000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0082M00083000000",
+    "comparables": [
+      {
+        "parcel_id": "0123N00052000A00",
+        "address": "1137 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1137   HEBERTON ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 6300,
+        "market_value": 6300,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0086M00168000000",
     "comparables": [
       {
+        "parcel_id": "0125N00061000000",
+        "address": "203 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 5HJ",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121400,
+        "market_value": 121400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086J00193000000",
         "address": "5504 FORBES AVE",
         "city": "11402",
@@ -132,7 +145,7 @@
         "assessed_value": 121900,
         "market_value": 139900,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086N00037000000",
@@ -145,58 +158,45 @@
         "assessed_value": 121300,
         "market_value": 139300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0086N00039000000",
-        "address": "5473 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5473   BARTLETT ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 120800,
-        "market_value": 120800,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0085S00069000000",
-        "address": "1353 DENNISTON ST",
+        "parcel_id": "0088G00098000000",
+        "address": "3168 BEECHWOOD BLVD",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "1356   DENNISTON ST",
+        "current_owner_name": "3168   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 120400,
-        "market_value": 120400,
-        "assessed_value_change_pct": 0.7,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0086N00031000A00",
-        "address": "5459 BARTLETT ST",
+        "parcel_id": "0087R00034000000",
+        "address": "6345 CATON ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5459   BARTLETT ST",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "6343   CATON ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 122800,
-        "market_value": 140800,
-        "assessed_value_change_pct": 1.1,
+        "assessed_value": 121000,
+        "market_value": 121000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086P00003000000",
-        "address": "5556 BARTLETT ST",
+        "parcel_id": "0088C00163000000",
+        "address": "6504 ROSEMOOR ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5540   DARLINGTON DR",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "6504   ROSEMOOR ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 122800,
-        "market_value": 122800,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 121000,
+        "market_value": 121000,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

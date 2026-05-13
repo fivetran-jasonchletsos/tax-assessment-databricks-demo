@@ -122,6 +122,32 @@
     "parcel_id": "0086H00179000000",
     "comparables": [
       {
+        "parcel_id": "0127J00231000000",
+        "address": "1839 SHAW AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "922   CHESTNUT ST   # 3",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 212200,
+        "market_value": 212200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0127A00167000000",
+        "address": "6525 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6525   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 212100,
+        "market_value": 230100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0053D00233000000",
         "address": "5411 NORMLEE PL",
         "city": "11401",
@@ -132,7 +158,20 @@
         "assessed_value": 212000,
         "market_value": 230000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0126N00062000000",
+        "address": "6641 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "4675   MAPLEDALE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 212000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052S00002000000",
@@ -145,7 +184,7 @@
         "assessed_value": 212500,
         "market_value": 230500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053D00193000000",
@@ -158,45 +197,6 @@
         "assessed_value": 211900,
         "market_value": 229900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086G00026000200",
-        "address": "5848 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5848   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211700,
-        "market_value": 229700,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0052S00004000000",
-        "address": "10 UNGER LN",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5048   5TH AVE  APT 206",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211500,
-        "market_value": 229500,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085N00180000000",
-        "address": "1301 MURDOCH RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "310   GRANT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 212900,
-        "market_value": 212900,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

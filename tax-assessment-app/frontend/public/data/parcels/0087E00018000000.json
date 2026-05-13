@@ -197,6 +197,19 @@
     "parcel_id": "0087E00018000000",
     "comparables": [
       {
+        "parcel_id": "0128N00128000000",
+        "address": "209 ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "209   ANITA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 211100,
+        "market_value": 229100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086P00122000000",
         "address": "5711 MUNHALL RD",
         "city": "11403",
@@ -207,7 +220,7 @@
         "assessed_value": 211400,
         "market_value": 229400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086R00152000000",
@@ -220,7 +233,7 @@
         "assessed_value": 211400,
         "market_value": 229400,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00119000000",
@@ -233,7 +246,20 @@
         "assessed_value": 210900,
         "market_value": 228900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00008000000",
+        "address": "2442 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2442   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 211500,
+        "market_value": 229500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00021000000",
@@ -246,32 +272,6 @@
         "assessed_value": 211700,
         "market_value": 229700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086S00099000000",
-        "address": "2205 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "528   WIMER CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211800,
-        "market_value": 211800,
-        "assessed_value_change_pct": 1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086P00063000000",
-        "address": "5554 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5554   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211900,
-        "market_value": 229900,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

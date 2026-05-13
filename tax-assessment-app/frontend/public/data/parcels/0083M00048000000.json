@@ -174,6 +174,19 @@
     "parcel_id": "0083M00048000000",
     "comparables": [
       {
+        "parcel_id": "0050M00226000000",
+        "address": "5455 ROSETTA ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 45700,
+        "market_value": 45700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083C00326000000",
         "address": "811 N HIGHLAND AVE",
         "city": "11103",
@@ -184,7 +197,7 @@
         "assessed_value": 45700,
         "market_value": 63700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082R00054000000",
@@ -197,7 +210,7 @@
         "assessed_value": 45600,
         "market_value": 63600,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083E00287000000",
@@ -210,7 +223,7 @@
         "assessed_value": 45600,
         "market_value": 45600,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083R00361000000",
@@ -223,7 +236,7 @@
         "assessed_value": 45600,
         "market_value": 45600,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083H00093000000",
@@ -236,19 +249,6 @@
         "assessed_value": 45500,
         "market_value": 45500,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0050H00051000000",
-        "address": "338 N AIKEN AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "338  N AIKEN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 46000,
-        "market_value": 64000,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

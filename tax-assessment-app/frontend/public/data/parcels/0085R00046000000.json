@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0053C00002000000",
+        "address": "5142 SKIBO DR",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 510100,
+        "market_value": 510100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086D00130000000",
         "address": "1529 DENNISTON ST",
         "city": "11401",
@@ -220,7 +233,33 @@
         "assessed_value": 509800,
         "market_value": 509800,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127N00036000000",
+        "address": "6524 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6524   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 510800,
+        "market_value": 528800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128P00129000000",
+        "address": "1031 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1031   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 509500,
+        "market_value": 527500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086M00056000000",
@@ -233,45 +272,6 @@
         "assessed_value": 511000,
         "market_value": 529000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0052S00230000000",
-        "address": "1207 MALVERN AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1207   MALVERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 509100,
-        "market_value": 527100,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053H00076000000",
-        "address": "5424 ALBEMARLE AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5424   ALBEMARLE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 509100,
-        "market_value": 527100,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086C00076000000",
-        "address": "1522 MURRAY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "8001   OXFORD CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 508700,
-        "market_value": 508700,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

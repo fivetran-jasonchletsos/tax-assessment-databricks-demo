@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025N00168000000",
+    "address": "2227 PENN AVE",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "100   CHAPEL HILL DR",
+    "current_mailing_address": "100   CHAPEL HILL DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+    "acreage": 0.11,
+    "latitude": 40.4381,
+    "longitude": -79.99978
+  },
+  "assessments": {
+    "parcel_id": "0025N00168000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 609700,
+        "market_value": 609700,
+        "land_value": 240000,
+        "improvement_value": 369700,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 60094,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 609700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 549606,
+        "market_value": 549606,
+        "land_value": 216344,
+        "improvement_value": 333262,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10776,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 549606,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 538830,
+        "market_value": 538830,
+        "land_value": 212103,
+        "improvement_value": 326727,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5334,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 538830,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 533496,
+        "market_value": 533496,
+        "land_value": 210003,
+        "improvement_value": 323493,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 533496,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 533496,
+        "market_value": 533496,
+        "land_value": 210003,
+        "improvement_value": 323493,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5389,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 533496,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 538885,
+        "market_value": 538885,
+        "land_value": 212124,
+        "improvement_value": 326761,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 538885,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025N00168000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025N00168000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jul-17",
+      "most_recent_appeal_date": "26-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15454-2017",
+        "filed_date": "26-Jul-17",
+        "hearing_date": "26-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 362400,
+        "requested_value": 362400,
+        "final_value": 609700,
+        "value_reduction": 0,
+        "reduction_percentage": -68.24,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025N00168000000",
+    "comparables": [
+      {
+        "parcel_id": "0025K00048000000",
+        "address": "2647 SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2647   SMALLMAN ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 607600,
+        "market_value": 607600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024S00202000000",
+        "address": "2103 SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "176  N RACINE AVE  STE 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 626300,
+        "market_value": 626300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024S00205000000",
+        "address": "2203 SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "176  N RACINE AVE  STE 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 626400,
+        "market_value": 626400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009D00016000000",
+        "address": "1728 SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1728   SMALLMAN ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 630000,
+        "market_value": 630000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0002A00014000000",
+        "address": "606 WOOD ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1601   CHELSEA CT",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 580000,
+        "market_value": 580000,
+        "assessed_value_change_pct": 12.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009N00133000000",
+        "address": "951 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "12600   HILL COUNTRY BLVD  STE R-100",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 580000,
+        "market_value": 580000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

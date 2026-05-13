@@ -122,6 +122,19 @@
     "parcel_id": "0192E00146000000",
     "comparables": [
       {
+        "parcel_id": "0252L00250000000",
+        "address": "1 FOREST GLEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1   FOREST GLEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 425500,
+        "market_value": 443500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0193K00324000000",
         "address": "217 VERNON DR",
         "city": "Mt.lebanon",
@@ -132,7 +145,20 @@
         "assessed_value": 425400,
         "market_value": 443400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0193D00058000000",
+        "address": "1015 MARTHA AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1015   MARTHA AVE",
+        "land_use_description": "GENERAL FARM",
+        "acreage": null,
+        "assessed_value": 425300,
+        "market_value": 425300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0192E00120000000",
@@ -145,7 +171,7 @@
         "assessed_value": 424900,
         "market_value": 442900,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141G00153000000",
@@ -158,45 +184,19 @@
         "assessed_value": 427100,
         "market_value": 445100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0251B00096000000",
-        "address": "56 ROYCROFT AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "56   ROYCROFT AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 427300,
-        "market_value": 427300,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0192G00015000000",
-        "address": "350 PARKWAY DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "350   PARKWAY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 427900,
-        "market_value": 427900,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0141L00105000000",
-        "address": "162 LANCASTER AVE",
+        "parcel_id": "0252D00104000000",
+        "address": "141 LONGUEVUE DR",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "162   LANCASTER AVE",
-        "land_use_description": "TOWNHOUSE",
+        "current_owner_name": "141   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 428000,
-        "market_value": 428000,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 427200,
+        "market_value": 445200,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0029H00080000000",
     "comparables": [
       {
+        "parcel_id": "0052J00306000000",
+        "address": "4633 FILMORE ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 171000,
+        "market_value": 171000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0028L00248000000",
         "address": "408 ATWOOD ST",
         "city": "10403",
@@ -132,7 +145,7 @@
         "assessed_value": 170800,
         "market_value": 170800,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0028P00041000000",
@@ -145,7 +158,7 @@
         "assessed_value": 170700,
         "market_value": 170700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0028L00329000000",
@@ -158,7 +171,7 @@
         "assessed_value": 170200,
         "market_value": 170200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0028M00259000000",
@@ -171,7 +184,7 @@
         "assessed_value": 172000,
         "market_value": 172000,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0028A00269000000",
@@ -184,19 +197,6 @@
         "assessed_value": 170000,
         "market_value": 170000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0028L00209000000",
-        "address": "366 MEYRAN AVE",
-        "city": "10403",
-        "zip_code": "15213",
-        "current_owner_name": "208   FIELDGATE DR",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 170000,
-        "market_value": 170000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

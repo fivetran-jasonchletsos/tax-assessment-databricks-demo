@@ -122,6 +122,19 @@
     "parcel_id": "0087D00147000000",
     "comparables": [
       {
+        "parcel_id": "0126E00006000000",
+        "address": "510 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "510   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148100,
+        "market_value": 166100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087C00154000000",
         "address": "2307 SHERBROOK ST",
         "city": "11403",
@@ -132,7 +145,33 @@
         "assessed_value": 148300,
         "market_value": 148300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00241000000",
+        "address": "2906 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2906   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148300,
+        "market_value": 166300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0128A00023000000",
+        "address": "6361 WALDRON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6361   WALDRON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148100,
+        "market_value": 166100,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087B00054000000",
@@ -145,7 +184,7 @@
         "assessed_value": 148000,
         "market_value": 148000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087F00138000000",
@@ -158,45 +197,6 @@
         "assessed_value": 148400,
         "market_value": 166400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087H00209000000",
-        "address": "6334 FORWARD AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 81171",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 148000,
-        "market_value": 148000,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087F00011000000",
-        "address": "5557 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5557   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 148500,
-        "market_value": 148500,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00065000000",
-        "address": "5722 MELVIN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5722   MELVIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 147800,
-        "market_value": 165800,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

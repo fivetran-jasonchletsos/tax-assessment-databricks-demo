@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0011L00059000000",
+    "address": "2312 BEELEN ST",
+    "city": "10404",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "14225   PLEASANT VIEW DR",
+    "current_mailing_address": "14225   PLEASANT VIEW DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.025,
+    "latitude": 40.43344,
+    "longitude": -79.966
+  },
+  "assessments": {
+    "parcel_id": "0011L00059000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 6300,
+        "market_value": 6300,
+        "land_value": 1400,
+        "improvement_value": 4900,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 456,
+        "assessed_value_change_pct": 7.8,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5844,
+        "market_value": 5844,
+        "land_value": 1298,
+        "improvement_value": 4546,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 57,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5844,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5787,
+        "market_value": 5787,
+        "land_value": 1286,
+        "improvement_value": 4501,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5787,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 5787,
+        "market_value": 5787,
+        "land_value": 1286,
+        "improvement_value": 4501,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -59,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5787,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 5846,
+        "market_value": 5846,
+        "land_value": 1299,
+        "improvement_value": 4547,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 278,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5846,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5568,
+        "market_value": 5568,
+        "land_value": 1237,
+        "improvement_value": 4331,
+        "land_value_percentage": 22.2,
+        "improvement_value_percentage": 77.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5568,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011L00059000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011L00059000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011L00059000000",
+    "comparables": [
+      {
+        "parcel_id": "0011G00160000000",
+        "address": "5 BEELEN ST",
+        "city": "10404",
+        "zip_code": "15213",
+        "current_owner_name": "7   BEELEN ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 7500,
+        "market_value": 25500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

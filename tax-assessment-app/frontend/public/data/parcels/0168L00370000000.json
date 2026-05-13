@@ -122,6 +122,32 @@
     "parcel_id": "0168L00370000000",
     "comparables": [
       {
+        "parcel_id": "0167M00298000000",
+        "address": "612 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "612   MAIN ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 77800,
+        "market_value": 95800,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0168L00157000000",
+        "address": "1714 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1714   MAIN ST",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 77800,
+        "market_value": 77800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0168J00344000000",
         "address": "1318 MIDDLE ST",
         "city": "Sharpsburg",
@@ -132,7 +158,7 @@
         "assessed_value": 77900,
         "market_value": 77900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169J00066000000",
@@ -145,7 +171,20 @@
         "assessed_value": 77700,
         "market_value": 95700,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0168J00215000000",
+        "address": "1102 N CANAL ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1102  N CANAL ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 78000,
+        "market_value": 78000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168K00089000000",
@@ -158,45 +197,6 @@
         "assessed_value": 78000,
         "market_value": 78000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0168K00237000000",
-        "address": "223 MARY ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "PO BOX 1016",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 77600,
-        "market_value": 77600,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0168K00042000000",
-        "address": "1349 MAIN ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "2396   CLEARVIEW DR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 77500,
-        "market_value": 77500,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168M00239000000",
-        "address": "1832 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1   CITIZENS PLZ",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 78100,
-        "market_value": 78100,
-        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

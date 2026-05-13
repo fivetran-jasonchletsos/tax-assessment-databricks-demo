@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0027C00364000000",
+    "address": "DITHRIDGE ST",
+    "city": "5th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "4609   BAYARD ST  STE 1",
+    "current_mailing_address": "4609   BAYARD ST  STE 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.265,
+    "latitude": 40.43308,
+    "longitude": -79.9462
+  },
+  "assessments": {
+    "parcel_id": "0027C00364000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 55100,
+        "market_value": 55100,
+        "land_value": 46200,
+        "improvement_value": 8900,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -770,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 55870,
+        "market_value": 55870,
+        "land_value": 46845,
+        "improvement_value": 9025,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2660,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55870,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 53210,
+        "market_value": 53210,
+        "land_value": 44615,
+        "improvement_value": 8595,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2046,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53210,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 51164,
+        "market_value": 51164,
+        "land_value": 42899,
+        "improvement_value": 8265,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1490,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51164,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 49674,
+        "market_value": 49674,
+        "land_value": 41650,
+        "improvement_value": 8024,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 974,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49674,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 48700,
+        "market_value": 48700,
+        "land_value": 40833,
+        "improvement_value": 7867,
+        "land_value_percentage": 83.8,
+        "improvement_value_percentage": 16.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48700,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0027C00364000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0027C00364000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0027C00364000000",
+    "comparables": [
+      {
+        "parcel_id": "0026L00037000000",
+        "address": "519 MELWOOD AVE",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "518   MELWOOD AVE",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 55600,
+        "market_value": 55600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011D00190000000",
+        "address": "BURROWS ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "150   MOUNT VERNON ST  STE 500",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 57300,
+        "market_value": 57300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026S00075000000",
+        "address": "4620 BAUM BLVD",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "637   MARYLAND AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 66800,
+        "market_value": 66800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

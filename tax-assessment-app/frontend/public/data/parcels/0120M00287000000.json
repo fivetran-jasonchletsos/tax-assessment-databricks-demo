@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120R00308000000",
+        "address": "1102 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1102   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79400,
+        "market_value": 97400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120S00028000000",
+        "address": "1372 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1372   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79400,
+        "market_value": 79400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0120M00107000000",
         "address": "1461 HAWTHORNE ST",
         "city": "11001",
@@ -197,7 +223,20 @@
         "assessed_value": 79600,
         "market_value": 97600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120R00279000000",
+        "address": "1055 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1055   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79600,
+        "market_value": 79600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121J00047000000",
@@ -210,45 +249,6 @@
         "assessed_value": 78800,
         "market_value": 96800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121J00033000000",
-        "address": "1532 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1532   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 79700,
-        "market_value": 97700,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121E00186000000",
-        "address": "6622 GREENWOOD ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "6622   GREENWOOD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 78500,
-        "market_value": 96500,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120L00138000000",
-        "address": "1015 FAIRFIELD ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1015   FAIRFIELD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80000,
-        "market_value": 98000,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

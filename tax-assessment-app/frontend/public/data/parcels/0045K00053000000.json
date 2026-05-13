@@ -122,6 +122,19 @@
     "parcel_id": "0045K00053000000",
     "comparables": [
       {
+        "parcel_id": "0076E00038000000",
+        "address": "3432 HARBISON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3432   HARBISON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 93200,
+        "market_value": 111200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0045F00297000000",
         "address": "2649 BRIGHTON RD",
         "city": "Ward 27 - Marshall - Shadeland",
@@ -132,7 +145,7 @@
         "assessed_value": 94000,
         "market_value": 112000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0045K00055000000",
@@ -145,7 +158,7 @@
         "assessed_value": 92700,
         "market_value": 92700,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0075D00164000000",
@@ -158,7 +171,20 @@
         "assessed_value": 92500,
         "market_value": 110500,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0076L00125000000",
+        "address": "908 SMITHTON AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "736   STANDFORD DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 92500,
+        "market_value": 92500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0045J00215000000",
@@ -171,32 +197,6 @@
         "assessed_value": 94700,
         "market_value": 112700,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0045E00078000000",
-        "address": "1429 WOODLAND AVE",
-        "city": "Ward 27 - Marshall - Shadeland",
-        "zip_code": "15212",
-        "current_owner_name": "PO BOX 83",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 94900,
-        "market_value": 94900,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0075B00268000000",
-        "address": "3613 MEXICO ST",
-        "city": "Ward 27 - Marshall - Shadeland",
-        "zip_code": "15212",
-        "current_owner_name": "854  E KENSINGTON AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 94900,
-        "market_value": 94900,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

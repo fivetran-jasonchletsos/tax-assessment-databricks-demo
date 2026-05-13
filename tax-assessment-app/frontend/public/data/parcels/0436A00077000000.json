@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0436A00077000000",
+    "address": "1822 MIDDLE RD",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1822   MIDDLE RD",
+    "current_mailing_address": "1822   MIDDLE RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+    "acreage": 0.809,
+    "latitude": 40.52694,
+    "longitude": -79.95396
+  },
+  "assessments": {
+    "parcel_id": "0436A00077000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 299000,
+        "market_value": 299000,
+        "land_value": 55999,
+        "improvement_value": 243001,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21543,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 299000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 277457,
+        "market_value": 277457,
+        "land_value": 51965,
+        "improvement_value": 225492,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2747,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 277457,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 274710,
+        "market_value": 274710,
+        "land_value": 51450,
+        "improvement_value": 223260,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274710,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 274710,
+        "market_value": 274710,
+        "land_value": 51450,
+        "improvement_value": 223260,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2775,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274710,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 277485,
+        "market_value": 277485,
+        "land_value": 51970,
+        "improvement_value": 225515,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13213,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 277485,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 264272,
+        "market_value": 264272,
+        "land_value": 49495,
+        "improvement_value": 214777,
+        "land_value_percentage": 18.7,
+        "improvement_value_percentage": 81.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 264272,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0436A00077000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0436A00077000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-Aug-15",
+      "most_recent_appeal_date": "14-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-5164-2015",
+        "filed_date": "14-Aug-15",
+        "hearing_date": "14-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 299000,
+        "requested_value": 299000,
+        "final_value": 299000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0436A00077000000",
+    "comparables": [
+      {
+        "parcel_id": "0522H00144000000",
+        "address": "2121 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2121   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 297100,
+        "market_value": 315100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0522D00253000000",
+        "address": "2209 HASSINGER LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2209   HASSINGER LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 295900,
+        "market_value": 313900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0436E00109000000",
+        "address": "115 BERRYHILL RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "115   BERRYHILL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 291600,
+        "market_value": 309600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0617S00003000000",
+        "address": "2215 HASSINGER LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2215   HASSINGER LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 307400,
+        "market_value": 325400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0522D00235000000",
+        "address": "2127 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2127   MIDDLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 308600,
+        "market_value": 326600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0522D00257000000",
+        "address": "2205 HASSINGER LN",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2205   HASSINGER LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 288900,
+        "market_value": 306900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

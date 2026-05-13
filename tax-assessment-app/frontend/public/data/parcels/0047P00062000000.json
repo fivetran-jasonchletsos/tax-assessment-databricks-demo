@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0047P00062000000",
+    "address": "1235 HASLAGE AVE",
+    "city": "Ward 24 - Spring Garden",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "165   JACKS RUN RD",
+    "current_mailing_address": "165   JACKS RUN RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.035,
+    "latitude": 40.41848,
+    "longitude": -80.08676
+  },
+  "assessments": {
+    "parcel_id": "0047P00062000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "land_value": 8000,
+        "improvement_value": 12000,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1443,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 18557,
+        "market_value": 18557,
+        "land_value": 7422,
+        "improvement_value": 11135,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 183,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18557,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 18374,
+        "market_value": 18374,
+        "land_value": 7349,
+        "improvement_value": 11025,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18374,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 18374,
+        "market_value": 18374,
+        "land_value": 7349,
+        "improvement_value": 11025,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -186,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18374,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18560,
+        "market_value": 18560,
+        "land_value": 7424,
+        "improvement_value": 11136,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 883,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18560,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 17677,
+        "market_value": 17677,
+        "land_value": 7070,
+        "improvement_value": 10607,
+        "land_value_percentage": 40.0,
+        "improvement_value_percentage": 60.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17677,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047P00062000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047P00062000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047P00062000000",
+    "comparables": [
+      {
+        "parcel_id": "0024B00038000000",
+        "address": "1018 HASLAGE AVE",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1018   HASLAGE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024B00052000000",
+        "address": "999 HASLAGE AVE",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "999   HASLAGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 38000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024B00223000000",
+        "address": "1026 HIGH ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1026   HIGH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024C00034000000",
+        "address": "1328 DIANA ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "13358   ROADSTER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047K00025000000",
+        "address": "1811 RHINE ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "4595   SCHOOL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0047P00114000000",
+        "address": "1204 HASLAGE AVE",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1204   HASLAGE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

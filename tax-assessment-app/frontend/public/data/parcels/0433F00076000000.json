@@ -145,6 +145,19 @@
     "parcel_id": "0433F00076000000",
     "comparables": [
       {
+        "parcel_id": "0355K00270000000",
+        "address": "922 GARDEN PL",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "922   GARDEN PL",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 222100,
+        "market_value": 222100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0355P00285000000",
         "address": "1500 ELLA ST",
         "city": "Shaler",
@@ -155,7 +168,7 @@
         "assessed_value": 222100,
         "market_value": 222100,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0356L00027000000",
@@ -168,7 +181,7 @@
         "assessed_value": 222100,
         "market_value": 240100,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0354J00022000000",
@@ -181,7 +194,7 @@
         "assessed_value": 222000,
         "market_value": 240000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355G00169000000",
@@ -194,7 +207,7 @@
         "assessed_value": 222200,
         "market_value": 240200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433L00099000000",
@@ -207,19 +220,6 @@
         "assessed_value": 222000,
         "market_value": 240000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0435K00123000000",
-        "address": "329 LAURELWOOD DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "329   LAURELWOOD DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 222000,
-        "market_value": 240000,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0119S00167000000",
+    "address": "5335 BUTLER ST",
+    "city": "10th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "181   43RD ST",
+    "current_mailing_address": "181   43RD ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE/WAREHOUSE",
+    "acreage": 0.081,
+    "latitude": 40.46656,
+    "longitude": -79.95568
+  },
+  "assessments": {
+    "parcel_id": "0119S00167000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 384100,
+        "market_value": 384100,
+        "land_value": 34200,
+        "improvement_value": 349900,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23869,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 360231,
+        "market_value": 360231,
+        "land_value": 32074,
+        "improvement_value": 328157,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10492,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 360231,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 349739,
+        "market_value": 349739,
+        "land_value": 31140,
+        "improvement_value": 318599,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6857,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 349739,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 342882,
+        "market_value": 342882,
+        "land_value": 30529,
+        "improvement_value": 312353,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3394,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 342882,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 339488,
+        "market_value": 339488,
+        "land_value": 30227,
+        "improvement_value": 309261,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 339488,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 339488,
+        "market_value": 339488,
+        "land_value": 30227,
+        "improvement_value": 309261,
+        "land_value_percentage": 8.9,
+        "improvement_value_percentage": 91.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 339488,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119S00167000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0119S00167000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "7-Aug-17",
+      "most_recent_appeal_date": "7-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16717-2017",
+        "filed_date": "7-Aug-17",
+        "hearing_date": "7-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 208400,
+        "requested_value": 208400,
+        "final_value": 384100,
+        "value_reduction": 0,
+        "reduction_percentage": -84.31,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0119S00167000000",
+    "comparables": [
+      {
+        "parcel_id": "0082E00034000000",
+        "address": "5208 STANTON AVE",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "6236   5TH AVE  STE 105C",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 399200,
+        "market_value": 399200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0119M00110000001",
+        "address": "HARRISON ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "600   GRANT ST  FL 60",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 399700,
+        "market_value": 399700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120J00026000000",
+        "address": "5623 HARRISON ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "228   FREEPORT RD  STE 2",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 362100,
+        "market_value": 362100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0119S00099000000",
+        "address": "5430 BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "LODGE HALL/AMUSEMENT PARK",
+        "acreage": null,
+        "assessed_value": 359500,
+        "market_value": 359500,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121K00161000000",
+        "address": "1748 JANCEY ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1748   JANCEY ST",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 359200,
+        "market_value": 359200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080G00169000000",
+        "address": "5128 BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "5128   BUTLER ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 413300,
+        "market_value": 413300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

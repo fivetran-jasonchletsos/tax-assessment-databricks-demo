@@ -122,6 +122,32 @@
     "parcel_id": "0083K00130000000",
     "comparables": [
       {
+        "parcel_id": "0050H00058000000",
+        "address": "N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 31800,
+        "market_value": 31800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050M00201000000",
+        "address": "N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 32200,
+        "market_value": 32200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0083M00329000000",
         "address": "6210 HUNTRESS ST",
         "city": "11103",
@@ -132,7 +158,7 @@
         "assessed_value": 31800,
         "market_value": 31800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083H00201000A00",
@@ -145,7 +171,7 @@
         "assessed_value": 31700,
         "market_value": 49700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083H00201000B00",
@@ -158,7 +184,7 @@
         "assessed_value": 31700,
         "market_value": 49700,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0084D00132000000",
@@ -171,32 +197,6 @@
         "assessed_value": 32300,
         "market_value": 50300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0050M00154000000",
-        "address": "221 N GRAHAM ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "221  N GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 32400,
-        "market_value": 50400,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0050M00178000000",
-        "address": "239 N GRAHAM ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "239  N GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 31600,
-        "market_value": 49600,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

@@ -197,6 +197,32 @@
     "parcel_id": "0053D00074000000",
     "comparables": [
       {
+        "parcel_id": "0088D00114000000",
+        "address": "2975 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2975   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 532600,
+        "market_value": 550600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0127N00063000000",
+        "address": "6545 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6545   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 532400,
+        "market_value": 532400,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086F00066000000",
         "address": "120 AYLESBORO LN",
         "city": "11401",
@@ -207,7 +233,7 @@
         "assessed_value": 533100,
         "market_value": 551100,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053H00282000000",
@@ -220,7 +246,7 @@
         "assessed_value": 532000,
         "market_value": 550000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086S00236000000",
@@ -233,45 +259,19 @@
         "assessed_value": 532000,
         "market_value": 550000,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086M00051000000",
-        "address": "1717 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1717   DENNISTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 531300,
-        "market_value": 549300,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086G00209000000",
-        "address": "5809 MARLBOROUGH AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "7265  NW 19TH CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 534200,
-        "market_value": 534200,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086E00188000000",
-        "address": "5517 AYLESBORO AVE",
+        "parcel_id": "0088H00178000000",
+        "address": "1535 BILTMORE LN",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5517   AYLESBORO AVE",
+        "current_owner_name": "1535   BILTMORE LN",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 530800,
-        "market_value": 548800,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 533200,
+        "market_value": 551200,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

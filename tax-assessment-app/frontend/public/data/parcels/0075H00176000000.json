@@ -122,6 +122,19 @@
     "parcel_id": "0075H00176000000",
     "comparables": [
       {
+        "parcel_id": "0114P00244000000",
+        "address": "1802 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1802   MORRELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 241300,
+        "market_value": 241300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0075B00360000000",
         "address": "3650 CALIFORNIA AVE",
         "city": "Ward 27 - Brighton Heights",
@@ -132,7 +145,7 @@
         "assessed_value": 236000,
         "market_value": 254000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0075D00153000000",
@@ -145,7 +158,20 @@
         "assessed_value": 261200,
         "market_value": 261200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114P00208000000",
+        "address": "1813 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1813   MORRELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 228600,
+        "market_value": 246600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0075C00172000000",
@@ -158,33 +184,20 @@
         "assessed_value": 266700,
         "market_value": 266700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0075D00123000000",
-        "address": "3605 SHADELAND AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "3605   SHADELAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 216500,
-        "market_value": 234500,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0075D00012000000",
-        "address": "1400 DAVIS AVE",
-        "city": "Ward 27 - Brighton Heights",
-        "zip_code": "15212",
-        "current_owner_name": "1400   DAVIS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 200000,
-        "market_value": 200000,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0114R00040000000",
+        "address": "1461 BENTON AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1461   BENTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226000,
+        "market_value": 244000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
       }
     ]
   }

@@ -174,6 +174,19 @@
     "parcel_id": "0085C00412000000",
     "comparables": [
       {
+        "parcel_id": "0125N00071000000",
+        "address": "118 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "118   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 289000,
+        "market_value": 307000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086J00106000000",
         "address": "5435 DARLINGTON RD",
         "city": "11402",
@@ -184,7 +197,7 @@
         "assessed_value": 289800,
         "market_value": 307800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085M00048000000",
@@ -197,7 +210,7 @@
         "assessed_value": 290000,
         "market_value": 290000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085L00015000000",
@@ -210,7 +223,7 @@
         "assessed_value": 290100,
         "market_value": 308100,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086J00194000000",
@@ -223,7 +236,7 @@
         "assessed_value": 288500,
         "market_value": 306500,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086K00030000000",
@@ -236,19 +249,6 @@
         "assessed_value": 290200,
         "market_value": 308200,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085B00030000000",
-        "address": "100 N WOODLAND RD",
-        "city": "11402",
-        "zip_code": "15232",
-        "current_owner_name": "100  N WOODLAND RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 290300,
-        "market_value": 290300,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

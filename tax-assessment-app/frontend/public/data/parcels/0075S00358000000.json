@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0075S00358000000",
+    "address": "1334 COMPLETE ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1402   WIGHTMAN ST",
+    "current_mailing_address": "1402   WIGHTMAN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.044,
+    "latitude": 40.41992,
+    "longitude": -80.07584
+  },
+  "assessments": {
+    "parcel_id": "0075S00358000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 27600,
+        "market_value": 27600,
+        "land_value": 13800,
+        "improvement_value": 13800,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 439,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 27161,
+        "market_value": 27161,
+        "land_value": 13580,
+        "improvement_value": 13581,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -275,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27161,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 27436,
+        "market_value": 27436,
+        "land_value": 13718,
+        "improvement_value": 13718,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1306,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27436,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 26130,
+        "market_value": 26130,
+        "land_value": 13065,
+        "improvement_value": 13065,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1005,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26130,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 25125,
+        "market_value": 25125,
+        "land_value": 12562,
+        "improvement_value": 12563,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 731,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25125,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 24394,
+        "market_value": 24394,
+        "land_value": 12197,
+        "improvement_value": 12197,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24394,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075S00358000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075S00358000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jul-18",
+      "most_recent_appeal_date": "10-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23100-2018",
+        "filed_date": "10-Jul-18",
+        "hearing_date": "10-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 27600,
+        "requested_value": 27600,
+        "final_value": 27600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0075S00358000000",
+    "comparables": [
+      {
+        "parcel_id": "0045N00073000000",
+        "address": "1312 MARSHALL AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "669   OLD HUNT WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27600,
+        "market_value": 27600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075M00030000000",
+        "address": "3260 RICHARDSON AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "5000   ELDORADO PKWY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27600,
+        "market_value": 27600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0076B00260000000",
+        "address": "957 STANFORD RD",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "957   STANFORD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27600,
+        "market_value": 45600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0044D00026000000",
+        "address": "1414 ECKERT ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "5243   THOMS RUN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27500,
+        "market_value": 27500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0045A00154000000",
+        "address": "2921 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "15009   LIVE OAK SPRINGS CANYON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27500,
+        "market_value": 27500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045A00200000000",
+        "address": "2918 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "100   MCALISTER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 27500,
+        "market_value": 27500,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

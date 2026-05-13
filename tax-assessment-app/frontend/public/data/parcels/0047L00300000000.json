@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0047L00300000000",
+    "address": "1351 DAMAS ST",
+    "city": "24th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "341  S BELLEFIELD AVE",
+    "current_mailing_address": "341  S BELLEFIELD AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OWNED BY BOARD OF EDUCATION",
+    "acreage": 2.185,
+    "latitude": 40.4174,
+    "longitude": -80.07116
+  },
+  "assessments": {
+    "parcel_id": "0047L00300000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1782700,
+        "market_value": 1782700,
+        "land_value": 157700,
+        "improvement_value": 1625000,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28200,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1782700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1754500,
+        "market_value": 1754500,
+        "land_value": 155205,
+        "improvement_value": 1599295,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -17723,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1754500,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1772223,
+        "market_value": 1772223,
+        "land_value": 156773,
+        "improvement_value": 1615450,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 84391,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1772223,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1687832,
+        "market_value": 1687832,
+        "land_value": 149307,
+        "improvement_value": 1538525,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 64916,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1687832,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1622916,
+        "market_value": 1622916,
+        "land_value": 143565,
+        "improvement_value": 1479351,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 47269,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1622916,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1575647,
+        "market_value": 1575647,
+        "land_value": 139383,
+        "improvement_value": 1436264,
+        "land_value_percentage": 8.8,
+        "improvement_value_percentage": 91.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1575647,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047L00300000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047L00300000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047L00300000000",
+    "comparables": [
+      {
+        "parcel_id": "0048K00370000000",
+        "address": "200 WATERFRONT DR",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "200   WATERFRONT DR",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 1973600,
+        "market_value": 1973600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047S00096000000",
+        "address": "1501 SPRING GARDEN AVE",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "341  S BELLEFIELD AVE",
+        "land_use_description": "OWNED BY BOARD OF EDUCATION",
+        "acreage": null,
+        "assessed_value": 2022200,
+        "market_value": 2022200,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

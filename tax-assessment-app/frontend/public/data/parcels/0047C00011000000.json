@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0078R00140000000",
+        "address": "2702 SPRING GARDEN AVE",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1812  E CARSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32200,
+        "market_value": 32200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0047A00288000000",
         "address": "1122 SOUTH SIDE AVE",
         "city": "Ward 26 - Northview Heights",
@@ -197,7 +210,20 @@
         "assessed_value": 32300,
         "market_value": 50300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0078L00021000000",
+        "address": "2907 SPRING GARDEN AVE",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2907   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32300,
+        "market_value": 50300,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0047C00129000000",
@@ -210,7 +236,7 @@
         "assessed_value": 32000,
         "market_value": 50000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0047L00071000000",
@@ -223,32 +249,6 @@
         "assessed_value": 32000,
         "market_value": 50000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0046D00256000000",
-        "address": "2470 SUNSET AVE",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "128  S 21ST ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 32500,
-        "market_value": 50500,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0047F00150000000",
-        "address": "1365 ROMANHOFF ST",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "1365   ROMANHOFF ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 31900,
-        "market_value": 49900,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

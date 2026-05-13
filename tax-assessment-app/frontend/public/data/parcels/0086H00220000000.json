@@ -122,6 +122,32 @@
     "parcel_id": "0086H00220000000",
     "comparables": [
       {
+        "parcel_id": "0127A00116000000",
+        "address": "6643 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1338   MALVERN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 140900,
+        "market_value": 140900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088R00020000000",
+        "address": "SALINE ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 140500,
+        "market_value": 140500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00261000000",
         "address": "5650 SOLWAY ST",
         "city": "11401",
@@ -132,7 +158,20 @@
         "assessed_value": 141400,
         "market_value": 141400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088M00158000000",
+        "address": "SHELBURNE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 140400,
+        "market_value": 140400,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086B00260000000",
@@ -145,58 +184,19 @@
         "assessed_value": 141500,
         "market_value": 141500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0086B00005000000",
-        "address": "1340 WIGHTMAN ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "414   DALLAS AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 140000,
-        "market_value": 140000,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086H00090000000",
-        "address": "1641 SHADY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5821   FORWARD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 140000,
-        "market_value": 140000,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085N00275000000",
-        "address": "5542 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5542   WILKINS AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 142000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052S00118000000",
-        "address": "BEELERMONT PL",
+        "parcel_id": "0126N00046000000",
+        "address": "1457 BARNSDALE ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "10   ROBIN RD",
-        "land_use_description": "VACANT LAND",
+        "current_owner_name": "1457   BARNSDALE ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 142200,
-        "market_value": 142200,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 141500,
+        "market_value": 159500,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

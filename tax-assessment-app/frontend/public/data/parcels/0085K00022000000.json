@@ -174,6 +174,19 @@
     "parcel_id": "0085K00022000000",
     "comparables": [
       {
+        "parcel_id": "0127K00090000000",
+        "address": "1944 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1944   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 322000,
+        "market_value": 340000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085N00156000000",
         "address": "5450 FAIR OAKS ST",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 321900,
         "market_value": 321900,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085K00136000000",
@@ -197,7 +210,7 @@
         "assessed_value": 322300,
         "market_value": 340300,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086B00230000000",
@@ -210,7 +223,20 @@
         "assessed_value": 321700,
         "market_value": 339700,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127K00096000000",
+        "address": "1932 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1932   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 321500,
+        "market_value": 321500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086B00273000000",
@@ -223,32 +249,6 @@
         "assessed_value": 321200,
         "market_value": 339200,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086G00041000000",
-        "address": "5820 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5820   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 323100,
-        "market_value": 341100,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086E00094000000",
-        "address": "5540 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5544   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 320600,
-        "market_value": 320600,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

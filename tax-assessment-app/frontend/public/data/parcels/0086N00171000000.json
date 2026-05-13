@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0126N00024000000",
+        "address": "1406 BARNSDALE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1406   BARNSDALE ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 262000,
+        "market_value": 280000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085M00066000000",
         "address": "1229 DENNISTON ST",
         "city": "11402",
@@ -197,7 +210,7 @@
         "assessed_value": 262400,
         "market_value": 280400,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086K00148000000",
@@ -210,7 +223,20 @@
         "assessed_value": 262900,
         "market_value": 280900,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088C00266000000",
+        "address": "6660 LANDVIEW RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6660   LANDVIEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 263000,
+        "market_value": 281000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086N00138000000",
@@ -223,32 +249,6 @@
         "assessed_value": 263400,
         "market_value": 281400,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086N00224000000",
-        "address": "5517 BEACON ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5517   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263400,
-        "market_value": 281400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086J00105000000",
-        "address": "5431 DARLINGTON RD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5510   DARLINGTON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263600,
-        "market_value": 263600,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

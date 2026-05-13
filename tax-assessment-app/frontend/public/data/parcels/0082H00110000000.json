@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0082H00110000000",
+    "address": "N SAINT CLAIR ST",
+    "city": "11102",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL GOVERNMENT",
+    "acreage": 0.139,
+    "latitude": 40.46078,
+    "longitude": -79.91356
+  },
+  "assessments": {
+    "parcel_id": "0082H00110000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "land_value": 2500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 114,
+        "assessed_value_change_pct": 4.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2386,
+        "market_value": 2386,
+        "land_value": 2386,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2386,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2386,
+        "market_value": 2386,
+        "land_value": 2386,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -25,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2386,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2411,
+        "market_value": 2411,
+        "land_value": 2411,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 114,
+        "assessed_value_change_pct": 4.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2411,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2297,
+        "market_value": 2297,
+        "land_value": 2297,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 88,
+        "assessed_value_change_pct": 3.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2297,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2209,
+        "market_value": 2209,
+        "land_value": 2209,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2209,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082H00110000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082H00110000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0082H00110000000",
+    "comparables": [
+      {
+        "parcel_id": "0082F00104000000",
+        "address": "HETHS AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "154  N BELLEFIELD AVE  APT 91",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2800,
+        "market_value": 2800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082G00115000900",
+        "address": "CALLOWHILL ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "7   HIGHLAND CT",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2200,
+        "market_value": 2200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083S00252000000",
+        "address": "LARIMER AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 3100,
+        "market_value": 3100,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

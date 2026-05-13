@@ -174,6 +174,19 @@
     "parcel_id": "0085K00134000000",
     "comparables": [
       {
+        "parcel_id": "0127P00164000000",
+        "address": "2085 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2085   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 377500,
+        "market_value": 395500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086C00158000000",
         "address": "5832 NORTHUMBERLAND ST",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 377600,
         "market_value": 377600,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0053D00228000000",
@@ -197,7 +210,7 @@
         "assessed_value": 377700,
         "market_value": 395700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085P00087000000",
@@ -210,7 +223,7 @@
         "assessed_value": 377900,
         "market_value": 377900,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086D00151000000",
@@ -223,7 +236,7 @@
         "assessed_value": 377100,
         "market_value": 395100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086M00308000000",
@@ -236,19 +249,6 @@
         "assessed_value": 377000,
         "market_value": 395000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085P00088000000",
-        "address": "5727 SOLWAY ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5727   SOLWAY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 376700,
-        "market_value": 376700,
-        "assessed_value_change_pct": 0.3,
         "distance_miles": 1.1
       }
     ]

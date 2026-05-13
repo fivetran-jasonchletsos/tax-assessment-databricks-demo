@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0047M00031000000",
+    "address": "1620 SPRING GARDEN AVE",
+    "city": "26th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1620   SPRING GARDEN DR",
+    "current_mailing_address": "1620   SPRING GARDEN DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.12,
+    "latitude": 40.41764,
+    "longitude": -80.069
+  },
+  "assessments": {
+    "parcel_id": "0047M00031000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 78800,
+        "market_value": 78800,
+        "land_value": 25500,
+        "improvement_value": 53300,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5680,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 73120,
+        "market_value": 73120,
+        "land_value": 23661,
+        "improvement_value": 49459,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 723,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73120,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 72397,
+        "market_value": 72397,
+        "land_value": 23427,
+        "improvement_value": 48970,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72397,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 72397,
+        "market_value": 72397,
+        "land_value": 23427,
+        "improvement_value": 48970,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -732,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 72397,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73129,
+        "market_value": 73129,
+        "land_value": 23664,
+        "improvement_value": 49465,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3482,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73129,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 69647,
+        "market_value": 69647,
+        "land_value": 22538,
+        "improvement_value": 47109,
+        "land_value_percentage": 32.4,
+        "improvement_value_percentage": 67.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69647,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047M00031000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047M00031000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047M00031000000",
+    "comparables": [
+      {
+        "parcel_id": "0078P00150000000",
+        "address": "SCHUBERT ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 84900,
+        "market_value": 84900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047C00010000001",
+        "address": "16 SCHUBERT ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "16   SCHUBERT ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 63978,
+        "market_value": 245988,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0047M00034000000",
+        "address": "1606 SPRING GARDEN AVE",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 61900,
+        "market_value": 61900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

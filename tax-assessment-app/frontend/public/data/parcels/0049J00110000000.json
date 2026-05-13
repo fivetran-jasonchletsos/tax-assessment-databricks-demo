@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0049J00110000000",
+    "address": "3617 BUTLER ST",
+    "city": "6th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "108   LOCUST ST",
+    "current_mailing_address": "108   LOCUST ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.069,
+    "latitude": 40.46428,
+    "longitude": -79.95004
+  },
+  "assessments": {
+    "parcel_id": "0049J00110000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 125000,
+        "market_value": 125000,
+        "land_value": 64000,
+        "improvement_value": 61000,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1747,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 125000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 126747,
+        "market_value": 126747,
+        "land_value": 64894,
+        "improvement_value": 61853,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6035,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126747,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 120712,
+        "market_value": 120712,
+        "land_value": 61804,
+        "improvement_value": 58908,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4642,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120712,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 116070,
+        "market_value": 116070,
+        "land_value": 59427,
+        "improvement_value": 56643,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3380,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 116070,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 112690,
+        "market_value": 112690,
+        "land_value": 57697,
+        "improvement_value": 54993,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2209,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112690,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 110481,
+        "market_value": 110481,
+        "land_value": 56566,
+        "improvement_value": 53915,
+        "land_value_percentage": 51.2,
+        "improvement_value_percentage": 48.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110481,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049J00110000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049J00110000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 18100,
+      "total_value_reduction": 18100,
+      "first_appeal_date": "29-Jul-16",
+      "most_recent_appeal_date": "29-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8480-2016",
+        "filed_date": "29-Jul-16",
+        "hearing_date": "29-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 143100,
+        "requested_value": 143100,
+        "final_value": 125000,
+        "value_reduction": 18100,
+        "reduction_percentage": 12.65,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049J00110000000",
+    "comparables": [
+      {
+        "parcel_id": "0049N00247000000",
+        "address": "3634 PENN AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "687   COVERED BRIDGE RD",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 125500,
+        "market_value": 125500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049J00106000000",
+        "address": "3623 BUTLER ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "7317   REYNOLDS ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 126800,
+        "market_value": 126800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048S00158000000",
+        "address": "3520 CHARLOTTE ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "P.O.BOX 9000",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 123000,
+        "market_value": 123000,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025L00004000000",
+        "address": "2852 PENN AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2852   PENN AVE",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 122700,
+        "market_value": 122700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049J00129000000",
+        "address": "3533 BUTLER ST",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "2727   HOUSTON ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 130000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0025K00241000000",
+        "address": "2746 PENN AVE",
+        "city": "6th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2154   COVENTRY DR",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 130000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

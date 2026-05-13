@@ -122,6 +122,19 @@
     "parcel_id": "0192P00035000000",
     "comparables": [
       {
+        "parcel_id": "0141J00025001400",
+        "address": "750 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "2733   GLENMORE AVE",
+        "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+        "acreage": null,
+        "assessed_value": 95000,
+        "market_value": 95000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0192P00034000000",
         "address": "108 MOUNT LEBANON BLVD",
         "city": "Mt.lebanon",
@@ -132,7 +145,20 @@
         "assessed_value": 95000,
         "market_value": 95000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0252L00148000000",
+        "address": "255 GILKESON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "126   BURROWS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95000,
+        "market_value": 95000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0141L00156000000",
@@ -145,7 +171,7 @@
         "assessed_value": 94900,
         "market_value": 112900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141M00083000000",
@@ -158,7 +184,7 @@
         "assessed_value": 95300,
         "market_value": 113300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0142H00277000000",
@@ -171,32 +197,6 @@
         "assessed_value": 95300,
         "market_value": 95300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0191A00227000000",
-        "address": "656 CRYSTAL DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "656   CRYSTAL DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 94600,
-        "market_value": 112600,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0140R00208000000",
-        "address": "533 SLEEPY HOLLOW RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "533   SLEEPY HOLLOW RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 94500,
-        "market_value": 112500,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

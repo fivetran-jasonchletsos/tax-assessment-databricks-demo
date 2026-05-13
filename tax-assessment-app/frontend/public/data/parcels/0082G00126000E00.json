@@ -122,6 +122,32 @@
     "parcel_id": "0082G00126000E00",
     "comparables": [
       {
+        "parcel_id": "0123N00227000000",
+        "address": "1120 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1120   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160900,
+        "market_value": 178900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123N00240000000",
+        "address": "1018 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "2548   ROYAL VIEW DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160400,
+        "market_value": 160400,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082P00094000000",
         "address": "5540 AVONDALE PL",
         "city": "11102",
@@ -132,7 +158,20 @@
         "assessed_value": 161700,
         "market_value": 161700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123P00075000000",
+        "address": "6525 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6525   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 160300,
+        "market_value": 178300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082P00050000000",
@@ -145,58 +184,19 @@
         "assessed_value": 160000,
         "market_value": 160000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082P00088000000",
-        "address": "5524 AVONDALE PL",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5517   AVONDALE PL",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 159800,
-        "market_value": 159800,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082G00210000000",
-        "address": "5615 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5524   BEVERLY PL",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 162500,
-        "market_value": 162500,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082K00109000000",
-        "address": "5506 WELLESLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5506   WELLESLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 158800,
-        "market_value": 176800,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082P00009000000",
-        "address": "5524 WELLESLEY AVE",
+        "parcel_id": "0123N00225000000",
+        "address": "1122 WINTERTON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5524   WELLESLEY AVE",
+        "current_owner_name": "1122   WINTERTON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 158200,
-        "market_value": 176200,
-        "assessed_value_change_pct": -1.7,
+        "assessed_value": 162000,
+        "market_value": 180000,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0051N00061000000",
+        "address": "800 S MILLVALE AVE",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 455800,
+        "market_value": 455800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0051J00190000000",
         "address": "135 MOREWOOD AVE",
         "city": "10802",
@@ -220,7 +233,7 @@
         "assessed_value": 463300,
         "market_value": 463300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0051D00251000000",
@@ -233,7 +246,20 @@
         "assessed_value": 424400,
         "market_value": 424400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084A00049000000",
+        "address": "208 S NEGLEY AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "806   WEST ST",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 469200,
+        "market_value": 469200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00122000000",
@@ -246,32 +272,6 @@
         "assessed_value": 419800,
         "market_value": 419800,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051C00243000000",
-        "address": "349 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "349  S AIKEN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 470800,
-        "market_value": 488800,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051G00229000000",
-        "address": "437 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "3390   ISHERWOOD WAY",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 418500,
-        "market_value": 418500,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

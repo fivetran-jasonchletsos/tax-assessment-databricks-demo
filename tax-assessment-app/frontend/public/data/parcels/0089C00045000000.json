@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "0089C00045000000",
+    "address": "52 GARETTA ST",
+    "city": "15th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "52   GARETTA ST",
+    "current_mailing_address": "52   GARETTA ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "INDEPENDENT LIVING (SENIORS)",
+    "acreage": 2.356,
+    "latitude": 40.42036,
+    "longitude": -79.91222
+  },
+  "assessments": {
+    "parcel_id": "0089C00045000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3961100,
+        "market_value": 3961100,
+        "land_value": 491900,
+        "improvement_value": 3469200,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 390403,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3961100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3570697,
+        "market_value": 3570697,
+        "land_value": 443418,
+        "improvement_value": 3127279,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 70013,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3570697,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3500684,
+        "market_value": 3500684,
+        "land_value": 434724,
+        "improvement_value": 3065960,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34660,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3500684,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3466024,
+        "market_value": 3466024,
+        "land_value": 430420,
+        "improvement_value": 3035604,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3466024,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3466024,
+        "market_value": 3466024,
+        "land_value": 430420,
+        "improvement_value": 3035604,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -35011,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3466024,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3501035,
+        "market_value": 3501035,
+        "land_value": 434767,
+        "improvement_value": 3066268,
+        "land_value_percentage": 12.4,
+        "improvement_value_percentage": 87.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3501035,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0089C00045000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0089C00045000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 2347700,
+      "total_value_reduction": 2347700,
+      "first_appeal_date": "29-Jul-15",
+      "most_recent_appeal_date": "29-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2361-2015",
+        "filed_date": "29-Jul-15",
+        "hearing_date": "29-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 5663700,
+        "requested_value": 5663700,
+        "final_value": 3316000,
+        "value_reduction": 2347700,
+        "reduction_percentage": 41.45,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0089C00045000000",
+    "comparables": []
+  }
+}

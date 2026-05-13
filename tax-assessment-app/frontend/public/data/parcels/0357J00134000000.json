@@ -120,6 +120,46 @@
   },
   "comparables": {
     "parcel_id": "0357J00134000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0167D00235000000",
+        "address": "RAVINE ST",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0223R00063000000",
+        "address": "SHORT ST",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0285S00061000000",
+        "address": "SHARPSHILL RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "104   DORSEYVILLE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 100,
+        "market_value": 100,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      }
+    ]
   }
 }

@@ -122,6 +122,19 @@
     "parcel_id": "0082S00147000000",
     "comparables": [
       {
+        "parcel_id": "0123E00053000000",
+        "address": "1377 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1377  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190100,
+        "market_value": 208100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082S00150000000",
         "address": "1111 FARRAGUT ST",
         "city": "11101",
@@ -132,7 +145,46 @@
         "assessed_value": 192200,
         "market_value": 210200,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123N00110000000",
+        "address": "1108 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1108   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 192200,
+        "market_value": 210200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00113000000",
+        "address": "1118 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1118   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 192500,
+        "market_value": 210500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123J00116000000",
+        "address": "1317 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1317   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 187400,
+        "market_value": 187400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00310000000",
@@ -145,58 +197,6 @@
         "assessed_value": 187000,
         "market_value": 187000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082M00310000000",
-        "address": "1207 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1207   SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 193300,
-        "market_value": 211300,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082M00078000000",
-        "address": "5936 ELGIN ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "5936   ELGIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 186000,
-        "market_value": 204000,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082M00303000000",
-        "address": "1240 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1240   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 185900,
-        "market_value": 203900,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00204000000",
-        "address": "5905 CALLOWHILL ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "5905   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 194500,
-        "market_value": 212500,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

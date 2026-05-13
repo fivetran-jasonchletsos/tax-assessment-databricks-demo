@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0129E00141000000",
+        "address": "1275 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1275   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 756400,
+        "market_value": 774400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086A00224000000",
         "address": "5559 BELLEROCK PL",
         "city": "11401",
@@ -220,7 +233,7 @@
         "assessed_value": 757000,
         "market_value": 775000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086D00094000000",
@@ -233,7 +246,7 @@
         "assessed_value": 757000,
         "market_value": 775000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086D00189000000",
@@ -246,32 +259,19 @@
         "assessed_value": 752300,
         "market_value": 770300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053G00132000000",
-        "address": "308 SCHENLEY RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5734  W WOODLAND RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 750000,
-        "market_value": 750000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086E00099000000",
-        "address": "5532 NORTHUMBERLAND ST",
+        "parcel_id": "0088M00122000000",
+        "address": "1683 PARKVIEW BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5532   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1683   PARKVIEW BLVD",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 748500,
-        "market_value": 766500,
-        "assessed_value_change_pct": -1.3,
+        "assessed_value": 757800,
+        "market_value": 775800,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

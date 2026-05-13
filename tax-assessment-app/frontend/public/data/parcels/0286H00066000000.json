@@ -174,6 +174,19 @@
     "parcel_id": "0286H00066000000",
     "comparables": [
       {
+        "parcel_id": "0222S00075000000",
+        "address": "920 SHARPSHILL RD",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "330   DORSEYVILLE RD",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 150700,
+        "market_value": 150700,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0286M00010000000",
         "address": "616 RAVENCREST RD",
         "city": "O''hara",
@@ -184,7 +197,7 @@
         "assessed_value": 150500,
         "market_value": 150500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0286P00010000000",
@@ -197,7 +210,7 @@
         "assessed_value": 150500,
         "market_value": 168500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169H00196000000",
@@ -210,7 +223,7 @@
         "assessed_value": 150800,
         "market_value": 168800,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0170N00157000000",
@@ -223,7 +236,7 @@
         "assessed_value": 150800,
         "market_value": 168800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0168D00064000000",
@@ -236,19 +249,6 @@
         "assessed_value": 150300,
         "market_value": 168300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0224N00012000000",
-        "address": "123 W MARSHALL DR",
-        "city": "O''hara",
-        "zip_code": "15215",
-        "current_owner_name": "123  W MARSHALL DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 150900,
-        "market_value": 168900,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,175 @@
+{
+  "parcel": {
+    "parcel_id": "0049E00201000000",
+    "address": "177 40TH ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1233   MAIN ST  STE 1500",
+    "current_mailing_address": "1233   MAIN ST  STE 1500",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "HOTELS",
+    "acreage": 0.838,
+    "latitude": 40.4638,
+    "longitude": -79.95196
+  },
+  "assessments": {
+    "parcel_id": "0049E00201000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5200000,
+        "market_value": 5200000,
+        "land_value": 382500,
+        "improvement_value": 4817500,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 374640,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5200000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4825360,
+        "market_value": 4825360,
+        "land_value": 354942,
+        "improvement_value": 4470418,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 47775,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4825360,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4777585,
+        "market_value": 4777585,
+        "land_value": 351428,
+        "improvement_value": 4426157,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4777585,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4777585,
+        "market_value": 4777585,
+        "land_value": 351428,
+        "improvement_value": 4426157,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -48259,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4777585,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4825844,
+        "market_value": 4825844,
+        "land_value": 354977,
+        "improvement_value": 4470867,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 229802,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4825844,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4596042,
+        "market_value": 4596042,
+        "land_value": 338074,
+        "improvement_value": 4257968,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4596042,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049E00201000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049E00201000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "7-Aug-17",
+      "most_recent_appeal_date": "7-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15735-2017",
+        "filed_date": "7-Aug-17",
+        "hearing_date": "7-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 200000,
+        "requested_value": 200000,
+        "final_value": 200000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049E00201000000",
+    "comparables": [
+      {
+        "parcel_id": "0080R00100000000",
+        "address": "4600 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 4773700,
+        "market_value": 4773700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080K00164000000",
+        "address": "4720 HATFIELD ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1200  S PINE ISLAND RD  STE 300",
+        "land_use_description": "INDEPENDENT LIVING (SENIORS)",
+        "acreage": null,
+        "assessed_value": 4625700,
+        "market_value": 4625700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

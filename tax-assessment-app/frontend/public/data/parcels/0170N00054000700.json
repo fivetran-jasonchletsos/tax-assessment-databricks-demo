@@ -174,6 +174,19 @@
     "parcel_id": "0170N00054000700",
     "comparables": [
       {
+        "parcel_id": "0122H00042000000",
+        "address": "BRILLIANT AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 6344",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 90200,
+        "market_value": 90200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0169H00038000000",
         "address": "220 10TH ST",
         "city": "Aspinwall",
@@ -184,7 +197,7 @@
         "assessed_value": 88100,
         "market_value": 88100,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169S00356000000",
@@ -197,7 +210,7 @@
         "assessed_value": 88000,
         "market_value": 106000,
         "assessed_value_change_pct": 1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0169G00225050800",
@@ -210,7 +223,7 @@
         "assessed_value": 87400,
         "market_value": 87400,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169G00225051000",
@@ -223,7 +236,7 @@
         "assessed_value": 87400,
         "market_value": 87400,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122D00297000000",
@@ -236,19 +249,6 @@
         "assessed_value": 91200,
         "market_value": 109200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122D00244000200",
-        "address": "108 EASTERN AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "1801   MAIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 92000,
-        "market_value": 92000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

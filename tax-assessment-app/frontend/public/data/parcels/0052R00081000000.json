@@ -145,6 +145,19 @@
     "parcel_id": "0052R00081000000",
     "comparables": [
       {
+        "parcel_id": "0127E00030000000",
+        "address": "1663 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 81503",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 210900,
+        "market_value": 210900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0052S00068000000",
         "address": "5208 BEELER ST",
         "city": "11401",
@@ -155,7 +168,7 @@
         "assessed_value": 210000,
         "market_value": 210000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0052S00004000000",
@@ -168,7 +181,7 @@
         "assessed_value": 211500,
         "market_value": 229500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086G00026000200",
@@ -181,7 +194,7 @@
         "assessed_value": 211700,
         "market_value": 229700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053D00193000000",
@@ -194,7 +207,7 @@
         "assessed_value": 211900,
         "market_value": 229900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053D00233000000",
@@ -207,19 +220,6 @@
         "assessed_value": 212000,
         "market_value": 230000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086H00179000000",
-        "address": "1620 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "900   5TH AVE  STE 200",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 212200,
-        "market_value": 212200,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

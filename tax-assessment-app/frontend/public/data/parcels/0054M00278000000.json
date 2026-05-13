@@ -122,6 +122,19 @@
     "parcel_id": "0054M00278000000",
     "comparables": [
       {
+        "parcel_id": "0088E00174000000",
+        "address": "739 HAZELWOOD AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "739   HAZELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110600,
+        "market_value": 128600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0055C00238000000",
         "address": "4292 GLEN LYTLE RD",
         "city": "11502",
@@ -132,7 +145,7 @@
         "assessed_value": 110500,
         "market_value": 110500,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0055C00340000000",
@@ -145,7 +158,20 @@
         "assessed_value": 110500,
         "market_value": 110500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087N00160000000",
+        "address": "945 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "945   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110700,
+        "market_value": 128700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0054M00306000000",
@@ -158,7 +184,7 @@
         "assessed_value": 110400,
         "market_value": 110400,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0055C00325000000",
@@ -171,32 +197,6 @@
         "assessed_value": 110800,
         "market_value": 128800,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0055D00117000000",
-        "address": "4123 BEEHNER RD",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "4123   BEEHNER RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110800,
-        "market_value": 128800,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0055D00248000000",
-        "address": "659 LORETTA ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "659   LORETTA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110400,
-        "market_value": 110400,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

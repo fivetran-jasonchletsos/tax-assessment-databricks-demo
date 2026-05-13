@@ -122,6 +122,19 @@
     "parcel_id": "0053D00247000000",
     "comparables": [
       {
+        "parcel_id": "0088M00003000000",
+        "address": "218 BURKETON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "218   BURKETON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 313100,
+        "market_value": 331100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086D00239000000",
         "address": "6520 NORTHUMBERLAND ST",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 313000,
         "market_value": 331000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086F00191000000",
@@ -145,7 +158,20 @@
         "assessed_value": 313200,
         "market_value": 331200,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127P00106000000",
+        "address": "6715 FOREST GLEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6715   FOREST GLEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 313200,
+        "market_value": 331200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052S00083000000",
@@ -158,45 +184,19 @@
         "assessed_value": 312900,
         "market_value": 312900,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0053H00009000000",
-        "address": "5409 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5409   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 313400,
-        "market_value": 331400,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085N00265000000",
-        "address": "5535 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5535   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 312400,
-        "market_value": 330400,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086D00177000000",
-        "address": "1506 BEECHWOOD BLVD",
+        "parcel_id": "0127A00059000000",
+        "address": "6626 NORTHUMBERLAND ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1506   BEECHWOOD BLVD",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "6626   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 314000,
-        "market_value": 332000,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 312900,
+        "market_value": 330900,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

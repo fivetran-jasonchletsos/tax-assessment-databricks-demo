@@ -122,6 +122,19 @@
     "parcel_id": "0087H00041000000",
     "comparables": [
       {
+        "parcel_id": "0128J00004000000",
+        "address": "2621 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2621   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 237800,
+        "market_value": 255800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087C00297000000",
         "address": "5831 DOUGLAS ST",
         "city": "11403",
@@ -132,7 +145,7 @@
         "assessed_value": 237900,
         "market_value": 237900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086R00247000000",
@@ -145,7 +158,7 @@
         "assessed_value": 237600,
         "market_value": 237600,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087C00176000000",
@@ -158,7 +171,7 @@
         "assessed_value": 238000,
         "market_value": 238000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087A00260000000",
@@ -171,7 +184,7 @@
         "assessed_value": 238100,
         "market_value": 256100,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086N00283000000",
@@ -184,19 +197,6 @@
         "assessed_value": 237400,
         "market_value": 255400,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085H00021000000",
-        "address": "520 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "520   GETTYSBURG ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 237000,
-        "market_value": 255000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

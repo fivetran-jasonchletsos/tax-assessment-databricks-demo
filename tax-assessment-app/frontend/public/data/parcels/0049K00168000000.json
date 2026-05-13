@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0049K00168000000",
+    "address": "310 FISK ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "600   GRANT ST  FL 60",
+    "current_mailing_address": "600   GRANT ST  FL 60",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "NURSING HOME/PRIVATE HOS",
+    "acreage": 1.907,
+    "latitude": 40.46596,
+    "longitude": -79.95844
+  },
+  "assessments": {
+    "parcel_id": "0049K00168000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 11150900,
+        "market_value": 11150900,
+        "land_value": 574900,
+        "improvement_value": 10576000,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -156181,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11150900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 11307081,
+        "market_value": 11307081,
+        "land_value": 582952,
+        "improvement_value": 10724129,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 538432,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11307081,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 10768649,
+        "market_value": 10768649,
+        "land_value": 555192,
+        "improvement_value": 10213457,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 414178,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10768649,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 10354471,
+        "market_value": 10354471,
+        "land_value": 533839,
+        "improvement_value": 9820632,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 301586,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10354471,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 10052885,
+        "market_value": 10052885,
+        "land_value": 518290,
+        "improvement_value": 9534595,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 197115,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 10052885,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 9855770,
+        "market_value": 9855770,
+        "land_value": 508127,
+        "improvement_value": 9347643,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9855770,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049K00168000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049K00168000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0049K00168000000",
+    "comparables": [
+      {
+        "parcel_id": "0049A00322000000",
+        "address": "4107 WILLOW ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "800   WESTCHESTER AVE  STE N-349",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 10620400,
+        "market_value": 23504500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080K00090000000",
+        "address": "105 47TH ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "267   KAPPA DR",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 9914600,
+        "market_value": 9914600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

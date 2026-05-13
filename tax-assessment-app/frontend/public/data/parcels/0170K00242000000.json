@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0170K00242000000",
+    "address": "712 DELAFIELD RD",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "712   DELAFIELD RD",
+    "current_mailing_address": "712   DELAFIELD RD",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.246,
+    "latitude": 40.49412,
+    "longitude": -79.90684
+  },
+  "assessments": {
+    "parcel_id": "0170K00242000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3600,
+        "market_value": 3600,
+        "land_value": 3600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 162,
+        "assessed_value_change_pct": 4.71,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3438,
+        "market_value": 3438,
+        "land_value": 3438,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3438,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3438,
+        "market_value": 3438,
+        "land_value": 3438,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -35,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3438,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3473,
+        "market_value": 3473,
+        "land_value": 3473,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 165,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3473,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3308,
+        "market_value": 3308,
+        "land_value": 3308,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 127,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3308,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3181,
+        "market_value": 3181,
+        "land_value": 3181,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3181,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170K00242000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170K00242000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0170K00242000000",
+    "comparables": [
+      {
+        "parcel_id": "0225R00150000000",
+        "address": "EDGEWOOD RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "21   EDGEWOOD RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3500,
+        "market_value": 3500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0225R00187000000",
+        "address": "EDGEWOOD RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "17   EDGEWOOD RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3500,
+        "market_value": 3500,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170P00118000000",
+        "address": "ROUTE 70",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "270   HILLCREST RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 3000,
+        "market_value": 3000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

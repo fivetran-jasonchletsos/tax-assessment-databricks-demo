@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0436B00018000000",
+    "address": "SILENT MEADOW CT",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "601   MANOR LN",
+    "current_mailing_address": "601   MANOR LN",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "BUILDERS LOT",
+    "acreage": 1.105,
+    "latitude": 40.52646,
+    "longitude": -79.95864
+  },
+  "assessments": {
+    "parcel_id": "0436B00018000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 8600,
+        "market_value": 8600,
+        "land_value": 8600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 214,
+        "assessed_value_change_pct": 2.55,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8386,
+        "market_value": 8386,
+        "land_value": 8386,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 322,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8386,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8064,
+        "market_value": 8064,
+        "land_value": 8064,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 234,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8064,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 7830,
+        "market_value": 7830,
+        "land_value": 7830,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 153,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7830,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 7677,
+        "market_value": 7677,
+        "land_value": 7677,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 76,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7677,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 7601,
+        "market_value": 7601,
+        "land_value": 7601,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7601,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0436B00018000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0436B00018000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0436B00018000000",
+    "comparables": [
+      {
+        "parcel_id": "0523P00041000000",
+        "address": "3013 BOARDWALK CT",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "3034   CANTERBURY DR",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 8800,
+        "market_value": 8800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0523C00371000000",
+        "address": "KLEIN RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "237   INDIANA DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 8000,
+        "market_value": 8000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0523P00006000000",
+        "address": "4013 PARK PL",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "522   MELLON ST",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 6500,
+        "market_value": 6500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

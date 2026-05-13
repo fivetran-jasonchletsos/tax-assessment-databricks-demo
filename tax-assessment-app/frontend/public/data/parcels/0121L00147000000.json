@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0121L00147000000",
+    "address": "1928 ANTIETAM ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1928   ANTIETAM ST",
+    "current_mailing_address": "1928   ANTIETAM ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.047,
+    "latitude": 40.46174,
+    "longitude": -79.90192
+  },
+  "assessments": {
+    "parcel_id": "0121L00147000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 60600,
+        "market_value": 60600,
+        "land_value": 15900,
+        "improvement_value": 44700,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4368,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 56232,
+        "market_value": 56232,
+        "land_value": 14753,
+        "improvement_value": 41479,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 556,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56232,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 55676,
+        "market_value": 55676,
+        "land_value": 14608,
+        "improvement_value": 41068,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55676,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 55676,
+        "market_value": 55676,
+        "land_value": 14608,
+        "improvement_value": 41068,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -563,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55676,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 56239,
+        "market_value": 56239,
+        "land_value": 14755,
+        "improvement_value": 41484,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2678,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56239,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 53561,
+        "market_value": 53561,
+        "land_value": 14053,
+        "improvement_value": 39508,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53561,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121L00147000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121L00147000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jun-15",
+      "most_recent_appeal_date": "16-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2706-2015",
+        "filed_date": "16-Jun-15",
+        "hearing_date": "16-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 60600,
+        "requested_value": 60600,
+        "final_value": 60600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0121L00147000000",
+    "comparables": [
+      {
+        "parcel_id": "0121K00009000000",
+        "address": "1726 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1726   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60600,
+        "market_value": 60600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121K00155000000",
+        "address": "1730 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1730   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60600,
+        "market_value": 78600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080D00153000000",
+        "address": "5204 NATRONA WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "900   5TH AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 60500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080D00303000000",
+        "address": "5235 HOLMES ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "209   MOREWOOD AVE  # 1",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00250000000",
+        "address": "5228 POE WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 40372",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080H00309000000",
+        "address": "5232 WICKLIFF ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5232   WICKLIFF ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 60500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

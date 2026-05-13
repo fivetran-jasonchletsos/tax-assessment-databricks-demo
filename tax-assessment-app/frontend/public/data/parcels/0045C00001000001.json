@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0045C00001000001",
+    "address": "2200 BRIGHTON RD",
+    "city": "26th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2200   BRIGHTON RD",
+    "current_mailing_address": "2200   BRIGHTON RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CEMETERY/MONUMENTS",
+    "acreage": 95.25,
+    "latitude": 40.43996,
+    "longitude": -80.07728
+  },
+  "assessments": {
+    "parcel_id": "0045C00001000001",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2055800,
+        "market_value": 2055800,
+        "land_value": 1521300,
+        "improvement_value": 534500,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 148114,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2055800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1907686,
+        "market_value": 1907686,
+        "land_value": 1411695,
+        "improvement_value": 495991,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18887,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1907686,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1888799,
+        "market_value": 1888799,
+        "land_value": 1397718,
+        "improvement_value": 491081,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1888799,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1888799,
+        "market_value": 1888799,
+        "land_value": 1397718,
+        "improvement_value": 491081,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -19079,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1888799,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1907878,
+        "market_value": 1907878,
+        "land_value": 1411837,
+        "improvement_value": 496041,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 90851,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1907878,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1817027,
+        "market_value": 1817027,
+        "land_value": 1344607,
+        "improvement_value": 472420,
+        "land_value_percentage": 74.0,
+        "improvement_value_percentage": 26.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1817027,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045C00001000001",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045C00001000001",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0045C00001000001",
+    "comparables": [
+      {
+        "parcel_id": "0047F00195000000",
+        "address": "2170 RHINE ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "2170   RHINE ST",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 2461100,
+        "market_value": 2461100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047K00280000000",
+        "address": "109 RHINE PL",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "5604   BAUM BLVD",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 1584000,
+        "market_value": 1584000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

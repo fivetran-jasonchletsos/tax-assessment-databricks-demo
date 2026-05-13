@@ -122,6 +122,19 @@
     "parcel_id": "0080H00308000000",
     "comparables": [
       {
+        "parcel_id": "0121K00152000000",
+        "address": "1722 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1722   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59800,
+        "market_value": 77800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0081A00300000000",
         "address": "5435 CAMELIA ST",
         "city": "11003",
@@ -132,7 +145,20 @@
         "assessed_value": 59700,
         "market_value": 77700,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121L00048000000",
+        "address": "6915 STANDISH ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1748   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 59900,
+        "market_value": 59900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080G00218000000",
@@ -145,7 +171,7 @@
         "assessed_value": 59600,
         "market_value": 59600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080H00075000000",
@@ -158,7 +184,7 @@
         "assessed_value": 59600,
         "market_value": 59600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00132000100",
@@ -171,32 +197,6 @@
         "assessed_value": 60000,
         "market_value": 60000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080H00165000000",
-        "address": "5213 DUNCAN ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5101   KEYSTONE ST  # 3",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 60000,
-        "market_value": 60000,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081A00037000000",
-        "address": "5307 DUNCAN ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5307   DUNCAN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 59600,
-        "market_value": 77600,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

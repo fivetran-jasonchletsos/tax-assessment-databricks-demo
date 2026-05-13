@@ -174,6 +174,19 @@
     "parcel_id": "0193G00196000000",
     "comparables": [
       {
+        "parcel_id": "0141F00049000000",
+        "address": "700 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "219   4TH AVE",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 372500,
+        "market_value": 372500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0251E00050000000",
         "address": "100 ORDALE BLVD",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 372500,
         "market_value": 372500,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251G00050000000",
@@ -197,7 +210,20 @@
         "assessed_value": 372500,
         "market_value": 390500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252G00078000000",
+        "address": "15 FOREST GLEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "15   FOREST GLEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 372700,
+        "market_value": 390700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0141G00143000000",
@@ -210,7 +236,7 @@
         "assessed_value": 372000,
         "market_value": 390000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141J00360000000",
@@ -223,32 +249,6 @@
         "assessed_value": 372000,
         "market_value": 372000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0141L00297000300",
-        "address": "244 MERION DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "244   MERION DR",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 372000,
-        "market_value": 390000,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0140R00261000000",
-        "address": "556 BRIARWOOD AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "556   BRIARWOOD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 371800,
-        "market_value": 389800,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

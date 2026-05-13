@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023L00083000000",
+    "address": "4 W NORTH AVE",
+    "city": "22nd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "130   SEVENTH ST  STE 300",
+    "current_mailing_address": "130   SEVENTH ST  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THEATER",
+    "acreage": 0.55,
+    "latitude": 40.41764,
+    "longitude": -80.06444
+  },
+  "assessments": {
+    "parcel_id": "0023L00083000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4414500,
+        "market_value": 4414500,
+        "land_value": 882900,
+        "improvement_value": 3531600,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 318049,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4414500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4096451,
+        "market_value": 4096451,
+        "land_value": 819290,
+        "improvement_value": 3277161,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40558,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4096451,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4055893,
+        "market_value": 4055893,
+        "land_value": 811178,
+        "improvement_value": 3244715,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4055893,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4055893,
+        "market_value": 4055893,
+        "land_value": 811178,
+        "improvement_value": 3244715,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -40969,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4055893,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4096862,
+        "market_value": 4096862,
+        "land_value": 819372,
+        "improvement_value": 3277490,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 195088,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4096862,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3901774,
+        "market_value": 3901774,
+        "land_value": 780354,
+        "improvement_value": 3121420,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3901774,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023L00083000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023L00083000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "29-Aug-18",
+      "most_recent_appeal_date": "29-Aug-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22454-2018",
+        "filed_date": "29-Aug-18",
+        "hearing_date": "29-Aug-18",
+        "appeal_status": "approved",
+        "original_value": 517600,
+        "requested_value": 517600,
+        "final_value": 517600,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023L00083000000",
+    "comparables": [
+      {
+        "parcel_id": "0008B00123000000",
+        "address": "711 W COMMONS",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "720   ARCH ST",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 4619500,
+        "market_value": 4619500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023R00104000000",
+        "address": "10 CHILDRENS WAY",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 4013000,
+        "market_value": 4013000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0008C00135000000",
+        "address": "10 CHILDRENS WAY",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "10   CHILDRENS WAY",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 4869400,
+        "market_value": 4869400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0008M00008000000",
+        "address": "41 ISABELLA ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "2   NORTHSHORE CTR",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 3952500,
+        "market_value": 3952500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008G00082000000",
+        "address": "424 W GENERAL ROBINSON ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "651   HOLIDAY DR  STE 225",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 3683100,
+        "market_value": 3683100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008G00129000000",
+        "address": "110 FEDERAL ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "2545   RAILROAD ST  STE 300",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 3558500,
+        "market_value": 3558500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

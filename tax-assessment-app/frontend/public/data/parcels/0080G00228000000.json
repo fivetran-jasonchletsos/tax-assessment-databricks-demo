@@ -148,6 +148,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0121P00065000000",
+        "address": "1619 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "901   BINGHAM ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 257200,
+        "market_value": 257200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121P00075000000",
+        "address": "1643 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1643   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 252000,
+        "market_value": 270000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0080G00210000000",
         "address": "5137 CARNEGIE ST",
         "city": "11003",
@@ -158,7 +184,7 @@
         "assessed_value": 251700,
         "market_value": 269700,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00005000000",
@@ -171,32 +197,6 @@
         "assessed_value": 251100,
         "market_value": 269100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080H00040000000",
-        "address": "5136 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5136   KEYSTONE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 250700,
-        "market_value": 268700,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0119S00095000000",
-        "address": "5428 BUTLER ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5428   BUTLER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 250000,
-        "market_value": 250000,
-        "assessed_value_change_pct": 0.1,
         "distance_miles": 1.1
       }
     ]

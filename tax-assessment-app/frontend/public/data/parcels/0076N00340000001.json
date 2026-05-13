@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0076N00340000001",
+    "address": "3113 BRIGHTON RD",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3113   BRIGHTON RD",
+    "current_mailing_address": "3113   BRIGHTON RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "DAYCARE/PRIVATE SCHOOL",
+    "acreage": 1.058,
+    "latitude": 40.41848,
+    "longitude": -80.06312
+  },
+  "assessments": {
+    "parcel_id": "0076N00340000001",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2532500,
+        "market_value": 2532500,
+        "land_value": 84100,
+        "improvement_value": 2448400,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 182458,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2532500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2350042,
+        "market_value": 2350042,
+        "land_value": 78040,
+        "improvement_value": 2272002,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23267,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2350042,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2326775,
+        "market_value": 2326775,
+        "land_value": 77268,
+        "improvement_value": 2249507,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2326775,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2326775,
+        "market_value": 2326775,
+        "land_value": 77268,
+        "improvement_value": 2249507,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -23503,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2326775,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2350278,
+        "market_value": 2350278,
+        "land_value": 78048,
+        "improvement_value": 2272230,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 111918,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2350278,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2238360,
+        "market_value": 2238360,
+        "land_value": 74332,
+        "improvement_value": 2164028,
+        "land_value_percentage": 3.3,
+        "improvement_value_percentage": 96.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2238360,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076N00340000001",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076N00340000001",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0076N00340000001",
+    "comparables": [
+      {
+        "parcel_id": "0075F00077000000",
+        "address": "3505 MEXICO ST",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3505   MEXICO ST",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 2687300,
+        "market_value": 2687300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075C00089000000",
+        "address": "1611 DAVIS AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "341  S BELLEFIELD AVE",
+        "land_use_description": "OWNED BY BOARD OF EDUCATION",
+        "acreage": null,
+        "assessed_value": 2871300,
+        "market_value": 2871300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0087H00250000000",
+    "address": "2409 SHADY AVE",
+    "city": "14th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "341  S BELLEFIELD AVE",
+    "current_mailing_address": "341  S BELLEFIELD AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OWNED BY BOARD OF EDUCATION",
+    "acreage": 7.79,
+    "latitude": 40.42048,
+    "longitude": -79.91318
+  },
+  "assessments": {
+    "parcel_id": "0087H00250000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 31294200,
+        "market_value": 31294200,
+        "land_value": 1557000,
+        "improvement_value": 29737200,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1944527,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31294200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 29349673,
+        "market_value": 29349673,
+        "land_value": 1460252,
+        "improvement_value": 27889421,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 854844,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29349673,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 28494829,
+        "market_value": 28494829,
+        "land_value": 1417721,
+        "improvement_value": 27077108,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 558722,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28494829,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27936107,
+        "market_value": 27936107,
+        "land_value": 1389922,
+        "improvement_value": 26546185,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 276595,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27936107,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 27659512,
+        "market_value": 27659512,
+        "land_value": 1376161,
+        "improvement_value": 26283351,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27659512,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 27659512,
+        "market_value": 27659512,
+        "land_value": 1376161,
+        "improvement_value": 26283351,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27659512,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087H00250000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087H00250000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0087H00250000000",
+    "comparables": [
+      {
+        "parcel_id": "0086D00062000000",
+        "address": "1405 SHADY AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1405   SHADY AVE",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 38104700,
+        "market_value": 38104700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085F00249000000",
+        "address": "105 WOODLAND RD",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "121   WOODLAND RD",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 38696800,
+        "market_value": 38696800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0052J00307000000",
     "comparables": [
       {
+        "parcel_id": "0028P00080000000",
+        "address": "374 LAWN ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "374   LAWN ST",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 533200,
+        "market_value": 533200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0028L00114000000",
         "address": "362 MCKEE PL",
         "city": "10403",
@@ -132,7 +145,7 @@
         "assessed_value": 516900,
         "market_value": 516900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0028G00225000000",
@@ -145,7 +158,7 @@
         "assessed_value": 495700,
         "market_value": 495700,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0028G00076000000",
@@ -158,7 +171,7 @@
         "assessed_value": 470400,
         "market_value": 470400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0028G00306000000",
@@ -171,7 +184,7 @@
         "assessed_value": 460400,
         "market_value": 460400,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0028S00011000000",
@@ -184,19 +197,6 @@
         "assessed_value": 445700,
         "market_value": 445700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0028H00037000000",
-        "address": "359 OAKLAND AVE",
-        "city": "10403",
-        "zip_code": "15213",
-        "current_owner_name": "5881   ELLSWORTH AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 431000,
-        "market_value": 431000,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

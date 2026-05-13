@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087P00225000000",
+        "address": "6206 MONITOR ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6206   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 286800,
+        "market_value": 304800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086J00050000000",
         "address": "5510 DARLINGTON RD",
         "city": "11402",
@@ -197,7 +210,20 @@
         "assessed_value": 287100,
         "market_value": 305100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087L00276000000",
+        "address": "6330 MORROWFIELD AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6330   MORROWFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 286600,
+        "market_value": 304600,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085R00295000000",
@@ -210,45 +236,19 @@
         "assessed_value": 287300,
         "market_value": 287300,
         "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086K00078000000",
-        "address": "5621 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5621   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 287400,
-        "market_value": 305400,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086F00229000000",
-        "address": "5644 MARLBOROUGH RD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5644   MARLBOROUGH RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 286300,
-        "market_value": 286300,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0053M00049000000",
-        "address": "1 DARLINGTON CT",
+        "parcel_id": "0087R00028000000",
+        "address": "6361 CATON ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "1437   INVERNESS AVE",
+        "current_owner_name": "6361   CATON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 287700,
-        "market_value": 287700,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 287300,
+        "market_value": 305300,
+        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

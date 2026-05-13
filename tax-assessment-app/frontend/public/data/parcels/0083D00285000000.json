@@ -174,6 +174,19 @@
     "parcel_id": "0083D00285000000",
     "comparables": [
       {
+        "parcel_id": "0124A00222000000",
+        "address": "913 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "913   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 354100,
+        "market_value": 372100,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082S00175000000",
         "address": "1126 N HIGHLAND AVE",
         "city": "11101",
@@ -184,7 +197,33 @@
         "assessed_value": 354000,
         "market_value": 372000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123N00108000000",
+        "address": "1100 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1100   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 354900,
+        "market_value": 372900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123E00063000000",
+        "address": "6000 BUNKERHILL ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "102   PHEASANT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 352700,
+        "market_value": 352700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082H00235000000",
@@ -197,7 +236,7 @@
         "assessed_value": 352100,
         "market_value": 352100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00362000000",
@@ -210,45 +249,6 @@
         "assessed_value": 352000,
         "market_value": 370000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082S00275000000",
-        "address": "1201 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1201   SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 358200,
-        "market_value": 376200,
-        "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082S00225000000",
-        "address": "1010 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1010   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 350200,
-        "market_value": 368200,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082H00265000000",
-        "address": "1428 GREYSTONE DR",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1428   GREYSTONE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 349100,
-        "market_value": 367100,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

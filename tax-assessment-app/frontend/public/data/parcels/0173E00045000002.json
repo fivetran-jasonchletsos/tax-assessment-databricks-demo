@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0173E00045000002",
+    "address": "7068 LEMINGTON AVE",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "7074   LEMINGTON AVE",
+    "current_mailing_address": "7074   LEMINGTON AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+    "acreage": 0.12,
+    "latitude": 40.46162,
+    "longitude": -79.90288
+  },
+  "assessments": {
+    "parcel_id": "0173E00045000002",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 38500,
+        "market_value": 38500,
+        "land_value": 6900,
+        "improvement_value": 31600,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1714,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 36786,
+        "market_value": 36786,
+        "land_value": 6592,
+        "improvement_value": 30194,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36786,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 36786,
+        "market_value": 36786,
+        "land_value": 6592,
+        "improvement_value": 30194,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -372,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36786,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37158,
+        "market_value": 37158,
+        "land_value": 6659,
+        "improvement_value": 30499,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1769,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37158,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 35389,
+        "market_value": 35389,
+        "land_value": 6342,
+        "improvement_value": 29047,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1361,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35389,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 34028,
+        "market_value": 34028,
+        "land_value": 6098,
+        "improvement_value": 27930,
+        "land_value_percentage": 17.9,
+        "improvement_value_percentage": 82.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34028,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0173E00045000002",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0173E00045000002",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 29800,
+      "total_value_reduction": 29800,
+      "first_appeal_date": "12-Jun-15",
+      "most_recent_appeal_date": "12-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-3333-2015",
+        "filed_date": "12-Jun-15",
+        "hearing_date": "12-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 68300,
+        "requested_value": 68300,
+        "final_value": 38500,
+        "value_reduction": 29800,
+        "reduction_percentage": 43.63,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0173E00045000002",
+    "comparables": [
+      {
+        "parcel_id": "0124R00160000000",
+        "address": "1101 WASHINGTON BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1105   WASHINGTON BLVD",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 38600,
+        "market_value": 38600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125B00028000000",
+        "address": "601 LINCOLN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "601   LINCOLN WAY",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 38300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0173F00007000000",
+        "address": "1539 LINCOLN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "112   LONG SHADOW CT",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 38200,
+        "market_value": 38200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124P00227000000",
+        "address": "601 LOWELL ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "15  W MCINTYRE AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 38000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124L00345000000",
+        "address": "1120 WASHINGTON BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "245   WILLETT RD",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 37800,
+        "market_value": 37800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0125E00182000000",
+        "address": "6500 HAMILTON AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "PO BOX 81828",
+        "land_use_description": "VACANT INDUSTRIAL LAND",
+        "acreage": null,
+        "assessed_value": 39300,
+        "market_value": 39300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

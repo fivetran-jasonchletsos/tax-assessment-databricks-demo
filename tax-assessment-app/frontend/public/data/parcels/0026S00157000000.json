@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0026S00157000000",
+    "address": "333 MELWOOD AVE",
+    "city": "5th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "233   SPAHR ST",
+    "current_mailing_address": "233   SPAHR ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.084,
+    "latitude": 40.43488,
+    "longitude": -79.96048
+  },
+  "assessments": {
+    "parcel_id": "0026S00157000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 444900,
+        "market_value": 444900,
+        "land_value": 69100,
+        "improvement_value": 375800,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7040,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 444900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 437860,
+        "market_value": 437860,
+        "land_value": 68006,
+        "improvement_value": 369854,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4423,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 437860,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 442283,
+        "market_value": 442283,
+        "land_value": 68693,
+        "improvement_value": 373590,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21061,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 442283,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 421222,
+        "market_value": 421222,
+        "land_value": 65422,
+        "improvement_value": 355800,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16200,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 421222,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 405022,
+        "market_value": 405022,
+        "land_value": 62906,
+        "improvement_value": 342116,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11796,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 405022,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 393226,
+        "market_value": 393226,
+        "land_value": 61074,
+        "improvement_value": 332152,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 393226,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0026S00157000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0026S00157000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-Jul-15",
+      "most_recent_appeal_date": "17-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-741-2015",
+        "filed_date": "17-Jul-15",
+        "hearing_date": "17-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 106900,
+        "requested_value": 106900,
+        "final_value": 444900,
+        "value_reduction": 0,
+        "reduction_percentage": -316.18,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0026S00157000000",
+    "comparables": [
+      {
+        "parcel_id": "0026S00241000000",
+        "address": "434 MELWOOD AVE",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "109  N UNION ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 455700,
+        "market_value": 455700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026L00104000000",
+        "address": "425 N CRAIG ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "94  S 13TH ST",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 420200,
+        "market_value": 420200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026L00068000000",
+        "address": "3811 BIGELOW BLVD",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "320   GRANT AVE",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 477300,
+        "market_value": 477300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026L00083000000",
+        "address": "450 N CRAIG ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "94  S 13TH ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 411500,
+        "market_value": 411500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00179000000",
+        "address": "218 BURROWS ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "412   BLVD OF THE ALLIES   FL 7",
+        "land_use_description": "OWNED BY METRO HOUSING AU",
+        "acreage": null,
+        "assessed_value": 408300,
+        "market_value": 408300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011D00180000000",
+        "address": "2561 ALLEQUIPPA ST",
+        "city": "5th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "294   SEMPLE ST",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 483000,
+        "market_value": 483000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,32 @@
     "parcel_id": "0082P00058000000",
     "comparables": [
       {
+        "parcel_id": "0124E00027000000",
+        "address": "6337 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6014   HAMPTON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 82600,
+        "market_value": 82600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124A00004000000",
+        "address": "6321 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "2657   RANGE RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 82200,
+        "market_value": 82200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082H00066000000",
         "address": "5709 CALLOWHILL ST",
         "city": "11102",
@@ -184,7 +210,7 @@
         "assessed_value": 82900,
         "market_value": 82900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082K00099000000",
@@ -197,7 +223,7 @@
         "assessed_value": 82000,
         "market_value": 100000,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082P00068000000",
@@ -210,7 +236,7 @@
         "assessed_value": 83000,
         "market_value": 101000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082P00135000000",
@@ -223,32 +249,6 @@
         "assessed_value": 82000,
         "market_value": 100000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083H00235000000",
-        "address": "817 HEBERTON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "817   HEBERTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 81900,
-        "market_value": 99900,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082G00091000000",
-        "address": "7 HIGHLAND CT",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "7   HIGHLAND CT",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 83200,
-        "market_value": 101200,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

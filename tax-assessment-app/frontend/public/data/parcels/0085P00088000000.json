@@ -122,6 +122,32 @@
     "parcel_id": "0085P00088000000",
     "comparables": [
       {
+        "parcel_id": "0088D00046000000",
+        "address": "116 GILDA AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "116   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 376700,
+        "market_value": 394700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0129A00211000000",
+        "address": "1104 CRESCENT PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1104   CRESCENT PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 376900,
+        "market_value": 394900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085K00026000000",
         "address": "1214 S NEGLEY AVE",
         "city": "11401",
@@ -132,7 +158,7 @@
         "assessed_value": 376400,
         "market_value": 394400,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086M00308000000",
@@ -145,7 +171,20 @@
         "assessed_value": 377000,
         "market_value": 395000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127J00191000000",
+        "address": "6648 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6648   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 377000,
+        "market_value": 395000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086D00151000000",
@@ -158,45 +197,6 @@
         "assessed_value": 377100,
         "market_value": 395100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085N00220000000",
-        "address": "5526 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "904   HIGHLANDER CIR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 376100,
-        "market_value": 376100,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085K00134000000",
-        "address": "5700 FAIR OAKS ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5700   FAIR OAKS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 377500,
-        "market_value": 395500,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085N00272000000",
-        "address": "5550 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1018   NEW DOVER RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 375800,
-        "market_value": 375800,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

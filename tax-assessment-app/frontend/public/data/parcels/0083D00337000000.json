@@ -122,6 +122,19 @@
     "parcel_id": "0083D00337000000",
     "comparables": [
       {
+        "parcel_id": "0123J00146000000",
+        "address": "1206 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1206   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 498300,
+        "market_value": 516300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083D00017000000",
         "address": "900 N HIGHLAND AVE",
         "city": "11101",
@@ -132,7 +145,7 @@
         "assessed_value": 489500,
         "market_value": 507500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082H00200000000",
@@ -145,7 +158,7 @@
         "assessed_value": 488900,
         "market_value": 506900,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0083D00164000000",
@@ -158,7 +171,7 @@
         "assessed_value": 487000,
         "market_value": 505000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082S00179000000",
@@ -171,7 +184,7 @@
         "assessed_value": 485100,
         "market_value": 503100,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00330000000",
@@ -184,19 +197,6 @@
         "assessed_value": 484200,
         "market_value": 502200,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083D00288000000",
-        "address": "914 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "914  N SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 506000,
-        "market_value": 524000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

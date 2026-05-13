@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028L00292000000",
+    "address": "431 SEMPLE ST",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "4   CABLE PL",
+    "current_mailing_address": "4   CABLE PL",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.06,
+    "latitude": 40.43428,
+    "longitude": -79.96444
+  },
+  "assessments": {
+    "parcel_id": "0028L00292000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 175000,
+        "market_value": 175000,
+        "land_value": 45800,
+        "improvement_value": 129200,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12611,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 175000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 162389,
+        "market_value": 162389,
+        "land_value": 42499,
+        "improvement_value": 119890,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1607,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162389,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 160782,
+        "market_value": 160782,
+        "land_value": 42078,
+        "improvement_value": 118704,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160782,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 160782,
+        "market_value": 160782,
+        "land_value": 42078,
+        "improvement_value": 118704,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1625,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 160782,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 162407,
+        "market_value": 162407,
+        "land_value": 42504,
+        "improvement_value": 119903,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7733,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 162407,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 154674,
+        "market_value": 154674,
+        "land_value": 40480,
+        "improvement_value": 114194,
+        "land_value_percentage": 26.2,
+        "improvement_value_percentage": 73.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 154674,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028L00292000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028L00292000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "29-Jun-16",
+      "most_recent_appeal_date": "29-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8251-2016",
+        "filed_date": "29-Jun-16",
+        "hearing_date": "29-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 210000,
+        "requested_value": 210000,
+        "final_value": 210000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028L00292000000",
+    "comparables": [
+      {
+        "parcel_id": "0052J00164000000",
+        "address": "214 S CRAIG ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4243   SALINE ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 175000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028N00017000000",
+        "address": "3201 HAMLET ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3201   HAMLET ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 175100,
+        "market_value": 175100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028C00045000000",
+        "address": "3717 FORBES AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "216   OAKLAND AVE",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 175400,
+        "market_value": 175400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028L00315000000",
+        "address": "424 SEMPLE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "521   BERKSHIRE AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 176000,
+        "market_value": 176000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028A00197000000",
+        "address": "3415 TERRACE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3333   5TH AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 172900,
+        "market_value": 172900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028H00024000000",
+        "address": "352 S BOUQUET ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 13444",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 177300,
+        "market_value": 177300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

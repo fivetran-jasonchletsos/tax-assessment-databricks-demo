@@ -174,6 +174,19 @@
     "parcel_id": "0169R00289000000",
     "comparables": [
       {
+        "parcel_id": "0169S00304000000",
+        "address": "200 5TH ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "130   5TH ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 263500,
+        "market_value": 263500,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0171A00198000000",
         "address": "205 VIRGINIA AVE",
         "city": "Aspinwall",
@@ -184,7 +197,7 @@
         "assessed_value": 263600,
         "market_value": 281600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169G00044000000",
@@ -197,7 +210,7 @@
         "assessed_value": 262900,
         "market_value": 280900,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0122D00263000000",
@@ -210,7 +223,7 @@
         "assessed_value": 263900,
         "market_value": 281900,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0169S00173000000",
@@ -223,7 +236,7 @@
         "assessed_value": 263900,
         "market_value": 281900,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0169R00103000000",
@@ -236,19 +249,6 @@
         "assessed_value": 262400,
         "market_value": 262400,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0169R00293000000",
-        "address": "127 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "400   HASTINGS ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 262200,
-        "market_value": 262200,
-        "assessed_value_change_pct": 0.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0088D00070000000",
+    "address": "158 GILDA AVE",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "158   GILDA ST",
+    "current_mailing_address": "158   GILDA ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.124,
+    "latitude": 40.42012,
+    "longitude": -79.91486
+  },
+  "assessments": {
+    "parcel_id": "0088D00070000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 602600,
+        "market_value": 602600,
+        "land_value": 140100,
+        "improvement_value": 462500,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26808,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 602600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 575792,
+        "market_value": 575792,
+        "land_value": 133867,
+        "improvement_value": 441925,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 575792,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 575792,
+        "market_value": 575792,
+        "land_value": 133867,
+        "improvement_value": 441925,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5817,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 575792,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 581609,
+        "market_value": 581609,
+        "land_value": 135219,
+        "improvement_value": 446390,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27695,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 581609,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 553914,
+        "market_value": 553914,
+        "land_value": 128780,
+        "improvement_value": 425134,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21304,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 553914,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 532610,
+        "market_value": 532610,
+        "land_value": 123827,
+        "improvement_value": 408783,
+        "land_value_percentage": 23.2,
+        "improvement_value_percentage": 76.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 532610,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088D00070000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088D00070000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-May-16",
+      "most_recent_appeal_date": "27-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9027-2016",
+        "filed_date": "27-May-16",
+        "hearing_date": "27-May-16",
+        "appeal_status": "approved",
+        "original_value": 437200,
+        "requested_value": 437200,
+        "final_value": 602600,
+        "value_reduction": 0,
+        "reduction_percentage": -37.83,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088D00070000000",
+    "comparables": [
+      {
+        "parcel_id": "0086E00146000000",
+        "address": "5432 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5432   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 602600,
+        "market_value": 620600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088M00046000000",
+        "address": "1664 SHELBURNE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1664   SHELBURNE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 602700,
+        "market_value": 620700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052S00157000000",
+        "address": "5419 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5419   FAIR OAKS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 603000,
+        "market_value": 621000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086E00182000000",
+        "address": "5501 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5501   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 603100,
+        "market_value": 621100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0129A00205003500",
+        "address": "1051 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1051   PARKVIEW BLVD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 602000,
+        "market_value": 620000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0127P00015000000",
+        "address": "6626 FOREST GLEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6626   FOREST GLEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 601900,
+        "market_value": 619900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

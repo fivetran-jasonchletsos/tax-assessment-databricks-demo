@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0088E00318000000",
+    "address": "794 HAZELWOOD AVE",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "2901   SKYLINE DR",
+    "current_mailing_address": "2901   SKYLINE DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.069,
+    "latitude": 40.42084,
+    "longitude": -79.93226
+  },
+  "assessments": {
+    "parcel_id": "0088E00318000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "land_value": 48799,
+        "improvement_value": 26201,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1188,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 73812,
+        "market_value": 73812,
+        "land_value": 48027,
+        "improvement_value": 25785,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -746,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73812,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 74558,
+        "market_value": 74558,
+        "land_value": 48512,
+        "improvement_value": 26046,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3550,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74558,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 71008,
+        "market_value": 71008,
+        "land_value": 46202,
+        "improvement_value": 24806,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2731,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71008,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 68277,
+        "market_value": 68277,
+        "land_value": 44425,
+        "improvement_value": 23852,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1988,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68277,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 66289,
+        "market_value": 66289,
+        "land_value": 43132,
+        "improvement_value": 23157,
+        "land_value_percentage": 65.1,
+        "improvement_value_percentage": 34.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66289,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088E00318000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088E00318000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-15",
+      "most_recent_appeal_date": "10-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2335-2015",
+        "filed_date": "10-Jun-15",
+        "hearing_date": "10-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 105700,
+        "requested_value": 105700,
+        "final_value": 105700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088E00318000000",
+    "comparables": [
+      {
+        "parcel_id": "0054M00045000000",
+        "address": "850 FLEMINGTON ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "2889   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0054S00151000000",
+        "address": "732 GRAPHIC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 170",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0055D00085000000",
+        "address": "4144 BEEHNER RD",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4144   BEEHNER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0055D00287000000",
+        "address": "920 NORFOLK ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 81065",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087N00088000000",
+        "address": "925 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 170",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0088A00075000000",
+        "address": "779 LORETTA ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "616   RAVENCREST RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

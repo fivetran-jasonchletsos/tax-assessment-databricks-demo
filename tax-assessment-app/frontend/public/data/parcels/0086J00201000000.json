@@ -122,6 +122,19 @@
     "parcel_id": "0086J00201000000",
     "comparables": [
       {
+        "parcel_id": "0126N00188000000",
+        "address": "6630 WOODWELL ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6630   WOODWELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 255700,
+        "market_value": 273700,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087K00180000000",
         "address": "6199 MONITOR ST",
         "city": "11402",
@@ -132,7 +145,7 @@
         "assessed_value": 255500,
         "market_value": 273500,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086N00231000000",
@@ -145,7 +158,20 @@
         "assessed_value": 256100,
         "market_value": 274100,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088B00190000000",
+        "address": "4243 SALINE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "4243   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 255200,
+        "market_value": 255200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085S00199000000",
@@ -158,7 +184,7 @@
         "assessed_value": 255000,
         "market_value": 255000,
         "assessed_value_change_pct": 1.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086J00207000000",
@@ -171,32 +197,6 @@
         "assessed_value": 255000,
         "market_value": 273000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086N00175000000",
-        "address": "5420 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5420   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 256400,
-        "market_value": 274400,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086L00188000000",
-        "address": "5843 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5843   BARTLETT ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 257000,
-        "market_value": 275000,
-        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

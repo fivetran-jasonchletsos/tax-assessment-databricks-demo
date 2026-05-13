@@ -122,6 +122,32 @@
     "parcel_id": "0087H00070000000",
     "comparables": [
       {
+        "parcel_id": "0126E00001000000",
+        "address": "518 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "516   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 184600,
+        "market_value": 184600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128A00012000000",
+        "address": "2430 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2430   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 184600,
+        "market_value": 202600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087D00165000000",
         "address": "6333 CROMBIE ST",
         "city": "11403",
@@ -132,7 +158,7 @@
         "assessed_value": 184300,
         "market_value": 202300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087F00103000000",
@@ -145,7 +171,7 @@
         "assessed_value": 184300,
         "market_value": 202300,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086S00100000000",
@@ -158,45 +184,19 @@
         "assessed_value": 184200,
         "market_value": 202200,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086R00086000000",
-        "address": "5710 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "100   DENNISTON ST  UNIT 68",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 184100,
-        "market_value": 184100,
-        "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087H00172000000",
-        "address": "2357 TILBURY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 81067",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 185000,
-        "market_value": 185000,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086S00047000000",
-        "address": "5909 HOBART ST",
+        "parcel_id": "0087S00125000000",
+        "address": "6490 MONITOR ST",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5909   HOBART ST",
+        "current_owner_name": "6490   MONITOR ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 185100,
-        "market_value": 203100,
-        "assessed_value_change_pct": 0.1,
+        "assessed_value": 184800,
+        "market_value": 202800,
+        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

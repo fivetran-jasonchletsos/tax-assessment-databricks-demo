@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127N00106000000",
+        "address": "BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6570   BEACON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 67400,
+        "market_value": 67400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086C00104000000",
         "address": "1515 ASBURY PL",
         "city": "11401",
@@ -197,7 +210,7 @@
         "assessed_value": 68000,
         "market_value": 68000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086F00199000000",
@@ -210,7 +223,20 @@
         "assessed_value": 58800,
         "market_value": 58800,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00084000000",
+        "address": "BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2618   MOUNT ROYAL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 58200,
+        "market_value": 58200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00157000000",
@@ -223,32 +249,6 @@
         "assessed_value": 70100,
         "market_value": 70100,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085P00191000000",
-        "address": "1221 WIGHTMAN ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1221   WIGHTMAN ST",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 70100,
-        "market_value": 70100,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052R00227000000",
-        "address": "110 TECHVIEW TER",
-        "city": "11401",
-        "zip_code": "15213",
-        "current_owner_name": "PO BOX 2985",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 72000,
-        "market_value": 90000,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

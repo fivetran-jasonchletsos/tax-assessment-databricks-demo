@@ -122,6 +122,32 @@
     "parcel_id": "0081E00018000000",
     "comparables": [
       {
+        "parcel_id": "0120N00342000000",
+        "address": "204 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "204   57TH ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 34900,
+        "market_value": 52900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121K00114000A00",
+        "address": "1713 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1713   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 34900,
+        "market_value": 52900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0080D00044000100",
         "address": "5224 DRESDEN WAY",
         "city": "11003",
@@ -132,7 +158,7 @@
         "assessed_value": 34800,
         "market_value": 34800,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080D00181000300",
@@ -145,7 +171,7 @@
         "assessed_value": 35000,
         "market_value": 35000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080D00181000500",
@@ -158,7 +184,7 @@
         "assessed_value": 35000,
         "market_value": 35000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080D00205000000",
@@ -171,32 +197,6 @@
         "assessed_value": 35000,
         "market_value": 35000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080H00047000000",
-        "address": "5152 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5152   KEYSTONE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 35000,
-        "market_value": 53000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080H00071000A00",
-        "address": "5204 KENT WAY",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4625   LIBERTY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 35000,
-        "market_value": 35000,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0085H00013000000",
     "comparables": [
       {
+        "parcel_id": "0126A00261000000",
+        "address": "335 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "508   REBECCA AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 186000,
+        "market_value": 186000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087C00266000000",
         "address": "5822 DOUGLAS ST",
         "city": "11403",
@@ -132,7 +145,7 @@
         "assessed_value": 186000,
         "market_value": 186000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087C00295000000",
@@ -145,7 +158,20 @@
         "assessed_value": 186000,
         "market_value": 186000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087S00156000000",
+        "address": "6420 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6420   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 186100,
+        "market_value": 186100,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087A00006000000",
@@ -158,45 +184,19 @@
         "assessed_value": 185700,
         "market_value": 203700,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087G00281000000",
-        "address": "2356 PITTOCK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2356   PITTOCK ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 185600,
-        "market_value": 203600,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087D00300000000",
-        "address": "6332 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6332   DOUGLAS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 185400,
-        "market_value": 185400,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087C00182000000",
-        "address": "5831 NICHOLSON ST",
+        "parcel_id": "0128J00003000000",
+        "address": "2625 BEECHWOOD BLVD",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5831   NICHOLSON ST",
+        "current_owner_name": "2625   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 186700,
-        "market_value": 204700,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 186300,
+        "market_value": 204300,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

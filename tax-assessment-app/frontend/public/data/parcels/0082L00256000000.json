@@ -174,6 +174,19 @@
     "parcel_id": "0082L00256000000",
     "comparables": [
       {
+        "parcel_id": "0123J00158000000",
+        "address": "1236 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1236   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103100,
+        "market_value": 121100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082F00173000000",
         "address": "1147 KING AVE",
         "city": "11102",
@@ -184,7 +197,20 @@
         "assessed_value": 102900,
         "market_value": 102900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123P00043000000",
+        "address": "6707 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6707   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104200,
+        "market_value": 122200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082L00259000000",
@@ -197,58 +223,32 @@
         "assessed_value": 104300,
         "market_value": 122300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082K00086000000",
-        "address": "1045 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1045   KING AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 102000,
-        "market_value": 120000,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082P00143000000",
-        "address": "5501 JACKSON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5501   JACKSON ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 102000,
-        "market_value": 120000,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0082K00079000000",
-        "address": "1109 KING AVE",
+        "parcel_id": "0124E00094000000",
+        "address": "6387 STANTON AVE",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "1101   KING AVE",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "6387   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 105000,
-        "market_value": 105000,
-        "assessed_value_change_pct": -1.3,
+        "assessed_value": 104400,
+        "market_value": 122400,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082K00083000000",
-        "address": "1101 KING AVE",
+        "parcel_id": "0082G00050000000",
+        "address": "N NEGLEY AVE",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "1112   KING AVE",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
         "acreage": null,
-        "assessed_value": 105000,
-        "market_value": 105000,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 102000,
+        "market_value": 102000,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

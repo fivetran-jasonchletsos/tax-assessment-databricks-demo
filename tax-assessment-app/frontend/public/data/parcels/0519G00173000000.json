@@ -174,6 +174,19 @@
     "parcel_id": "0519G00173000000",
     "comparables": [
       {
+        "parcel_id": "0114B00112000000",
+        "address": "613 BASCOM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "613   BASCOM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 98400,
+        "market_value": 116400,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0432G00232000000",
         "address": "111 HODIL RD",
         "city": "Ross",
@@ -184,7 +197,20 @@
         "assessed_value": 99100,
         "market_value": 99100,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0161P00112000000",
+        "address": "504 JOHN ST",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "1328   CHARTIERS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 98100,
+        "market_value": 98100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0519B00036000000",
@@ -197,7 +223,7 @@
         "assessed_value": 99400,
         "market_value": 117400,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0432G00240000000",
@@ -210,45 +236,19 @@
         "assessed_value": 99600,
         "market_value": 117600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0519F00204000000",
-        "address": "103 BLAZE DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "103   BLAZE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100000,
-        "market_value": 118000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0519C00037000000",
-        "address": "102 ALBINE DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "102   ALBINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100200,
-        "market_value": 118200,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0519B00030000000",
-        "address": "125 RENE DR",
+        "parcel_id": "0161P00122000000",
+        "address": "516 JOHN ST",
         "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "125   RENE DR",
+        "zip_code": "15212",
+        "current_owner_name": "516   JOHN ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 97000,
-        "market_value": 115000,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 99700,
+        "market_value": 117700,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

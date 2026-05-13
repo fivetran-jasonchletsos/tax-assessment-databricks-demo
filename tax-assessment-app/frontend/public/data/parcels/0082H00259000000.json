@@ -174,6 +174,45 @@
     "parcel_id": "0082H00259000000",
     "comparables": [
       {
+        "parcel_id": "0123E00070000000",
+        "address": "115 HIGH PARK PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "608   GLENGARY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 275500,
+        "market_value": 275500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123N00120000000",
+        "address": "1130 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1130   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 276100,
+        "market_value": 294100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00216000000",
+        "address": "925 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "925   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 276300,
+        "market_value": 294300,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082S00327000000",
         "address": "6219 WELLESLEY AVE",
         "city": "11101",
@@ -184,7 +223,20 @@
         "assessed_value": 276800,
         "market_value": 294800,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123E00034000000",
+        "address": "128 HIGH PARK PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "128   HIGH PARK PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 274200,
+        "market_value": 292200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082S00148000000",
@@ -197,58 +249,6 @@
         "assessed_value": 274000,
         "market_value": 274000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082S00120000000",
-        "address": "1000 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1000  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 273800,
-        "market_value": 291800,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082S00146000000",
-        "address": "1123 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1123   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 277900,
-        "market_value": 295900,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082M00387000000",
-        "address": "1410 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1410  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 272500,
-        "market_value": 290500,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082S00310000000",
-        "address": "1010 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1010   SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 279400,
-        "market_value": 297400,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

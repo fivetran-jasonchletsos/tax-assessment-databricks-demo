@@ -122,6 +122,19 @@
     "parcel_id": "0087D00121000000",
     "comparables": [
       {
+        "parcel_id": "0088C00004000000",
+        "address": "2846 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5048   FIFTH AVE  # 105",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 87000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087G00214000000",
         "address": "2345 ELDRIDGE ST",
         "city": "11403",
@@ -132,7 +145,7 @@
         "assessed_value": 72000,
         "market_value": 90000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0054D00006000000",
@@ -145,7 +158,7 @@
         "assessed_value": 72400,
         "market_value": 72400,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086S00082000000",
@@ -158,7 +171,7 @@
         "assessed_value": 68000,
         "market_value": 86000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087B00001000A00",
@@ -171,32 +184,19 @@
         "assessed_value": 67400,
         "market_value": 85400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00130000000",
-        "address": "5515 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6517   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 67000,
-        "market_value": 85000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087C00168000000",
-        "address": "5902 NICHOLSON ST",
+        "parcel_id": "0128N00101000000",
+        "address": "FERNWALD RD",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5902   NICHOLSON ST",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "414   GRANT ST  RM 215",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
         "acreage": null,
-        "assessed_value": 67000,
-        "market_value": 85000,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 73300,
+        "market_value": 73300,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

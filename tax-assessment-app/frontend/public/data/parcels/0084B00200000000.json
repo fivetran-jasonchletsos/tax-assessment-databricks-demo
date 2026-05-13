@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0084B00200000000",
+    "address": "5900 PENN AVE",
+    "city": "8th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6019   GRAFTON ST",
+    "current_mailing_address": "6019   GRAFTON ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 0.601,
+    "latitude": 40.4603,
+    "longitude": -79.91632
+  },
+  "assessments": {
+    "parcel_id": "0084B00200000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4700000,
+        "market_value": 4700000,
+        "land_value": 159400,
+        "improvement_value": 4540600,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 292044,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4700000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4407956,
+        "market_value": 4407956,
+        "land_value": 149495,
+        "improvement_value": 4258461,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 128387,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4407956,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4279569,
+        "market_value": 4279569,
+        "land_value": 145141,
+        "improvement_value": 4134428,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 83913,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4279569,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4195656,
+        "market_value": 4195656,
+        "land_value": 142295,
+        "improvement_value": 4053361,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 41541,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4195656,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4154115,
+        "market_value": 4154115,
+        "land_value": 140886,
+        "improvement_value": 4013229,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4154115,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4154115,
+        "market_value": 4154115,
+        "land_value": 140886,
+        "improvement_value": 4013229,
+        "land_value_percentage": 3.4,
+        "improvement_value_percentage": 96.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4154115,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084B00200000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084B00200000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-Jul-16",
+      "most_recent_appeal_date": "27-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8947-2016",
+        "filed_date": "27-Jul-16",
+        "hearing_date": "27-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 830000,
+        "requested_value": 830000,
+        "final_value": 830000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084B00200000000",
+    "comparables": [
+      {
+        "parcel_id": "0084B00210000000",
+        "address": "120 WHITFIELD ST",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "6015   STEVENSON PL",
+        "land_use_description": "HOTELS",
+        "acreage": null,
+        "assessed_value": 4650000,
+        "market_value": 4650000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084E00266000000",
+        "address": "5765 CENTRE AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1209   ORANGE ST",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 4603000,
+        "market_value": 13407600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084B00078000000",
+        "address": "121 S HIGHLAND AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 4550600,
+        "market_value": 4550600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051H00146000000",
+        "address": "5631 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "210   SIXTH AVE  STE 600",
+        "land_use_description": "SUPERMARKETS",
+        "acreage": null,
+        "assessed_value": 4499300,
+        "market_value": 4499300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051H00130000000",
+        "address": "5607 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "201   SIXTH AVE  STE 600",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 4945200,
+        "market_value": 4945200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051M00084000000",
+        "address": "5551 CENTRE AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15232",
+        "current_owner_name": "431   SHADY AVE",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 4360900,
+        "market_value": 4360900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

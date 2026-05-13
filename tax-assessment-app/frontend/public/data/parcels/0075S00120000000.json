@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0075S00120000000",
+    "address": "3190 MCCLURE AVE",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1020   AUTUMN WOODS DR",
+    "current_mailing_address": "1020   AUTUMN WOODS DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.065,
+    "latitude": 40.41836,
+    "longitude": -80.0666
+  },
+  "assessments": {
+    "parcel_id": "0075S00120000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "land_value": 2500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 114,
+        "assessed_value_change_pct": 4.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2386,
+        "market_value": 2386,
+        "land_value": 2386,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2386,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2386,
+        "market_value": 2386,
+        "land_value": 2386,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -25,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2386,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2411,
+        "market_value": 2411,
+        "land_value": 2411,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 114,
+        "assessed_value_change_pct": 4.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2411,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2297,
+        "market_value": 2297,
+        "land_value": 2297,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 88,
+        "assessed_value_change_pct": 3.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2297,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2209,
+        "market_value": 2209,
+        "land_value": 2209,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2209,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075S00120000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075S00120000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "2-Aug-17",
+      "most_recent_appeal_date": "2-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16162-2017",
+        "filed_date": "2-Aug-17",
+        "hearing_date": "2-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 5700,
+        "requested_value": 5700,
+        "final_value": 5700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0075S00120000000",
+    "comparables": [
+      {
+        "parcel_id": "0044D00078000000",
+        "address": "MCCLURE AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "5020   THOMS RUN RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0045A00294000000",
+        "address": "EDMUND WAY",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0075L00314000000",
+        "address": "3331 RUBRIC ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "416   THORN ST",
+        "land_use_description": "COMMUNITY URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0076J00337000000",
+        "address": "17 COURTRIGHT ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "17   COURTRIGHT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 20500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0076L00177000000",
+        "address": "SMITHTON AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "947   SMITHTON AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075S00119000000",
+        "address": "3190 MCCLURE AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1020   AUTUMN WOODS DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2550,
+        "market_value": 2550,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

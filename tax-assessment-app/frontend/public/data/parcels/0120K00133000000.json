@@ -122,6 +122,19 @@
     "parcel_id": "0120K00133000000",
     "comparables": [
       {
+        "parcel_id": "0120P00088000000",
+        "address": "5615 CAMELIA ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "3407   GARBETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 78600,
+        "market_value": 78600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080H00297000000",
         "address": "5233 STANTON AVE",
         "city": "11003",
@@ -132,7 +145,7 @@
         "assessed_value": 78700,
         "market_value": 96700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0081B00224000000",
@@ -145,7 +158,7 @@
         "assessed_value": 78700,
         "market_value": 78700,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080D00326000000",
@@ -158,7 +171,7 @@
         "assessed_value": 78800,
         "market_value": 78800,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0081B00230000000",
@@ -171,7 +184,7 @@
         "assessed_value": 78800,
         "market_value": 78800,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121G00118000000",
@@ -184,19 +197,6 @@
         "assessed_value": 78400,
         "market_value": 78400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081B00063000000",
-        "address": "5524 CAMELIA ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5522   CAMELIA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 78300,
-        "market_value": 78300,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

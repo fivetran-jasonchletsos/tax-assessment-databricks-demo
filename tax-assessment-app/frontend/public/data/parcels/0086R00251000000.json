@@ -174,6 +174,32 @@
     "parcel_id": "0086R00251000000",
     "comparables": [
       {
+        "parcel_id": "0087S00025000000",
+        "address": "2777 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2777   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 284200,
+        "market_value": 302200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128N00342000000",
+        "address": "214 ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "214   ANITA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 284500,
+        "market_value": 302500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087A00064000000",
         "address": "5403 GUARINO RD",
         "city": "11403",
@@ -184,7 +210,20 @@
         "assessed_value": 284600,
         "market_value": 302600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087M00192000000",
+        "address": "2750 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2750   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 283900,
+        "market_value": 301900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085M00242000000",
@@ -197,7 +236,7 @@
         "assessed_value": 285000,
         "market_value": 303000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087G00259000000",
@@ -210,45 +249,6 @@
         "assessed_value": 285000,
         "market_value": 285000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086P00109000000",
-        "address": "5660 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5660   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 283300,
-        "market_value": 301300,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00318000000",
-        "address": "5509 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5509   PHILLIPS AVE",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 283200,
-        "market_value": 301200,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087D00029000000",
-        "address": "2218 SHADY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "2218   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 283100,
-        "market_value": 283100,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

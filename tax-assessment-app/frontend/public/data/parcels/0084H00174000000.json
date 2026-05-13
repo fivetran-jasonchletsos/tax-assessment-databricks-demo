@@ -1,0 +1,214 @@
+{
+  "parcel": {
+    "parcel_id": "0084H00174000000",
+    "address": "6401 PENN AVE",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "712   MAIN ST  STE 2500",
+    "current_mailing_address": "712   MAIN ST  STE 2500",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMMUNITY SHOPPING CENTER",
+    "acreage": 6.604,
+    "latitude": 40.46222,
+    "longitude": -79.90132
+  },
+  "assessments": {
+    "parcel_id": "0084H00174000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 8408200,
+        "market_value": 8408200,
+        "land_value": 4200000,
+        "improvement_value": 4208200,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -117766,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8408200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8525966,
+        "market_value": 8525966,
+        "land_value": 4258825,
+        "improvement_value": 4267141,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 405998,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8525966,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8119968,
+        "market_value": 8119968,
+        "land_value": 4056024,
+        "improvement_value": 4063944,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 312306,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8119968,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 7807662,
+        "market_value": 7807662,
+        "land_value": 3900023,
+        "improvement_value": 3907639,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 227407,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7807662,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 7580255,
+        "market_value": 7580255,
+        "land_value": 3786431,
+        "improvement_value": 3793824,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 148632,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7580255,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 7431623,
+        "market_value": 7431623,
+        "land_value": 3712187,
+        "improvement_value": 3719436,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7431623,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084H00174000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084H00174000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jul-17",
+      "most_recent_appeal_date": "12-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16299-2017",
+        "filed_date": "12-Jul-17",
+        "hearing_date": "12-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 4991500,
+        "requested_value": 4991500,
+        "final_value": 4991500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0084H00174000000",
+    "comparables": [
+      {
+        "parcel_id": "0125A00325000000",
+        "address": "6435 FRANKSTOWN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 8514100,
+        "market_value": 8514100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125J00012000000",
+        "address": "156 BAKERY SQUARE BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 8103400,
+        "market_value": 8103400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171B00090000000",
+        "address": "200 DELAFIELD RD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15215",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 7158980,
+        "market_value": 15563000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0125N00290000000",
+        "address": "6565 PENN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 6758000,
+        "market_value": 6758000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0125J00050000000",
+        "address": "6555 PENN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 6448700,
+        "market_value": 6448700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      }
+    ]
+  }
+}

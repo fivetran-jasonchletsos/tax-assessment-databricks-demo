@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0126E00125000000",
+        "address": "527 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "1501   MORELAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 319100,
+        "market_value": 319100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128J00322000000",
+        "address": "2495 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "910   G ST NE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 321800,
+        "market_value": 321800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086R00158000000",
         "address": "5873 DOUGLAS ST",
         "city": "11403",
@@ -145,7 +171,20 @@
         "assessed_value": 322000,
         "market_value": 340000,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00087000000",
+        "address": "115 PHILLIPS PL",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "115   PHILLIPS PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 322200,
+        "market_value": 340200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00021000000",
@@ -158,45 +197,6 @@
         "assessed_value": 322300,
         "market_value": 322300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085H00017000100",
-        "address": "541 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "541   GETTYSBURG ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 318200,
-        "market_value": 336200,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085H00017000000",
-        "address": "539 GETTYSBURG ST",
-        "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "539   GETTYSBURG ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 318100,
-        "market_value": 336100,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00144000000",
-        "address": "5447 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5447   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 322500,
-        "market_value": 340500,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

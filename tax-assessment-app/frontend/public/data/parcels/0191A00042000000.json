@@ -122,6 +122,19 @@
     "parcel_id": "0191A00042000000",
     "comparables": [
       {
+        "parcel_id": "0142H00284000000",
+        "address": "308 COCHRAN RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "PO BOX 308",
+        "land_use_description": "DRIVE IN REST OR FOOD SERVICE",
+        "acreage": null,
+        "assessed_value": 234600,
+        "market_value": 234600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0251J00312000000",
         "address": "1430 MOHICAN DR",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 234500,
         "market_value": 252500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251N00006000000",
@@ -145,7 +158,33 @@
         "assessed_value": 234500,
         "market_value": 252500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0251R00116000000",
+        "address": "140 STILWELL CT",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "140   STILWELL CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 234500,
+        "market_value": 252500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252H00166000000",
+        "address": "1 CHEROKEE PL",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1   CHEROKEE PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 234700,
+        "market_value": 234700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0192G00222000000",
@@ -158,45 +197,6 @@
         "assessed_value": 234400,
         "market_value": 252400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0193G00018000000",
-        "address": "272 VEE LYNN DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "272   VEE LYNN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 234400,
-        "market_value": 252400,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193S00090000000",
-        "address": "91 WOODHAVEN DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "91   WOODHAVEN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 234800,
-        "market_value": 252800,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0193G00300000000",
-        "address": "136 MAYFAIR DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "136   MAYFAIR DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 234900,
-        "market_value": 252900,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

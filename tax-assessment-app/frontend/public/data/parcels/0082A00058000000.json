@@ -174,6 +174,32 @@
     "parcel_id": "0082A00058000000",
     "comparables": [
       {
+        "parcel_id": "0121N00018000000",
+        "address": "1617 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1617   JANCEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83800,
+        "market_value": 101800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121P00043000000",
+        "address": "1602 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "5449   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83800,
+        "market_value": 83800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082B00071000000",
         "address": "1202 CHISLETT ST",
         "city": "11003",
@@ -184,7 +210,7 @@
         "assessed_value": 83900,
         "market_value": 101900,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121G00290000000",
@@ -197,7 +223,20 @@
         "assessed_value": 83900,
         "market_value": 83900,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121K00343000000",
+        "address": "6913 BISHOP ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6913   BISHOP ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83900,
+        "market_value": 83900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00236000B00",
@@ -210,45 +249,6 @@
         "assessed_value": 83600,
         "market_value": 101600,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0081B00170000000",
-        "address": "4301 UPVIEW TER",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4301   UPVIEW TER",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 84000,
-        "market_value": 102000,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081E00170000000",
-        "address": "5421 MCCANDLESS AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5421   MCCANDLESS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 83600,
-        "market_value": 101600,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082A00239000000",
-        "address": "1228 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1228   JANCEY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 83600,
-        "market_value": 101600,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

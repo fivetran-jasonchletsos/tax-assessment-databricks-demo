@@ -145,6 +145,19 @@
     "parcel_id": "0028A00122000000",
     "comparables": [
       {
+        "parcel_id": "0028P00079000000",
+        "address": "372 LAWN ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "374   LAWN ST",
+        "land_use_description": "NURSING HOME/PRIVATE HOS",
+        "acreage": null,
+        "assessed_value": 224500,
+        "market_value": 224500,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0052J00196000000",
         "address": "4625 WINTHROP ST",
         "city": "10403",
@@ -155,7 +168,7 @@
         "assessed_value": 225000,
         "market_value": 225000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0027H00115000000",
@@ -168,7 +181,7 @@
         "assessed_value": 225800,
         "market_value": 243800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0028G00142000000",
@@ -181,7 +194,7 @@
         "assessed_value": 216600,
         "market_value": 216600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0028F00277000000",
@@ -194,7 +207,7 @@
         "assessed_value": 227000,
         "market_value": 227000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0028F00278000000",
@@ -207,19 +220,6 @@
         "assessed_value": 227000,
         "market_value": 227000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0028M00079000000",
-        "address": "3603 DAWSON ST",
-        "city": "10403",
-        "zip_code": "15213",
-        "current_owner_name": "PO BOX 82577",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 227000,
-        "market_value": 227000,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

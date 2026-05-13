@@ -174,6 +174,19 @@
     "parcel_id": "0085M00280000000",
     "comparables": [
       {
+        "parcel_id": "0128J00320000000",
+        "address": "2501 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2501   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 409600,
+        "market_value": 427600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087H00017000000",
         "address": "2309 SHADY AVE",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 411800,
         "market_value": 411800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128J00039000000",
+        "address": "133 WESTLAND DR",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "133   WESTLAND DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 412000,
+        "market_value": 430000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00032000000",
@@ -197,7 +223,20 @@
         "assessed_value": 412800,
         "market_value": 412800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087S00076000000",
+        "address": "6417 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6417   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 407300,
+        "market_value": 407300,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086N00269000000",
@@ -210,45 +249,6 @@
         "assessed_value": 407000,
         "market_value": 425000,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086S00117000000",
-        "address": "6352 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6352   DOUGLAS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 407000,
-        "market_value": 425000,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087E00001000000",
-        "address": "5411 POCUSSET ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5411   POCUSSET ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 414600,
-        "market_value": 432600,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00154000000",
-        "address": "5427 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5427   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 416000,
-        "market_value": 434000,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

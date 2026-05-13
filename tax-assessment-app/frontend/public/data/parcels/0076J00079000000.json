@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0076J00079000000",
+    "address": "9 MITCHELL ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 314",
+    "current_mailing_address": "PO BOX 314",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.031,
+    "latitude": 40.41896,
+    "longitude": -80.08028
+  },
+  "assessments": {
+    "parcel_id": "0076J00079000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20750,
+        "market_value": 20750,
+        "land_value": 5980,
+        "improvement_value": 14770,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -287,
+        "assessed_value_change_pct": -1.36,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20750,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 21037,
+        "market_value": 21037,
+        "land_value": 6062,
+        "improvement_value": 14975,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1001,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21037,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 20036,
+        "market_value": 20036,
+        "land_value": 5774,
+        "improvement_value": 14262,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 770,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20036,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 19266,
+        "market_value": 19266,
+        "land_value": 5552,
+        "improvement_value": 13714,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 561,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19266,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18705,
+        "market_value": 18705,
+        "land_value": 5390,
+        "improvement_value": 13315,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 366,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18705,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 18339,
+        "market_value": 18339,
+        "land_value": 5285,
+        "improvement_value": 13054,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18339,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076J00079000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076J00079000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Apr-19",
+      "most_recent_appeal_date": "10-Apr-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29831-2019",
+        "filed_date": "10-Apr-19",
+        "hearing_date": "10-Apr-19",
+        "appeal_status": "approved",
+        "original_value": 37500,
+        "requested_value": 37500,
+        "final_value": 37500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0076J00079000000",
+    "comparables": [
+      {
+        "parcel_id": "0044H00150000000",
+        "address": "HOLBROOK ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "18   MEIRSCH ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 20800,
+        "market_value": 20800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0044H00160000000",
+        "address": "2711 PITLER ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2711   PITLER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20800,
+        "market_value": 38800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0044H00201000000",
+        "address": "14 BOSTON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 15241",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 20700,
+        "market_value": 20700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0044M00123000000",
+        "address": "OHIO RIVER BLVD",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 20800,
+        "market_value": 20800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0045J00156000B00",
+        "address": "1300 GIFFORD ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1300   GIFFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20700,
+        "market_value": 38700,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045K00030000000",
+        "address": "1128 INGHAM ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1128   INGHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 20800,
+        "market_value": 38800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

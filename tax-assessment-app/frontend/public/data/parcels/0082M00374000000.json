@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123J00022000000",
+        "address": "1331 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1331   SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170100,
+        "market_value": 188100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082M00159000000",
         "address": "1233 N HIGHLAND AVE",
         "city": "11101",
@@ -197,7 +210,7 @@
         "assessed_value": 163100,
         "market_value": 163100,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082S00165000000",
@@ -210,7 +223,7 @@
         "assessed_value": 171100,
         "market_value": 189100,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082S00166000000",
@@ -223,7 +236,7 @@
         "assessed_value": 162000,
         "market_value": 180000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083D00119000000",
@@ -236,19 +249,6 @@
         "assessed_value": 162000,
         "market_value": 180000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083D00135000000",
-        "address": "920 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "2901   SMALLMAN ST   6G",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 161900,
-        "market_value": 161900,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

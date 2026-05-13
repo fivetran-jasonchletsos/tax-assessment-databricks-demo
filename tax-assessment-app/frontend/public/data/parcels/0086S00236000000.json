@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127N00063000000",
+        "address": "6545 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6545   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 532400,
+        "market_value": 532400,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0053D00074000000",
         "address": "1330 SQUIRREL HILL AVE",
         "city": "11401",
@@ -197,7 +210,20 @@
         "assessed_value": 532600,
         "market_value": 550600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088D00114000000",
+        "address": "2975 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2975   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 532600,
+        "market_value": 550600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086M00051000000",
@@ -210,7 +236,7 @@
         "assessed_value": 531300,
         "market_value": 549300,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086F00066000000",
@@ -223,32 +249,6 @@
         "assessed_value": 533100,
         "market_value": 551100,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086E00188000000",
-        "address": "5517 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5517   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 530800,
-        "market_value": 548800,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085N00139000000",
-        "address": "5463 MAYNARD ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5463   MAYNARD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 530400,
-        "market_value": 548400,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

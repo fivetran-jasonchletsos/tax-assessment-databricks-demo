@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127A00016000000",
+        "address": "6551 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1152  S NEGLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 137600,
+        "market_value": 137600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085P00045000000",
         "address": "1336 WIGHTMAN ST",
         "city": "11401",
@@ -145,7 +158,20 @@
         "assessed_value": 138700,
         "market_value": 138700,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127A00118000000",
+        "address": "6647 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6647   DALZELL PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 138700,
+        "market_value": 138700,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086H00183000000",
@@ -158,7 +184,7 @@
         "assessed_value": 136800,
         "market_value": 154800,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086B00005000000",
@@ -171,32 +197,6 @@
         "assessed_value": 140000,
         "market_value": 140000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086H00090000000",
-        "address": "1641 SHADY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5821   FORWARD AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 140000,
-        "market_value": 140000,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086H00220000000",
-        "address": "6401 FORBES AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "2100   WIGHTMAN ST",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 140900,
-        "market_value": 140900,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

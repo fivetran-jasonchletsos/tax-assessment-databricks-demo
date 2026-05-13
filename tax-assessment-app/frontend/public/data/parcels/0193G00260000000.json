@@ -122,6 +122,19 @@
     "parcel_id": "0193G00260000000",
     "comparables": [
       {
+        "parcel_id": "0141K00188000000",
+        "address": "714 ROSELAWN AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "421   COCHRAN RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 308000,
+        "market_value": 308000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0193F00064000000",
         "address": "208 VERNON DR",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 307900,
         "market_value": 325900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251E00180000000",
@@ -145,7 +158,7 @@
         "assessed_value": 308100,
         "market_value": 326100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0251K00120000000",
@@ -158,7 +171,20 @@
         "assessed_value": 308100,
         "market_value": 326100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252K00015000000",
+        "address": "325 INGLEWOOD DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "325   INGLEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 308100,
+        "market_value": 326100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0192K00112000000",
@@ -170,32 +196,6 @@
         "acreage": null,
         "assessed_value": 307700,
         "market_value": 325700,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0141P00212000000",
-        "address": "214 PENNSYLVANIA BLVD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "214   PENNSYLVANIA BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 308500,
-        "market_value": 308500,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0192J00050000000",
-        "address": "256 CONNECTING RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "256   CONNECTING RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 307500,
-        "market_value": 325500,
         "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }

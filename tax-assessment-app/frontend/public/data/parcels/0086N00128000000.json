@@ -174,6 +174,19 @@
     "parcel_id": "0086N00128000000",
     "comparables": [
       {
+        "parcel_id": "0126A00161000000",
+        "address": "219 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "324   OVERDALE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170000,
+        "market_value": 170000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085M00064000000",
         "address": "1231 DENNISTON ST",
         "city": "11402",
@@ -184,7 +197,7 @@
         "assessed_value": 170000,
         "market_value": 170000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086N00115000000",
@@ -197,7 +210,7 @@
         "assessed_value": 170000,
         "market_value": 170000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087K00086000000",
@@ -210,45 +223,32 @@
         "assessed_value": 170200,
         "market_value": 170200,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086N00055000000",
-        "address": "5509 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5509   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 170300,
-        "market_value": 170300,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0086N00074000000",
-        "address": "5514 BARTLETT ST",
+        "parcel_id": "0087L00288000000",
+        "address": "6309 MORROWFIELD AVE",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5514   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "101   MIDDLECREST DR",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 170400,
-        "market_value": 188400,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 170000,
+        "market_value": 170000,
+        "assessed_value_change_pct": 0.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087L00130000000",
-        "address": "2908 SHADY AVE",
+        "parcel_id": "0088C00114000000",
+        "address": "6443 ROSEMOOR ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "2908   SHADY AVE",
+        "current_owner_name": "6443   ROSEMOOR ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 169800,
-        "market_value": 187800,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 170000,
+        "market_value": 188000,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0222S00100000000",
+    "address": "611 SEIFRIED LN",
+    "city": "O''hara",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "1015   SHARPSHILL RD",
+    "current_mailing_address": "1015   SHARPSHILL RD",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "LIGHT MANUFACTURING",
+    "acreage": 0.564,
+    "latitude": 40.494,
+    "longitude": -79.91032
+  },
+  "assessments": {
+    "parcel_id": "0222S00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 22000,
+        "market_value": 22000,
+        "land_value": 17000,
+        "improvement_value": 5000,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 350,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 21650,
+        "market_value": 21650,
+        "land_value": 16729,
+        "improvement_value": 4921,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -219,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21650,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 21869,
+        "market_value": 21869,
+        "land_value": 16898,
+        "improvement_value": 4971,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1041,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21869,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 20828,
+        "market_value": 20828,
+        "land_value": 16094,
+        "improvement_value": 4734,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 801,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20828,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 20027,
+        "market_value": 20027,
+        "land_value": 15475,
+        "improvement_value": 4552,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 583,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20027,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 19444,
+        "market_value": 19444,
+        "land_value": 15024,
+        "improvement_value": 4420,
+        "land_value_percentage": 77.3,
+        "improvement_value_percentage": 22.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19444,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0222S00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0222S00100000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 8000,
+      "total_value_reduction": 8000,
+      "first_appeal_date": "26-Jun-17",
+      "most_recent_appeal_date": "26-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-17788-2017",
+        "filed_date": "26-Jun-17",
+        "hearing_date": "26-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 30000,
+        "requested_value": 30000,
+        "final_value": 22000,
+        "value_reduction": 8000,
+        "reduction_percentage": 26.67,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0222S00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0168F00230000000",
+        "address": "44 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "44   KITTANNING PIKE",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 20900,
+        "market_value": 20900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0357K00010000000",
+        "address": "1138 SAXONBURG BLVD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "325   FOX CHAPEL RD",
+        "land_use_description": "TOWNSHIP GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 20600,
+        "market_value": 20600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0435S00090000000",
+        "address": "SAXONBURG BLVD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "4060   GIBSONIA RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20100,
+        "market_value": 20100,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0224E00210000000",
+        "address": "252 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "252   KITTANNING PIKE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0357F00100000000",
+        "address": "1154 CALMWOOD RD",
+        "city": "O''hara",
+        "zip_code": "15116",
+        "current_owner_name": "1154   CALMWOOD RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 19600,
+        "market_value": 19600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0223D00082000000",
+        "address": "261 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "261   KITTANNING PIKE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 24400,
+        "market_value": 24400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

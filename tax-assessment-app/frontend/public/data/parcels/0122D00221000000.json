@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0122D00221000000",
+    "address": "305 1ST ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "511   CEDAR RUN RD",
+    "current_mailing_address": "511   CEDAR RUN RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.015,
+    "latitude": 40.51656,
+    "longitude": -79.91524
+  },
+  "assessments": {
+    "parcel_id": "0122D00221000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5300,
+        "market_value": 5300,
+        "land_value": 4700,
+        "improvement_value": 600,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 384,
+        "assessed_value_change_pct": 7.81,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4916,
+        "market_value": 4916,
+        "land_value": 4359,
+        "improvement_value": 557,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4916,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4868,
+        "market_value": 4868,
+        "land_value": 4316,
+        "improvement_value": 552,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4868,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4868,
+        "market_value": 4868,
+        "land_value": 4316,
+        "improvement_value": 552,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -50,
+        "assessed_value_change_pct": -1.02,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4868,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4918,
+        "market_value": 4918,
+        "land_value": 4361,
+        "improvement_value": 557,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 234,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4918,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4684,
+        "market_value": 4684,
+        "land_value": 4153,
+        "improvement_value": 531,
+        "land_value_percentage": 88.7,
+        "improvement_value_percentage": 11.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4684,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122D00221000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122D00221000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0122D00221000000",
+    "comparables": [
+      {
+        "parcel_id": "0169M00095000000",
+        "address": "CENTER AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "303   FREEPORT RD  UNIT B",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5100,
+        "market_value": 5100,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122D00338000000",
+        "address": "331 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "331   2ND ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 4000,
+        "market_value": 4000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

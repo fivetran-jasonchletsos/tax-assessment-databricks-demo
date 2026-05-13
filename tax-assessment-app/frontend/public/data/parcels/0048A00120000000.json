@@ -174,6 +174,19 @@
     "parcel_id": "0048A00120000000",
     "comparables": [
       {
+        "parcel_id": "0117F00100000000",
+        "address": "127 KLEMENTINA DR",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "127   KLEMENTINA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75100,
+        "market_value": 93100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0047D00244000000",
         "address": "1908 MELVINA ST",
         "city": "Reserve",
@@ -184,7 +197,7 @@
         "assessed_value": 75000,
         "market_value": 93000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0048A00136000000",
@@ -197,7 +210,7 @@
         "assessed_value": 75000,
         "market_value": 93000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0048E00024000000",
@@ -210,45 +223,32 @@
         "assessed_value": 75000,
         "market_value": 75000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0047D00216000000",
-        "address": "2319 MOUNT TROY RD",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "2319   MOUNT TROY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 74600,
-        "market_value": 92600,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0048A00034000000",
-        "address": "13 HIGHLAND AVE",
+        "parcel_id": "0078G00010000000",
+        "address": "3029 MOUNT TROY RD",
         "city": "Reserve",
         "zip_code": "15212",
-        "current_owner_name": "13   HIGHLAND AVE",
+        "current_owner_name": "3029   MOUNT TROY RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 74100,
-        "market_value": 92100,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 75200,
+        "market_value": 93200,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0047H00355000000",
-        "address": "1958 W BECKERT AVE",
+        "parcel_id": "0078M00074000000",
+        "address": "2717 EDISON ST",
         "city": "Reserve",
         "zip_code": "15212",
-        "current_owner_name": "513   NORTHVIEW DR",
+        "current_owner_name": "2717   EDISON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 76900,
-        "market_value": 76900,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 74900,
+        "market_value": 92900,
+        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

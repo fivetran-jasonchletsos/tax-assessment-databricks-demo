@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0252A00254000000",
+        "address": "1297 CEDAR BLVD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1297   CEDAR BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 111500,
+        "market_value": 129500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0141M00025000000",
         "address": "267 SCOTT RD",
         "city": "Mt.lebanon",
@@ -197,7 +210,7 @@
         "assessed_value": 111200,
         "market_value": 111200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0141M00375000000",
@@ -210,7 +223,20 @@
         "assessed_value": 111200,
         "market_value": 129200,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0141F00081000000",
+        "address": "123 CENTRAL SQ",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "966   SUMMER PL",
+        "land_use_description": "DWG USED AS OFFICE",
+        "acreage": null,
+        "assessed_value": 111700,
+        "market_value": 111700,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141J00025020300",
@@ -223,32 +249,6 @@
         "assessed_value": 111100,
         "market_value": 129100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0141J00025020900",
-        "address": "750 WASHINGTON RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "750   WASHINGTON RD  APT 209",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 111100,
-        "market_value": 129100,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141C00291000000",
-        "address": "740 SCOTT RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "740   SCOTT RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 111800,
-        "market_value": 129800,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

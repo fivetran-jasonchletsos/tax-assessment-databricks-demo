@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0129A00138000000",
+    "address": "1228 FAIRSTEAD LN",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1228   FAIRSTEAD LN",
+    "current_mailing_address": "1228   FAIRSTEAD LN",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.076,
+    "latitude": 40.41988,
+    "longitude": -79.91186
+  },
+  "assessments": {
+    "parcel_id": "0129A00138000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 495700,
+        "market_value": 495700,
+        "land_value": 116200,
+        "improvement_value": 379500,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6940,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 495700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 502640,
+        "market_value": 502640,
+        "land_value": 117826,
+        "improvement_value": 384814,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23935,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 502640,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 478705,
+        "market_value": 478705,
+        "land_value": 112216,
+        "improvement_value": 366489,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18411,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 478705,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 460294,
+        "market_value": 460294,
+        "land_value": 107900,
+        "improvement_value": 352394,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13406,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 460294,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 446888,
+        "market_value": 446888,
+        "land_value": 104757,
+        "improvement_value": 342131,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8762,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 446888,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 438126,
+        "market_value": 438126,
+        "land_value": 102703,
+        "improvement_value": 335423,
+        "land_value_percentage": 23.4,
+        "improvement_value_percentage": 76.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 438126,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0129A00138000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0129A00138000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jul-19",
+      "most_recent_appeal_date": "26-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30527-2019",
+        "filed_date": "26-Jul-19",
+        "hearing_date": "26-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 302900,
+        "requested_value": 302900,
+        "final_value": 414700,
+        "value_reduction": 0,
+        "reduction_percentage": -36.91,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0129A00138000000",
+    "comparables": [
+      {
+        "parcel_id": "0088M00088000000",
+        "address": "149 BEARDSLEY LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "149   BEARDSLEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 495800,
+        "market_value": 513800,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088M00126000000",
+        "address": "1686 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1686   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 495600,
+        "market_value": 513600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0085N00047000000",
+        "address": "5449 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5449   FAIR OAKS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 495100,
+        "market_value": 513100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088L00121000000",
+        "address": "1753 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1753   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 494800,
+        "market_value": 512800,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127N00187000000",
+        "address": "2234 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2234   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 494800,
+        "market_value": 512800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0053D00056000000",
+        "address": "1236 SQUIRREL HILL AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1236   SQUIRREL HILL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 494600,
+        "market_value": 512600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

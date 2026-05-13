@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0121E00057000000",
+    "address": "PREMO ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6641   PREMO ST",
+    "current_mailing_address": "6641   PREMO ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.037,
+    "latitude": 40.4609,
+    "longitude": -79.906
+  },
+  "assessments": {
+    "parcel_id": "0121E00057000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 700,
+        "market_value": 700,
+        "land_value": 700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 53,
+        "assessed_value_change_pct": 8.19,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 647,
+        "market_value": 647,
+        "land_value": 647,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6,
+        "assessed_value_change_pct": 0.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 647,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 641,
+        "market_value": 641,
+        "land_value": 641,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 641,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 641,
+        "market_value": 641,
+        "land_value": 641,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7,
+        "assessed_value_change_pct": -1.08,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 641,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 648,
+        "market_value": 648,
+        "land_value": 648,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30,
+        "assessed_value_change_pct": 4.85,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 648,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 618,
+        "market_value": 618,
+        "land_value": 618,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 618,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121E00057000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121E00057000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0121E00057000000",
+    "comparables": [
+      {
+        "parcel_id": "0081A00098000000",
+        "address": "WICKLIFF ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "255   LITTLE YELLOW CREEK RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0120H00134000000",
+        "address": "BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5750   BAUM BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120H00135000000",
+        "address": "BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "3101  W LIBERTY AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120L00038000000",
+        "address": "JOHNSON ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120P00146000000",
+        "address": "57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "248   57 TH ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0120R00046000000",
+        "address": "PREMIER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 700,
+        "market_value": 700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

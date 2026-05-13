@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0124A00300000000",
+    "address": "6453 STANTON AVE",
+    "city": "11102",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6445   STANTON AVE",
+    "current_mailing_address": "6445   STANTON AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.123,
+    "latitude": 40.4837,
+    "longitude": -79.91788
+  },
+  "assessments": {
+    "parcel_id": "0124A00300000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100200,
+        "market_value": 100200,
+        "land_value": 65099,
+        "improvement_value": 35101,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1401,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 101601,
+        "market_value": 101601,
+        "land_value": 66010,
+        "improvement_value": 35591,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4838,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101601,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 96763,
+        "market_value": 96763,
+        "land_value": 62866,
+        "improvement_value": 33897,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3721,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96763,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 93042,
+        "market_value": 93042,
+        "land_value": 60449,
+        "improvement_value": 32593,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2709,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93042,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 90333,
+        "market_value": 90333,
+        "land_value": 58689,
+        "improvement_value": 31644,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1771,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 90333,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88562,
+        "market_value": 88562,
+        "land_value": 57538,
+        "improvement_value": 31024,
+        "land_value_percentage": 65.0,
+        "improvement_value_percentage": 35.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88562,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0124A00300000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0124A00300000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 51100,
+      "total_value_reduction": 51100,
+      "first_appeal_date": "23-May-17",
+      "most_recent_appeal_date": "23-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16749-2017",
+        "filed_date": "23-May-17",
+        "hearing_date": "23-May-17",
+        "appeal_status": "approved",
+        "original_value": 151300,
+        "requested_value": 151300,
+        "final_value": 100200,
+        "value_reduction": 51100,
+        "reduction_percentage": 33.77,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0124A00300000000",
+    "comparables": [
+      {
+        "parcel_id": "0082K00105000000",
+        "address": "1005 KING AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1005   KING AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100200,
+        "market_value": 118200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0082H00179000100",
+        "address": "1458 N EUCLID AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1458  N EUCLID AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100400,
+        "market_value": 118400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082K00063000000",
+        "address": "5444 HAMPTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "5444   HAMPTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100400,
+        "market_value": 118400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082K00075000000",
+        "address": "1121 KING AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1101   KING AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0082M00049000000",
+        "address": "5819 ELGIN ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "5819   ELGIN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0083D00242000000",
+        "address": "831 HEBERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1305  N HIGHLAND AVE  APT 3",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 100800,
+        "market_value": 100800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

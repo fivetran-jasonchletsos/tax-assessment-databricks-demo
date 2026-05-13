@@ -122,6 +122,19 @@
     "parcel_id": "0055G00208000000",
     "comparables": [
       {
+        "parcel_id": "0087N00279000000",
+        "address": "4149 WINDSOR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4149   WINDSOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101100,
+        "market_value": 119100,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0054S00160000000",
         "address": "756 GRAPHIC ST",
         "city": "11502",
@@ -132,7 +145,7 @@
         "assessed_value": 101200,
         "market_value": 101200,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0054S00163000000",
@@ -145,7 +158,7 @@
         "assessed_value": 101200,
         "market_value": 101200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0055C00274000000",
@@ -158,45 +171,32 @@
         "assessed_value": 101200,
         "market_value": 101200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0054M00029000000",
-        "address": "851 MIRROR ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "PO BOX 81101",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101400,
-        "market_value": 101400,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0054S00057000A00",
-        "address": "814 GREENFIELD AVE",
+        "parcel_id": "0088A00027000000",
+        "address": "770 LORETTA ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "814   GREENFIELD AVE",
+        "current_owner_name": "770   LORETTA ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 101400,
-        "market_value": 119400,
-        "assessed_value_change_pct": 2.7,
+        "assessed_value": 101000,
+        "market_value": 119000,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0054S00301000000",
-        "address": "725 GRAPHIC ST",
+        "parcel_id": "0088A00230000000",
+        "address": "960 GREENFIELD AVE",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "3009   CLAIRTON RD",
+        "current_owner_name": "960   GREENFIELD AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 100800,
-        "market_value": 100800,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 101200,
+        "market_value": 119200,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

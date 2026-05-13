@@ -174,6 +174,19 @@
     "parcel_id": "0520E00142000000",
     "comparables": [
       {
+        "parcel_id": "0614S00178000000",
+        "address": "319 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "319   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 295800,
+        "market_value": 313800,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0434L00211000000",
         "address": "910 SPENCER RIDGE DR",
         "city": "Shaler",
@@ -184,7 +197,46 @@
         "assessed_value": 296000,
         "market_value": 314000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0614M00314000000",
+        "address": "300 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "300   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 295400,
+        "market_value": 313400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0520M00298000000",
+        "address": "1005 8TH AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1005   8TH AVE",
+        "land_use_description": "FOOD & DRINK PROCESSING",
+        "acreage": null,
+        "assessed_value": 295000,
+        "market_value": 295000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434F00045000000",
+        "address": "1634 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "4010   DRAGON ROUGE DR",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 297000,
+        "market_value": 297000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0434G00107000000",
@@ -197,58 +249,6 @@
         "assessed_value": 293900,
         "market_value": 311900,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0434K00004000000",
-        "address": "1654 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "PO BOX 266",
-        "land_use_description": "WAREHOUSE",
-        "acreage": null,
-        "assessed_value": 293600,
-        "market_value": 293600,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0433S00016000000",
-        "address": "1932 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1932   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 298000,
-        "market_value": 316000,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0354C00224000000",
-        "address": "480 MCELHENY RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "480   MCELHENY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 293200,
-        "market_value": 311200,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0435J00027000000",
-        "address": "314 HOLLY RIDGE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "314   HOLLY RIDGE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 298600,
-        "market_value": 316600,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

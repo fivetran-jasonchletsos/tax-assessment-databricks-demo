@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0124P00098000000",
+    "address": "501 WINFIELD ST",
+    "city": "11203",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "17743   FRANKSTOWN RD",
+    "current_mailing_address": "17743   FRANKSTOWN RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.061,
+    "latitude": 40.46318,
+    "longitude": -79.91644
+  },
+  "assessments": {
+    "parcel_id": "0124P00098000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 15700,
+        "market_value": 15700,
+        "land_value": 3800,
+        "improvement_value": 11900,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 251,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 15449,
+        "market_value": 15449,
+        "land_value": 3739,
+        "improvement_value": 11710,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -157,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15449,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 15606,
+        "market_value": 15606,
+        "land_value": 3777,
+        "improvement_value": 11829,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 743,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15606,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 14863,
+        "market_value": 14863,
+        "land_value": 3597,
+        "improvement_value": 11266,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 571,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14863,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 14292,
+        "market_value": 14292,
+        "land_value": 3459,
+        "improvement_value": 10833,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 416,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14292,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 13876,
+        "market_value": 13876,
+        "land_value": 3358,
+        "improvement_value": 10518,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13876,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0124P00098000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0124P00098000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 24500,
+      "total_value_reduction": 24500,
+      "first_appeal_date": "7-May-18",
+      "most_recent_appeal_date": "7-May-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23593-2018",
+        "filed_date": "7-May-18",
+        "hearing_date": "7-May-18",
+        "appeal_status": "approved",
+        "original_value": 40200,
+        "requested_value": 40200,
+        "final_value": 15700,
+        "value_reduction": 24500,
+        "reduction_percentage": 60.95,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0124P00098000000",
+    "comparables": [
+      {
+        "parcel_id": "0124K00113000000",
+        "address": "631 THOMPSON ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "624   THOMPSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15700,
+        "market_value": 15700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124K00197000000",
+        "address": "624 THOMPSON ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "624   THOMPSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15700,
+        "market_value": 33700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084D00006000000",
+        "address": "404 ENRIGHT CT",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "404   ENRIGHT CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 15800,
+        "market_value": 33800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124J00215000000",
+        "address": "555 LARIMER AVE",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 15600,
+        "market_value": 15600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124K00164000000",
+        "address": "120 SHETLAND ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "120   SHETLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15600,
+        "market_value": 33600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124P00066000000",
+        "address": "548 PAULSON AVE",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "548   PAULSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15600,
+        "market_value": 33600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

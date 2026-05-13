@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "0088F00010000000",
+    "address": "718 HAZELWOOD AVE",
+    "city": "15th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "718   HAZELWOOD AVE",
+    "current_mailing_address": "718   HAZELWOOD AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CEMETERY/MONUMENTS",
+    "acreage": 0.518,
+    "latitude": 40.41964,
+    "longitude": -79.92014
+  },
+  "assessments": {
+    "parcel_id": "0088F00010000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 28100,
+        "market_value": 28100,
+        "land_value": 16900,
+        "improvement_value": 11200,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1748,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 26352,
+        "market_value": 26352,
+        "land_value": 15848,
+        "improvement_value": 10504,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 767,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26352,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 25585,
+        "market_value": 25585,
+        "land_value": 15387,
+        "improvement_value": 10198,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 501,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25585,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 25084,
+        "market_value": 25084,
+        "land_value": 15086,
+        "improvement_value": 9998,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 248,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25084,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 24836,
+        "market_value": 24836,
+        "land_value": 14936,
+        "improvement_value": 9900,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24836,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 24836,
+        "market_value": 24836,
+        "land_value": 14936,
+        "improvement_value": 9900,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24836,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088F00010000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088F00010000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "25-Sep-17",
+      "most_recent_appeal_date": "25-Sep-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16425-2017",
+        "filed_date": "25-Sep-17",
+        "hearing_date": "25-Sep-17",
+        "appeal_status": "approved",
+        "original_value": 28100,
+        "requested_value": 28100,
+        "final_value": 28100,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088F00010000000",
+    "comparables": []
+  }
+}

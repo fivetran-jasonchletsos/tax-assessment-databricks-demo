@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0055D00076000A00",
+    "address": "MCCASLIN ST",
+    "city": "11502",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "4164   BEEHNER RD",
+    "current_mailing_address": "4164   BEEHNER RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.005,
+    "latitude": 40.42216,
+    "longitude": -79.92962
+  },
+  "assessments": {
+    "parcel_id": "0055D00076000A00",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 900,
+        "market_value": 900,
+        "land_value": 900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 58,
+        "assessed_value_change_pct": 6.89,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 842,
+        "market_value": 842,
+        "land_value": 842,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24,
+        "assessed_value_change_pct": 2.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 842,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 818,
+        "market_value": 818,
+        "land_value": 818,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 818,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 802,
+        "market_value": 802,
+        "land_value": 802,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7,
+        "assessed_value_change_pct": 0.88,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 802,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 795,
+        "market_value": 795,
+        "land_value": 795,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 795,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 795,
+        "market_value": 795,
+        "land_value": 795,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 795,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0055D00076000A00",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0055D00076000A00",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0055D00076000A00",
+    "comparables": [
+      {
+        "parcel_id": "0054S00150000000",
+        "address": "GRAPHIC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "728   GRAPHIC ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0054S00231000000",
+        "address": "KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "3009   CLAIRTON RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0055H00108000000",
+        "address": "MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "659   MONTCLAIR ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0055H00130000000",
+        "address": "707 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "6   REEDER PL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088A00131000000",
+        "address": "MELBOURNE ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "751   MELBOURNE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0088A00172000000",
+        "address": "923 DEELY ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "320   LAUREL ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 900,
+        "market_value": 900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

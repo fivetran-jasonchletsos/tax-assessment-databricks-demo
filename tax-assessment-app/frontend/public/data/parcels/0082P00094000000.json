@@ -122,6 +122,19 @@
     "parcel_id": "0082P00094000000",
     "comparables": [
       {
+        "parcel_id": "0123N00225000000",
+        "address": "1122 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1122   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 162000,
+        "market_value": 180000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082G00126000E00",
         "address": "5657 CALLOWHILL ST",
         "city": "11102",
@@ -132,7 +145,7 @@
         "assessed_value": 161000,
         "market_value": 161000,
         "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082G00210000000",
@@ -145,58 +158,45 @@
         "assessed_value": 162500,
         "market_value": 162500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082P00050000000",
-        "address": "5553 AVONDALE PL",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5553   AVONDALE PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 160000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0082P00088000000",
-        "address": "5524 AVONDALE PL",
+        "parcel_id": "0123N00227000000",
+        "address": "1120 WINTERTON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5517   AVONDALE PL",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "1120   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 159800,
-        "market_value": 159800,
-        "assessed_value_change_pct": -0.3,
+        "assessed_value": 160900,
+        "market_value": 178900,
+        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0082P00131000000",
-        "address": "5535 JACKSON ST",
+        "parcel_id": "0124B00035000000",
+        "address": "6467 STANTON AVE",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5535   JACKSON ST",
+        "current_owner_name": "6467   STANTON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 163800,
-        "market_value": 181800,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 162800,
+        "market_value": 180800,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082P00100000000",
-        "address": "5552 AVONDALE PL",
+        "parcel_id": "0123N00240000000",
+        "address": "1018 WINTERTON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "1501   ARDMORE BLVD  STE 400",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "2548   ROYAL VIEW DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 164000,
-        "market_value": 164000,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 160400,
+        "market_value": 160400,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

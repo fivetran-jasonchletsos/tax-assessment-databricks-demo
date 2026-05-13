@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087S00133000000",
+        "address": "6474 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6474   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142700,
+        "market_value": 160700,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085M00264000000",
         "address": "629 HASTINGS ST",
         "city": "11403",
@@ -145,7 +158,7 @@
         "assessed_value": 142200,
         "market_value": 160200,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00111000000",
@@ -158,7 +171,20 @@
         "assessed_value": 142800,
         "market_value": 160800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00154000000",
+        "address": "6418 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "331   DEWEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 142200,
+        "market_value": 160200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00068000000",
@@ -171,32 +197,6 @@
         "assessed_value": 142900,
         "market_value": 160900,
         "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00248000000",
-        "address": "5506 COVODE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5506   COVODE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142900,
-        "market_value": 160900,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087C00203000000",
-        "address": "5820 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5820   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0121F00146000000",
+    "address": "6640 MARIETTA ST",
+    "city": "11003",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "5718   ELGIN ST",
+    "current_mailing_address": "5718   ELGIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.151,
+    "latitude": 40.4609,
+    "longitude": -79.90672
+  },
+  "assessments": {
+    "parcel_id": "0121F00146000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "land_value": 4400,
+        "improvement_value": 10600,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1084,
+        "assessed_value_change_pct": 7.79,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 13916,
+        "market_value": 13916,
+        "land_value": 4082,
+        "improvement_value": 9834,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 137,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13916,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 13779,
+        "market_value": 13779,
+        "land_value": 4041,
+        "improvement_value": 9738,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13779,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 13779,
+        "market_value": 13779,
+        "land_value": 4041,
+        "improvement_value": 9738,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -140,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13779,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 13919,
+        "market_value": 13919,
+        "land_value": 4082,
+        "improvement_value": 9837,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 662,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13919,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 13257,
+        "market_value": 13257,
+        "land_value": 3888,
+        "improvement_value": 9369,
+        "land_value_percentage": 29.3,
+        "improvement_value_percentage": 70.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13257,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0121F00146000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0121F00146000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-May-16",
+      "most_recent_appeal_date": "3-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9306-2016",
+        "filed_date": "3-May-16",
+        "hearing_date": "3-May-16",
+        "appeal_status": "approved",
+        "original_value": 45700,
+        "requested_value": 45700,
+        "final_value": 45700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0121F00146000000",
+    "comparables": [
+      {
+        "parcel_id": "0080D00165000000",
+        "address": "5224 NATRONA WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "451   DORSEYVILLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0081A00115000000",
+        "address": "54TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "167   DEXTER DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121E00049000000",
+        "address": "6620 BAKER ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "5115   CORAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080D00190000000",
+        "address": "5259 KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5259   KEYSTONE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 15200,
+        "market_value": 33200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080H00223000L00",
+        "address": "800 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5515   PENN AVE  STE 100",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14700,
+        "market_value": 14700,
+        "assessed_value_change_pct": 1.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0119S00125000A00",
+        "address": "5315 DRESDEN WAY",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5315   DRESDEN WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 15300,
+        "market_value": 33300,
+        "assessed_value_change_pct": 2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

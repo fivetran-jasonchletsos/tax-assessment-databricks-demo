@@ -174,6 +174,19 @@
     "parcel_id": "0087F00219000000",
     "comparables": [
       {
+        "parcel_id": "0088D00024000000",
+        "address": "2961 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6372   BURCHFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114600,
+        "market_value": 132600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087C00098000000",
         "address": "2316 MURRAY AVE",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 114200,
         "market_value": 114200,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087F00063000000",
@@ -197,7 +210,7 @@
         "assessed_value": 115000,
         "market_value": 115000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00103000000",
@@ -210,7 +223,7 @@
         "assessed_value": 113800,
         "market_value": 131800,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087C00009000000",
@@ -223,32 +236,19 @@
         "assessed_value": 113700,
         "market_value": 131700,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00328000000",
-        "address": "5535 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5535   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 113500,
-        "market_value": 131500,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087F00057000000",
-        "address": "2210 WIGHTMAN ST",
+        "parcel_id": "0087S00256000000",
+        "address": "2875 FERNWALD RD",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "2210   WIGHTMAN ST",
+        "current_owner_name": "2875   FERNWALD RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 113500,
-        "market_value": 131500,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 113600,
+        "market_value": 113600,
+        "assessed_value_change_pct": 0.7,
         "distance_miles": 1.1
       }
     ]

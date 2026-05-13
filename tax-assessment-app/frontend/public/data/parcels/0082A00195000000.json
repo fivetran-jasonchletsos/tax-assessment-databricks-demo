@@ -174,6 +174,19 @@
     "parcel_id": "0082A00195000000",
     "comparables": [
       {
+        "parcel_id": "0121P00056000000",
+        "address": "1449 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1449   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 183600,
+        "market_value": 183600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080D00335000000",
         "address": "5316 HOLMES ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 184500,
         "market_value": 184500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0080H00143000100",
@@ -197,7 +210,20 @@
         "assessed_value": 184900,
         "market_value": 202900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121L00096000000",
+        "address": "6940 BISHOP ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6940   BISHOP ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 184900,
+        "market_value": 202900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080G00198000000",
@@ -210,7 +236,7 @@
         "assessed_value": 185000,
         "market_value": 185000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080G00212000000",
@@ -223,32 +249,6 @@
         "assessed_value": 185100,
         "market_value": 185100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081B00284000000",
-        "address": "4324 STANTON AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4324   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 182300,
-        "market_value": 200300,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082J00301000000",
-        "address": "920 HIGHVIEW ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "920   HIGHVIEW ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 182300,
-        "market_value": 200300,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

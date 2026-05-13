@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0028J00018000000",
+        "address": "1 ROBINSON ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1   ROBINSON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 29900,
+        "market_value": 47900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028A00061000000",
+        "address": "258 ROBINSON ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "258   ROBINSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 29700,
+        "market_value": 29700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0028A00022000000",
         "address": "215 ROBINSON ST",
         "city": "10402",
@@ -210,45 +236,19 @@
         "assessed_value": 32400,
         "market_value": 50400,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0011D00032000000",
-        "address": "3143 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "1923   MARY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 32700,
-        "market_value": 32700,
-        "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0028A00085000000",
-        "address": "212 ROBINSON ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "212   ROBINSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 32800,
-        "market_value": 50800,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0011H00070000000",
-        "address": "129 BURROWS ST",
+        "parcel_id": "0028A00025000000",
+        "address": "221 ROBINSON ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "1709   ST JOHNS LN",
+        "current_owner_name": "221   ROBINSON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 33100,
-        "market_value": 51100,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value": 29600,
+        "market_value": 47600,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

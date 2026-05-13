@@ -174,6 +174,19 @@
     "parcel_id": "0052S00296000000",
     "comparables": [
       {
+        "parcel_id": "0127N00115000000",
+        "address": "6550 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6550   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 877100,
+        "market_value": 895100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085S00236000000",
         "address": "1437 BEECHWOOD BLVD",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 873200,
         "market_value": 891200,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0053D00039000000",
@@ -197,7 +210,7 @@
         "assessed_value": 872800,
         "market_value": 890800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0052S00216000000",
@@ -210,7 +223,7 @@
         "assessed_value": 871800,
         "market_value": 871800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052S00267000000",
@@ -223,7 +236,7 @@
         "assessed_value": 882000,
         "market_value": 900000,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053D00078000000",
@@ -236,19 +249,6 @@
         "assessed_value": 869250,
         "market_value": 887250,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085B00028000000",
-        "address": "22 WOODLAND RD",
-        "city": "11401",
-        "zip_code": "15232",
-        "current_owner_name": "22   WOODLAND RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 868500,
-        "market_value": 886500,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

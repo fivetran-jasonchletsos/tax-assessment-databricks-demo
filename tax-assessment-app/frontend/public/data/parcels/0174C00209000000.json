@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0174C00209000000",
+    "address": "1318 OBERLIN ST",
+    "city": "Penn Hills",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1318   OBERLIN ST",
+    "current_mailing_address": "1318   OBERLIN ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.082,
+    "latitude": 40.4615,
+    "longitude": -79.90504
+  },
+  "assessments": {
+    "parcel_id": "0174C00209000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32000,
+        "market_value": 50000,
+        "land_value": 10300,
+        "improvement_value": 21700,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 509,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 31491,
+        "market_value": 49204,
+        "land_value": 10136,
+        "improvement_value": 21355,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": -319,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13491,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31810,
+        "market_value": 49703,
+        "land_value": 10238,
+        "improvement_value": 21572,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 1514,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13810,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30296,
+        "market_value": 47337,
+        "land_value": 9751,
+        "improvement_value": 20545,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 1165,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12296,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29131,
+        "market_value": 45517,
+        "land_value": 9376,
+        "improvement_value": 19755,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 848,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11131,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28283,
+        "market_value": 44192,
+        "land_value": 9103,
+        "improvement_value": 19180,
+        "land_value_percentage": 32.2,
+        "improvement_value_percentage": 67.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10283,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0174C00209000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0174C00209000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0174C00209000000",
+    "comparables": [
+      {
+        "parcel_id": "0174C00208000000",
+        "address": "1322 OBERLIN ST",
+        "city": "Penn Hills",
+        "zip_code": "15206",
+        "current_owner_name": "2504   10TH ST  APT 106",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37200,
+        "market_value": 37200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0174C00213000000",
+        "address": "1304 OBERLIN ST",
+        "city": "Penn Hills",
+        "zip_code": "15206",
+        "current_owner_name": "7013   LEMINGTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39200,
+        "market_value": 39200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

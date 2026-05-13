@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025N0010100A100",
+    "address": "2552 SMALLMAN ST",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "3945   FORBES AVE  # 426",
+    "current_mailing_address": "3945   FORBES AVE  # 426",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM UNIT",
+    "acreage": null,
+    "latitude": 40.4387,
+    "longitude": -79.98646
+  },
+  "assessments": {
+    "parcel_id": "0025N0010100A100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 28000,
+        "market_value": 28000,
+        "land_value": 0,
+        "improvement_value": 28000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1249,
+        "assessed_value_change_pct": 4.67,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 26751,
+        "market_value": 26751,
+        "land_value": 0,
+        "improvement_value": 26751,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26751,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 26751,
+        "market_value": 26751,
+        "land_value": 0,
+        "improvement_value": 26751,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -271,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26751,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27022,
+        "market_value": 27022,
+        "land_value": 0,
+        "improvement_value": 27022,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1286,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27022,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 25736,
+        "market_value": 25736,
+        "land_value": 0,
+        "improvement_value": 25736,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 989,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25736,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 24747,
+        "market_value": 24747,
+        "land_value": 0,
+        "improvement_value": 24747,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24747,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025N0010100A100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025N0010100A100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 14700,
+      "total_value_reduction": 14700,
+      "first_appeal_date": "3-Dec-20",
+      "most_recent_appeal_date": "3-Dec-20",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29187-2019",
+        "filed_date": "3-Dec-20",
+        "hearing_date": "3-Dec-20",
+        "appeal_status": "approved",
+        "original_value": 35000,
+        "requested_value": 35000,
+        "final_value": 20300,
+        "value_reduction": 14700,
+        "reduction_percentage": 42.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025N0010100A100",
+    "comparables": [
+      {
+        "parcel_id": "0009D00268000000",
+        "address": "WATERFRONT PL",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 28100,
+        "market_value": 28100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0008S00148000000",
+        "address": "701 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "803   LIBERTY AVE",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 28700,
+        "market_value": 28700,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025P00250000A00",
+        "address": "LIBERTY AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 26800,
+        "market_value": 26800,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001C016610W2100",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "207   WASHINGTON RD",
+        "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+        "acreage": null,
+        "assessed_value": 29800,
+        "market_value": 29800,
+        "assessed_value_change_pct": 3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001C01661011400",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2132   SEMMES AVE",
+        "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+        "acreage": null,
+        "assessed_value": 30000,
+        "market_value": 30000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009G00204000000",
+        "address": "WATERFRONT PL",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 30000,
+        "market_value": 30000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

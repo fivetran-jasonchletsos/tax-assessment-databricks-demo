@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00066000000",
+    "address": "BURROWS ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "294   SEMPLE ST",
+    "current_mailing_address": "294   SEMPLE ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.07,
+    "latitude": 40.43272,
+    "longitude": -79.94692
+  },
+  "assessments": {
+    "parcel_id": "0011H00066000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 6100,
+        "market_value": 6100,
+        "land_value": 6100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 603,
+        "assessed_value_change_pct": 10.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5497,
+        "market_value": 5497,
+        "land_value": 5497,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 107,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5497,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5390,
+        "market_value": 5390,
+        "land_value": 5390,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 53,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5390,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 5337,
+        "market_value": 5337,
+        "land_value": 5337,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5337,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 5337,
+        "market_value": 5337,
+        "land_value": 5337,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -54,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5337,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5391,
+        "market_value": 5391,
+        "land_value": 5391,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5391,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00066000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00066000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011H00066000000",
+    "comparables": [
+      {
+        "parcel_id": "0011D00014000000",
+        "address": "ELLERS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3114   ELLERS ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6600,
+        "market_value": 6600,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028P00223000000",
+        "address": "22 MACKEY ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "22   MACKEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 6600,
+        "market_value": 24600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

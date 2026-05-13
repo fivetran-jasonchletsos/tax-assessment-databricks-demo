@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0078C00090000000",
+    "address": "3079 MOUNT TROY RD",
+    "city": "Reserve",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "304   HICKMAN ST",
+    "current_mailing_address": "304   HICKMAN ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.143,
+    "latitude": 40.41752,
+    "longitude": -80.06816
+  },
+  "assessments": {
+    "parcel_id": "0078C00090000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 89000,
+        "market_value": 89000,
+        "land_value": 35100,
+        "improvement_value": 53900,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3960,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 85040,
+        "market_value": 85040,
+        "land_value": 33538,
+        "improvement_value": 51502,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85040,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 85040,
+        "market_value": 85040,
+        "land_value": 33538,
+        "improvement_value": 51502,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -859,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85040,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 85899,
+        "market_value": 85899,
+        "land_value": 33877,
+        "improvement_value": 52022,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4090,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85899,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 81809,
+        "market_value": 81809,
+        "land_value": 32263,
+        "improvement_value": 49546,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3146,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81809,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 78663,
+        "market_value": 78663,
+        "land_value": 31023,
+        "improvement_value": 47640,
+        "land_value_percentage": 39.4,
+        "improvement_value_percentage": 60.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78663,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0078C00090000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0078C00090000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0078C00090000000",
+    "comparables": [
+      {
+        "parcel_id": "0078H00008000000",
+        "address": "510 DOE TER",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "510   DOE TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89100,
+        "market_value": 107100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0078M00220000000",
+        "address": "2827 WOHLEBER ST",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "2827   WOHLEBER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 88900,
+        "market_value": 106900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0117B00054000000",
+        "address": "100 BISCAYNE TER",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "100   BISCAYNE TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89100,
+        "market_value": 107100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0117E00127000000",
+        "address": "128 BISCAYNE TER",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "128   BISCAYNE TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89100,
+        "market_value": 107100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0117E00135000000",
+        "address": "111 BISCAYNE TER",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "111   BISCAYNE TER",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 88900,
+        "market_value": 106900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0078M00167000000",
+        "address": "206 JOYCE DR",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "206   JOYCE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 89200,
+        "market_value": 107200,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

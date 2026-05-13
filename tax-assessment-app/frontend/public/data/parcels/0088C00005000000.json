@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0088C00005000000",
+    "address": "2844 BEECHWOOD BLVD",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5048   FIFTH AVE  # 105",
+    "current_mailing_address": "5048   FIFTH AVE  # 105",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+    "acreage": 0.005,
+    "latitude": 40.41976,
+    "longitude": -79.91702
+  },
+  "assessments": {
+    "parcel_id": "0088C00005000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1300,
+        "market_value": 1300,
+        "land_value": 200,
+        "improvement_value": 1100,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34,
+        "assessed_value_change_pct": 2.69,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1266,
+        "market_value": 1266,
+        "land_value": 194,
+        "improvement_value": 1072,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48,
+        "assessed_value_change_pct": 3.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1266,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1218,
+        "market_value": 1218,
+        "land_value": 187,
+        "improvement_value": 1031,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35,
+        "assessed_value_change_pct": 2.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1218,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1183,
+        "market_value": 1183,
+        "land_value": 182,
+        "improvement_value": 1001,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23,
+        "assessed_value_change_pct": 1.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1183,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1160,
+        "market_value": 1160,
+        "land_value": 178,
+        "improvement_value": 982,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11,
+        "assessed_value_change_pct": 0.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1160,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1149,
+        "market_value": 1149,
+        "land_value": 176,
+        "improvement_value": 973,
+        "land_value_percentage": 15.4,
+        "improvement_value_percentage": 84.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1149,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088C00005000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088C00005000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-May-16",
+      "most_recent_appeal_date": "16-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2326-2015",
+        "filed_date": "16-May-16",
+        "hearing_date": "16-May-16",
+        "appeal_status": "approved",
+        "original_value": 1300,
+        "requested_value": 1300,
+        "final_value": 1300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-9025-2016",
+        "filed_date": "16-May-16",
+        "hearing_date": "16-May-16",
+        "appeal_status": "approved",
+        "original_value": 1300,
+        "requested_value": 1300,
+        "final_value": 1300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088C00005000000",
+    "comparables": [
+      {
+        "parcel_id": "0128N00099000000",
+        "address": "ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 1300,
+        "market_value": 1300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128J00173000000",
+        "address": "FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6648   FORWARD AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1400,
+        "market_value": 1400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087B00028000000",
+        "address": "HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2100   WIGHTMAN ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 1100,
+        "market_value": 1100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087H00051000000",
+        "address": "CROMBIE ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6312   CROMBIE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128J00144000000",
+        "address": "FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 99937",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0128J00146000000",
+        "address": "FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 99937",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

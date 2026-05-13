@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0615P00015000000",
+        "address": "137 LILY DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "137   LILY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 186800,
+        "market_value": 204800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0520G00140000000",
         "address": "102 EADE AVE",
         "city": "Shaler",
@@ -145,7 +158,20 @@
         "assessed_value": 186500,
         "market_value": 204500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0617L00020000000",
+        "address": "200 MARY ANN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "200   MARY ANN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 186500,
+        "market_value": 204500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0356L00025000000",
@@ -158,7 +184,7 @@
         "assessed_value": 187000,
         "market_value": 205000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433M00075000000",
@@ -171,32 +197,6 @@
         "assessed_value": 187000,
         "market_value": 205000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0434G00007000D00",
-        "address": "722 SPENCER WOODS DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "722   SPENCER WOODS DR",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 186400,
-        "market_value": 204400,
-        "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0435C00068000000",
-        "address": "1516 WOODSTREAM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1516   WOODSTREAM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 187000,
-        "market_value": 205000,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

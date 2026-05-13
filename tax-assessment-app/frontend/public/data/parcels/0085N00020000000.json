@@ -174,6 +174,19 @@
     "parcel_id": "0085N00020000000",
     "comparables": [
       {
+        "parcel_id": "0127A00158000000",
+        "address": "6532 DALZELL PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6532   DALZELL PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 262800,
+        "market_value": 280800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053H00005000000",
         "address": "5419 AYLESBORO AVE",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 263300,
         "market_value": 281300,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0127N00014000000",
+        "address": "6567 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6567   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 263300,
+        "market_value": 281300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086B00173000000",
@@ -197,7 +223,20 @@
         "assessed_value": 262600,
         "market_value": 280600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088L00084000000",
+        "address": "1665 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1665   BILTMORE LN",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 262600,
+        "market_value": 280600,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052R00218000000",
@@ -210,45 +249,6 @@
         "assessed_value": 262500,
         "market_value": 262500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086A00244000000",
-        "address": "5547 WOODMONT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5547   WOODMONT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 262500,
-        "market_value": 280500,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085P00021000000",
-        "address": "5545 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5545   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263600,
-        "market_value": 281600,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085P00228000000",
-        "address": "1237 S NEGLEY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1237  S NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 263700,
-        "market_value": 263700,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

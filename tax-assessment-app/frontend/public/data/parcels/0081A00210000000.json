@@ -174,6 +174,19 @@
     "parcel_id": "0081A00210000000",
     "comparables": [
       {
+        "parcel_id": "0120P00229000000",
+        "address": "57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35500,
+        "market_value": 35500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121G00076000000",
         "address": "7318 BUTLER ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 35500,
         "market_value": 35500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0121H00034000000",
@@ -197,7 +210,33 @@
         "assessed_value": 35500,
         "market_value": 35500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121K00107000000",
+        "address": "1729 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1729   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35500,
+        "market_value": 53500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121K00110000000",
+        "address": "1719 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1719   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35500,
+        "market_value": 53500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080D00387000000",
@@ -210,45 +249,6 @@
         "assessed_value": 35600,
         "market_value": 35600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0120N00276000000",
-        "address": "CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "414   GRANT ST  RM 200",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 35400,
-        "market_value": 35400,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121B00022000000",
-        "address": "BUTLER ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "414   GRANT ST  RM 200",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 35400,
-        "market_value": 35400,
-        "assessed_value_change_pct": 13.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0121G00080000000",
-        "address": "7310 BUTLER ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "7310   BUTLER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 35600,
-        "market_value": 53600,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

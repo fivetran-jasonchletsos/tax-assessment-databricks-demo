@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0123D00100000000",
+    "address": "7150 HIGHLAND DR",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "542   FORBES AVE  RM 347",
+    "current_mailing_address": "542   FORBES AVE  RM 347",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COUNTY GOVERNMENT",
+    "acreage": 18.493,
+    "latitude": 40.4837,
+    "longitude": -79.91848
+  },
+  "assessments": {
+    "parcel_id": "0123D00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 18160900,
+        "market_value": 18160900,
+        "land_value": 5547900,
+        "improvement_value": 12613000,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -254366,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18160900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 18415266,
+        "market_value": 18415266,
+        "land_value": 5625605,
+        "improvement_value": 12789661,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 876917,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18415266,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 17538349,
+        "market_value": 17538349,
+        "land_value": 5357719,
+        "improvement_value": 12180630,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 674551,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17538349,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 16863798,
+        "market_value": 16863798,
+        "land_value": 5151653,
+        "improvement_value": 11712145,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 491178,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16863798,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 16372620,
+        "market_value": 16372620,
+        "land_value": 5001605,
+        "improvement_value": 11371015,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 321031,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16372620,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 16051589,
+        "market_value": 16051589,
+        "land_value": 4903535,
+        "improvement_value": 11148054,
+        "land_value_percentage": 30.5,
+        "improvement_value_percentage": 69.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16051589,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123D00100000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0123D00100000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0123D00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0172E00050000000",
+        "address": "7060 HIGHLAND DR",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 22339200,
+        "market_value": 22339200,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125J00016000000",
+        "address": "207 BAKERY SQUARE BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 22574900,
+        "market_value": 22574900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

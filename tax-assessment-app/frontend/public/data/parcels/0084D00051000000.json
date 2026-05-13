@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0084D00051000000",
+    "address": "130 LARIMER AVE",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "100  N SHERIDAN AVE  FL 4TH",
+    "current_mailing_address": "100  N SHERIDAN AVE  FL 4TH",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+    "acreage": 0.041,
+    "latitude": 40.46102,
+    "longitude": -79.91044
+  },
+  "assessments": {
+    "parcel_id": "0084D00051000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 225,
+        "market_value": 225,
+        "land_value": 200,
+        "improvement_value": 25,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 25,
+        "assessed_value_change_pct": 12.5,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 225,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 200,
+        "market_value": 200,
+        "land_value": 177,
+        "improvement_value": 23,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3,
+        "assessed_value_change_pct": 1.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 200,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 197,
+        "market_value": 197,
+        "land_value": 175,
+        "improvement_value": 22,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1,
+        "assessed_value_change_pct": 0.51,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 196,
+        "market_value": 196,
+        "land_value": 174,
+        "improvement_value": 22,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 196,
+        "market_value": 196,
+        "land_value": 174,
+        "improvement_value": 22,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 198,
+        "market_value": 198,
+        "land_value": 176,
+        "improvement_value": 22,
+        "land_value_percentage": 88.9,
+        "improvement_value_percentage": 11.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 198,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0084D00051000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0084D00051000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0084D00051000000",
+    "comparables": [
+      {
+        "parcel_id": "0083S00218000000",
+        "address": "EVERETT ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 200,
+        "market_value": 200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

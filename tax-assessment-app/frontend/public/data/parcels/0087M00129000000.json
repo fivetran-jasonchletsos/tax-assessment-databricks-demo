@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0087M00129000000",
+    "address": "2645 BEECHWOOD BLVD",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "2645   BEECHWOOD BLVD",
+    "current_mailing_address": "2645   BEECHWOOD BLVD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.118,
+    "latitude": 40.42168,
+    "longitude": -79.92758
+  },
+  "assessments": {
+    "parcel_id": "0087M00129000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 302200,
+        "market_value": 302200,
+        "land_value": 90000,
+        "improvement_value": 212200,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4783,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 302200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 297417,
+        "market_value": 297417,
+        "land_value": 88575,
+        "improvement_value": 208842,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3005,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 297417,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 300422,
+        "market_value": 300422,
+        "land_value": 89470,
+        "improvement_value": 210952,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14305,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 300422,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 286117,
+        "market_value": 286117,
+        "land_value": 85210,
+        "improvement_value": 200907,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11004,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 286117,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 275113,
+        "market_value": 275113,
+        "land_value": 81933,
+        "improvement_value": 193180,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8013,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 275113,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 267100,
+        "market_value": 267100,
+        "land_value": 79546,
+        "improvement_value": 187554,
+        "land_value_percentage": 29.8,
+        "improvement_value_percentage": 70.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267100,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0087M00129000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0087M00129000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "18-Jul-17",
+      "most_recent_appeal_date": "18-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16409-2017",
+        "filed_date": "18-Jul-17",
+        "hearing_date": "18-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 237400,
+        "requested_value": 237400,
+        "final_value": 302200,
+        "value_reduction": 0,
+        "reduction_percentage": -27.3,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0087M00129000000",
+    "comparables": [
+      {
+        "parcel_id": "0087A00230000000",
+        "address": "5503 COVODE ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5503   COVODE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302100,
+        "market_value": 320100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0126E00082000000",
+        "address": "412 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "412   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302000,
+        "market_value": 320000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087M00090000000",
+        "address": "2770 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2770   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302400,
+        "market_value": 320400,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127N00134000000",
+        "address": "6359 DOUGLAS ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6359   DOUGLAS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302000,
+        "market_value": 320000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126A00132000000",
+        "address": "336 ELYSIAN ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "336   ELYSIAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 302700,
+        "market_value": 320700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0126E00030000000",
+        "address": "503 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "503   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 301400,
+        "market_value": 301400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

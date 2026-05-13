@@ -174,6 +174,19 @@
     "parcel_id": "0355P00083000000",
     "comparables": [
       {
+        "parcel_id": "0615S00052000000",
+        "address": "3704 ROSEBRIAR AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "4272   TANGLEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90100,
+        "market_value": 90100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0355S00121000000",
         "address": "501 CLIFTON AVE",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 90200,
         "market_value": 108200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0356F00020000000",
@@ -197,7 +210,7 @@
         "assessed_value": 90000,
         "market_value": 108000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0520G00286000000",
@@ -210,7 +223,7 @@
         "assessed_value": 90000,
         "market_value": 108000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0520K00012000000",
@@ -223,7 +236,7 @@
         "assessed_value": 90000,
         "market_value": 108000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0222H00038000000",
@@ -236,19 +249,6 @@
         "assessed_value": 90000,
         "market_value": 108000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355J00272000000",
-        "address": "115 ELLEN ST",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "115   ELLEN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89900,
-        "market_value": 107900,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

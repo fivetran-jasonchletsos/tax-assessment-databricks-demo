@@ -122,6 +122,19 @@
     "parcel_id": "0141J00025140300",
     "comparables": [
       {
+        "parcel_id": "0141F00090000000",
+        "address": "714 SHADY DR E",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1035   BOYCE RD  STE 220",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 209800,
+        "market_value": 209800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141J00335000000",
         "address": "209 MABRICK AVE",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 209800,
         "market_value": 227800,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0191C00158000000",
@@ -145,7 +158,20 @@
         "assessed_value": 209800,
         "market_value": 227800,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252C00214000000",
+        "address": "186 WOODHAVEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "186   WOODHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 209800,
+        "market_value": 227800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0140E00186000000",
@@ -158,7 +184,7 @@
         "assessed_value": 209900,
         "market_value": 227900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141E00199000000",
@@ -171,32 +197,6 @@
         "assessed_value": 209500,
         "market_value": 209500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0098N00178000000",
-        "address": "417 CLOKEY AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "417   CLOKEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 209400,
-        "market_value": 209400,
-        "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141G00091000000",
-        "address": "140 LANCASTER AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "269   PENNSYLVANIA BLVD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 209400,
-        "market_value": 209400,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

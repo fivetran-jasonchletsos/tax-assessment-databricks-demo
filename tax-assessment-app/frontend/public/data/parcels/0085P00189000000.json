@@ -174,6 +174,19 @@
     "parcel_id": "0085P00189000000",
     "comparables": [
       {
+        "parcel_id": "0088L00097000000",
+        "address": "1683 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1683   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 586500,
+        "market_value": 586500,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053D00142000000",
         "address": "1221 MALVERN AVE",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 587500,
         "market_value": 587500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086G00126000000",
@@ -197,7 +210,7 @@
         "assessed_value": 588100,
         "market_value": 606100,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086E00145000000",
@@ -210,7 +223,7 @@
         "assessed_value": 589000,
         "market_value": 607000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086H00247000000",
@@ -223,32 +236,19 @@
         "assessed_value": 584400,
         "market_value": 602400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086F00092000000",
-        "address": "5709 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5709   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 584200,
-        "market_value": 602200,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052S00089000000",
-        "address": "5249 FAIR OAKS ST",
+        "parcel_id": "0128P00113000000",
+        "address": "1012 SUMMERSET DR",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5249   FAIR OAKS ST",
+        "current_owner_name": "1012   SUMMERSET DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 590000,
-        "market_value": 608000,
-        "assessed_value_change_pct": -0.1,
+        "assessed_value": 589100,
+        "market_value": 607100,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0082H00064000000",
     "comparables": [
       {
+        "parcel_id": "0124A00041000000",
+        "address": "6348 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6348 -6350  JACKSON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 228800,
+        "market_value": 228800,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082F00200000000",
         "address": "5517 BEVERLY PL",
         "city": "11102",
@@ -184,7 +197,46 @@
         "assessed_value": 229400,
         "market_value": 247400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00154000000",
+        "address": "6321 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6321   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 229400,
+        "market_value": 247400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124A00082000000",
+        "address": "6450 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6450   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 229500,
+        "market_value": 247500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123N00162000000",
+        "address": "1019 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1019   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 230000,
+        "market_value": 230000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00102000000",
@@ -197,58 +249,6 @@
         "assessed_value": 227300,
         "market_value": 245300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082G00219000000",
-        "address": "5629 ELGIN ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5629   ELGIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 230400,
-        "market_value": 248400,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082H00129000000",
-        "address": "5802 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5802   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 226800,
-        "market_value": 244800,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00201000000",
-        "address": "1260 N NEGLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1119   DEVICTOR PL",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 226400,
-        "market_value": 226400,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082K00227000000",
-        "address": "5555 HAMPTON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5555   HAMPTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 226200,
-        "market_value": 244200,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

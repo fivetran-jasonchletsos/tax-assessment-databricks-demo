@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088L00071000000",
+        "address": "1641 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "300   150TH AVE  UNIT 203",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 550700,
+        "market_value": 550700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00141000000",
         "address": "5631 NORTHUMBERLAND ST",
         "city": "11401",
@@ -197,7 +210,20 @@
         "assessed_value": 550600,
         "market_value": 550600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0128N00003000000",
+        "address": "1011 SUMMERSET DR",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1011   SUMMERSET DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 551400,
+        "market_value": 569400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053D00072000000",
@@ -210,7 +236,7 @@
         "assessed_value": 552000,
         "market_value": 570000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0053D00327000000",
@@ -222,32 +248,6 @@
         "acreage": null,
         "assessed_value": 550000,
         "market_value": 568000,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086H00029000000",
-        "address": "5881 MARLBOROUGH AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5881   MARLBOROUGH AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 550000,
-        "market_value": 568000,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086A00162000000",
-        "address": "1331 INVERNESS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1331   INVERNESS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 552200,
-        "market_value": 570200,
         "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }

@@ -122,6 +122,19 @@
     "parcel_id": "0169J00054000000",
     "comparables": [
       {
+        "parcel_id": "0167M00316000000",
+        "address": "810 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "1322   MAIN ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 74600,
+        "market_value": 74600,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0168K00239000000",
         "address": "229 MARY ST",
         "city": "Sharpsburg",
@@ -132,7 +145,7 @@
         "assessed_value": 75000,
         "market_value": 75000,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0168L00314000000",
@@ -145,7 +158,7 @@
         "assessed_value": 75000,
         "market_value": 75000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0167M00145000000",
@@ -158,7 +171,7 @@
         "assessed_value": 75200,
         "market_value": 75200,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0167R00023000000",
@@ -171,7 +184,7 @@
         "assessed_value": 75200,
         "market_value": 93200,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0167S00168000000",
@@ -184,19 +197,6 @@
         "assessed_value": 75200,
         "market_value": 75200,
         "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0168L00047000000",
-        "address": "1806 MIDDLE ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1806   MIDDLE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 74400,
-        "market_value": 92400,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

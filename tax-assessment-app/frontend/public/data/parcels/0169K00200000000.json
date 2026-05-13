@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0169K00200000000",
+    "address": "307 23RD STREET EXT",
+    "city": "Sharpsburg",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "2500   ELDO RD  STE 1",
+    "current_mailing_address": "2500   ELDO RD  STE 1",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 7.307,
+    "latitude": 40.49436,
+    "longitude": -79.9096
+  },
+  "assessments": {
+    "parcel_id": "0169K00200000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4025000,
+        "market_value": 4025000,
+        "land_value": 948600,
+        "improvement_value": 3076400,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 396701,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4025000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3628299,
+        "market_value": 3628299,
+        "land_value": 855106,
+        "improvement_value": 2773193,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 71143,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3628299,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3557156,
+        "market_value": 3557156,
+        "land_value": 838339,
+        "improvement_value": 2718817,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35219,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3557156,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3521937,
+        "market_value": 3521937,
+        "land_value": 830039,
+        "improvement_value": 2691898,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3521937,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3521937,
+        "market_value": 3521937,
+        "land_value": 830039,
+        "improvement_value": 2691898,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -35576,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3521937,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3557513,
+        "market_value": 3557513,
+        "land_value": 838424,
+        "improvement_value": 2719089,
+        "land_value_percentage": 23.6,
+        "improvement_value_percentage": 76.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3557513,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0169K00200000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0169K00200000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0169K00200000000",
+    "comparables": [
+      {
+        "parcel_id": "0167M00382000000",
+        "address": "601 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "2335  N BANK DR",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 3400000,
+        "market_value": 3400000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169P00250000000",
+        "address": "311 23RD STREET EXT",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "2500   ELDO RD  STE 1",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 3222800,
+        "market_value": 3222800,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

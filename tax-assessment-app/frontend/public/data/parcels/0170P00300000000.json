@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0170P00300000000",
+    "address": "ROUTE 70",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "270   HILLCREST RD",
+    "current_mailing_address": "270   HILLCREST RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.156,
+    "latitude": 40.49412,
+    "longitude": -79.9096
+  },
+  "assessments": {
+    "parcel_id": "0170P00300000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2300,
+        "market_value": 2300,
+        "land_value": 2300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 105,
+        "assessed_value_change_pct": 4.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2195,
+        "market_value": 2195,
+        "land_value": 2195,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2195,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2195,
+        "market_value": 2195,
+        "land_value": 2195,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -23,
+        "assessed_value_change_pct": -1.04,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2195,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2218,
+        "market_value": 2218,
+        "land_value": 2218,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 105,
+        "assessed_value_change_pct": 4.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2218,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2113,
+        "market_value": 2113,
+        "land_value": 2113,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 81,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2113,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2032,
+        "market_value": 2032,
+        "land_value": 2032,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2032,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170P00300000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170P00300000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0170P00300000000",
+    "comparables": [
+      {
+        "parcel_id": "0170D00180000100",
+        "address": "MEADOWOOD LN",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "9   MEADOWOOD LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0225S00350000000",
+        "address": "MEADOWOOD LN",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "1   MEADOWOOD CT",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 2000,
+        "market_value": 2000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0170P00099000000",
+        "address": "ROUTE 70",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1800,
+        "market_value": 1800,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

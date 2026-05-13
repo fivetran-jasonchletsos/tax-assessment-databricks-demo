@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0170C00131000000",
+    "address": "341 FOX CHAPEL RD",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "401   FOX CHAPEL RD",
+    "current_mailing_address": "401   FOX CHAPEL RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PUBLIC PARK",
+    "acreage": 3.75,
+    "latitude": 40.4928,
+    "longitude": -79.91488
+  },
+  "assessments": {
+    "parcel_id": "0170C00131000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 56300,
+        "market_value": 56300,
+        "land_value": 56300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3501,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 52799,
+        "market_value": 52799,
+        "land_value": 52799,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1537,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 52799,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 51262,
+        "market_value": 51262,
+        "land_value": 51262,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1005,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51262,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 50257,
+        "market_value": 50257,
+        "land_value": 50257,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 497,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50257,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 49760,
+        "market_value": 49760,
+        "land_value": 49760,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49760,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 49760,
+        "market_value": 49760,
+        "land_value": 49760,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 49760,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170C00131000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170C00131000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0170C00131000000",
+    "comparables": [
+      {
+        "parcel_id": "0170B00202000000",
+        "address": "HAMPTON RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "301   HAMPTON RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 60700,
+        "market_value": 60700,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0287B00050000000",
+        "address": "DORSEYVILLE RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11286",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 47300,
+        "market_value": 47300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0225L00125000000",
+        "address": "EDGEWOOD RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "18   EDGEWOOD RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0080D00150000000",
     "comparables": [
       {
+        "parcel_id": "0121L00119000000",
+        "address": "1822 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1822   ANTIETAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117400,
+        "market_value": 135400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082A00055000000",
         "address": "1219 DUFFIELD ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 117300,
         "market_value": 117300,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082B00023000000",
@@ -197,7 +210,7 @@
         "assessed_value": 117300,
         "market_value": 135300,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0050M00071000000",
@@ -210,7 +223,20 @@
         "assessed_value": 117200,
         "market_value": 117200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121P00136000000",
+        "address": "1601 VILLANOVA RD",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1601   VILLANOVA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117200,
+        "market_value": 135200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082E00196000000",
@@ -223,32 +249,6 @@
         "assessed_value": 117100,
         "market_value": 117100,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082E00225000000",
-        "address": "1123 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1912  N LINCOLN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 117700,
-        "market_value": 117700,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080D00302000000",
-        "address": "5233 HOLMES ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5233   HOLMES ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 117800,
-        "market_value": 135800,
-        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

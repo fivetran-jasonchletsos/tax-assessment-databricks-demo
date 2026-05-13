@@ -1,0 +1,188 @@
+{
+  "parcel": {
+    "parcel_id": "0047K00208000000",
+    "address": "1958 VARLEY ST",
+    "city": "26th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 68",
+    "current_mailing_address": "PO BOX 68",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.438,
+    "latitude": 40.41812,
+    "longitude": -80.06312
+  },
+  "assessments": {
+    "parcel_id": "0047K00208000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 7900,
+        "market_value": 7900,
+        "land_value": 7900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -108,
+        "assessed_value_change_pct": -1.35,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8008,
+        "market_value": 8008,
+        "land_value": 8008,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 381,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8008,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 7627,
+        "market_value": 7627,
+        "land_value": 7627,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 293,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7627,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 7334,
+        "market_value": 7334,
+        "land_value": 7334,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 213,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7334,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 7121,
+        "market_value": 7121,
+        "land_value": 7121,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 139,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7121,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6982,
+        "market_value": 6982,
+        "land_value": 6982,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6982,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047K00208000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047K00208000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 20700,
+      "total_value_reduction": 20700,
+      "first_appeal_date": "15-Jul-16",
+      "most_recent_appeal_date": "15-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8461-2016",
+        "filed_date": "15-Jul-16",
+        "hearing_date": "15-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 28600,
+        "requested_value": 28600,
+        "final_value": 7900,
+        "value_reduction": 20700,
+        "reduction_percentage": 72.38,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0047K00208000000",
+    "comparables": [
+      {
+        "parcel_id": "0047K00206000000",
+        "address": "1958 VARLEY ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 68",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 6500,
+        "market_value": 6500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0046D00154000001",
+        "address": "EAST ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 9700,
+        "market_value": 9700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0046D00062000001",
+        "address": "EAST ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 6000,
+        "market_value": 6000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

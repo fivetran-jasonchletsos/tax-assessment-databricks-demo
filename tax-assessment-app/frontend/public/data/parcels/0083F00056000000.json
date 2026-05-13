@@ -122,6 +122,32 @@
     "parcel_id": "0083F00056000000",
     "comparables": [
       {
+        "parcel_id": "0123N00016000000",
+        "address": "1121 DEVICTOR PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1121   DEVICTOR PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79000,
+        "market_value": 97000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123J00139000000",
+        "address": "HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1217   HEBERTON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 60800,
+        "market_value": 60800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0083D00032000000",
         "address": "N HIGHLAND AVE",
         "city": "11101",
@@ -132,7 +158,7 @@
         "assessed_value": 60700,
         "market_value": 60700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       }
     ]
   }

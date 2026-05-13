@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024K00284000000",
+    "address": "1007 CONSTANCE ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1306   ARCH ST",
+    "current_mailing_address": "1306   ARCH ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "WAREHOUSE",
+    "acreage": 0.042,
+    "latitude": 40.418,
+    "longitude": -80.08544
+  },
+  "assessments": {
+    "parcel_id": "0024K00284000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 163500,
+        "market_value": 163500,
+        "land_value": 32700,
+        "improvement_value": 130800,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4027,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 159473,
+        "market_value": 159473,
+        "land_value": 31894,
+        "improvement_value": 127579,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6133,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 159473,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 153340,
+        "market_value": 153340,
+        "land_value": 30668,
+        "improvement_value": 122672,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4466,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153340,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 148874,
+        "market_value": 148874,
+        "land_value": 29774,
+        "improvement_value": 119100,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2919,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148874,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 145955,
+        "market_value": 145955,
+        "land_value": 29191,
+        "improvement_value": 116764,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1445,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 145955,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 144510,
+        "market_value": 144510,
+        "land_value": 28902,
+        "improvement_value": 115608,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 144510,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024K00284000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024K00284000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 31900,
+      "total_value_reduction": 31900,
+      "first_appeal_date": "26-Jun-15",
+      "most_recent_appeal_date": "26-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-662-2015",
+        "filed_date": "26-Jun-15",
+        "hearing_date": "26-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 52500,
+        "requested_value": 52500,
+        "final_value": 20600,
+        "value_reduction": 31900,
+        "reduction_percentage": 60.76,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024K00284000000",
+    "comparables": [
+      {
+        "parcel_id": "0023S00268000000",
+        "address": "818 CEDAR AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "8719   HARMONY PL",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 165000,
+        "market_value": 165000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024P00158000000",
+        "address": "S CANAL ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 768",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 167000,
+        "market_value": 167000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024K00127000000",
+        "address": "905 PERALTA ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "312  N EUCLID AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 167400,
+        "market_value": 167400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023M00070000000",
+        "address": "500 E NORTH AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "91   LONGUEVUE DR",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 168200,
+        "market_value": 168200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024N00158000000",
+        "address": "840 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "31621   FALCON WAY",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 157600,
+        "market_value": 157600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023S00138000000",
+        "address": "517 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "517  E OHIO ST",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 170000,
+        "market_value": 170000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

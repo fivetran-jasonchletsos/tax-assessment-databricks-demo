@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0161S00196000000",
+        "address": "110 MALCOLM AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "110   MALCOLM AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102300,
+        "market_value": 120300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0519C00033000000",
         "address": "106 ALBINE DR",
         "city": "Ross",
@@ -210,7 +223,20 @@
         "assessed_value": 101300,
         "market_value": 119300,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0161P00275000000",
+        "address": "105 HILLARD DR",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "105   HILLARD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103000,
+        "market_value": 121000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0519F00068000000",
@@ -223,32 +249,6 @@
         "assessed_value": 103200,
         "market_value": 121200,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0519F00076000000",
-        "address": "203 AMITY RD",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "203   AMITY RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100600,
-        "market_value": 118600,
-        "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0519F00071000000",
-        "address": "102 BLAZE DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "102   BLAZE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103400,
-        "market_value": 121400,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

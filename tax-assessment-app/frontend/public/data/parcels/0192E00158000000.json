@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0252L00036000000",
+        "address": "8 FOREST GLEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "8   FOREST GLEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 327700,
+        "market_value": 345700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0192E00237000000",
         "address": "20 LEBANON HILLS DR",
         "city": "Mt.lebanon",
@@ -197,7 +210,20 @@
         "assessed_value": 327300,
         "market_value": 345300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0141B00065000000",
+        "address": "514 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "PO BOX 10368",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 328000,
+        "market_value": 328000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0192F00006000000",
@@ -210,7 +236,7 @@
         "assessed_value": 328100,
         "market_value": 346100,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0251J00239000000",
@@ -223,32 +249,6 @@
         "assessed_value": 328100,
         "market_value": 346100,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0192P00110000000",
-        "address": "180 CRESTVUE MANOR DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "180   CRESTVUE MANOR DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 327000,
-        "market_value": 345000,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0251B00169000000",
-        "address": "51 ROYCROFT AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "51   ROYCROFT AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 327000,
-        "market_value": 345000,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

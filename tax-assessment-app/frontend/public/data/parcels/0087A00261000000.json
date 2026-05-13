@@ -174,6 +174,19 @@
     "parcel_id": "0087A00261000000",
     "comparables": [
       {
+        "parcel_id": "0126A00266000000",
+        "address": "343 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "625   MIRANDA DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 176300,
+        "market_value": 176300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087H00076000000",
         "address": "6441 NICHOLSON ST",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 176400,
         "market_value": 194400,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128N00262000000",
+        "address": "2765 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2765   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 176400,
+        "market_value": 194400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086S00058000000",
@@ -197,58 +223,32 @@
         "assessed_value": 176100,
         "market_value": 176100,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0087C00145000000",
-        "address": "2310 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "233   SPAHR ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 175900,
-        "market_value": 175900,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087F00099000000",
-        "address": "5653 MELVIN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5653   MELVIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 176700,
-        "market_value": 194700,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0085M00258000000",
-        "address": "626 HASTINGS ST",
+        "parcel_id": "0087S00226000000",
+        "address": "2880 FERNWALD RD",
         "city": "11403",
-        "zip_code": "15206",
-        "current_owner_name": "626   HASTINGS ST",
-        "land_use_description": "ROWHOUSE",
+        "zip_code": "15217",
+        "current_owner_name": "1301   MURRAY AVE",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 176800,
-        "market_value": 176800,
-        "assessed_value_change_pct": -0.5,
+        "assessed_value": 176000,
+        "market_value": 176000,
+        "assessed_value_change_pct": 0.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086N00279000000",
-        "address": "5454 BEACON ST",
+        "parcel_id": "0128A00020000000",
+        "address": "6355 WALDRON ST",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5454   BEACON ST",
+        "current_owner_name": "6355   WALDRON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 176900,
-        "market_value": 194900,
-        "assessed_value_change_pct": 0.5,
+        "assessed_value": 176000,
+        "market_value": 194000,
+        "assessed_value_change_pct": 14.1,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0047C00034000000",
+    "address": "SCHUBERT ST",
+    "city": "26th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "18   SCHUBERT ST",
+    "current_mailing_address": "18   SCHUBERT ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+    "acreage": 0.23,
+    "latitude": 40.4168,
+    "longitude": -80.0714
+  },
+  "assessments": {
+    "parcel_id": "0047C00034000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "land_value": 15000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1084,
+        "assessed_value_change_pct": 7.79,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 13916,
+        "market_value": 13916,
+        "land_value": 13916,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 137,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13916,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 13779,
+        "market_value": 13779,
+        "land_value": 13779,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13779,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 13779,
+        "market_value": 13779,
+        "land_value": 13779,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -140,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13779,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 13919,
+        "market_value": 13919,
+        "land_value": 13919,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 662,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13919,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 13257,
+        "market_value": 13257,
+        "land_value": 13257,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13257,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047C00034000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047C00034000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047C00034000000",
+    "comparables": [
+      {
+        "parcel_id": "0047K00226000000",
+        "address": "1958 VARLEY ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 68",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 15100,
+        "market_value": 15100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047K00300000000",
+        "address": "BUENTE ST",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "5604   BAUM BLVD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 15200,
+        "market_value": 15200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

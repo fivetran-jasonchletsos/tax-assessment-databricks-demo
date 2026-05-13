@@ -1,0 +1,178 @@
+{
+  "parcel": {
+    "parcel_id": "0001G00207000000",
+    "address": "201 FORT PITT BLVD",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "1   MARKET ST  FL 6",
+    "current_mailing_address": "1   MARKET ST  FL 6",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "PARKING GARAGE/LOTS",
+    "acreage": 0.055,
+    "latitude": 40.43582,
+    "longitude": -79.98934
+  },
+  "assessments": {
+    "parcel_id": "0001G00207000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 98700,
+        "market_value": 98700,
+        "land_value": 96500,
+        "improvement_value": 2200,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2432,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 96268,
+        "market_value": 96268,
+        "land_value": 94122,
+        "improvement_value": 2146,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3702,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96268,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 92566,
+        "market_value": 92566,
+        "land_value": 90502,
+        "improvement_value": 2064,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2696,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92566,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 89870,
+        "market_value": 89870,
+        "land_value": 87866,
+        "improvement_value": 2004,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1762,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89870,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 88108,
+        "market_value": 88108,
+        "land_value": 86144,
+        "improvement_value": 1964,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 872,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88108,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 87236,
+        "market_value": 87236,
+        "land_value": 85291,
+        "improvement_value": 1945,
+        "land_value_percentage": 97.8,
+        "improvement_value_percentage": 2.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87236,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001G00207000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001G00207000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001G00207000000",
+    "comparables": [
+      {
+        "parcel_id": "0001G00104000000",
+        "address": "210 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2020   SMALLMAN ST  STE 301",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 92300,
+        "market_value": 92300,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001G00120000000",
+        "address": "138 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "111   BLVD OF THE ALLIES",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 85900,
+        "market_value": 85900,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001H00195000000",
+        "address": "417 WOOD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "100  W STATION SQUARE DR  STE 450",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 119900,
+        "market_value": 119900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00050000000",
+        "address": "216 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "216   BLVD OF THE ALLIES",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 76200,
+        "market_value": 76200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

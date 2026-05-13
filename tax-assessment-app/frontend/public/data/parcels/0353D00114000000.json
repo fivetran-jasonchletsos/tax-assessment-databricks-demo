@@ -174,6 +174,19 @@
     "parcel_id": "0353D00114000000",
     "comparables": [
       {
+        "parcel_id": "0615J00172000000",
+        "address": "3709 BELLADONNA DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3709   BELLADONNA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100900,
+        "market_value": 118900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0353D00046000000",
         "address": "106 CREST LN",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0353D00060000000",
@@ -197,7 +210,7 @@
         "assessed_value": 101000,
         "market_value": 119000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355F00105000000",
@@ -210,7 +223,7 @@
         "assessed_value": 101000,
         "market_value": 101000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355H00185000000",
@@ -223,7 +236,7 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355L00024000000",
@@ -236,19 +249,6 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355L00208000000",
-        "address": "1483 MAPLE AVE",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1483   MAPLE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101000,
-        "market_value": 119000,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

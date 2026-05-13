@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0222C00050000000",
+    "address": "KITTANNING RD",
+    "city": "Shaler",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "616   BADALI ST",
+    "current_mailing_address": "616   BADALI ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.207,
+    "latitude": 40.51656,
+    "longitude": -79.91548
+  },
+  "assessments": {
+    "parcel_id": "0222C00050000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 17900,
+        "market_value": 17900,
+        "land_value": 17900,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1292,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 16608,
+        "market_value": 16608,
+        "land_value": 16608,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 164,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16608,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 16444,
+        "market_value": 16444,
+        "land_value": 16444,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16444,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 16444,
+        "market_value": 16444,
+        "land_value": 16444,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -167,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16444,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 16611,
+        "market_value": 16611,
+        "land_value": 16611,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 791,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16611,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 15820,
+        "market_value": 15820,
+        "land_value": 15820,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15820,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0222C00050000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0222C00050000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jul-19",
+      "most_recent_appeal_date": "9-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-31507-2019",
+        "filed_date": "9-Jul-19",
+        "hearing_date": "9-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 17900,
+        "requested_value": 17900,
+        "final_value": 17900,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0222C00050000000",
+    "comparables": [
+      {
+        "parcel_id": "0355R00307000000",
+        "address": "GLENN AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "802  S PARK AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 17900,
+        "market_value": 17900,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0285E00100000000",
+        "address": "MIDDLE RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 18000,
+        "market_value": 18000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0355M00269000000",
+        "address": "HIGHLAND AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1480   HIGHLAND AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 17800,
+        "market_value": 17800,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0433C00375000000",
+        "address": "2700 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "PO BOX 207",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 18100,
+        "market_value": 18100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520G00043000000",
+        "address": "3200 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3200   MOUNT ROYAL BLVD",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 18400,
+        "market_value": 18400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0355D00275000000",
+        "address": "BUTLER RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "35   HIGHLAND RD  UNIT 1404",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 17300,
+        "market_value": 17300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

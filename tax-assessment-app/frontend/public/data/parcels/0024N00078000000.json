@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024N00078000000",
+    "address": "709 EAST ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "2210   MT TROY RD",
+    "current_mailing_address": "2210   MT TROY RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.051,
+    "latitude": 40.41848,
+    "longitude": -80.08184
+  },
+  "assessments": {
+    "parcel_id": "0024N00078000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "land_value": 45900,
+        "improvement_value": 24100,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5045,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 64955,
+        "market_value": 64955,
+        "land_value": 42591,
+        "improvement_value": 22364,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 643,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64955,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 64312,
+        "market_value": 64312,
+        "land_value": 42170,
+        "improvement_value": 22142,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64312,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 64312,
+        "market_value": 64312,
+        "land_value": 42170,
+        "improvement_value": 22142,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -650,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64312,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 64962,
+        "market_value": 64962,
+        "land_value": 42596,
+        "improvement_value": 22366,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3093,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64962,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 61869,
+        "market_value": 61869,
+        "land_value": 40568,
+        "improvement_value": 21301,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61869,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024N00078000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024N00078000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "29-Aug-18",
+      "most_recent_appeal_date": "29-Aug-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22483-2018",
+        "filed_date": "29-Aug-18",
+        "hearing_date": "29-Aug-18",
+        "appeal_status": "approved",
+        "original_value": 110000,
+        "requested_value": 110000,
+        "final_value": 110000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024N00078000000",
+    "comparables": [
+      {
+        "parcel_id": "0009E00150000000",
+        "address": "601 RIVER AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 67300,
+        "market_value": 67300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024K00319000000",
+        "address": "918 RICKENBACH ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "918   RICKENBACH ST",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 73000,
+        "market_value": 73000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023S00315000000",
+        "address": "512 FORELAND ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1362  S SIDE AVE",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 66500,
+        "market_value": 66500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024L00057000000",
+        "address": "E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 74000,
+        "market_value": 74000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024J00215000000",
+        "address": "904 MADISON AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "834   WESTERN AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 74500,
+        "market_value": 74500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009E00115000000",
+        "address": "520 E GENERAL ROBINSON ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

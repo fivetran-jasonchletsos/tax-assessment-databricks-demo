@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0128K00010000000",
+        "address": "2464 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2464   MOUNT ROYAL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200400,
+        "market_value": 218400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086R00238000000",
         "address": "5852 BEACON ST",
         "city": "11403",
@@ -145,7 +158,7 @@
         "assessed_value": 200500,
         "market_value": 218500,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00045000000",
@@ -158,7 +171,20 @@
         "assessed_value": 200500,
         "market_value": 218500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087M00010000000",
+        "address": "6364 FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "1266   NEWBURY HIGHLAND",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 200200,
+        "market_value": 200200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0054H00100000000",
@@ -171,32 +197,6 @@
         "assessed_value": 200700,
         "market_value": 200700,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00007000000",
-        "address": "5416 BEACON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5510   KAMIN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 200100,
-        "market_value": 200100,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00090000000",
-        "address": "5450 GUARINO RD",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5450   GUARINO RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 200700,
-        "market_value": 218700,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

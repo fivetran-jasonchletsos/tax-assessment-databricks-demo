@@ -174,6 +174,32 @@
     "parcel_id": "0080C00084000000",
     "comparables": [
       {
+        "parcel_id": "0121K00200000000",
+        "address": "1839 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1839   CHISLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71700,
+        "market_value": 71700,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121N00165000000",
+        "address": "1647 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1647   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71700,
+        "market_value": 89700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0120N00024000000",
         "address": "5417 KEYSTONE ST",
         "city": "11003",
@@ -184,7 +210,7 @@
         "assessed_value": 71600,
         "market_value": 71600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0121K00063000000",
@@ -197,7 +223,20 @@
         "assessed_value": 71600,
         "market_value": 89600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121N00163000000",
+        "address": "1643 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1643   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71800,
+        "market_value": 89800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0120N00251000000",
@@ -210,45 +249,6 @@
         "assessed_value": 71500,
         "market_value": 89500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082E00291000000",
-        "address": "1157 CHISLETT ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1157   CHISLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 71500,
-        "market_value": 89500,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0080G00221000000",
-        "address": "5155 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5155   CARNEGIE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 72000,
-        "market_value": 72000,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081B00113000000",
-        "address": "910 56TH ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "910   56TH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 72000,
-        "market_value": 90000,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 1.1
       }
     ]

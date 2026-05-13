@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0436A00201000000",
+    "address": "1832 MIDDLE RD",
+    "city": "Indiana",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1832   MIDDLE RD",
+    "current_mailing_address": "1832   MIDDLE RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.391,
+    "latitude": 40.52562,
+    "longitude": -79.9668
+  },
+  "assessments": {
+    "parcel_id": "0436A00201000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "land_value": 1500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40,
+        "assessed_value_change_pct": 2.74,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1460,
+        "market_value": 1460,
+        "land_value": 1460,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 56,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1460,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1404,
+        "market_value": 1404,
+        "land_value": 1404,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40,
+        "assessed_value_change_pct": 2.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1404,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1364,
+        "market_value": 1364,
+        "land_value": 1364,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26,
+        "assessed_value_change_pct": 1.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1364,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1338,
+        "market_value": 1338,
+        "land_value": 1338,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1338,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1325,
+        "market_value": 1325,
+        "land_value": 1325,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1325,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0436A00201000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0436A00201000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0436A00201000000",
+    "comparables": [
+      {
+        "parcel_id": "0523D00016000000",
+        "address": "SAXONBURG BLVD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "99   REPUBLIC AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0436H00370000000",
+        "address": "SAXONBURG BLVD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "1246   SAXONBURG BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1200,
+        "market_value": 1200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

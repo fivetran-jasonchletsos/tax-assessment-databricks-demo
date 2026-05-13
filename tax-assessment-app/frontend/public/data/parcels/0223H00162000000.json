@@ -122,6 +122,19 @@
     "parcel_id": "0223H00162000000",
     "comparables": [
       {
+        "parcel_id": "0356S00200000000",
+        "address": "COUNTRY CLUB LN",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "1250  S NEGLEY AVE",
+        "land_use_description": ">10 ACRES VACANT",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 150000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0286E00078000000",
         "address": "8 CREST DR",
         "city": "O''hara",
@@ -132,7 +145,7 @@
         "assessed_value": 150200,
         "market_value": 150200,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0168D00064000000",
@@ -145,7 +158,7 @@
         "assessed_value": 150300,
         "market_value": 168300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0286G00078000000",
@@ -158,7 +171,7 @@
         "assessed_value": 149700,
         "market_value": 167700,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0286M00010000000",
@@ -171,7 +184,7 @@
         "assessed_value": 150500,
         "market_value": 150500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0286P00010000000",
@@ -184,19 +197,6 @@
         "assessed_value": 150500,
         "market_value": 168500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0286H00066000000",
-        "address": "608 RAVENCREST RD",
-        "city": "O''hara",
-        "zip_code": "15215",
-        "current_owner_name": "608   RAVENCREST RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 150600,
-        "market_value": 168600,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

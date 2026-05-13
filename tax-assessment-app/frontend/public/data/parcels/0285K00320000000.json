@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0285K00320000000",
+    "address": "SAXONBURG BLVD",
+    "city": "Shaler",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "4359   GIBSONIA RD",
+    "current_mailing_address": "4359   GIBSONIA RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 7.74,
+    "latitude": 40.4946,
+    "longitude": -79.90744
+  },
+  "assessments": {
+    "parcel_id": "0285K00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "land_value": 5800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 145,
+        "assessed_value_change_pct": 2.56,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5655,
+        "market_value": 5655,
+        "land_value": 5655,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 217,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5655,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5438,
+        "market_value": 5438,
+        "land_value": 5438,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 158,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5438,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 5280,
+        "market_value": 5280,
+        "land_value": 5280,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 103,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5280,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 5177,
+        "market_value": 5177,
+        "land_value": 5177,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 51,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5177,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5126,
+        "market_value": 5126,
+        "land_value": 5126,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5126,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0285K00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0285K00320000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 49600,
+      "total_value_reduction": 49600,
+      "first_appeal_date": "17-May-16",
+      "most_recent_appeal_date": "17-May-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-10782-2016",
+        "filed_date": "17-May-16",
+        "hearing_date": "17-May-16",
+        "appeal_status": "approved",
+        "original_value": 57300,
+        "requested_value": 57300,
+        "final_value": 7700,
+        "value_reduction": 49600,
+        "reduction_percentage": 86.56,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0285K00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0355M00260000000",
+        "address": "NORTH PARK AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1490   HIGHLAND AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0356F00044000000",
+        "address": "133 HEIM CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1839   BABCOCK BLVD",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0167G00192000000",
+        "address": "758 HIGHLAND AVE",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "425   HEMLOCK CT",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0222R00120000000",
+        "address": "915 SHARPSHILL RD",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "915   SHARPSHILL RD",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 5800,
+        "market_value": 5800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0355A00154000000",
+        "address": "ROBINSON PL",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "114   WEST SHAW PL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5700,
+        "market_value": 5700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0434P00065000000",
+        "address": "KLEBER RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1551   BUTLER PLANK RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5900,
+        "market_value": 5900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

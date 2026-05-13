@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0127A00055000000",
+    "address": "6634 NORTHUMBERLAND ST",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1748   JANCEY ST",
+    "current_mailing_address": "1748   JANCEY ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.171,
+    "latitude": 40.4194,
+    "longitude": -79.91522
+  },
+  "assessments": {
+    "parcel_id": "0127A00055000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 361500,
+        "market_value": 361500,
+        "land_value": 140800,
+        "improvement_value": 220700,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26046,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 361500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 335454,
+        "market_value": 335454,
+        "land_value": 130655,
+        "improvement_value": 204799,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3321,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 335454,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 332133,
+        "market_value": 332133,
+        "land_value": 129361,
+        "improvement_value": 202772,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 332133,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 332133,
+        "market_value": 332133,
+        "land_value": 129361,
+        "improvement_value": 202772,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3355,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 332133,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 335488,
+        "market_value": 335488,
+        "land_value": 130668,
+        "improvement_value": 204820,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15975,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 335488,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 319513,
+        "market_value": 319513,
+        "land_value": 124446,
+        "improvement_value": 195067,
+        "land_value_percentage": 38.9,
+        "improvement_value_percentage": 61.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 319513,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0127A00055000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0127A00055000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 131000,
+      "total_value_reduction": 131000,
+      "first_appeal_date": "12-May-17",
+      "most_recent_appeal_date": "12-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16805-2017",
+        "filed_date": "12-May-17",
+        "hearing_date": "12-May-17",
+        "appeal_status": "approved",
+        "original_value": 492500,
+        "requested_value": 492500,
+        "final_value": 361500,
+        "value_reduction": 131000,
+        "reduction_percentage": 26.6,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0127A00055000000",
+    "comparables": [
+      {
+        "parcel_id": "0127J00019000000",
+        "address": "1747 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1747   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 361700,
+        "market_value": 379700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0127N00110000000",
+        "address": "6558 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6558   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 361100,
+        "market_value": 379100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0129A00008000000",
+        "address": "121 GILDA AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "121   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 361900,
+        "market_value": 379900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0085J00173000000",
+        "address": "5501 FAIR OAKS ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5807   SOLWAY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 362000,
+        "market_value": 380000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086C00062000000",
+        "address": "5742 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5742   NORTHUMBERLAND ST  APT 1",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 362000,
+        "market_value": 380000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086C00089000000",
+        "address": "1536 ASBURY PL",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1536   ASBURY PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 362000,
+        "market_value": 380000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

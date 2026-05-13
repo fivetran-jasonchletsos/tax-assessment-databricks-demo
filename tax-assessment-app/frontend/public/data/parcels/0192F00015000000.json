@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0251N00058000000",
+        "address": "1476 NAVAHOE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1476   NAVAHOE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 225100,
+        "market_value": 225100,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0141J00300000000",
         "address": "234 MAGNOLIA PL",
         "city": "Mt.lebanon",
@@ -197,7 +210,7 @@
         "assessed_value": 225120,
         "market_value": 225120,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0140P00214000000",
@@ -210,7 +223,20 @@
         "assessed_value": 225000,
         "market_value": 225000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0142D00286000000",
+        "address": "427 COCHRAN RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "PO BOX 932",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 225000,
+        "market_value": 225000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0251J00008000000",
@@ -223,32 +249,6 @@
         "assessed_value": 225000,
         "market_value": 225000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0140F00100000000",
-        "address": "743 COUNTRY CLUB DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "743   COUNTRY CLUB DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 225300,
-        "market_value": 243300,
-        "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0251J00245000000",
-        "address": "1430 PUEBLO DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "1430   PUEBLO DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 225300,
-        "market_value": 243300,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0088A00344000000",
+    "address": "4250 MURRAY AVE",
+    "city": "15th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "560   EPSILON DR",
+    "current_mailing_address": "560   EPSILON DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.404,
+    "latitude": 40.42024,
+    "longitude": -79.91222
+  },
+  "assessments": {
+    "parcel_id": "0088A00344000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 75000,
+        "market_value": 75000,
+        "land_value": 67450,
+        "improvement_value": 7550,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5405,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 69595,
+        "market_value": 69595,
+        "land_value": 62589,
+        "improvement_value": 7006,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 689,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69595,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 68906,
+        "market_value": 68906,
+        "land_value": 61969,
+        "improvement_value": 6937,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68906,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 68906,
+        "market_value": 68906,
+        "land_value": 61969,
+        "improvement_value": 6937,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -697,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68906,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 69603,
+        "market_value": 69603,
+        "land_value": 62596,
+        "improvement_value": 7007,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3314,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69603,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 66289,
+        "market_value": 66289,
+        "land_value": 59615,
+        "improvement_value": 6674,
+        "land_value_percentage": 89.9,
+        "improvement_value_percentage": 10.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 66289,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088A00344000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088A00344000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0088A00344000000",
+    "comparables": [
+      {
+        "parcel_id": "0088E00154000000",
+        "address": "787 HAZELWOOD AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "787   HAZELWOOD AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 70700,
+        "market_value": 70700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088E00198000000",
+        "address": "724 HAZELWOOD AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "4   EXETER ST",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088A00305000000",
+        "address": "1101 GREENFIELD AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1101   GREENFIELD AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 57500,
+        "market_value": 125000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -122,6 +122,19 @@
     "parcel_id": "0083S00294000000",
     "comparables": [
       {
+        "parcel_id": "0124P00332000000",
+        "address": "6533 SHETLAND ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "6556   SHETLAND ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 51100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083S00378000000",
         "address": "40 MAYFLOWER ST",
         "city": "11203",
@@ -132,33 +145,59 @@
         "assessed_value": 52000,
         "market_value": 70000,
         "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0083M00172000000",
-        "address": "18 MAYFLOWER ST",
-        "city": "11203",
-        "zip_code": "15206",
-        "current_owner_name": "18   MAYFLOWER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 42700,
-        "market_value": 42700,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.3
       },
       {
-        "parcel_id": "0083S00382000000",
-        "address": "48 MAYFLOWER ST",
+        "parcel_id": "0124P00073000000",
+        "address": "540 PAULSON AVE",
         "city": "11203",
         "zip_code": "15206",
-        "current_owner_name": "48   MAYFLOWER ST",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "544   PAULSON AVE",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 38900,
-        "assessed_value_change_pct": -0.1,
+        "assessed_value": 49700,
+        "market_value": 49700,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124R00056000000",
+        "address": "6564 RENFREW ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "1314   OAKDENE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 54600,
+        "market_value": 54600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124N00062000000",
+        "address": "156 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "6552   ROWAN ST   C",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 55000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0125B00077000000",
+        "address": "6524 LLEWELLYN PL",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "437   TURRET ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 46600,
+        "market_value": 46600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
       }
     ]
   }

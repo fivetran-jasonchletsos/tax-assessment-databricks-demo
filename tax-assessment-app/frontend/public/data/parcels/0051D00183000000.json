@@ -209,6 +209,19 @@
     "parcel_id": "0051D00183000000",
     "comparables": [
       {
+        "parcel_id": "0051N00061000000",
+        "address": "800 S MILLVALE AVE",
+        "city": "10802",
+        "zip_code": "15213",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 455800,
+        "market_value": 455800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0051G00206000000",
         "address": "351 S AIKEN AVE",
         "city": "10802",
@@ -219,7 +232,7 @@
         "assessed_value": 445200,
         "market_value": 463200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0051J00190000000",
@@ -232,7 +245,20 @@
         "assessed_value": 463300,
         "market_value": 463300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084A00049000000",
+        "address": "208 S NEGLEY AVE",
+        "city": "10802",
+        "zip_code": "15206",
+        "current_owner_name": "806   WEST ST",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 469200,
+        "market_value": 469200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0051C00243000000",
@@ -245,7 +271,7 @@
         "assessed_value": 470800,
         "market_value": 488800,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00251000000",
@@ -258,32 +284,6 @@
         "assessed_value": 424400,
         "market_value": 424400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051G00272000000",
-        "address": "362 S GRAHAM ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "362  S GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 486000,
-        "market_value": 504000,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051D00122000000",
-        "address": "310 ROUP AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "5500   HAYS ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 419800,
-        "market_value": 419800,
-        "assessed_value_change_pct": 14.3,
         "distance_miles": 1.1
       }
     ]

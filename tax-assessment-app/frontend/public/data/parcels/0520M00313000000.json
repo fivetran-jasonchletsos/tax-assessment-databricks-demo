@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0520M00313000000",
+    "address": "1001 8TH AVE",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1007   8TH AVE",
+    "current_mailing_address": "1007   8TH AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "WAREHOUSE",
+    "acreage": 1.755,
+    "latitude": 40.52682,
+    "longitude": -79.95816
+  },
+  "assessments": {
+    "parcel_id": "0520M00313000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 400000,
+        "market_value": 400000,
+        "land_value": 161300,
+        "improvement_value": 238700,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17795,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 400000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 382205,
+        "market_value": 382205,
+        "land_value": 154124,
+        "improvement_value": 228081,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 382205,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 382205,
+        "market_value": 382205,
+        "land_value": 154124,
+        "improvement_value": 228081,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3861,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 382205,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 386066,
+        "market_value": 386066,
+        "land_value": 155681,
+        "improvement_value": 230385,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18384,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 386066,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 367682,
+        "market_value": 367682,
+        "land_value": 148267,
+        "improvement_value": 219415,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14141,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 367682,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 353541,
+        "market_value": 353541,
+        "land_value": 142565,
+        "improvement_value": 210976,
+        "land_value_percentage": 40.3,
+        "improvement_value_percentage": 59.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 353541,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0520M00313000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0520M00313000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "1-Jun-16",
+      "most_recent_appeal_date": "14-Aug-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-5582-2015",
+        "filed_date": "14-Aug-15",
+        "hearing_date": "14-Aug-15",
+        "appeal_status": "approved",
+        "original_value": 460300,
+        "requested_value": 460300,
+        "final_value": 460300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-12346-2016",
+        "filed_date": "1-Jun-16",
+        "hearing_date": "1-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 460300,
+        "requested_value": 460300,
+        "final_value": 460300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0520M00313000000",
+    "comparables": [
+      {
+        "parcel_id": "0520L00044000000",
+        "address": "2901 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "149   RED MAPLE LN",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 400400,
+        "market_value": 400400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0285C00150000000",
+        "address": "1044 SAXONBURG BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1044   SAXONBURG BLVD",
+        "land_use_description": "LODGE HALL/AMUSEMENT PARK",
+        "acreage": null,
+        "assessed_value": 401600,
+        "market_value": 401600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0356J00150000000",
+        "address": "1215 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "141   BONNIE VIEW DR",
+        "land_use_description": "MEDIUM MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 395400,
+        "market_value": 395400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0354A00125000000",
+        "address": "545 GLENHAVEN DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "545   GLENHAVEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 392000,
+        "market_value": 410000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435R00292000000",
+        "address": "1003 SLEEPY HOLLOW LN",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1003   SLEEPY HOLLOW LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 410300,
+        "market_value": 428300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0434K00335000000",
+        "address": "1608 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "171   BURTNER RD",
+        "land_use_description": "AUTO SALES & SERVICE",
+        "acreage": null,
+        "assessed_value": 388100,
+        "market_value": 388100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

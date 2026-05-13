@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0082S00320000000",
+    "address": "WELLESLEY AVE",
+    "city": "11101",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6217   WELLESLEY AVE",
+    "current_mailing_address": "6217   WELLESLEY AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.053,
+    "latitude": 40.46246,
+    "longitude": -79.90396
+  },
+  "assessments": {
+    "parcel_id": "0082S00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 27700,
+        "market_value": 27700,
+        "land_value": 27700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1234,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 26466,
+        "market_value": 26466,
+        "land_value": 26466,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26466,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 26466,
+        "market_value": 26466,
+        "land_value": 26466,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -268,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26466,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 26734,
+        "market_value": 26734,
+        "land_value": 26734,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1273,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26734,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 25461,
+        "market_value": 25461,
+        "land_value": 25461,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 979,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25461,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 24482,
+        "market_value": 24482,
+        "land_value": 24482,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24482,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0082S00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0082S00320000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0082S00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0082S00075000000",
+        "address": "WELLESLEY AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "300   FIFTH AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 27200,
+        "market_value": 27200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124A00198000000",
+        "address": "WELLESLEY AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "6317   JACKSON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 22900,
+        "market_value": 22900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123J00112000100",
+        "address": "HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1327   HEBERTON ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 21500,
+        "market_value": 21500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

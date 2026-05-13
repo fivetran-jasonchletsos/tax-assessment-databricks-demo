@@ -122,6 +122,19 @@
     "parcel_id": "0523D00016000000",
     "comparables": [
       {
+        "parcel_id": "0436A00201000000",
+        "address": "1832 MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "1832   MIDDLE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0436H00370000000",
         "address": "SAXONBURG BLVD",
         "city": "Indiana",
@@ -132,7 +145,7 @@
         "assessed_value": 1200,
         "market_value": 1200,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       }
     ]
   }

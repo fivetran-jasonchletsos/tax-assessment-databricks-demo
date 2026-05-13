@@ -145,6 +145,32 @@
     "parcel_id": "0085P00031000000",
     "comparables": [
       {
+        "parcel_id": "0088M00090000000",
+        "address": "139 BEARDSLEY LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "139   BEARDSLEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 453100,
+        "market_value": 471100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088L00078000000",
+        "address": "1657 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1657   BILTMORE LN",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 452000,
+        "market_value": 470000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00014000000",
         "address": "1422 WIGHTMAN ST",
         "city": "11401",
@@ -155,7 +181,7 @@
         "assessed_value": 453400,
         "market_value": 471400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085N00024000000",
@@ -168,7 +194,7 @@
         "assessed_value": 451700,
         "market_value": 469700,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086B00131000000",
@@ -181,7 +207,7 @@
         "assessed_value": 451700,
         "market_value": 469700,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086C00043000000",
@@ -194,32 +220,6 @@
         "assessed_value": 451700,
         "market_value": 469700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053H00133000000",
-        "address": "5404 PLAINFIELD ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5404   PLAINFIELD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 451600,
-        "market_value": 451600,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086H00014000000",
-        "address": "5874 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5874   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 451500,
-        "market_value": 469500,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

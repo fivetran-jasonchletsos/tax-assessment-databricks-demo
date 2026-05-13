@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0009N00062000000",
+    "address": "217 9TH ST",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "2   CENTRE PLAZA   STE 700",
+    "current_mailing_address": "2   CENTRE PLAZA   STE 700",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 0.066,
+    "latitude": 40.4375,
+    "longitude": -79.98274
+  },
+  "assessments": {
+    "parcel_id": "0009N00062000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 450000,
+        "market_value": 450000,
+        "land_value": 340000,
+        "improvement_value": 110000,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11082,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 450000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 438918,
+        "market_value": 438918,
+        "land_value": 331626,
+        "improvement_value": 107292,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16881,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 438918,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 422037,
+        "market_value": 422037,
+        "land_value": 318872,
+        "improvement_value": 103165,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12292,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 422037,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 409745,
+        "market_value": 409745,
+        "land_value": 309585,
+        "improvement_value": 100160,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8034,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 409745,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 401711,
+        "market_value": 401711,
+        "land_value": 303514,
+        "improvement_value": 98197,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3977,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 401711,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 397734,
+        "market_value": 397734,
+        "land_value": 300510,
+        "improvement_value": 97224,
+        "land_value_percentage": 75.6,
+        "improvement_value_percentage": 24.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 397734,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0009N00062000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0009N00062000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "27-Sep-17",
+      "most_recent_appeal_date": "27-Sep-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15235-2017",
+        "filed_date": "27-Sep-17",
+        "hearing_date": "27-Sep-17",
+        "appeal_status": "approved",
+        "original_value": 950000,
+        "requested_value": 950000,
+        "final_value": 2014900,
+        "value_reduction": 0,
+        "reduction_percentage": -112.09,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0009N00062000000",
+    "comparables": [
+      {
+        "parcel_id": "0009D00035000000",
+        "address": "1729 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1737   PENN AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 451200,
+        "market_value": 451200,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025K00155000000",
+        "address": "123 26TH ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1   RE MICHEL DR",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 448500,
+        "market_value": 448500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0010A00022000000",
+        "address": "2216 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "3955   BIGELOW BLVD  APT 716",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 454800,
+        "market_value": 454800,
+        "assessed_value_change_pct": 12.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001D00181000000",
+        "address": "600 LIBERTY AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "803   LIBERTY AVE",
+        "land_use_description": "RETL/STOR OVER",
+        "acreage": null,
+        "assessed_value": 443400,
+        "market_value": 443400,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001D00287000000",
+        "address": "256 5TH AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "5806   HOBART ST",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 441500,
+        "market_value": 441500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0009D00109000000",
+        "address": "2013 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "200   BRYNA LN",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 462000,
+        "market_value": 462000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

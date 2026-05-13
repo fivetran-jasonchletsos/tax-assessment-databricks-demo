@@ -122,6 +122,19 @@
     "parcel_id": "0048A00007000000",
     "comparables": [
       {
+        "parcel_id": "0078A00070000000",
+        "address": "3404 SPRING GARDEN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "3404   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58300,
+        "market_value": 76300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0047H00350000000",
         "address": "1927 W BECKERT AVE",
         "city": "Reserve",
@@ -132,7 +145,46 @@
         "assessed_value": 59000,
         "market_value": 77000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0117C00120000000",
+        "address": "220 HOFFMAN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "220   HOFFMAN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59000,
+        "market_value": 77000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0164P00057000000",
+        "address": "3750 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "3750   MOUNT TROY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59000,
+        "market_value": 77000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0164S00020000000",
+        "address": "453 HOFFMAN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "453   HOFFMAN RD",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 58200,
+        "market_value": 58200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0048A00011000000",
@@ -145,58 +197,6 @@
         "assessed_value": 59200,
         "market_value": 59200,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0047D00230000000",
-        "address": "1935 MELVINA ST",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "1935   MELVINA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 59600,
-        "market_value": 59600,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0048A00024000000",
-        "address": "2206 MOUNT TROY RD",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "15009   LIVE OAK SPRINGS CANYON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 60000,
-        "market_value": 60000,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0047H00356000000",
-        "address": "1956 W BECKERT AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "1956  W BECKERT AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 56600,
-        "market_value": 74600,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0048A00146000000",
-        "address": "2051 PITTVIEW AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "2051   PITTVIEW AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 56200,
-        "market_value": 74200,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

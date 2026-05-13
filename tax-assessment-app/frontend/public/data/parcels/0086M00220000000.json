@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088M00100000B00",
+        "address": "1614 OVERTON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1614   OVERTON LN  UNIT B",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 371700,
+        "market_value": 389700,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00245000000",
         "address": "5720 SOLWAY ST",
         "city": "11401",
@@ -145,7 +158,20 @@
         "assessed_value": 371100,
         "market_value": 371100,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127N00171000000",
+        "address": "2250 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2250   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 371100,
+        "market_value": 389100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086E00262000000",
@@ -158,45 +184,19 @@
         "assessed_value": 372000,
         "market_value": 390000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0053D00232000000",
-        "address": "5415 NORMLEE PL",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5415   NORMLEE PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 370900,
-        "market_value": 388900,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086H00257000000",
-        "address": "1660 BEECHWOOD BLVD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1660   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 372100,
-        "market_value": 390100,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086M00121000000",
-        "address": "6331 DARLINGTON RD",
+        "parcel_id": "0088R00106000000",
+        "address": "1771 PARKVIEW BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5131   BEELER ST",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "1771   PARKVIEW BLVD",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 372200,
-        "market_value": 372200,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 372000,
+        "market_value": 390000,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0086N00232000000",
     "comparables": [
       {
+        "parcel_id": "0087R00292000000",
+        "address": "3022 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3022   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236400,
+        "market_value": 254400,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085J00209000000",
         "address": "5434 DUNMOYLE ST",
         "city": "11402",
@@ -184,7 +197,7 @@
         "assessed_value": 235500,
         "market_value": 253500,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086F00248000000",
@@ -197,7 +210,7 @@
         "assessed_value": 236700,
         "market_value": 254700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086J00196000000",
@@ -210,7 +223,20 @@
         "assessed_value": 236988,
         "market_value": 236988,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126A00105000000",
+        "address": "214 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "214   ELYSIAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 237000,
+        "market_value": 255000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086N00206000000",
@@ -222,32 +248,6 @@
         "acreage": null,
         "assessed_value": 235200,
         "market_value": 253200,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086P00002000000",
-        "address": "5552 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "904   HIGHLANDER CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 237500,
-        "market_value": 237500,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087L00054000000",
-        "address": "5821 MORROWFIELD AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "600   WATERFRONT DR  STE 215",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 234700,
-        "market_value": 234700,
         "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }

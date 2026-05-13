@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0049B00238000000",
+    "address": "4200 BUTLER ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "232   BLVD OF THE ALLIES",
+    "current_mailing_address": "232   BLVD OF THE ALLIES",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.057,
+    "latitude": 40.46464,
+    "longitude": -79.94212
+  },
+  "assessments": {
+    "parcel_id": "0049B00238000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 4000,
+        "market_value": 4000,
+        "land_value": 4000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 291,
+        "assessed_value_change_pct": 7.85,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3709,
+        "market_value": 3709,
+        "land_value": 3709,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 36,
+        "assessed_value_change_pct": 0.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3709,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3673,
+        "market_value": 3673,
+        "land_value": 3673,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3673,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3673,
+        "market_value": 3673,
+        "land_value": 3673,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -38,
+        "assessed_value_change_pct": -1.02,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3673,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3711,
+        "market_value": 3711,
+        "land_value": 3711,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 176,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3711,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3535,
+        "market_value": 3535,
+        "land_value": 3535,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3535,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049B00238000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049B00238000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0049B00238000000",
+    "comparables": [
+      {
+        "parcel_id": "0080L00007000000",
+        "address": "BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 7",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 3500,
+        "market_value": 3500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080P00315000000",
+        "address": "BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "4635   BUTLER ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 4600,
+        "market_value": 4600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080N00010000000",
+        "address": "40TH ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 3300,
+        "market_value": 3300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

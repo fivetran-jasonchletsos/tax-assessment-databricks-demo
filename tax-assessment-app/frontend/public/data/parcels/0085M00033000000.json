@@ -174,6 +174,19 @@
     "parcel_id": "0085M00033000000",
     "comparables": [
       {
+        "parcel_id": "0088G00152000000",
+        "address": "3100 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3100   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 285100,
+        "market_value": 285100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086L00290000000",
         "address": "5858 BARTLETT ST",
         "city": "11402",
@@ -184,7 +197,7 @@
         "assessed_value": 284600,
         "market_value": 302600,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086K00135000000",
@@ -197,7 +210,7 @@
         "assessed_value": 285800,
         "market_value": 285800,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086F00229000000",
@@ -210,7 +223,7 @@
         "assessed_value": 286300,
         "market_value": 286300,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086P00206000000",
@@ -223,32 +236,19 @@
         "assessed_value": 283700,
         "market_value": 301700,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086F00235000000",
-        "address": "5632 MARLBOROUGH RD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5632   MARLBOROUGH RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 286900,
-        "market_value": 304900,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087K00145000000",
-        "address": "5837 BURCHFIELD AVE",
+        "parcel_id": "0087L00276000000",
+        "address": "6330 MORROWFIELD AVE",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5837   BURCHFIELD AVE",
+        "current_owner_name": "6330   MORROWFIELD AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 286900,
-        "market_value": 304900,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 286600,
+        "market_value": 304600,
+        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

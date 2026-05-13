@@ -174,6 +174,19 @@
     "parcel_id": "0519G00010000000",
     "comparables": [
       {
+        "parcel_id": "0614S00170000000",
+        "address": "311 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "311   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 245200,
+        "market_value": 263200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0520E00154000000",
         "address": "131 RICHARD DR",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 245000,
         "market_value": 263000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0356L00115000000",
@@ -197,7 +210,7 @@
         "assessed_value": 246100,
         "market_value": 264100,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433M00260000000",
@@ -210,7 +223,7 @@
         "assessed_value": 244900,
         "market_value": 244900,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0354D00138000000",
@@ -223,7 +236,7 @@
         "assessed_value": 244700,
         "market_value": 262700,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433M00160000000",
@@ -236,19 +249,6 @@
         "assessed_value": 244700,
         "market_value": 262700,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355D00088000000",
-        "address": "1493 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "150  S NEGLEY AVE",
-        "land_use_description": "OFFICE - 1-2 STORIES",
-        "acreage": null,
-        "assessed_value": 246400,
-        "market_value": 246400,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

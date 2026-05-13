@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052J00181000000",
+    "address": "4618 HENRY ST",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5000   FORBES AVE",
+    "current_mailing_address": "5000   FORBES AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE - 1-2 STORIES",
+    "acreage": 0.038,
+    "latitude": 40.43332,
+    "longitude": -79.94668
+  },
+  "assessments": {
+    "parcel_id": "0052J00181000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1092500,
+        "market_value": 1092500,
+        "land_value": 250000,
+        "improvement_value": 842500,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48600,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1092500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1043900,
+        "market_value": 1043900,
+        "land_value": 238878,
+        "improvement_value": 805022,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1043900,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1043900,
+        "market_value": 1043900,
+        "land_value": 238878,
+        "improvement_value": 805022,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -10545,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1043900,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1054445,
+        "market_value": 1054445,
+        "land_value": 241291,
+        "improvement_value": 813154,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 50211,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1054445,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1004234,
+        "market_value": 1004234,
+        "land_value": 229801,
+        "improvement_value": 774433,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 38624,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1004234,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 965610,
+        "market_value": 965610,
+        "land_value": 220963,
+        "improvement_value": 744647,
+        "land_value_percentage": 22.9,
+        "improvement_value_percentage": 77.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 965610,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052J00181000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052J00181000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jul-18",
+      "most_recent_appeal_date": "16-Jul-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22859-2018",
+        "filed_date": "16-Jul-18",
+        "hearing_date": "16-Jul-18",
+        "appeal_status": "approved",
+        "original_value": 426100,
+        "requested_value": 426100,
+        "final_value": 1092500,
+        "value_reduction": 0,
+        "reduction_percentage": -156.4,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052J00181000000",
+    "comparables": [
+      {
+        "parcel_id": "0028M00075000000",
+        "address": "3609 DAWSON ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 342",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 1088300,
+        "market_value": 1088300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028F00033000000",
+        "address": "3500 5TH AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1823   PENN AVE  STE 3",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 1100000,
+        "market_value": 1100000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028G00097000000",
+        "address": "220 MEYRAN AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5323   NORTHUMBERLAND ST",
+        "land_use_description": "MEDICAL CLINICS/OFFICES",
+        "acreage": null,
+        "assessed_value": 1100000,
+        "market_value": 1100000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0027D00218000000",
+        "address": "225 MELWOOD AVE",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "4609   BAYARD ST",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 1102700,
+        "market_value": 1102700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0027M00159000000",
+        "address": "125 N DITHRIDGE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1   BIGELOW SQ  STE 630",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 1107500,
+        "market_value": 1107500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0027H00238000000",
+        "address": "160 N CRAIG ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "1823   PENN AVE",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 1125000,
+        "market_value": 1125000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

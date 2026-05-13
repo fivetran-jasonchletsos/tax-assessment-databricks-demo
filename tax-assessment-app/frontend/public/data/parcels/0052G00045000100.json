@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0052G00045000100",
+    "address": "CASTLEMAN ST",
+    "city": "Shadyside",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "5035   CASTLEMAN ST",
+    "current_mailing_address": "5035   CASTLEMAN ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.074,
+    "latitude": 40.44146,
+    "longitude": -79.92398
+  },
+  "assessments": {
+    "parcel_id": "0052G00045000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 15000,
+        "market_value": 15000,
+        "land_value": 15000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 373,
+        "assessed_value_change_pct": 2.55,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 14627,
+        "market_value": 14627,
+        "land_value": 14627,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 562,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14627,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 14065,
+        "market_value": 14065,
+        "land_value": 14065,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 409,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14065,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 13656,
+        "market_value": 13656,
+        "land_value": 13656,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 267,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13656,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 13389,
+        "market_value": 13389,
+        "land_value": 13389,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 132,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13389,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 13257,
+        "market_value": 13257,
+        "land_value": 13257,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13257,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052G00045000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052G00045000100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "23-Jun-17",
+      "most_recent_appeal_date": "23-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15865-2017",
+        "filed_date": "23-Jun-17",
+        "hearing_date": "23-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 15000,
+        "requested_value": 15000,
+        "final_value": 15000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0052G00045000100",
+    "comparables": [
+      {
+        "parcel_id": "0084J00041000A00",
+        "address": "561 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "34   BURKE RD",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 15300,
+        "market_value": 15300,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051M00332000000",
+        "address": "561 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "128  E CARACAS AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 14300,
+        "market_value": 14300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084K00138000000",
+        "address": "LAMONT PL",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "356   LEHIGH AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 15700,
+        "market_value": 15700,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084J00217000000",
+        "address": "PIERCE ST",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "5832   PIERCE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 16100,
+        "market_value": 16100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084J00042000000",
+        "address": "555 S NEGLEY AVE",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "555  S NEGLEY AVE  UNIT 17",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 12300,
+        "market_value": 12300,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0052B00269000000",
+        "address": "SHADYSIDE LN",
+        "city": "Shadyside",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 10234",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 18000,
+        "market_value": 18000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

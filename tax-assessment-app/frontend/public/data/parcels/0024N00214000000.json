@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024N00214000000",
+    "address": "541 E OHIO ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "4789   WALLINGFORD ST",
+    "current_mailing_address": "4789   WALLINGFORD ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.034,
+    "latitude": 40.41752,
+    "longitude": -80.0672
+  },
+  "assessments": {
+    "parcel_id": "0024N00214000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 274000,
+        "market_value": 274000,
+        "land_value": 51800,
+        "improvement_value": 222200,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12189,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 261811,
+        "market_value": 261811,
+        "land_value": 49495,
+        "improvement_value": 212316,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 261811,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 261811,
+        "market_value": 261811,
+        "land_value": 49495,
+        "improvement_value": 212316,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2645,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 261811,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 264456,
+        "market_value": 264456,
+        "land_value": 49995,
+        "improvement_value": 214461,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12593,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 264456,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 251863,
+        "market_value": 251863,
+        "land_value": 47614,
+        "improvement_value": 204249,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9687,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 251863,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 242176,
+        "market_value": 242176,
+        "land_value": 45783,
+        "improvement_value": 196393,
+        "land_value_percentage": 18.9,
+        "improvement_value_percentage": 81.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 242176,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024N00214000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024N00214000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "17-Jun-19",
+      "most_recent_appeal_date": "17-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29166-2019",
+        "filed_date": "17-Jun-19",
+        "hearing_date": "17-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 110000,
+        "requested_value": 110000,
+        "final_value": 274000,
+        "value_reduction": 0,
+        "reduction_percentage": -149.09,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024N00214000000",
+    "comparables": [
+      {
+        "parcel_id": "0009B00119000000",
+        "address": "885 PROGRESS ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "309   DAWSON AVE",
+        "land_use_description": "OFFICE-WALKUP -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 273500,
+        "market_value": 273500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023S00159000000",
+        "address": "520 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "512   SUISMON ST",
+        "land_use_description": "BARS",
+        "acreage": null,
+        "assessed_value": 276900,
+        "market_value": 276900,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024N00017000000",
+        "address": "807 EAST ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 739",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 270000,
+        "market_value": 270000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009A00021000000",
+        "address": "614 PRESSLEY ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "614   PRESSLEY ST",
+        "land_use_description": "HOTELS",
+        "acreage": null,
+        "assessed_value": 262500,
+        "market_value": 262500,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023S00223000000",
+        "address": "424 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "521   TRIPOLI ST",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 285800,
+        "market_value": 285800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023S00125000000",
+        "address": "421 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "4001   MURFIELD CIR",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 292200,
+        "market_value": 292200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

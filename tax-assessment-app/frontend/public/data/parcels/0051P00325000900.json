@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0051P00325000900",
+    "address": "CENTRE AVE",
+    "city": "Pittsburgh Utility Rows",
+    "zip_code": "15232",
+    "county": "Allegheny",
+    "current_owner_name": "650  W PEACHTREE ST NW",
+    "current_mailing_address": "650  W PEACHTREE ST NW",
+    "current_ownership_type": "CORPORATION-RAILROAD",
+    "land_use_code": null,
+    "land_use_description": "R.R. - USED IN OPERATION",
+    "acreage": 10.28,
+    "latitude": 40.4435,
+    "longitude": -79.9289
+  },
+  "assessments": {
+    "parcel_id": "0051P00325000900",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 20600,
+        "market_value": 20600,
+        "land_value": 20600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 918,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 19682,
+        "market_value": 19682,
+        "land_value": 19682,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19682,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 19682,
+        "market_value": 19682,
+        "land_value": 19682,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -199,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19682,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 19881,
+        "market_value": 19881,
+        "land_value": 19881,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 946,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 19881,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 18935,
+        "market_value": 18935,
+        "land_value": 18935,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 728,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18935,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 18207,
+        "market_value": 18207,
+        "land_value": 18207,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 18207,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0051P00325000900",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0051P00325000900",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0051P00325000900",
+    "comparables": [
+      {
+        "parcel_id": "0024M00100000900",
+        "address": "R OF W",
+        "city": "Pittsburgh Utility Rows",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "R.R. - USED IN OPERATION",
+        "acreage": null,
+        "assessed_value": 21800,
+        "market_value": 21800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080C00250000900",
+        "address": "51ST ST",
+        "city": "Pittsburgh Utility Rows",
+        "zip_code": "15201",
+        "current_owner_name": "519   CEDAR WAY",
+        "land_use_description": "R.R. - USED IN OPERATION",
+        "acreage": null,
+        "assessed_value": 19300,
+        "market_value": 19300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048H00045000901",
+        "address": "R/W",
+        "city": "Pittsburgh Utility Rows",
+        "zip_code": "15222",
+        "current_owner_name": "519   CEDAR WAY",
+        "land_use_description": "R.R. - USED IN OPERATION",
+        "acreage": null,
+        "assessed_value": 15900,
+        "market_value": 15900,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

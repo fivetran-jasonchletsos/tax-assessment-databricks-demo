@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0125N00077000000",
+        "address": "6644 5TH AVE",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "6644   5TH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 342000,
+        "market_value": 360000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0085S00037000000",
         "address": "1352 DENNISTON ST",
         "city": "11402",
@@ -145,7 +158,7 @@
         "assessed_value": 342000,
         "market_value": 342000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085H00123000000",
@@ -158,7 +171,7 @@
         "assessed_value": 342200,
         "market_value": 360200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085K00225000000",
@@ -171,32 +184,19 @@
         "assessed_value": 342200,
         "market_value": 342200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085H00162000000",
-        "address": "1190 BEECHWOOD BLVD",
-        "city": "11402",
-        "zip_code": "15206",
-        "current_owner_name": "1190   BEECHWOOD BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 342300,
-        "market_value": 360300,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086K00152000000",
-        "address": "5605 DARLINGTON RD",
+        "parcel_id": "0088B00194000000",
+        "address": "4231 SALINE ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "5605   DARLINGTON RD",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "4231   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 342300,
-        "market_value": 360300,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 341000,
+        "market_value": 359000,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

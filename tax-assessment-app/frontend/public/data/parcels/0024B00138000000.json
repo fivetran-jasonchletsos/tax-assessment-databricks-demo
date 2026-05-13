@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024B00138000000",
+    "address": "181 ZANG WAY",
+    "city": "Ward 24 - Spring Garden",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1070  W CENTURY DR  STE 101",
+    "current_mailing_address": "1070  W CENTURY DR  STE 101",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.021,
+    "latitude": 40.41668,
+    "longitude": -80.0684
+  },
+  "assessments": {
+    "parcel_id": "0024B00138000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 6100,
+        "market_value": 6100,
+        "land_value": 3999,
+        "improvement_value": 2101,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 273,
+        "assessed_value_change_pct": 4.69,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 5827,
+        "market_value": 5827,
+        "land_value": 3820,
+        "improvement_value": 2007,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5827,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 5827,
+        "market_value": 5827,
+        "land_value": 3820,
+        "improvement_value": 2007,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -59,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5827,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 5886,
+        "market_value": 5886,
+        "land_value": 3859,
+        "improvement_value": 2027,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 280,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5886,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 5606,
+        "market_value": 5606,
+        "land_value": 3676,
+        "improvement_value": 1930,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 215,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5606,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 5391,
+        "market_value": 5391,
+        "land_value": 3535,
+        "improvement_value": 1856,
+        "land_value_percentage": 65.6,
+        "improvement_value_percentage": 34.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5391,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024B00138000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024B00138000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 11200,
+      "total_value_reduction": 11200,
+      "first_appeal_date": "9-Jul-19",
+      "most_recent_appeal_date": "9-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29160-2019",
+        "filed_date": "9-Jul-19",
+        "hearing_date": "9-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 17300,
+        "requested_value": 17300,
+        "final_value": 6100,
+        "value_reduction": 11200,
+        "reduction_percentage": 64.74,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024B00138000000",
+    "comparables": [
+      {
+        "parcel_id": "0024A00139000000",
+        "address": "32 ROSTOCK ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "32   ROSTOCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 6100,
+        "market_value": 24100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047K00091000000",
+        "address": "14 WOESSNER AVE",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "14   WOESSNER AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 6000,
+        "market_value": 24000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0047N00159000000",
+        "address": "SOLAR ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "285   HILLCREST DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6000,
+        "market_value": 6000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0047N00343000000",
+        "address": "47 ROSTOCK ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "50   ROSTOCK ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 6200,
+        "market_value": 6200,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0047P00218000000",
+        "address": "1205 FRONTIER ST",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "1205   FRONTIER ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6200,
+        "market_value": 6200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024B00050000000",
+        "address": "999 HASLAGE AVE",
+        "city": "Ward 24 - Spring Garden",
+        "zip_code": "15212",
+        "current_owner_name": "999   HASLAGE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 5900,
+        "market_value": 5900,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

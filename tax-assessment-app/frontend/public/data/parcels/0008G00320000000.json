@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0008G00320000000",
+    "address": "395 FEDERAL ST",
+    "city": "22nd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+    "current_mailing_address": "412   BOULEVARD OF THE ALLIES   STE 901",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+    "acreage": 1.056,
+    "latitude": 40.41668,
+    "longitude": -80.07296
+  },
+  "assessments": {
+    "parcel_id": "0008G00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 500000,
+        "market_value": 500000,
+        "land_value": 230000,
+        "improvement_value": 270000,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22242,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 500000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 477758,
+        "market_value": 477758,
+        "land_value": 219768,
+        "improvement_value": 257990,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 477758,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 477758,
+        "market_value": 477758,
+        "land_value": 219768,
+        "improvement_value": 257990,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4826,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 477758,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 482584,
+        "market_value": 482584,
+        "land_value": 221988,
+        "improvement_value": 260596,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22980,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 482584,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 459604,
+        "market_value": 459604,
+        "land_value": 211417,
+        "improvement_value": 248187,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17677,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 459604,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 441927,
+        "market_value": 441927,
+        "land_value": 203286,
+        "improvement_value": 238641,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 441927,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0008G00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0008G00320000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0008G00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0023L00258000000",
+        "address": "122 E NORTH AVE",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "120   5TH AVE  STE 2900",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 501600,
+        "market_value": 501600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023L00122000000",
+        "address": "1300 FEDERAL ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "133   BROOKFIELD ESTATE DR",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 492300,
+        "market_value": 492300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023N00066000000",
+        "address": "506 W NORTH AVE",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "506  W NORTH AVE",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 487900,
+        "market_value": 487900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0008D00015000000",
+        "address": "240 STOCKTON ST",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 484500,
+        "market_value": 484500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0008A00200000000",
+        "address": "717 RIDGE AVE",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "717   RIDGE AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 523900,
+        "market_value": 523900,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008E00010000000",
+        "address": "100 ART ROONEY AVE",
+        "city": "22nd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "171   10TH ST  FL 2",
+        "land_use_description": "CASINO",
+        "acreage": null,
+        "assessed_value": 474100,
+        "market_value": 474100,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

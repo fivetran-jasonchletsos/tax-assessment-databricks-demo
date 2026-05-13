@@ -122,6 +122,19 @@
     "parcel_id": "0085R00295000000",
     "comparables": [
       {
+        "parcel_id": "0087R00028000000",
+        "address": "6361 CATON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6361   CATON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 287300,
+        "market_value": 305300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086K00078000000",
         "address": "5621 BARTLETT ST",
         "city": "11402",
@@ -132,7 +145,7 @@
         "assessed_value": 287400,
         "market_value": 305400,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086J00050000000",
@@ -145,7 +158,7 @@
         "assessed_value": 287100,
         "market_value": 305100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053M00049000000",
@@ -158,7 +171,7 @@
         "assessed_value": 287700,
         "market_value": 287700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086F00235000000",
@@ -171,7 +184,7 @@
         "assessed_value": 286900,
         "market_value": 304900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087K00145000000",
@@ -184,19 +197,6 @@
         "assessed_value": 286900,
         "market_value": 304900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086K00016000000",
-        "address": "1724 WIGHTMAN ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "6236   FIFTH AVE  STE C 105",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 288000,
-        "market_value": 288000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

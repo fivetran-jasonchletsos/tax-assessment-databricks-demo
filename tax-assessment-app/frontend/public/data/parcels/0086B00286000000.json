@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0128P00131000000",
+        "address": "1027 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1027   PARKVIEW BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 808200,
+        "market_value": 826200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0053H00103000000",
         "address": "5441 ALBEMARLE AVE",
         "city": "11401",
@@ -158,7 +171,20 @@
         "assessed_value": 815200,
         "market_value": 833200,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088M00078000000",
+        "address": "1647 OVERTON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1647   OVERTON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 806000,
+        "market_value": 806000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052R00024000000",
@@ -171,32 +197,6 @@
         "assessed_value": 802000,
         "market_value": 820000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086S00192000000",
-        "address": "6410 BEACON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "6410   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 819700,
-        "market_value": 837700,
-        "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0053H00138000000",
-        "address": "5410 PLAINFIELD ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5410   PLAINFIELD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 800900,
-        "market_value": 818900,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

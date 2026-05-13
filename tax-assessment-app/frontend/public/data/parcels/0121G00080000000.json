@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121K00108000000",
+        "address": "1725 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1725   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35600,
+        "market_value": 53600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121K00109000000",
+        "address": "1723 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1723   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 35600,
+        "market_value": 53600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0081A00210000000",
         "address": "616 KENDALL ST",
         "city": "11003",
@@ -197,58 +223,32 @@
         "assessed_value": 35500,
         "market_value": 53500,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082K00003000000",
-        "address": "HAMPTON ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1118   CHISLETT ST",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 35700,
-        "market_value": 35700,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121G00076000000",
-        "address": "7318 BUTLER ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "340   GUYS RUN RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 35500,
-        "market_value": 35500,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0121H00034000000",
-        "address": "101 RESERVOIR DR",
+        "parcel_id": "0082E00028000000",
+        "address": "STANTON AVE",
         "city": "11003",
-        "zip_code": "15206",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 35700,
+        "market_value": 35700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0120P00229000000",
+        "address": "57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
         "current_owner_name": "414   GRANT ST  RM 200",
         "land_use_description": "VACANT LAND",
         "acreage": null,
         "assessed_value": 35500,
         "market_value": 35500,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0081A00003000000",
-        "address": "5405 KENT WAY",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5688   BUTLER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 35800,
-        "market_value": 35800,
-        "assessed_value_change_pct": 13.9,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

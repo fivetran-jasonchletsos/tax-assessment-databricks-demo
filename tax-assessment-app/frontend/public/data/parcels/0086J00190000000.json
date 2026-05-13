@@ -122,6 +122,19 @@
     "parcel_id": "0086J00190000000",
     "comparables": [
       {
+        "parcel_id": "0087R00117000000",
+        "address": "6357 EBDY ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6357   EBDY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148700,
+        "market_value": 166700,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086N00068000000",
         "address": "5534 BARTLETT ST",
         "city": "11402",
@@ -132,7 +145,20 @@
         "assessed_value": 148800,
         "market_value": 166800,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088F00162000000",
+        "address": "4309 SALINE ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5512   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148600,
+        "market_value": 148600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085M00053000000",
@@ -145,7 +171,7 @@
         "assessed_value": 149000,
         "market_value": 167000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086N00112000000",
@@ -158,45 +184,19 @@
         "assessed_value": 149000,
         "market_value": 167000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086J00011000000",
-        "address": "5533 BARTLETT ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5540   DARLINGTON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 149300,
-        "market_value": 149300,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086P00177000000",
-        "address": "5679 BEACON ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5679   BEACON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 148000,
-        "market_value": 166000,
-        "assessed_value_change_pct": 0.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085M00051000000",
-        "address": "1259 DENNISTON ST",
+        "parcel_id": "0088C00125000000",
+        "address": "6515 ROSEMOOR ST",
         "city": "11402",
         "zip_code": "15217",
-        "current_owner_name": "1259   DENNISTON ST",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "PO BOX 14514",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 149600,
-        "market_value": 167600,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 149100,
+        "market_value": 149100,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

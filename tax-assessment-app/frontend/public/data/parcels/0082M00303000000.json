@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123E00051000000",
+        "address": "1373 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1373  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 185200,
+        "market_value": 203200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082S00140000000",
         "address": "1025 FARRAGUT ST",
         "city": "11101",
@@ -197,7 +210,7 @@
         "assessed_value": 185000,
         "market_value": 185000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082S00291000000",
@@ -210,7 +223,20 @@
         "assessed_value": 185000,
         "market_value": 185000,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123N00020000000",
+        "address": "1109 DEVICTOR PL",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1109   DEVICTOR PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 185000,
+        "market_value": 203000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082S00283000000",
@@ -223,32 +249,6 @@
         "assessed_value": 184900,
         "market_value": 202900,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00310000000",
-        "address": "915 HEBERTON ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1950   OVERLAND CT",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 187000,
-        "market_value": 187000,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082M00353000000",
-        "address": "1310 BROWNING RD",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "701   ROBINHOOD RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 182200,
-        "market_value": 200200,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

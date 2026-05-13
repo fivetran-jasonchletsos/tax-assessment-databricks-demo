@@ -174,6 +174,19 @@
     "parcel_id": "0081D00165000000",
     "comparables": [
       {
+        "parcel_id": "0120R00070000000",
+        "address": "4440 CAMELIA ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "5712   HAMPTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90800,
+        "market_value": 90800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121J00038000000",
         "address": "1544 TRINITY ST",
         "city": "11001",
@@ -184,7 +197,7 @@
         "assessed_value": 90700,
         "market_value": 90700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0081D00166000000",
@@ -197,7 +210,33 @@
         "assessed_value": 90600,
         "market_value": 108600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00134000000",
+        "address": "1338 WOODBINE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1338   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 91300,
+        "market_value": 109300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120S00085000000",
+        "address": "1339 HAWTHORNE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "4328   SAILFISH CIR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 91300,
+        "market_value": 91300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121E00232000000",
@@ -210,45 +249,6 @@
         "assessed_value": 91300,
         "market_value": 91300,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0120M00022000000",
-        "address": "1510 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1510   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 91400,
-        "market_value": 109400,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0120M00081000000",
-        "address": "1514 HAWTHORNE ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1514   HAWTHORNE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 91500,
-        "market_value": 109500,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0121E00155000000",
-        "address": "6425 ADELPHIA ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1203   SUGARLAND VALLEY DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 90300,
-        "market_value": 90300,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

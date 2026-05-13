@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0114F00033000000",
+    "address": "4031 BRANDON RD",
+    "city": "Ward 27 - Brighton Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "4012   BRANDON RD",
+    "current_mailing_address": "4012   BRANDON RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.086,
+    "latitude": 40.41644,
+    "longitude": -80.07308
+  },
+  "assessments": {
+    "parcel_id": "0114F00033000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 50500,
+        "market_value": 50500,
+        "land_value": 13100,
+        "improvement_value": 37400,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -704,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 51204,
+        "market_value": 51204,
+        "land_value": 13282,
+        "improvement_value": 37922,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2438,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51204,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 48766,
+        "market_value": 48766,
+        "land_value": 12650,
+        "improvement_value": 36116,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1875,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 48766,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 46891,
+        "market_value": 46891,
+        "land_value": 12163,
+        "improvement_value": 34728,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1365,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 46891,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 45526,
+        "market_value": 45526,
+        "land_value": 11809,
+        "improvement_value": 33717,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 892,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45526,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 44634,
+        "market_value": 44634,
+        "land_value": 11578,
+        "improvement_value": 33056,
+        "land_value_percentage": 25.9,
+        "improvement_value_percentage": 74.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44634,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0114F00033000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0114F00033000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "29-May-15",
+      "most_recent_appeal_date": "29-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2619-2015",
+        "filed_date": "29-May-15",
+        "hearing_date": "29-May-15",
+        "appeal_status": "approved",
+        "original_value": 50500,
+        "requested_value": 50500,
+        "final_value": 50500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0114F00033000000",
+    "comparables": [
+      {
+        "parcel_id": "0075C00234000000",
+        "address": "1508 DAVIS AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "6   OAKLAND SQ  APT 1",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 50500,
+        "market_value": 50500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0114F00032000000",
+        "address": "4029 BRANDON RD",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "123   BELL PARK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50500,
+        "market_value": 50500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0075C00206000000",
+        "address": "1515 ORCHLEE ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1515   ORCHLEE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50600,
+        "market_value": 68600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114C00130000000",
+        "address": "3932 SHOREHAM ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3932   SHOREHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50600,
+        "market_value": 68600,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114M00143000000",
+        "address": "1244 BENTON AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1642   AUGUSTA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50400,
+        "market_value": 50400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0114S00169000000",
+        "address": "3715 ATKINS ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3715   ATKINS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50600,
+        "market_value": 68600,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

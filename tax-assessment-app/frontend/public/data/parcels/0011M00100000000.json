@@ -1,0 +1,217 @@
+{
+  "parcel": {
+    "parcel_id": "0011M00100000000",
+    "address": "54 BEELEN ST",
+    "city": "10404",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "54   BEELEN ST",
+    "current_mailing_address": "54   BEELEN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.098,
+    "latitude": 40.432,
+    "longitude": -79.95664
+  },
+  "assessments": {
+    "parcel_id": "0011M00100000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 10000,
+        "market_value": 28000,
+        "land_value": 3700,
+        "improvement_value": 6300,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 623,
+        "assessed_value_change_pct": 6.64,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -8000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9377,
+        "market_value": 26255,
+        "land_value": 3469,
+        "improvement_value": 5908,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 273,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -8623,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 9104,
+        "market_value": 25491,
+        "land_value": 3368,
+        "improvement_value": 5736,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 178,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -8896,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8926,
+        "market_value": 24992,
+        "land_value": 3302,
+        "improvement_value": 5624,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 88,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -9074,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8838,
+        "market_value": 24746,
+        "land_value": 3270,
+        "improvement_value": 5568,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -9162,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8838,
+        "market_value": 24746,
+        "land_value": 3270,
+        "improvement_value": 5568,
+        "land_value_percentage": 37.0,
+        "improvement_value_percentage": 63.0,
+        "market_to_assessed_ratio": 2.8,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": -9162,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011M00100000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0011M00100000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011M00100000000",
+    "comparables": [
+      {
+        "parcel_id": "0028A00187000000",
+        "address": "3415 TERRACE ST",
+        "city": "10404",
+        "zip_code": "15213",
+        "current_owner_name": "3333   5TH AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011G00111000000",
+        "address": "26 GAZZAM ST",
+        "city": "10404",
+        "zip_code": "15213",
+        "current_owner_name": "26   GAZZAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 11600,
+        "market_value": 29600,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011G00160000000",
+        "address": "5 BEELEN ST",
+        "city": "10404",
+        "zip_code": "15213",
+        "current_owner_name": "7   BEELEN ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 7500,
+        "market_value": 25500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

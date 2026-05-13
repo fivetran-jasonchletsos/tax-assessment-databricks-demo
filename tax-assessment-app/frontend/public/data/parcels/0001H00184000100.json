@@ -1,0 +1,214 @@
+{
+  "parcel": {
+    "parcel_id": "0001H00184000100",
+    "address": "250 FORBES AVE",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "260   FORBES AVE  STE 1300",
+    "current_mailing_address": "260   FORBES AVE  STE 1300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "HOTELS",
+    "acreage": null,
+    "latitude": 40.43654,
+    "longitude": -79.98298
+  },
+  "assessments": {
+    "parcel_id": "0001H00184000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 25259000,
+        "market_value": 25259000,
+        "land_value": 0,
+        "improvement_value": 25259000,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1569519,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25259000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 23689481,
+        "market_value": 23689481,
+        "land_value": 0,
+        "improvement_value": 23689481,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 689984,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23689481,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 22999497,
+        "market_value": 22999497,
+        "land_value": 0,
+        "improvement_value": 22999497,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 450970,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22999497,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 22548527,
+        "market_value": 22548527,
+        "land_value": 0,
+        "improvement_value": 22548527,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 223252,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22548527,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 22325275,
+        "market_value": 22325275,
+        "land_value": 0,
+        "improvement_value": 22325275,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22325275,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 22325275,
+        "market_value": 22325275,
+        "land_value": 0,
+        "improvement_value": 22325275,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22325275,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001H00184000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001H00184000100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 405700,
+      "total_value_reduction": 405700,
+      "first_appeal_date": "5-Jun-17",
+      "most_recent_appeal_date": "5-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15105-2017",
+        "filed_date": "5-Jun-17",
+        "hearing_date": "5-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 25664700,
+        "requested_value": 25664700,
+        "final_value": 25259000,
+        "value_reduction": 405700,
+        "reduction_percentage": 1.58,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001H00184000100",
+    "comparables": [
+      {
+        "parcel_id": "0001G00239000000",
+        "address": "11 STANWIX ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "20  S CLARK ST  STE 3000",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 25671700,
+        "market_value": 25671700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001H00102000000",
+        "address": "205 WOOD ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "201   WOOD ST",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 26697700,
+        "market_value": 26697700,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001H00184000200",
+        "address": "4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "260   FORBES AVE  STE 1300",
+        "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+        "acreage": null,
+        "assessed_value": 27741000,
+        "market_value": 27741000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001A00100000000",
+        "address": "601 COMMONWEALTH PL",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "300   LIBERTY AVE",
+        "land_use_description": "STATE GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 22626800,
+        "market_value": 22626800,
+        "assessed_value_change_pct": 11.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001G00043000000",
+        "address": "300 LIBERTY AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "95  W BEAU ST  STE 600",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 19644600,
+        "market_value": 19644600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      }
+    ]
+  }
+}

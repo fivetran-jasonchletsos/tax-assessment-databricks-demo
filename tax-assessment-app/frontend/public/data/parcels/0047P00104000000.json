@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0047P00104000000",
+    "address": "1235 YETTA AVE",
+    "city": "24th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1235   YETTA AVE",
+    "current_mailing_address": "1235   YETTA AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "INDEPENDENT LIVING (SENIORS)",
+    "acreage": 0.88,
+    "latitude": 40.41812,
+    "longitude": -80.06588
+  },
+  "assessments": {
+    "parcel_id": "0047P00104000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2800000,
+        "market_value": 2800000,
+        "land_value": 302500,
+        "improvement_value": 2497500,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -39215,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2800000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2839215,
+        "market_value": 2839215,
+        "land_value": 306736,
+        "improvement_value": 2532479,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 135200,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2839215,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2704015,
+        "market_value": 2704015,
+        "land_value": 292130,
+        "improvement_value": 2411885,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 104000,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2704015,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2600015,
+        "market_value": 2600015,
+        "land_value": 280894,
+        "improvement_value": 2319121,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 75728,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2600015,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2524287,
+        "market_value": 2524287,
+        "land_value": 272713,
+        "improvement_value": 2251574,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 49495,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2524287,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2474792,
+        "market_value": 2474792,
+        "land_value": 267365,
+        "improvement_value": 2207427,
+        "land_value_percentage": 10.8,
+        "improvement_value_percentage": 89.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2474792,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047P00104000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047P00104000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047P00104000000",
+    "comparables": [
+      {
+        "parcel_id": "0048K00325000000",
+        "address": "600 WATERFRONT DR",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "641   ALPHA DR",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 2700000,
+        "market_value": 2700000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0048K00320000000",
+        "address": "500 WATERFRONT DR",
+        "city": "24th Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "925   LIBERTY AVE  FL 8",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 2634100,
+        "market_value": 2634100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

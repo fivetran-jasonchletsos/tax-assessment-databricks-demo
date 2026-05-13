@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0029B00077000000",
+    "address": "7 HODGE ST",
+    "city": "10403",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "1514   ALLISON DR",
+    "current_mailing_address": "1514   ALLISON DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.041,
+    "latitude": 40.43332,
+    "longitude": -79.94404
+  },
+  "assessments": {
+    "parcel_id": "0029B00077000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 25600,
+        "market_value": 25600,
+        "land_value": 12800,
+        "improvement_value": 12800,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1141,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 25600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 24459,
+        "market_value": 24459,
+        "land_value": 12229,
+        "improvement_value": 12230,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24459,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 24459,
+        "market_value": 24459,
+        "land_value": 12229,
+        "improvement_value": 12230,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -248,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24459,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 24707,
+        "market_value": 24707,
+        "land_value": 12353,
+        "improvement_value": 12354,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1176,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 24707,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 23531,
+        "market_value": 23531,
+        "land_value": 11765,
+        "improvement_value": 11766,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 905,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23531,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 22626,
+        "market_value": 22626,
+        "land_value": 11313,
+        "improvement_value": 11313,
+        "land_value_percentage": 50.0,
+        "improvement_value_percentage": 50.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22626,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0029B00077000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0029B00077000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0029B00077000000",
+    "comparables": [
+      {
+        "parcel_id": "0028A00358000000",
+        "address": "234 CHESTERFIELD RD",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "234   CHESTERFIELD RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 25700,
+        "market_value": 43700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028H00139000000",
+        "address": "BOUNDARY ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "209   FOX RUN DR",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 25900,
+        "market_value": 25900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0029C00267000000",
+        "address": "3236 WARD ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3236   WARD ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 25200,
+        "market_value": 43200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0029G00237000000",
+        "address": "3611 FRAZIER ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "PO BOX 71254",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 26500,
+        "market_value": 26500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028S00082000B00",
+        "address": "3381 PARKVIEW AVE",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3381   PARKVIEW AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 24500,
+        "market_value": 42500,
+        "assessed_value_change_pct": 2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0029C00127000100",
+        "address": "3214 JULIET ST",
+        "city": "10403",
+        "zip_code": "15213",
+        "current_owner_name": "3214 1/2  JULIET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 24200,
+        "market_value": 42200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

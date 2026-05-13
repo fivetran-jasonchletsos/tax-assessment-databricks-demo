@@ -145,6 +145,19 @@
     "parcel_id": "0192A00222000000",
     "comparables": [
       {
+        "parcel_id": "0141A00125000000",
+        "address": "34 ACADEMY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1266   NEWBURY HIGHLAND",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 350000,
+        "market_value": 350000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0192F00111000000",
         "address": "291 ORCHARD DR",
         "city": "Mt.lebanon",
@@ -155,7 +168,7 @@
         "assessed_value": 350000,
         "market_value": 368000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0193S00106000000",
@@ -168,7 +181,33 @@
         "assessed_value": 350000,
         "market_value": 368000,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252D00147000000",
+        "address": "87 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "87   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 350000,
+        "market_value": 368000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0252L00052000000",
+        "address": "4 FOREST GLEN DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "4   FOREST GLEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 350000,
+        "market_value": 368000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0192N00187000000",
@@ -181,45 +220,6 @@
         "assessed_value": 350100,
         "market_value": 368100,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0192A00270000000",
-        "address": "2 MISSION DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "2   MISSION DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 349300,
-        "market_value": 367300,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193S00060000000",
-        "address": "95 INGLEWOOD DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "95   INGLEWOOD DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 350700,
-        "market_value": 350700,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0251G00201000000",
-        "address": "107 WOODLAND DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "107   WOODLAND DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 350700,
-        "market_value": 368700,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

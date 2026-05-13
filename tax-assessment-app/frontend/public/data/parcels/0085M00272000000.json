@@ -197,6 +197,19 @@
     "parcel_id": "0085M00272000000",
     "comparables": [
       {
+        "parcel_id": "0126A00060000000",
+        "address": "6731 REYNOLDS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "6731   REYNOLDS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 397600,
+        "market_value": 415600,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085H00040000000",
         "address": "610 GETTYSBURG ST",
         "city": "11403",
@@ -207,7 +220,33 @@
         "assessed_value": 396200,
         "market_value": 414200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087S00042000000",
+        "address": "2721 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2721   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 396000,
+        "market_value": 414000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088D00312000000",
+        "address": "326 ANITA AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "326   ANITA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 398700,
+        "market_value": 416700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087D00109000000",
@@ -220,58 +259,19 @@
         "assessed_value": 395200,
         "market_value": 395200,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0087H00079000000",
-        "address": "2566 BEECHWOOD BLVD",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "305   EASTERN AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 400000,
-        "market_value": 400000,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087H00097000000",
-        "address": "6436 NICHOLSON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6436   NICHOLSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 393200,
-        "market_value": 411200,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087C00293000000",
-        "address": "5839 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5839   DOUGLAS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 392000,
-        "market_value": 410000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087D00012000000",
-        "address": "5906 DOUGLAS ST",
+        "parcel_id": "0128A00098000000",
+        "address": "111 PHILLIPS PL",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5906   DOUGLAS ST",
+        "current_owner_name": "111   PHILLIPS PL",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 402500,
-        "market_value": 402500,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 394900,
+        "market_value": 412900,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

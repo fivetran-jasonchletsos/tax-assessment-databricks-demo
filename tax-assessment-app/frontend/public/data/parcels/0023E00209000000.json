@@ -145,6 +145,19 @@
     "parcel_id": "0023E00209000000",
     "comparables": [
       {
+        "parcel_id": "0022D00192000000",
+        "address": "2000 BRIGHTON RD",
+        "city": "Ward 25",
+        "zip_code": "15212",
+        "current_owner_name": "2000   BRIGHTON RD",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 268600,
+        "market_value": 268600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0023J00067000000",
         "address": "502 JACKSONIA ST",
         "city": "Ward 25",
@@ -155,7 +168,7 @@
         "assessed_value": 268100,
         "market_value": 286100,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0023F00118000000",
@@ -168,7 +181,7 @@
         "assessed_value": 268000,
         "market_value": 286000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0023G00030000000",
@@ -181,7 +194,7 @@
         "assessed_value": 267800,
         "market_value": 285800,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0023F00387000000",
@@ -194,7 +207,7 @@
         "assessed_value": 269400,
         "market_value": 269400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0023J00033000000",
@@ -207,19 +220,6 @@
         "assessed_value": 267300,
         "market_value": 285300,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0023F00346000000",
-        "address": "110 JACKSONIA ST",
-        "city": "Ward 25",
-        "zip_code": "15212",
-        "current_owner_name": "110   JACKSONIA ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 271000,
-        "market_value": 289000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

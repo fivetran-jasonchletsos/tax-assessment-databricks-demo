@@ -174,6 +174,19 @@
     "parcel_id": "0047H00280000000",
     "comparables": [
       {
+        "parcel_id": "0078F00062000000",
+        "address": "3247 SPRING GARDEN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "490   WILLIAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0048E00013000000",
         "address": "1983 PITTVIEW AVE",
         "city": "Reserve",
@@ -184,7 +197,20 @@
         "assessed_value": 38200,
         "market_value": 38200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0078F00064000000",
+        "address": "3237 SPRING GARDEN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "33   LANSDALE ST",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 38200,
+        "market_value": 38200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0047H00331000000",
@@ -197,58 +223,32 @@
         "assessed_value": 38300,
         "market_value": 38300,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0047H00264000000",
-        "address": "1701 LUTY AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "119   CARDINAL CR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 38600,
-        "market_value": 38600,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0047H00333000000",
-        "address": "1945 PITTVIEW AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "725   SCHOOL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 39100,
-        "market_value": 39100,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0048A00133000000",
-        "address": "2013 PITTVIEW AVE",
+        "parcel_id": "0079N00074000000",
+        "address": "2049 ALFRED ST",
         "city": "Reserve",
         "zip_code": "15212",
-        "current_owner_name": "2013   PITTVIEW AVE",
+        "current_owner_name": "2049   ALFRED ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 39200,
-        "market_value": 57200,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 37700,
+        "market_value": 55700,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0047H00275000000",
-        "address": "1907 MOUNT TROY RD",
+        "parcel_id": "0078S00260000000",
+        "address": "2639 MOUNT TROY RD",
         "city": "Reserve",
         "zip_code": "15212",
-        "current_owner_name": "102   FIRST AVE  UNIT 1",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "1045   BLACKHAWK DR",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 36200,
-        "market_value": 36200,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 38400,
+        "market_value": 38400,
+        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

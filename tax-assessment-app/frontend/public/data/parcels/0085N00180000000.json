@@ -122,6 +122,32 @@
     "parcel_id": "0085N00180000000",
     "comparables": [
       {
+        "parcel_id": "0126N00072000000",
+        "address": "6663 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "230   STAMPERS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213100,
+        "market_value": 213100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0127N00012000000",
+        "address": "6563 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6563   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 212700,
+        "market_value": 230700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0052S00002000000",
         "address": "5161 BEELER ST",
         "city": "11401",
@@ -132,7 +158,33 @@
         "assessed_value": 212500,
         "market_value": 230500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127J00185000000",
+        "address": "6543 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6543   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213300,
+        "market_value": 231300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0127J00238000000",
+        "address": "6700 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6700   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213500,
+        "market_value": 231500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086H00179000000",
@@ -145,58 +197,6 @@
         "assessed_value": 212200,
         "market_value": 212200,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0053D00233000000",
-        "address": "5411 NORMLEE PL",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5411   NORMLEE PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 212000,
-        "market_value": 230000,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0052R00082000000",
-        "address": "9 UNGER LN",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "138  W LYNDHURST DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 213900,
-        "market_value": 213900,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053D00193000000",
-        "address": "5287 FORBES AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5287   FORBES AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211900,
-        "market_value": 229900,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086G00026000200",
-        "address": "5848 FERREE ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5848   FERREE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 211700,
-        "market_value": 229700,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

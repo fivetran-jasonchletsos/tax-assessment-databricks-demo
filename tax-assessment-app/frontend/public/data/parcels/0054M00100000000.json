@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088E00017000000",
+        "address": "747 MONTCLAIR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "758   MONTCLAIR ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 86000,
+        "market_value": 86000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0054M00032000000",
         "address": "843 MIRROR ST",
         "city": "11502",
@@ -197,7 +210,7 @@
         "assessed_value": 85900,
         "market_value": 103900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0054M00048000000",
@@ -210,7 +223,7 @@
         "assessed_value": 86100,
         "market_value": 104100,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0054S00285000000",
@@ -223,32 +236,19 @@
         "assessed_value": 85900,
         "market_value": 85900,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054S00024000000",
-        "address": "817 DEELY ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "817   DEELY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 85800,
-        "market_value": 103800,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087J00161000000",
-        "address": "1034 FLEMINGTON ST",
+        "parcel_id": "0088E00023000000",
+        "address": "733 MONTCLAIR ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "1034   FLEMINGTON ST",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "733   MONTCLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 85800,
-        "market_value": 85800,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 85900,
+        "market_value": 103900,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

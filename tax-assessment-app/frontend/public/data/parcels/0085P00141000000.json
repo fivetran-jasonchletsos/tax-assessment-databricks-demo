@@ -122,6 +122,19 @@
     "parcel_id": "0085P00141000000",
     "comparables": [
       {
+        "parcel_id": "0088H00218000000",
+        "address": "1609 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1609   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 370200,
+        "market_value": 388200,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053D00232000000",
         "address": "5415 NORMLEE PL",
         "city": "11401",
@@ -132,7 +145,33 @@
         "assessed_value": 370900,
         "market_value": 388900,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088D00118000000",
+        "address": "2965 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5518   PHILLIPS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 370000,
+        "market_value": 370000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088R00094000000",
+        "address": "1770 PARKVIEW BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1770   PARKVIEW BLVD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 370000,
+        "market_value": 388000,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086B00245000000",
@@ -145,58 +184,19 @@
         "assessed_value": 371100,
         "market_value": 371100,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0086B00226000000",
-        "address": "5723 WOODMONT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5723   WOODMONT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 369600,
-        "market_value": 387600,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0086M00220000000",
-        "address": "6432 DARLINGTON RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5310   WILKINS AVE",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 371500,
-        "market_value": 371500,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086E00155000000",
-        "address": "5421 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5421   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 369400,
-        "market_value": 387400,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0053G00110000000",
-        "address": "5315 NORTHUMBERLAND ST",
+        "parcel_id": "0127N00171000000",
+        "address": "2250 BEECHWOOD BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5315   NORTHUMBERLAND ST",
-        "land_use_description": "TOWNHOUSE",
+        "current_owner_name": "2250   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 371700,
-        "market_value": 389700,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value": 371100,
+        "market_value": 389100,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

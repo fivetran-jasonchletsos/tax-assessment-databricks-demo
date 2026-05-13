@@ -174,6 +174,19 @@
     "parcel_id": "0519H00201000000",
     "comparables": [
       {
+        "parcel_id": "0614S00194000000",
+        "address": "308 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "308   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 231900,
+        "market_value": 249900,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0434L00079000000",
         "address": "823 SPENCER GROVE LN",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 232300,
         "market_value": 250300,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0354F00115000000",
@@ -197,7 +210,7 @@
         "assessed_value": 232500,
         "market_value": 250500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0356L00111000000",
@@ -210,7 +223,7 @@
         "assessed_value": 232500,
         "market_value": 250500,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0434G00025000A00",
@@ -223,7 +236,7 @@
         "assessed_value": 231400,
         "market_value": 249400,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0356L00005000000",
@@ -235,19 +248,6 @@
         "acreage": null,
         "assessed_value": 231000,
         "market_value": 249000,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0433M00170000000",
-        "address": "2114 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2114   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 230900,
-        "market_value": 248900,
         "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }

@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087S00216000000",
+        "address": "2912 FERNWALD RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2912   FERNWALD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 173300,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0126E00060000000",
+        "address": "532 HASTINGS ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "PO BOX 323",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 155800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086R00236000000",
         "address": "5858 BEACON ST",
         "city": "11403",
@@ -197,7 +223,20 @@
         "assessed_value": 155000,
         "market_value": 155000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087B00230000000",
+        "address": "5674 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 155800,
+        "market_value": 155800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087C00064000000",
@@ -210,45 +249,6 @@
         "assessed_value": 155000,
         "market_value": 155000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087C00155000000",
-        "address": "2303 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5880   DOUGLAS AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 155000,
-        "market_value": 155000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087C00156000000",
-        "address": "2301 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5880   DOUGLAS ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 155000,
-        "market_value": 155000,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087D00021000000",
-        "address": "5920 DOUGLAS ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5920   DOUGLAS ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 155000,
-        "market_value": 155000,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

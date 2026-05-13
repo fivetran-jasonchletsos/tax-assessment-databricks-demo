@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0123P00027000000",
+    "address": "6600 JACKSON ST",
+    "city": "11102",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6600   JACKSON ST",
+    "current_mailing_address": "6600   JACKSON ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.101,
+    "latitude": 40.4621,
+    "longitude": -79.90168
+  },
+  "assessments": {
+    "parcel_id": "0123P00027000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 176300,
+        "market_value": 194300,
+        "land_value": 61100,
+        "improvement_value": 115200,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 4344,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 158300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 171956,
+        "market_value": 189512,
+        "land_value": 59594,
+        "improvement_value": 112362,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 6613,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 153956,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 165343,
+        "market_value": 182224,
+        "land_value": 57302,
+        "improvement_value": 108041,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 4815,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 147343,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 160528,
+        "market_value": 176917,
+        "land_value": 55633,
+        "improvement_value": 104895,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 3147,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 142528,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 157381,
+        "market_value": 173449,
+        "land_value": 54543,
+        "improvement_value": 102838,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 1558,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 139381,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 155823,
+        "market_value": 171732,
+        "land_value": 54003,
+        "improvement_value": 101820,
+        "land_value_percentage": 34.7,
+        "improvement_value_percentage": 65.3,
+        "market_to_assessed_ratio": 1.1,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 137823,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123P00027000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0123P00027000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Jul-15",
+      "most_recent_appeal_date": "9-Jul-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2732-2015",
+        "filed_date": "9-Jul-15",
+        "hearing_date": "9-Jul-15",
+        "appeal_status": "approved",
+        "original_value": 126900,
+        "requested_value": 126900,
+        "final_value": 194300,
+        "value_reduction": 0,
+        "reduction_percentage": -53.11,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0123P00027000000",
+    "comparables": [
+      {
+        "parcel_id": "0124A00037000000",
+        "address": "6340 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6340   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 176500,
+        "market_value": 194500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124E00031000000",
+        "address": "6329 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6329   GLENVIEW PL",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 176100,
+        "market_value": 176100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0082F00278000000",
+        "address": "5503 BRYANT ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "5503   BRYANT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 175800,
+        "market_value": 193800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00158000000",
+        "address": "1011 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1011   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 175700,
+        "market_value": 175700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124A00060000000",
+        "address": "6388 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6388   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 175700,
+        "market_value": 193700,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124A00085000000",
+        "address": "6458 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6458   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 177400,
+        "market_value": 195400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

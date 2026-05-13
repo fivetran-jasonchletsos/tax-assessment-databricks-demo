@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127J00165000000",
+        "address": "6643 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6643   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 534100,
+        "market_value": 552100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086B00065000000",
         "address": "5614 NORTHUMBERLAND ST",
         "city": "11401",
@@ -145,7 +158,7 @@
         "assessed_value": 534900,
         "market_value": 534900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053H00211000000",
@@ -158,7 +171,7 @@
         "assessed_value": 535000,
         "market_value": 535000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053H00264000000",
@@ -171,32 +184,19 @@
         "assessed_value": 535000,
         "market_value": 535000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086C00064000000",
-        "address": "1500 MURRAY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1500   MURRAY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 535100,
-        "market_value": 553100,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086E00229000000",
-        "address": "5520 AYLESBORO AVE",
+        "parcel_id": "0088S00005000000",
+        "address": "1752 PARKVIEW BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5520   AYLESBORO AVE",
+        "current_owner_name": "1752   PARKVIEW BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 535200,
-        "market_value": 553200,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 535000,
+        "market_value": 535000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

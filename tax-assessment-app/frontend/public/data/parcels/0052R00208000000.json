@@ -174,6 +174,19 @@
     "parcel_id": "0052R00208000000",
     "comparables": [
       {
+        "parcel_id": "0127A00069000000",
+        "address": "6600 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6600   NORTHUMBERLAND ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 276000,
+        "market_value": 294000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086B00328000000",
         "address": "1421 WIGHTMAN ST",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 276500,
         "market_value": 294500,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085P00165000000",
@@ -197,7 +210,7 @@
         "assessed_value": 275700,
         "market_value": 293700,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085R00064000000",
@@ -210,7 +223,7 @@
         "assessed_value": 275600,
         "market_value": 293600,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052M00098000000",
@@ -223,7 +236,7 @@
         "assessed_value": 277000,
         "market_value": 295000,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086B00265000000",
@@ -236,19 +249,6 @@
         "assessed_value": 275400,
         "market_value": 275400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086C00013000000",
-        "address": "1402 MURRAY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1402   MURRAY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 277000,
-        "market_value": 295000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

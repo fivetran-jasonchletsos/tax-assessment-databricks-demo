@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0075C00011000000",
+    "address": "3622 CALIFORNIA AVE",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 119",
+    "current_mailing_address": "PO BOX 119",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.165,
+    "latitude": 40.41632,
+    "longitude": -80.07704
+  },
+  "assessments": {
+    "parcel_id": "0075C00011000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 750800,
+        "market_value": 750800,
+        "land_value": 60000,
+        "improvement_value": 690800,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18490,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 750800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 732310,
+        "market_value": 732310,
+        "land_value": 58522,
+        "improvement_value": 673788,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28165,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 732310,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 704145,
+        "market_value": 704145,
+        "land_value": 56271,
+        "improvement_value": 647874,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20509,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 704145,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 683636,
+        "market_value": 683636,
+        "land_value": 54632,
+        "improvement_value": 629004,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13404,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 683636,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 670232,
+        "market_value": 670232,
+        "land_value": 53561,
+        "improvement_value": 616671,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6635,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 670232,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 663597,
+        "market_value": 663597,
+        "land_value": 53031,
+        "improvement_value": 610566,
+        "land_value_percentage": 8.0,
+        "improvement_value_percentage": 92.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 663597,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075C00011000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075C00011000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Jul-17",
+      "most_recent_appeal_date": "24-Jul-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16149-2017",
+        "filed_date": "24-Jul-17",
+        "hearing_date": "24-Jul-17",
+        "appeal_status": "approved",
+        "original_value": 442500,
+        "requested_value": 442500,
+        "final_value": 750800,
+        "value_reduction": 0,
+        "reduction_percentage": -69.67,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0075C00011000000",
+    "comparables": [
+      {
+        "parcel_id": "0045K00239000000",
+        "address": "2449 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "301   CHARTIERS AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 751600,
+        "market_value": 751600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075A00100000000",
+        "address": "3300 PREBLE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "542   FORBES AVE  RM 347",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 756000,
+        "market_value": 756000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0076J00174000000",
+        "address": "1201 WOODS RUN AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 765400,
+        "market_value": 765400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075B00101000000",
+        "address": "1709 TERMON AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1300   OLD POND RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 734300,
+        "market_value": 734300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0045F00224000000",
+        "address": "1130 HIGHWOOD ST",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "537   ROCHESTER RD",
+        "land_use_description": "SUPERMARKETS",
+        "acreage": null,
+        "assessed_value": 655000,
+        "market_value": 655000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0076J00088000000",
+        "address": "3284 CENTRAL AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 645500,
+        "market_value": 645500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

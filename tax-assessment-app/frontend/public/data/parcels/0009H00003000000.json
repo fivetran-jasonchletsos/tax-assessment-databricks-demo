@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0009H00003000000",
+    "address": "1619 PENN AVE",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "1627   PENN AVE",
+    "current_mailing_address": "1627   PENN AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:40+ UNITS",
+    "acreage": 0.412,
+    "latitude": 40.43618,
+    "longitude": -79.99162
+  },
+  "assessments": {
+    "parcel_id": "0009H00003000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 7279800,
+        "market_value": 7279800,
+        "land_value": 1434600,
+        "improvement_value": 5845200,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 323828,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7279800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 6955972,
+        "market_value": 6955972,
+        "land_value": 1370784,
+        "improvement_value": 5585188,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6955972,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 6955972,
+        "market_value": 6955972,
+        "land_value": 1370784,
+        "improvement_value": 5585188,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -70263,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6955972,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 7026235,
+        "market_value": 7026235,
+        "land_value": 1384630,
+        "improvement_value": 5641605,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 334582,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7026235,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 6691653,
+        "market_value": 6691653,
+        "land_value": 1318696,
+        "improvement_value": 5372957,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 257371,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6691653,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6434282,
+        "market_value": 6434282,
+        "land_value": 1267977,
+        "improvement_value": 5166305,
+        "land_value_percentage": 19.7,
+        "improvement_value_percentage": 80.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6434282,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0009H00003000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0009H00003000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "24-Jun-15",
+      "most_recent_appeal_date": "24-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-218-2015",
+        "filed_date": "24-Jun-15",
+        "hearing_date": "24-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 1877200,
+        "requested_value": 1877200,
+        "final_value": 2219200,
+        "value_reduction": 0,
+        "reduction_percentage": -18.22,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0009H00003000000",
+    "comparables": [
+      {
+        "parcel_id": "0002E00030000000",
+        "address": "500 SMITHFIELD ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "PO BOX 850",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 7380300,
+        "market_value": 7380300,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0002A00080000000",
+        "address": "325 6TH AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "325   6TH AVE",
+        "land_use_description": "LODGE HALL/AMUSEMENT PARK",
+        "acreage": null,
+        "assessed_value": 7550000,
+        "market_value": 7550000,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0025J00015000000",
+        "address": "40 24TH ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2420   BONNIE DELL DR",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 7632600,
+        "market_value": 7632600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009G00160000000",
+        "address": "131 15TH ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 7649500,
+        "market_value": 7649500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025J00160000000",
+        "address": "2555 SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "5265   SAN FELIPE   STE 550",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 6841860,
+        "market_value": 15109500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0008S00038000000",
+        "address": "601 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "607   PENN AVE  STE 200",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 6830000,
+        "market_value": 6830000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

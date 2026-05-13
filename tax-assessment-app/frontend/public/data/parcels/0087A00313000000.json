@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087S00157000000",
+        "address": "6416 MONITOR ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6416   MONITOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154000,
+        "market_value": 172000,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086P00073000000",
         "address": "2020 WIGHTMAN ST",
         "city": "11403",
@@ -197,7 +210,7 @@
         "assessed_value": 153900,
         "market_value": 171900,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085H00029000000",
@@ -210,7 +223,20 @@
         "assessed_value": 154600,
         "market_value": 172600,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126E00044000000",
+        "address": "533 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "533   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 153600,
+        "market_value": 171600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087D00011000000",
@@ -223,32 +249,6 @@
         "assessed_value": 153600,
         "market_value": 153600,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087C00139000000",
-        "address": "5828 NICHOLSON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5828   NICHOLSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 153500,
-        "market_value": 171500,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087D00156000000",
-        "address": "2230 TILBURY AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5175   BUTLER ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 153500,
-        "market_value": 153500,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

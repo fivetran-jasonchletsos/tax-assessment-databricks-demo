@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0615P00036000000",
+    "address": "123 LILY DR",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1457   PARKVIEW DR",
+    "current_mailing_address": "1457   PARKVIEW DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.233,
+    "latitude": 40.52802,
+    "longitude": -79.9752
+  },
+  "assessments": {
+    "parcel_id": "0615P00036000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 83200,
+        "market_value": 83200,
+        "land_value": 16600,
+        "improvement_value": 66600,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5172,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 78028,
+        "market_value": 78028,
+        "land_value": 15568,
+        "improvement_value": 62460,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2272,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 78028,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 75756,
+        "market_value": 75756,
+        "land_value": 15114,
+        "improvement_value": 60642,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1485,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75756,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 74271,
+        "market_value": 74271,
+        "land_value": 14818,
+        "improvement_value": 59453,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 735,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74271,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 73536,
+        "market_value": 73536,
+        "land_value": 14671,
+        "improvement_value": 58865,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73536,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 73536,
+        "market_value": 73536,
+        "land_value": 14671,
+        "improvement_value": 58865,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73536,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0615P00036000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0615P00036000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0615P00036000000",
+    "comparables": [
+      {
+        "parcel_id": "0520H00205000000",
+        "address": "117 ORCHARD AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "117   ORCHARD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83200,
+        "market_value": 101200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0167D00378000000",
+        "address": "810 LINCOLN AVE",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "810   LINCOLN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83200,
+        "market_value": 101200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0353C00015000000",
+        "address": "110 FORLIVIEW RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "110   FORLIVIEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83100,
+        "market_value": 101100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0355P00091000000",
+        "address": "109 HOFFMAN ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "946   SAXONBURY BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83300,
+        "market_value": 83300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0432H00222000000",
+        "address": "438 SANDY DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "438   SANDY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83300,
+        "market_value": 101300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0222L00472000000",
+        "address": "26 BETHANY DR",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "26 A  BETHANY DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 83300,
+        "market_value": 101300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

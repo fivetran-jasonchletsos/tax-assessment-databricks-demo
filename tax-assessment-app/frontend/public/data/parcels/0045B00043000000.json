@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0045B00043000000",
+    "address": "2827 STAYTON ST",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "183   CHESTNUT ST  APT A4",
+    "current_mailing_address": "183   CHESTNUT ST  APT A4",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.049,
+    "latitude": 40.41644,
+    "longitude": -80.07308
+  },
+  "assessments": {
+    "parcel_id": "0045B00043000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 9500,
+        "market_value": 9500,
+        "land_value": 5000,
+        "improvement_value": 4500,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -129,
+        "assessed_value_change_pct": -1.34,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 9629,
+        "market_value": 9629,
+        "land_value": 5067,
+        "improvement_value": 4562,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 458,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9629,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 9171,
+        "market_value": 9171,
+        "land_value": 4826,
+        "improvement_value": 4345,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 352,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9171,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8819,
+        "market_value": 8819,
+        "land_value": 4641,
+        "improvement_value": 4178,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 256,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8819,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 8563,
+        "market_value": 8563,
+        "land_value": 4506,
+        "improvement_value": 4057,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 167,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8563,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8396,
+        "market_value": 8396,
+        "land_value": 4418,
+        "improvement_value": 3978,
+        "land_value_percentage": 52.6,
+        "improvement_value_percentage": 47.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8396,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045B00043000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045B00043000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0045B00043000000",
+    "comparables": [
+      {
+        "parcel_id": "0045F00042000000",
+        "address": "1220 THELMA ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1800   MURRAY AVE  UNIT 81865",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9500,
+        "market_value": 9500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075M00267000000",
+        "address": "1407 WOODS RUN AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "220  S JACKSON ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 9500,
+        "market_value": 9500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0076F00003000000",
+        "address": "HARBISON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "988   PERRY HWY  # 3",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 9600,
+        "market_value": 9600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0076N00011000000",
+        "address": "1351 GEYER AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "511   MIRRAMONT PL",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 9600,
+        "market_value": 9600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0044H00278000000",
+        "address": "2825 CALIFORNIA AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2825   CALIFORNIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9300,
+        "market_value": 27300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0045N00055000000",
+        "address": "1322 LIEB WAY",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1322   LIEB WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9700,
+        "market_value": 27700,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

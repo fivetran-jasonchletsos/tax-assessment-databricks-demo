@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0252B00188000000",
+        "address": "120 SENECA DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "120   SENECA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146700,
+        "market_value": 164700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0098N00106000000",
         "address": "411 COOLIDGE AVE",
         "city": "Mt.lebanon",
@@ -197,7 +210,7 @@
         "assessed_value": 146600,
         "market_value": 164600,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0098N00216000000",
@@ -210,7 +223,20 @@
         "assessed_value": 146800,
         "market_value": 164800,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0141F00034000000",
+        "address": "656 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1478   GENE DR",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 146800,
+        "market_value": 146800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141R00165000000",
@@ -223,32 +249,6 @@
         "assessed_value": 146800,
         "market_value": 146800,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0141S00208000000",
-        "address": "337 TAMPA AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "337   TAMPA AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146800,
-        "market_value": 146800,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0142H00155000000",
-        "address": "237 CEDAR BLVD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "237   CEDAR BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146800,
-        "market_value": 164800,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

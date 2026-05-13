@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0616N00030000000",
+        "address": "117 FIELDSTONE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "117   FIELDSTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125700,
+        "market_value": 143700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0617R00338000000",
+        "address": "110 S PINE DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "110  S PINE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125700,
+        "market_value": 143700,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0222L00444000000",
         "address": "11 BETHANY DR",
         "city": "Shaler",
@@ -210,7 +236,7 @@
         "assessed_value": 125700,
         "market_value": 143700,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285B00267000000",
@@ -223,32 +249,6 @@
         "assessed_value": 125600,
         "market_value": 143600,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00166000000",
-        "address": "631 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "631   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 125600,
-        "market_value": 143600,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00267000000",
-        "address": "110 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1706   CENTER AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 125600,
-        "market_value": 125600,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

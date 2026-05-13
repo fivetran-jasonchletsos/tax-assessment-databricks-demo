@@ -174,6 +174,19 @@
     "parcel_id": "0085S00280000000",
     "comparables": [
       {
+        "parcel_id": "0127J00170000000",
+        "address": "6501 BARTLETT ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6501   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 345200,
+        "market_value": 363200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053D00152000000",
         "address": "1220 MALVERN AVE",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 345000,
         "market_value": 363000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086S00275000000",
@@ -197,7 +210,7 @@
         "assessed_value": 344900,
         "market_value": 362900,
         "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053H00026000000",
@@ -210,7 +223,7 @@
         "assessed_value": 344800,
         "market_value": 344800,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086C00019000000",
@@ -223,32 +236,19 @@
         "assessed_value": 344300,
         "market_value": 362300,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053H00216000000",
-        "address": "5335 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5335   NORTHUMBERLAND ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 346900,
-        "market_value": 364900,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0086H00269000000",
-        "address": "1634 BEECHWOOD BLVD",
+        "parcel_id": "0088M00070000000",
+        "address": "1629 OVERTON LN",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "265   MAGNOLIA PL",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1629   OVERTON LN",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 344100,
-        "market_value": 344100,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 346700,
+        "market_value": 346700,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

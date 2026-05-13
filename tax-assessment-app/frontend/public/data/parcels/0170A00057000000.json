@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0170A00057000000",
+    "address": "NOTRE DAME PL",
+    "city": "Fox Chapel",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "911   NOTRE DAME PL",
+    "current_mailing_address": "911   NOTRE DAME PL",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.493,
+    "latitude": 40.4934,
+    "longitude": -79.90768
+  },
+  "assessments": {
+    "parcel_id": "0170A00057000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 7300,
+        "market_value": 7300,
+        "land_value": 7300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 527,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 6773,
+        "market_value": 6773,
+        "land_value": 6773,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 67,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6773,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 6706,
+        "market_value": 6706,
+        "land_value": 6706,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6706,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 6706,
+        "market_value": 6706,
+        "land_value": 6706,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -68,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6706,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 6774,
+        "market_value": 6774,
+        "land_value": 6774,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 322,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6774,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 6452,
+        "market_value": 6452,
+        "land_value": 6452,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 6452,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0170A00057000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0170A00057000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0170A00057000000",
+    "comparables": [
+      {
+        "parcel_id": "0170P00106000000",
+        "address": "PARK BLVD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "209  E WALDHEIM RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6700,
+        "market_value": 6700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0169D00140000000",
+        "address": "617 W WALDHEIM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "617  W WALDHEIM RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 8000,
+        "market_value": 8000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0225A00030000000",
+        "address": "BUCKINGHAM RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 6100,
+        "market_value": 6100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

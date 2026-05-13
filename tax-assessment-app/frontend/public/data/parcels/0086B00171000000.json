@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0088H00171000000",
+        "address": "1577 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2929  W GULF DR  UNIT 307",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 449300,
+        "market_value": 449300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0053H00042000000",
         "address": "5423 NORTHUMBERLAND ST",
         "city": "11401",
@@ -197,7 +210,20 @@
         "assessed_value": 448800,
         "market_value": 466800,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127J00096000000",
+        "address": "1772 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1772   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 449500,
+        "market_value": 467500,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085R00019000000",
@@ -210,45 +236,19 @@
         "assessed_value": 448600,
         "market_value": 466600,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0052S00214000000",
-        "address": "5255 FAIR OAKS ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5255   FAIR OAKS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 448300,
-        "market_value": 466300,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086A00286000000",
-        "address": "1433 INVERNESS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1433   INVERNESS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 448300,
-        "market_value": 466300,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0053C00067000000",
-        "address": "106 GLADSTONE RD",
+        "parcel_id": "0127J00070000000",
+        "address": "1740 BEECHWOOD BLVD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "608   CHSTNUT ST",
+        "current_owner_name": "1740   BEECHWOOD BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 450000,
-        "market_value": 450000,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 448600,
+        "market_value": 466600,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

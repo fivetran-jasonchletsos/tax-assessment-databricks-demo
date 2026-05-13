@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0125F00128000000",
+    "address": "6601 HAMILTON AVE",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "7371   THOMAS BLVD  STE 100",
+    "current_mailing_address": "7371   THOMAS BLVD  STE 100",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "WAREHOUSE/MULTI-TENANT",
+    "acreage": 0.449,
+    "latitude": 40.46138,
+    "longitude": -79.90456
+  },
+  "assessments": {
+    "parcel_id": "0125F00128000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 301700,
+        "market_value": 301700,
+        "land_value": 15000,
+        "improvement_value": 286700,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4223,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 301700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 305923,
+        "market_value": 305923,
+        "land_value": 15209,
+        "improvement_value": 290714,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14567,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 305923,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 291356,
+        "market_value": 291356,
+        "land_value": 14485,
+        "improvement_value": 276871,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11206,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 291356,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 280150,
+        "market_value": 280150,
+        "land_value": 13928,
+        "improvement_value": 266222,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8159,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 280150,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 271991,
+        "market_value": 271991,
+        "land_value": 13522,
+        "improvement_value": 258469,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5333,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 271991,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 266658,
+        "market_value": 266658,
+        "land_value": 13257,
+        "improvement_value": 253401,
+        "land_value_percentage": 5.0,
+        "improvement_value_percentage": 95.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 266658,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0125F00128000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0125F00128000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Aug-17",
+      "most_recent_appeal_date": "9-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16754-2017",
+        "filed_date": "9-Aug-17",
+        "hearing_date": "9-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 144700,
+        "requested_value": 144700,
+        "final_value": 144700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0125F00128000000",
+    "comparables": [
+      {
+        "parcel_id": "0124K00360000000",
+        "address": "1127 WASHINGTON BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "3885   BROOKSIDE LN  APT 401",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 299100,
+        "market_value": 299100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125F00121000000",
+        "address": "6617 HAMILTON AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "6620   KELLY ST",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 296700,
+        "market_value": 296700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0125A00388000000",
+        "address": "271 PAULSON AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "271   PAULSON AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 311200,
+        "market_value": 311200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083S00286000000",
+        "address": "200 LARIMER AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "COMMUNITY URBAN RENEWAL",
+        "acreage": null,
+        "assessed_value": 291000,
+        "market_value": 291000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0173F00013000000",
+        "address": "1548 LINCOLN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1550   LINCOLN AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 286300,
+        "market_value": 286300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124L00340000000",
+        "address": "1140 WASHINGTON BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1140   WASHINGTON BLVD",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 320100,
+        "market_value": 320100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

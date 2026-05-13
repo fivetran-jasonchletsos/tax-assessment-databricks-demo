@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0120P00129000000",
+        "address": "220 57TH ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "220   57TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45200,
+        "market_value": 63200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0121K00059000000",
         "address": "1716 MORNINGSIDE AVE",
         "city": "11003",
@@ -158,7 +171,20 @@
         "assessed_value": 45200,
         "market_value": 63200,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121N00091000000",
+        "address": "1635 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1635   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45400,
+        "market_value": 63400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080G00282000000",
@@ -171,32 +197,6 @@
         "assessed_value": 45100,
         "market_value": 45100,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0120K00147000000",
-        "address": "6010 BUTLER ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "1025   CATHEDRAL ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 45500,
-        "market_value": 45500,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080C00011000000",
-        "address": "5167 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "139   PETER DR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 45000,
-        "market_value": 45000,
-        "assessed_value_change_pct": 13.9,
         "distance_miles": 1.1
       }
     ]

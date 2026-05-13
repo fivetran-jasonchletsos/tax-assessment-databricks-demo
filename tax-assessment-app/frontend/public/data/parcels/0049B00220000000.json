@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0049B00220000000",
+    "address": "4400 BUTLER ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1025   CATHEDRAL ST",
+    "current_mailing_address": "1025   CATHEDRAL ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.092,
+    "latitude": 40.46356,
+    "longitude": -79.9528
+  },
+  "assessments": {
+    "parcel_id": "0049B00220000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 201000,
+        "market_value": 201000,
+        "land_value": 49400,
+        "improvement_value": 151600,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3182,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 201000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 197818,
+        "market_value": 197818,
+        "land_value": 48617,
+        "improvement_value": 149201,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1999,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 197818,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 199817,
+        "market_value": 199817,
+        "land_value": 49109,
+        "improvement_value": 150708,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9515,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 199817,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 190302,
+        "market_value": 190302,
+        "land_value": 46770,
+        "improvement_value": 143532,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7319,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190302,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 182983,
+        "market_value": 182983,
+        "land_value": 44971,
+        "improvement_value": 138012,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5329,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 182983,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 177654,
+        "market_value": 177654,
+        "land_value": 43662,
+        "improvement_value": 133992,
+        "land_value_percentage": 24.6,
+        "improvement_value_percentage": 75.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 177654,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0049B00220000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0049B00220000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 45685,
+      "total_value_reduction": 91371,
+      "first_appeal_date": "16-Sep-15",
+      "most_recent_appeal_date": "20-Jul-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1103-2015",
+        "filed_date": "16-Sep-15",
+        "hearing_date": "16-Sep-15",
+        "appeal_status": "approved",
+        "original_value": 292400,
+        "requested_value": 292400,
+        "final_value": 292400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-8473-2016",
+        "filed_date": "20-Jul-16",
+        "hearing_date": "20-Jul-16",
+        "appeal_status": "approved",
+        "original_value": 292400,
+        "requested_value": 292400,
+        "final_value": 201029,
+        "value_reduction": 91371,
+        "reduction_percentage": 31.25,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0049B00220000000",
+    "comparables": [
+      {
+        "parcel_id": "0049A00240000000",
+        "address": "135 ALMOND WAY",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "PO BOX 9135",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 200000,
+        "market_value": 200000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0080K00209000000",
+        "address": "4811 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "112   BIRCH DR",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 198400,
+        "market_value": 198400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080P00196000000",
+        "address": "4601 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "2405   RUSTIC RIDGE DR",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 197900,
+        "market_value": 197900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080P00200000001",
+        "address": "4615 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "3475   LEONARDTOWN RD  STE 100",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 197100,
+        "market_value": 197100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0080P00283000000",
+        "address": "4633 PLUMMER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "3027   MEYERIDGE AVE",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 196600,
+        "market_value": 196600,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080P00174000000",
+        "address": "4519 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "9089   CREIGHTON DR",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 208900,
+        "market_value": 208900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

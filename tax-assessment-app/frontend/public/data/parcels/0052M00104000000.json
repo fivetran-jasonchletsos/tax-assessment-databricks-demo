@@ -174,6 +174,19 @@
     "parcel_id": "0052M00104000000",
     "comparables": [
       {
+        "parcel_id": "0129A00130000000",
+        "address": "1254 FAIRSTEAD LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1254   FAIRSTEAD LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 402300,
+        "market_value": 420300,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086E00173000000",
         "address": "5471 AYLESBORO AVE",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 402700,
         "market_value": 402700,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085K00222000000",
@@ -197,7 +210,7 @@
         "assessed_value": 402000,
         "market_value": 420000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086A00260000000",
@@ -210,7 +223,7 @@
         "assessed_value": 402000,
         "market_value": 420000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086A00262000000",
@@ -223,7 +236,7 @@
         "assessed_value": 402000,
         "market_value": 420000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086C00144000000",
@@ -236,19 +249,6 @@
         "assessed_value": 402000,
         "market_value": 420000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086G00266000000",
-        "address": "5830 MARLBOROUGH AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5830   MARLBOROUGH AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 403000,
-        "market_value": 421000,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

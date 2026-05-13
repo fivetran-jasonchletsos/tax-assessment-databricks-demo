@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0126A00088000100",
+    "address": "6653 REYNOLDS ST",
+    "city": "11402",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "3750   CHILDS ST",
+    "current_mailing_address": "3750   CHILDS ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.045,
+    "latitude": 40.46162,
+    "longitude": -79.92388
+  },
+  "assessments": {
+    "parcel_id": "0126A00088000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 267000,
+        "market_value": 267000,
+        "land_value": 44700,
+        "improvement_value": 222300,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11878,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 255122,
+        "market_value": 255122,
+        "land_value": 42711,
+        "improvement_value": 212411,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 255122,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 255122,
+        "market_value": 255122,
+        "land_value": 42711,
+        "improvement_value": 212411,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2577,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 255122,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 257699,
+        "market_value": 257699,
+        "land_value": 43142,
+        "improvement_value": 214557,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12271,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 257699,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 245428,
+        "market_value": 245428,
+        "land_value": 41088,
+        "improvement_value": 204340,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9439,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 245428,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 235989,
+        "market_value": 235989,
+        "land_value": 39508,
+        "improvement_value": 196481,
+        "land_value_percentage": 16.7,
+        "improvement_value_percentage": 83.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 235989,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0126A00088000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0126A00088000100",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Sep-17",
+      "most_recent_appeal_date": "26-Sep-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16766-2017",
+        "filed_date": "26-Sep-17",
+        "hearing_date": "26-Sep-17",
+        "appeal_status": "approved",
+        "original_value": 204200,
+        "requested_value": 204200,
+        "final_value": 274400,
+        "value_reduction": 0,
+        "reduction_percentage": -34.38,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0126A00088000100",
+    "comparables": [
+      {
+        "parcel_id": "0086L00243000000",
+        "address": "5721 BARTLETT ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5721   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267000,
+        "market_value": 285000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0053M00047000000",
+        "address": "3 DARLINGTON CT",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1437   INVERNESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 266900,
+        "market_value": 266900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087R00235000000",
+        "address": "6360 BURCHFIELD AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6360   BURCHFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 266900,
+        "market_value": 266900,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0126J00284000000",
+        "address": "6673 KINSMAN RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6673   KINSMAN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267100,
+        "market_value": 285100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086M00280000000",
+        "address": "5857 BARTLETT ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "5857   BARTLETT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267200,
+        "market_value": 285200,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085M00072000000",
+        "address": "1217 DENNISTON ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "1217   DENNISTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267600,
+        "market_value": 267600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

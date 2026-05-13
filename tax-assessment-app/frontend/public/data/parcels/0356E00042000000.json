@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0356E00042000000",
+    "address": "1222 MAPLE ST",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "1222   MAPLE ST",
+    "current_mailing_address": "1222   MAPLE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.126,
+    "latitude": 40.52658,
+    "longitude": -79.96032
+  },
+  "assessments": {
+    "parcel_id": "0356E00042000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 23000,
+        "market_value": 23000,
+        "land_value": 6499,
+        "improvement_value": 16501,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -320,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 23320,
+        "market_value": 23320,
+        "land_value": 6590,
+        "improvement_value": 16730,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1110,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 23320,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 22210,
+        "market_value": 22210,
+        "land_value": 6276,
+        "improvement_value": 15934,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 854,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 22210,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 21356,
+        "market_value": 21356,
+        "land_value": 6035,
+        "improvement_value": 15321,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 622,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 21356,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 20734,
+        "market_value": 20734,
+        "land_value": 5859,
+        "improvement_value": 14875,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 406,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20734,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 20328,
+        "market_value": 20328,
+        "land_value": 5744,
+        "improvement_value": 14584,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 20328,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0356E00042000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0356E00042000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "16-Jun-17",
+      "most_recent_appeal_date": "16-Jun-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-18745-2017",
+        "filed_date": "16-Jun-17",
+        "hearing_date": "16-Jun-17",
+        "appeal_status": "approved",
+        "original_value": 96700,
+        "requested_value": 96700,
+        "final_value": 96700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0356E00042000000",
+    "comparables": [
+      {
+        "parcel_id": "0434J00132000000",
+        "address": "231 MARYLAND DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "308   MARBERRY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 23000,
+        "market_value": 23000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0520F00082000000",
+        "address": "EADE AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "136   MARIAN AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 23100,
+        "market_value": 23100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0355J00206000000",
+        "address": "WETZEL RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "107   WETZEL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 22800,
+        "market_value": 22800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0434P00105000000",
+        "address": "BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1551   BUTLER PLANK RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 23300,
+        "market_value": 23300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0520F00176000000",
+        "address": "MARIAN AVE",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "128   MARIAN AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 23300,
+        "market_value": 23300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0433G00219000000",
+        "address": "VILSACK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "203   VILSACK RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 22600,
+        "market_value": 22600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

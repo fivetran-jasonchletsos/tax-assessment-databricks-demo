@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0080F00160000000",
+    "address": "4836 HATFIELD ST",
+    "city": "9th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1008   BRIANNA LN",
+    "current_mailing_address": "1008   BRIANNA LN",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.23,
+    "latitude": 40.4638,
+    "longitude": -79.94992
+  },
+  "assessments": {
+    "parcel_id": "0080F00160000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 806600,
+        "market_value": 806600,
+        "land_value": 161300,
+        "improvement_value": 645300,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 58115,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 806600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 748485,
+        "market_value": 748485,
+        "land_value": 149678,
+        "improvement_value": 598807,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7410,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 748485,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 741075,
+        "market_value": 741075,
+        "land_value": 148196,
+        "improvement_value": 592879,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 741075,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 741075,
+        "market_value": 741075,
+        "land_value": 148196,
+        "improvement_value": 592879,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7486,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 741075,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 748561,
+        "market_value": 748561,
+        "land_value": 149693,
+        "improvement_value": 598868,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35645,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 748561,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 712916,
+        "market_value": 712916,
+        "land_value": 142565,
+        "improvement_value": 570351,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 712916,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0080F00160000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0080F00160000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "9-Aug-17",
+      "most_recent_appeal_date": "9-Aug-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16194-2017",
+        "filed_date": "9-Aug-17",
+        "hearing_date": "9-Aug-17",
+        "appeal_status": "approved",
+        "original_value": 149100,
+        "requested_value": 149100,
+        "final_value": 500800,
+        "value_reduction": 0,
+        "reduction_percentage": -235.88,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0080F00160000000",
+    "comparables": [
+      {
+        "parcel_id": "0049E00234000000",
+        "address": "4001 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "357   LINCOLN BLVD",
+        "land_use_description": "FAST FOOD/DRIVE THRU WINDOW",
+        "acreage": null,
+        "assessed_value": 811600,
+        "market_value": 811600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0049B00228000000",
+        "address": "4320 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "110   WILLOW FARMS CT",
+        "land_use_description": "BOWLING ALLEYS/REC FACILITY",
+        "acreage": null,
+        "assessed_value": 830000,
+        "market_value": 830000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0080F00075000000",
+        "address": "100 50TH ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1988   LAKE MARSHALL DR",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 770000,
+        "market_value": 770000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0080B00012000000",
+        "address": "30 51ST ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "30   51ST ST",
+        "land_use_description": "LIGHT MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 853900,
+        "market_value": 853900,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0049B00163000000",
+        "address": "4115 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "1546   FULTON ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 759200,
+        "market_value": 759200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0080P00202000000",
+        "address": "4609 BUTLER ST",
+        "city": "9th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "4059   SAINT JOHNS WAY",
+        "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+        "acreage": null,
+        "assessed_value": 756400,
+        "market_value": 756400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

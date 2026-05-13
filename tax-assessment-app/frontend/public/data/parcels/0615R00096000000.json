@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0222M00046000000",
+        "address": "1019 SHARPSHILL RD",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "210   PENN ST",
+        "land_use_description": "CEMETERY/MONUMENTS",
+        "acreage": null,
+        "assessed_value": 273800,
+        "market_value": 273800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0434S00130000000",
         "address": "569 KIMBLE DR",
         "city": "Shaler",
@@ -197,7 +210,20 @@
         "assessed_value": 274000,
         "market_value": 292000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0614S00166000000",
+        "address": "307 FOX MEADOWS CT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "307   FOX MEADOWS CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 274200,
+        "market_value": 292200,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355C00238000000",
@@ -210,7 +236,7 @@
         "assessed_value": 272400,
         "market_value": 272400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0435K00141000000",
@@ -223,32 +249,6 @@
         "assessed_value": 272300,
         "market_value": 290300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0434G00056000000",
-        "address": "830 SPENCER GROVE LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "830   SPENCER GROVE LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 274700,
-        "market_value": 292700,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0354C00206000000",
-        "address": "485 GLENHAVEN DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "485   GLENHAVEN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 272000,
-        "market_value": 272000,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0087G00291000000",
     "comparables": [
       {
+        "parcel_id": "0126A00128000000",
+        "address": "326 ELYSIAN ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "4014   LUDWICK ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 158400,
+        "market_value": 158400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086S00067000000",
         "address": "5882 HOBART ST",
         "city": "11403",
@@ -184,7 +197,20 @@
         "assessed_value": 158200,
         "market_value": 158200,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0128A00144000000",
+        "address": "2209 IMPERIAL ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2209   IMPERIAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 158400,
+        "market_value": 176400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00001000000",
@@ -197,57 +223,31 @@
         "assessed_value": 158500,
         "market_value": 158500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0087D00197000000",
-        "address": "6334 WALDRON ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "6334   WALDRON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 158700,
-        "market_value": 176700,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087E00016000000",
-        "address": "5524 PHILLIPS AVE",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5524   PHILLIPS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 158800,
-        "market_value": 158800,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0086R00249000000",
-        "address": "5828 BEACON ST",
+        "parcel_id": "0128N00163000000",
+        "address": "142 ANITA AVE",
         "city": "11403",
         "zip_code": "15217",
-        "current_owner_name": "5828   BEACON ST",
-        "land_use_description": "THREE FAMILY",
+        "current_owner_name": "142   ANITA AVE",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 159000,
-        "market_value": 177000,
-        "assessed_value_change_pct": 0.7,
+        "assessed_value": 158100,
+        "market_value": 176100,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0087D00001000000",
-        "address": "5872 DOUGLAS ST",
+        "parcel_id": "0126A00118000000",
+        "address": "312 ELYSIAN ST",
         "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5872   DOUGLAS ST",
+        "zip_code": "15206",
+        "current_owner_name": "312   ELYSIAN ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 159100,
-        "market_value": 177100,
+        "assessed_value": 158000,
+        "market_value": 176000,
         "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }

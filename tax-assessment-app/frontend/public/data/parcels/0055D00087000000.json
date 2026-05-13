@@ -174,6 +174,19 @@
     "parcel_id": "0055D00087000000",
     "comparables": [
       {
+        "parcel_id": "0087N00040000A00",
+        "address": "936 LILAC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "915   LILAC ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 136500,
+        "market_value": 136500,
+        "assessed_value_change_pct": 1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0055G00236000000",
         "address": "4329 MCCASLIN ST",
         "city": "11502",
@@ -184,7 +197,20 @@
         "assessed_value": 136600,
         "market_value": 154600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088A00028000000",
+        "address": "768 LORETTA ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "768   LORETTA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 136600,
+        "market_value": 154600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0055G00170000E00",
@@ -197,58 +223,32 @@
         "assessed_value": 136200,
         "market_value": 154200,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0054S00257000000",
-        "address": "870 KENNEBEC ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "870   KENNEBEC ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 136000,
-        "market_value": 136000,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0055D00262000000",
-        "address": "715 LORETTA ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "715   LORETTA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 135900,
-        "market_value": 153900,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0055G00156000000",
-        "address": "4328 GLEN LYTLE RD",
+        "parcel_id": "0087N00018000000",
+        "address": "931 GREENFIELD AVE",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "4328   GLEN LYTLE RD",
+        "current_owner_name": "931   GREENFIELD AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 135900,
-        "market_value": 135900,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 136200,
+        "market_value": 136200,
+        "assessed_value_change_pct": -1.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0054S00274000000",
-        "address": "857 KENNEBEC ST",
+        "parcel_id": "0087N00250000000",
+        "address": "4030 WINDSOR ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "PO BOX 328",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "6580   BEACON ST",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 137200,
-        "market_value": 137200,
-        "assessed_value_change_pct": -0.5,
+        "assessed_value": 136800,
+        "market_value": 136800,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

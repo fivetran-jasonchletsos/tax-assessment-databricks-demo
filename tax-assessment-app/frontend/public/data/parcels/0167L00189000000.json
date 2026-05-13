@@ -122,6 +122,19 @@
     "parcel_id": "0167L00189000000",
     "comparables": [
       {
+        "parcel_id": "0167M00331000100",
+        "address": "918 MAIN ST",
+        "city": "Sharpsburg",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 11202",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 122400,
+        "market_value": 122400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0168J00098000000",
         "address": "211 LINDEN AVE",
         "city": "Sharpsburg",
@@ -132,7 +145,7 @@
         "assessed_value": 122000,
         "market_value": 140000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0169J00032000000",
@@ -145,7 +158,7 @@
         "assessed_value": 122000,
         "market_value": 140000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0168M00325000000",
@@ -158,45 +171,32 @@
         "assessed_value": 121800,
         "market_value": 139800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0168G00010000000",
-        "address": "1736 FRONT ST",
-        "city": "Sharpsburg",
-        "zip_code": "15215",
-        "current_owner_name": "1736   FRONT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 120600,
-        "market_value": 138600,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0167M00270000000",
-        "address": "233 CLAY ST",
+        "parcel_id": "0167R00092000000",
+        "address": "15 2ND ST",
         "city": "Sharpsburg",
         "zip_code": "15215",
-        "current_owner_name": "100  E GENESSEE ST",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "3041   CANTERBURY DR",
+        "land_use_description": "COMMERCIAL GARAGE",
         "acreage": null,
-        "assessed_value": 120000,
-        "market_value": 120000,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 123300,
+        "market_value": 123300,
+        "assessed_value_change_pct": -0.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0168K00024000000",
-        "address": "1507 MAIN ST",
+        "parcel_id": "0167L00183000000",
+        "address": "101 N MAIN ST",
         "city": "Sharpsburg",
         "zip_code": "15215",
-        "current_owner_name": "1509   MAIN ST",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "101  N MAIN ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
         "acreage": null,
-        "assessed_value": 125000,
-        "market_value": 125000,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 121000,
+        "market_value": 121000,
+        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

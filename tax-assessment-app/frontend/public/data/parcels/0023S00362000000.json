@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00362000000",
+    "address": "824 JAMES ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "3042   ENTERPRISE DR  STE 101",
+    "current_mailing_address": "3042   ENTERPRISE DR  STE 101",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.025,
+    "latitude": 40.41848,
+    "longitude": -80.08472
+  },
+  "assessments": {
+    "parcel_id": "0023S00362000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 418600,
+        "market_value": 418600,
+        "land_value": 20000,
+        "improvement_value": 398600,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30160,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 418600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 388440,
+        "market_value": 388440,
+        "land_value": 18559,
+        "improvement_value": 369881,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3845,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388440,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 384595,
+        "market_value": 384595,
+        "land_value": 18375,
+        "improvement_value": 366220,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384595,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 384595,
+        "market_value": 384595,
+        "land_value": 18375,
+        "improvement_value": 366220,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3885,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384595,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 388480,
+        "market_value": 388480,
+        "land_value": 18560,
+        "improvement_value": 369920,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18499,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 388480,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 369981,
+        "market_value": 369981,
+        "land_value": 17677,
+        "improvement_value": 352304,
+        "land_value_percentage": 4.8,
+        "improvement_value_percentage": 95.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 369981,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00362000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00362000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-19",
+      "most_recent_appeal_date": "10-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29159-2019",
+        "filed_date": "10-Jun-19",
+        "hearing_date": "10-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 121600,
+        "requested_value": 121600,
+        "final_value": 418600,
+        "value_reduction": 0,
+        "reduction_percentage": -244.24,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023S00362000000",
+    "comparables": [
+      {
+        "parcel_id": "0023S00162000000",
+        "address": "514 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "521   TRIPOLI ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 410100,
+        "market_value": 410100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023M00209000000",
+        "address": "1010 CEDAR AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "731   PENN AVE  # 306",
+        "land_use_description": "BED & BREAKFAST",
+        "acreage": null,
+        "assessed_value": 408400,
+        "market_value": 408400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024N00105000000",
+        "address": "600 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 182334",
+        "land_use_description": "BANK",
+        "acreage": null,
+        "assessed_value": 437900,
+        "market_value": 437900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0024N00113000000",
+        "address": "616 E OHIO ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "4401   WILDWOOD SAMPLE RD",
+        "land_use_description": "DAYCARE/PRIVATE SCHOOL",
+        "acreage": null,
+        "assessed_value": 391500,
+        "market_value": 391500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023M00144000000",
+        "address": "600 E NORTH AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 99518",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 389500,
+        "market_value": 389500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023S00270000000",
+        "address": "820 CEDAR AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "5596   FOX CHASE DR",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 450100,
+        "market_value": 450100,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

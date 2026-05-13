@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0127J00120000000",
+    "address": "6537 DARLINGTON RD",
+    "city": "11401",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "6537   DARLINGTON RD",
+    "current_mailing_address": "6537   DARLINGTON RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.11,
+    "latitude": 40.41964,
+    "longitude": -79.9181
+  },
+  "assessments": {
+    "parcel_id": "0127J00120000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 351800,
+        "market_value": 351800,
+        "land_value": 137200,
+        "improvement_value": 214600,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 21863,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 351800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 329937,
+        "market_value": 329937,
+        "land_value": 128673,
+        "improvement_value": 201264,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9609,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 329937,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 320328,
+        "market_value": 320328,
+        "land_value": 124926,
+        "improvement_value": 195402,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6280,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 320328,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 314048,
+        "market_value": 314048,
+        "land_value": 122476,
+        "improvement_value": 191572,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3109,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 314048,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 310939,
+        "market_value": 310939,
+        "land_value": 121264,
+        "improvement_value": 189675,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 310939,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 310939,
+        "market_value": 310939,
+        "land_value": 121264,
+        "improvement_value": 189675,
+        "land_value_percentage": 39.0,
+        "improvement_value_percentage": 61.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 310939,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0127J00120000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0127J00120000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jul-19",
+      "most_recent_appeal_date": "26-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30516-2019",
+        "filed_date": "26-Jul-19",
+        "hearing_date": "26-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 278600,
+        "requested_value": 278600,
+        "final_value": 351800,
+        "value_reduction": 0,
+        "reduction_percentage": -26.27,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0127J00120000000",
+    "comparables": [
+      {
+        "parcel_id": "0085J00193000000",
+        "address": "5424 KIPLING RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5424   KIPLING RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 351700,
+        "market_value": 369700,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0085R00013000000",
+        "address": "1316 MURRAY AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1316   MURRAY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 352000,
+        "market_value": 370000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0086A00183000000",
+        "address": "1327 MURDOCH RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1327   MURDOCH RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 352000,
+        "market_value": 370000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086B00067000000",
+        "address": "5618 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5618   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 352000,
+        "market_value": 370000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0086M00096000000",
+        "address": "6427 DARLINGTON RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6427   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 352000,
+        "market_value": 370000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0086M00106000000",
+        "address": "6411 DARLINGTON RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6411   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 351500,
+        "market_value": 369500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

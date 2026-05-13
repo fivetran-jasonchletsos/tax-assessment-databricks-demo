@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0088H00056000000",
+    "address": "6440 KEMPER ST",
+    "city": "14th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "5218   FRIENDSHIP AVE",
+    "current_mailing_address": "5218   FRIENDSHIP AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.145,
+    "latitude": 40.42108,
+    "longitude": -79.93142
+  },
+  "assessments": {
+    "parcel_id": "0088H00056000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 31000,
+        "market_value": 31000,
+        "land_value": 11300,
+        "improvement_value": 19700,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2236,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 28764,
+        "market_value": 28764,
+        "land_value": 10484,
+        "improvement_value": 18280,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 284,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28764,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 28480,
+        "market_value": 28480,
+        "land_value": 10381,
+        "improvement_value": 18099,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28480,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 28480,
+        "market_value": 28480,
+        "land_value": 10381,
+        "improvement_value": 18099,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -288,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28480,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 28768,
+        "market_value": 28768,
+        "land_value": 10486,
+        "improvement_value": 18282,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1369,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28768,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 27399,
+        "market_value": 27399,
+        "land_value": 9987,
+        "improvement_value": 17412,
+        "land_value_percentage": 36.5,
+        "improvement_value_percentage": 63.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27399,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088H00056000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088H00056000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0088H00056000000",
+    "comparables": [
+      {
+        "parcel_id": "0086E00332000000",
+        "address": "FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5505   FORBES AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 33800,
+        "market_value": 33800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086M00039000000",
+        "address": "6328 FORBES AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "6328   FORBES AVE",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 34990,
+        "market_value": 242300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

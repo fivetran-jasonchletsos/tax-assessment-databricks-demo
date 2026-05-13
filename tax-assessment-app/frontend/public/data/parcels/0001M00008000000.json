@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0001M00008000000",
+    "address": "245 FORT PITT BLVD",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "245   FORT PITT BLVD",
+    "current_mailing_address": "245   FORT PITT BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 0.11,
+    "latitude": 40.43642,
+    "longitude": -79.98646
+  },
+  "assessments": {
+    "parcel_id": "0001M00008000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 792600,
+        "market_value": 792600,
+        "land_value": 192000,
+        "improvement_value": 600600,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 78120,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 792600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 714480,
+        "market_value": 714480,
+        "land_value": 173076,
+        "improvement_value": 541404,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14009,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 714480,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 700471,
+        "market_value": 700471,
+        "land_value": 169682,
+        "improvement_value": 530789,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6935,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 700471,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 693536,
+        "market_value": 693536,
+        "land_value": 168002,
+        "improvement_value": 525534,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 693536,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 693536,
+        "market_value": 693536,
+        "land_value": 168002,
+        "improvement_value": 525534,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7006,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 693536,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 700542,
+        "market_value": 700542,
+        "land_value": 169699,
+        "improvement_value": 530843,
+        "land_value_percentage": 24.2,
+        "improvement_value_percentage": 75.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 700542,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001M00008000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001M00008000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001M00008000000",
+    "comparables": [
+      {
+        "parcel_id": "0001M00006000000",
+        "address": "235 FORT PITT BLVD",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "4533   FRIENDSHIP ST",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 793800,
+        "market_value": 793800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001D00127000000",
+        "address": "23 MARKET SQ",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "501  S OCEAN BLVD",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 794900,
+        "market_value": 794900,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001D00150000000",
+        "address": "130 5TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "100  W STATION SQUARE DR  STE 450",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 801200,
+        "market_value": 801200,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00118000000",
+        "address": "230 3RD AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "135   DOWLIN FORGE RD",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 802240,
+        "market_value": 802240,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001H00388000000",
+        "address": "326 3RD AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "326   3RD AVE",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 821700,
+        "market_value": 821700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001M00115000000",
+        "address": "344 BLVD OF THE ALLIES",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 838600,
+        "market_value": 838600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

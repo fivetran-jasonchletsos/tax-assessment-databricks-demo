@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0173P00171000000",
+    "address": "7212 EVERTON ST",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "3001   KNOX ST  STE 400",
+    "current_mailing_address": "3001   KNOX ST  STE 400",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART:20-39 UNITS",
+    "acreage": 0.659,
+    "latitude": 40.4627,
+    "longitude": -79.92472
+  },
+  "assessments": {
+    "parcel_id": "0173P00171000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1566000,
+        "market_value": 1566000,
+        "land_value": 17400,
+        "improvement_value": 1548600,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 154346,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1566000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1411654,
+        "market_value": 1411654,
+        "land_value": 15685,
+        "improvement_value": 1395969,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27679,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1411654,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1383975,
+        "market_value": 1383975,
+        "land_value": 15377,
+        "improvement_value": 1368598,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13702,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1383975,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1370273,
+        "market_value": 1370273,
+        "land_value": 15225,
+        "improvement_value": 1355048,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1370273,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1370273,
+        "market_value": 1370273,
+        "land_value": 15225,
+        "improvement_value": 1355048,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -13842,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1370273,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1384115,
+        "market_value": 1384115,
+        "land_value": 15379,
+        "improvement_value": 1368736,
+        "land_value_percentage": 1.1,
+        "improvement_value_percentage": 98.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1384115,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0173P00171000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0173P00171000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0173P00171000000",
+    "comparables": [
+      {
+        "parcel_id": "0124D00094000000",
+        "address": "1307 SCHWERNER CT",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "4124   BUTLER ST",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 1555900,
+        "market_value": 1555900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125J00006000000",
+        "address": "145 BAKERY SQUARE BLVD",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 1742600,
+        "market_value": 1742600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

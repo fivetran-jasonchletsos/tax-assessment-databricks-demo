@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0083E00116000000",
+    "address": "5525 COLUMBO ST",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6015   SPIRIT ST  APT 506",
+    "current_mailing_address": "6015   SPIRIT ST  APT 506",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "DAYCARE/PRIVATE SCHOOL",
+    "acreage": 2.652,
+    "latitude": 40.46126,
+    "longitude": -79.90768
+  },
+  "assessments": {
+    "parcel_id": "0083E00116000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 611800,
+        "market_value": 611800,
+        "land_value": 190900,
+        "improvement_value": 420900,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15066,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 611800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 596734,
+        "market_value": 596734,
+        "land_value": 186198,
+        "improvement_value": 410536,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22951,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 596734,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 573783,
+        "market_value": 573783,
+        "land_value": 179037,
+        "improvement_value": 394746,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 16712,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 573783,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 557071,
+        "market_value": 557071,
+        "land_value": 173822,
+        "improvement_value": 383249,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10922,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 557071,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 546149,
+        "market_value": 546149,
+        "land_value": 170414,
+        "improvement_value": 375735,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5407,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546149,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 540742,
+        "market_value": 540742,
+        "land_value": 168727,
+        "improvement_value": 372015,
+        "land_value_percentage": 31.2,
+        "improvement_value_percentage": 68.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 540742,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083E00116000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083E00116000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 1,
+      "denied_count": 1,
+      "success_rate_pct": 50.0,
+      "avg_value_reduction": 2088200,
+      "total_value_reduction": 4176400,
+      "first_appeal_date": "24-Jun-15",
+      "most_recent_appeal_date": "26-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-1954-2015",
+        "filed_date": "24-Jun-15",
+        "hearing_date": "24-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 4451400,
+        "requested_value": 4451400,
+        "final_value": 275000,
+        "value_reduction": 4176400,
+        "reduction_percentage": 93.82,
+        "resolution_notes": "ANNUAL"
+      },
+      {
+        "appeal_id": "WPRDC-29947-2019",
+        "filed_date": "26-Jun-19",
+        "hearing_date": "26-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 275000,
+        "requested_value": 275000,
+        "final_value": 611800,
+        "value_reduction": 0,
+        "reduction_percentage": -122.47,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0083E00116000000",
+    "comparables": [
+      {
+        "parcel_id": "0083B00334000000",
+        "address": "5634 STANTON AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "6236   5TH AVE  STE 105C",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 614000,
+        "market_value": 614000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0083S00209000000",
+        "address": "6402 CENTRE AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "100  N BROADWAY   STE 100",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 617000,
+        "market_value": 617000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0083K00806000000",
+        "address": "5712 EAST LIBERTY BLVD",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 600000,
+        "market_value": 600000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0083P00051000000",
+        "address": "5914 STATION ST",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "1101   MONROE ST",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 600000,
+        "market_value": 600000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050M00106000000",
+        "address": "5401 PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "133   DORSEYVILLE RD",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 628000,
+        "market_value": 628000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0084B00036000000",
+        "address": "5921 PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "4749   BAUM BLVD",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 591900,
+        "market_value": 591900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

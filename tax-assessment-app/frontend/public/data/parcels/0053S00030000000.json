@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0125N00089000000",
+        "address": "127 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "127   ELYSIAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 331600,
+        "market_value": 349600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086L00165000000",
         "address": "5842 DARLINGTON RD",
         "city": "11402",
@@ -197,7 +210,33 @@
         "assessed_value": 331300,
         "market_value": 349300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0125N00108000000",
+        "address": "114 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "114   ELYSIAN ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 331200,
+        "market_value": 349200,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0126N00280000000",
+        "address": "6640 KINSMAN RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6640   KINSMEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 333400,
+        "market_value": 351400,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086J00038000000",
@@ -210,45 +249,6 @@
         "assessed_value": 330400,
         "market_value": 348400,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085R00293000000",
-        "address": "1331 SHADY AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1748   JANCEY ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 330000,
-        "market_value": 330000,
-        "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085S00062000000",
-        "address": "1333 DENNISTON ST",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "1333   DENNISTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 334600,
-        "market_value": 352600,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086K00212000000",
-        "address": "7 HOLLENDEN PL",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "7   HOLLENDEN PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 334600,
-        "market_value": 352600,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0120M00038000000",
     "comparables": [
       {
+        "parcel_id": "0120S00116000000",
+        "address": "1450 HAWTHORNE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1450   HAWTHORNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73800,
+        "market_value": 91800,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121E00230000000",
         "address": "1643 TRINITY ST",
         "city": "11001",
@@ -184,7 +197,7 @@
         "assessed_value": 73700,
         "market_value": 91700,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0121J00227000000",
@@ -197,7 +210,33 @@
         "assessed_value": 73900,
         "market_value": 73900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00138000000",
+        "address": "1346 WOODBINE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1346   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 74000,
+        "market_value": 74000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0120S00003000000",
+        "address": "1418 WOODBINE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1418   WOODBINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73600,
+        "market_value": 91600,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0121F00223000100",
@@ -210,45 +249,6 @@
         "assessed_value": 73600,
         "market_value": 91600,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0120M00044000000",
-        "address": "1531 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1531   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 73400,
-        "market_value": 91400,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121E00150000000",
-        "address": "6411 ADELPHIA ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "6411   ADELPHIA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 74400,
-        "market_value": 92400,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120L00199000000",
-        "address": "1002 OGLETHORPE AVE",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1002   OGLETHORPE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 74600,
-        "market_value": 92600,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

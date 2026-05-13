@@ -122,6 +122,19 @@
     "parcel_id": "0047H00320000000",
     "comparables": [
       {
+        "parcel_id": "0117B00140000001",
+        "address": "3616 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "3616   MOUNT TROY RD",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 172650,
+        "market_value": 1581000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0048A00143000000",
         "address": "2049 PITTVIEW AVE",
         "city": "Reserve",
@@ -132,7 +145,46 @@
         "assessed_value": 172700,
         "market_value": 190700,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0078C00088000000",
+        "address": "3077 MOUNT TROY RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "105   WILDWOOD DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 172400,
+        "market_value": 172400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0117K00096000000",
+        "address": "108 GARDENVIEW DR",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "108   GARDENVIEW DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 172400,
+        "market_value": 190400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0164K00102000000",
+        "address": "837 GEYER ROAD EXT",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "837   GEYER RD EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170900,
+        "market_value": 188900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0047M00168000000",
@@ -145,58 +197,6 @@
         "assessed_value": 170700,
         "market_value": 188700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0047D00315000000",
-        "address": "1943 W BECKERT AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "901   BINGHAM ST",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 170300,
-        "market_value": 170300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0048A00080000000",
-        "address": "2100 MOUNT TROY RD",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "2100   MOUNT TROY RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 170300,
-        "market_value": 170300,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0048A00142000000",
-        "address": "2045 PITTVIEW AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "2045   PITTVIEW AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 170300,
-        "market_value": 188300,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0048A00009000000",
-        "address": "2101 MOUNT TROY RD",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "2101   MOUNT TROY RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 169800,
-        "market_value": 187800,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

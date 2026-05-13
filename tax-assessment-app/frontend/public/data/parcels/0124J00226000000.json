@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0124J00226000000",
+    "address": "525 LARIMER AVE",
+    "city": "12th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "1070   MOUNTAIN LAUREL PLZ  # 280",
+    "current_mailing_address": "1070   MOUNTAIN LAUREL PLZ  # 280",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.132,
+    "latitude": 40.46162,
+    "longitude": -79.90408
+  },
+  "assessments": {
+    "parcel_id": "0124J00226000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 8700,
+        "market_value": 8700,
+        "land_value": 1600,
+        "improvement_value": 7100,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 389,
+        "assessed_value_change_pct": 4.68,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8311,
+        "market_value": 8311,
+        "land_value": 1528,
+        "improvement_value": 6783,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8311,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8311,
+        "market_value": 8311,
+        "land_value": 1528,
+        "improvement_value": 6783,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -84,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8311,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 8395,
+        "market_value": 8395,
+        "land_value": 1543,
+        "improvement_value": 6852,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 399,
+        "assessed_value_change_pct": 4.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8395,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 7996,
+        "market_value": 7996,
+        "land_value": 1470,
+        "improvement_value": 6526,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 307,
+        "assessed_value_change_pct": 3.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7996,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 7689,
+        "market_value": 7689,
+        "land_value": 1414,
+        "improvement_value": 6275,
+        "land_value_percentage": 18.4,
+        "improvement_value_percentage": 81.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7689,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0124J00226000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0124J00226000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "10-Jun-19",
+      "most_recent_appeal_date": "10-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30488-2019",
+        "filed_date": "10-Jun-19",
+        "hearing_date": "10-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 8700,
+        "requested_value": 8700,
+        "final_value": 8700,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0124J00226000000",
+    "comparables": [
+      {
+        "parcel_id": "0084H00240000000",
+        "address": "6360 BROAD ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "10  S HOWARD ST",
+        "land_use_description": "FEDERAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 8600,
+        "market_value": 8600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0124P00080000000",
+        "address": "PAULSON AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 8900,
+        "market_value": 8900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124P00199000000",
+        "address": "MEADOW ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "437   TURRETT ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0173E00340000000",
+        "address": "LINCOLN AVE",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "141   WILLOW VILLAGE DR",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0173K00178000000",
+        "address": "1461 OBERLIN ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 9000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0173K00199000000",
+        "address": "GLADEFIELD ST",
+        "city": "12th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 8400,
+        "market_value": 8400,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

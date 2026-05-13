@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121P00016000000",
+        "address": "1670 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1670   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39200,
+        "market_value": 57200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0120P00222000000",
+        "address": "KEYSTONE ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 39500,
+        "market_value": 39500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082B00125000000",
         "address": "HETHS AVE",
         "city": "11003",
@@ -145,7 +171,7 @@
         "assessed_value": 39500,
         "market_value": 39500,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080D00217000A00",
@@ -158,45 +184,19 @@
         "assessed_value": 39000,
         "market_value": 39000,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121G00122000000",
-        "address": "7110 BUTLER ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "7110   BUTLER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 39600,
-        "market_value": 57600,
-        "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0121J00288000000",
-        "address": "1665 DUFFIELD ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "47   VILSACK ST",
-        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
-        "acreage": null,
-        "assessed_value": 39000,
-        "market_value": 39000,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0080D00127000000",
-        "address": "5218 CARNEGIE ST",
+        "parcel_id": "0081A00082000000",
+        "address": "WICKLIFF ST",
         "city": "11003",
         "zip_code": "15201",
-        "current_owner_name": "224   KINVARA DR",
-        "land_use_description": "ROWHOUSE",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
         "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 38900,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 39000,
+        "market_value": 39000,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0054M00241000000",
     "comparables": [
       {
+        "parcel_id": "0087N00274000000",
+        "address": "4133 WINDSOR ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "1406   EAST END AVE EXT",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 110000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0055C00273000000",
         "address": "4242 GLEN LYTLE RD",
         "city": "11502",
@@ -132,7 +145,7 @@
         "assessed_value": 110100,
         "market_value": 128100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087J00099000000",
@@ -145,7 +158,33 @@
         "assessed_value": 109900,
         "market_value": 109900,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0087N00175000000",
+        "address": "901 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "901   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110100,
+        "market_value": 110100,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088E00137000000",
+        "address": "709 EXETER ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "3913   WINTERBURN AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 109900,
+        "market_value": 109900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087J00236000000",
@@ -158,45 +197,6 @@
         "assessed_value": 109800,
         "market_value": 127800,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0054M00110000000",
-        "address": "703 MCCASLIN ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "701   MCCASLIN ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 110300,
-        "market_value": 110300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0054M00181000000",
-        "address": "3963 BOULEVARD DR",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "3963   BOULVEARD DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110300,
-        "market_value": 128300,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0055D00227000000",
-        "address": "636 MELBOURNE ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "636   MELBOURNE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 109700,
-        "market_value": 127700,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

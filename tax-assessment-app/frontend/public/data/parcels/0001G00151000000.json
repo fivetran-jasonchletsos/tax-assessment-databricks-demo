@@ -1,0 +1,175 @@
+{
+  "parcel": {
+    "parcel_id": "0001G00151000000",
+    "address": "34 BLVD OF THE ALLIES",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "1550   CORAOPOLIS HEIGHTS RD  STE 520",
+    "current_mailing_address": "1550   CORAOPOLIS HEIGHTS RD  STE 520",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 1.415,
+    "latitude": 40.45958,
+    "longitude": -79.9921
+  },
+  "assessments": {
+    "parcel_id": "0001G00151000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 3900000,
+        "market_value": 3900000,
+        "land_value": 1794000,
+        "improvement_value": 2106000,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 384382,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3900000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 3515618,
+        "market_value": 3515618,
+        "land_value": 1617184,
+        "improvement_value": 1898434,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 68933,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3515618,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 3446685,
+        "market_value": 3446685,
+        "land_value": 1585475,
+        "improvement_value": 1861210,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34125,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3446685,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 3412560,
+        "market_value": 3412560,
+        "land_value": 1569777,
+        "improvement_value": 1842783,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3412560,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 3412560,
+        "market_value": 3412560,
+        "land_value": 1569777,
+        "improvement_value": 1842783,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -34471,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3412560,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 3447031,
+        "market_value": 3447031,
+        "land_value": 1585634,
+        "improvement_value": 1861397,
+        "land_value_percentage": 46.0,
+        "improvement_value_percentage": 54.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 3447031,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001G00151000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001G00151000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "13-Apr-18",
+      "most_recent_appeal_date": "13-Apr-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22214-2018",
+        "filed_date": "13-Apr-18",
+        "hearing_date": "13-Apr-18",
+        "appeal_status": "approved",
+        "original_value": 8405000,
+        "requested_value": 8405000,
+        "final_value": 8405000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001G00151000000",
+    "comparables": [
+      {
+        "parcel_id": "0001H00338000000",
+        "address": "334 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "336   4TH AVE",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 4154600,
+        "market_value": 4154600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001H00324000000",
+        "address": "307 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "317  E CARSON ST  STE 146",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 3500000,
+        "market_value": 3500000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

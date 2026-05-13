@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0078L00084000000",
+        "address": "2730 SPRING GARDEN AVE",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2907   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34300,
+        "market_value": 34300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0047G00100000000",
         "address": "2107 HARBOR ST",
         "city": "Ward 26 - Northview Heights",
@@ -210,7 +223,20 @@
         "assessed_value": 34000,
         "market_value": 52000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0078R00218000000",
+        "address": "2416 LINDELL ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2416   LINDELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34000,
+        "market_value": 52000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0047H00040000000",
@@ -223,32 +249,6 @@
         "assessed_value": 34600,
         "market_value": 34600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0047F00066000000",
-        "address": "2140 VARLEY ST",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "315   ASHBURY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34800,
-        "market_value": 34800,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0047K00246000000",
-        "address": "1312 RESCUE ST",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "1312   RESCUE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34800,
-        "market_value": 52800,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

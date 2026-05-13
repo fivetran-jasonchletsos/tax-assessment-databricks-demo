@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0119S00091000000",
+        "address": "5434 BUTLER ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "1025   CATHEDRAL ST",
+        "land_use_description": "OFFICE/WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 130900,
+        "market_value": 130900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082J00226000000",
         "address": "1037 CHISLETT ST",
         "city": "11003",
@@ -220,7 +233,33 @@
         "assessed_value": 131400,
         "market_value": 131400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121L00142000000",
+        "address": "1916 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1916   ANTIETAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131400,
+        "market_value": 131400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121L00160000000",
+        "address": "1954 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1954 1/2  ANTIETAM ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 130700,
+        "market_value": 148700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0081B00125000000",
@@ -233,45 +272,6 @@
         "assessed_value": 130600,
         "market_value": 130600,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082J00279000000",
-        "address": "919 HIGHVIEW ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "970   KENT AVE  APT 407",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 130600,
-        "market_value": 130600,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0119S00052000A00",
-        "address": "5329 CARNEGIE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5329 1/2  CARNEGIE ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 130500,
-        "market_value": 130500,
-        "assessed_value_change_pct": 2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082J00115000000",
-        "address": "919 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "919   JANCEY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130300,
-        "market_value": 148300,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

@@ -174,6 +174,19 @@
     "parcel_id": "0434G00111000000",
     "comparables": [
       {
+        "parcel_id": "0284S00205000000",
+        "address": "965 WILLIAM FLYNN HWY",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1918   WOODSIDE RD",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 260000,
+        "market_value": 260000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0520L00042000000",
         "address": "2905 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 260000,
         "market_value": 260000,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0520G00145000000",
@@ -197,7 +210,7 @@
         "assessed_value": 259300,
         "market_value": 277300,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355G00014000000",
@@ -210,7 +223,7 @@
         "assessed_value": 259200,
         "market_value": 277200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0167C00186000000",
@@ -223,32 +236,19 @@
         "assessed_value": 260800,
         "market_value": 278800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0434L00076000000",
-        "address": "821 SPENCER GROVE LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "821   SPENCER GROVE LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 258900,
-        "market_value": 276900,
-        "assessed_value_change_pct": -1.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0356L00099000000",
-        "address": "136 RIDGEVIEW CIR",
+        "parcel_id": "0614M00318000000",
+        "address": "304 FOX MEADOWS CT",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "136   RIDGEVIEW CIR",
+        "current_owner_name": "304   FOX MEADOWS CT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 261400,
-        "market_value": 279400,
-        "assessed_value_change_pct": 0.1,
+        "assessed_value": 261000,
+        "market_value": 279000,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

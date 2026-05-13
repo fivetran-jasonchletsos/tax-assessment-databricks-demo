@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0126E00135000000",
+    "address": "607 HASTINGS ST",
+    "city": "11403",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "3841   CRONDALL DR",
+    "current_mailing_address": "3841   CRONDALL DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.06,
+    "latitude": 40.46114,
+    "longitude": -79.9072
+  },
+  "assessments": {
+    "parcel_id": "0126E00135000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 251000,
+        "market_value": 251000,
+        "land_value": 68400,
+        "improvement_value": 182600,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15598,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 251000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 235402,
+        "market_value": 235402,
+        "land_value": 64149,
+        "improvement_value": 171253,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6856,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 235402,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 228546,
+        "market_value": 228546,
+        "land_value": 62281,
+        "improvement_value": 166265,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4481,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 228546,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 224065,
+        "market_value": 224065,
+        "land_value": 61059,
+        "improvement_value": 163006,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2218,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 224065,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 221847,
+        "market_value": 221847,
+        "land_value": 60455,
+        "improvement_value": 161392,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 221847,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 221847,
+        "market_value": 221847,
+        "land_value": 60455,
+        "improvement_value": 161392,
+        "land_value_percentage": 27.3,
+        "improvement_value_percentage": 72.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 221847,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0126E00135000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0126E00135000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "11-Jun-15",
+      "most_recent_appeal_date": "11-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2795-2015",
+        "filed_date": "11-Jun-15",
+        "hearing_date": "11-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 167900,
+        "requested_value": 167900,
+        "final_value": 251000,
+        "value_reduction": 0,
+        "reduction_percentage": -49.49,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0126E00135000000",
+    "comparables": [
+      {
+        "parcel_id": "0087C00213000000",
+        "address": "5838 PHILLIPS AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "130   HOODRIDGE DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 250900,
+        "market_value": 250900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087F00016000000",
+        "address": "5563 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5563   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 250800,
+        "market_value": 250800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087G00122000000",
+        "address": "2607 SHADY AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "155  N BERETANIA ST  UNIT 1712",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 251400,
+        "market_value": 251400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0086S00051000000",
+        "address": "5923 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5923   HOBART ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 250500,
+        "market_value": 250500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0087F00248000000",
+        "address": "5590 POCUSSET ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5590   POCUSSET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 251500,
+        "market_value": 269500,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0087A00177000000",
+        "address": "5424 HOBART ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "5424   HOBART ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 251700,
+        "market_value": 269700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0124A00013000000",
+        "address": "846 HEBERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "846   HEBERTON ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 110200,
+        "market_value": 110200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123N00276000000",
+        "address": "6603 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6603   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0083D00255000000",
         "address": "6216 JACKSON ST",
         "city": "11102",
@@ -197,7 +223,7 @@
         "assessed_value": 109900,
         "market_value": 127900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082P00052000000",
@@ -210,45 +236,19 @@
         "assessed_value": 111000,
         "market_value": 129000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0083D00254000000",
-        "address": "6212 JACKSON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "6212   JACKSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 111300,
-        "market_value": 129300,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00253000000",
-        "address": "6208 JACKSON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "6208   JACKSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 111700,
-        "market_value": 129700,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082F00126000000",
-        "address": "1328 CORDOVA RD",
+        "parcel_id": "0124A00090000000",
+        "address": "6474 JACKSON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "1328   CORDOVA RD",
+        "current_owner_name": "6474   JACKSON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 109000,
-        "market_value": 127000,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 109800,
+        "market_value": 127800,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

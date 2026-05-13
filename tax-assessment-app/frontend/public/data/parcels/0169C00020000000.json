@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0122D00054000000",
+        "address": "115 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "8   CHURCHILL RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 363000,
+        "market_value": 363000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0122D00082000000",
         "address": "211 EMERSON AVE",
         "city": "Aspinwall",
@@ -197,7 +210,20 @@
         "assessed_value": 365200,
         "market_value": 383200,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122D00322000000",
+        "address": "304 3RD ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "8   CHURCHILL RD",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 363000,
+        "market_value": 363000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0170N00044000000",
@@ -210,45 +236,19 @@
         "assessed_value": 365800,
         "market_value": 365800,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0169C00026000000",
-        "address": "1 KNOLLWOOD DR",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "1   KNOLLWOOD DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 369600,
-        "market_value": 387600,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0169H00034000000",
-        "address": "216 10TH ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "216   10TH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 357800,
-        "market_value": 375800,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0122D00064000000",
-        "address": "127 EMERSON AVE",
+        "parcel_id": "0171E00016000000",
+        "address": "601 FREEPORT RD",
         "city": "Aspinwall",
         "zip_code": "15215",
-        "current_owner_name": "127   EMERSON AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "218   FIELD CLUB RD",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
         "acreage": null,
-        "assessed_value": 370600,
-        "market_value": 388600,
-        "assessed_value_change_pct": -4.9,
+        "assessed_value": 358800,
+        "market_value": 358800,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

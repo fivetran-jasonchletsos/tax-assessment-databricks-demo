@@ -122,6 +122,19 @@
     "parcel_id": "0193P00056000000",
     "comparables": [
       {
+        "parcel_id": "0141J00100000000",
+        "address": "740 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "21   LONGUEVUE DR",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 480500,
+        "market_value": 480500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0193D00054000000",
         "address": "1020 MARTHA AVE",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 480200,
         "market_value": 498200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0141G00007000000",
@@ -145,7 +158,7 @@
         "assessed_value": 484300,
         "market_value": 484300,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0192J00008000000",
@@ -158,45 +171,32 @@
         "assessed_value": 480000,
         "market_value": 480000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0193S00118000000",
-        "address": "31 SPALDING CIR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "31   SPALDING CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 478900,
-        "market_value": 478900,
-        "assessed_value_change_pct": -0.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0193H00051000000",
-        "address": "70 VERNON DR",
+        "parcel_id": "0142D00312000000",
+        "address": "437 COCHRAN RD",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "70   VERNON DR",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "100   LIBERTY ST",
+        "land_use_description": "BANK",
         "acreage": null,
-        "assessed_value": 486600,
-        "market_value": 486600,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 484840,
+        "market_value": 484840,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0192G00045000000",
-        "address": "343 PARKWAY DR",
+        "parcel_id": "0142H00062000000",
+        "address": "300 CEDAR BLVD",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "343   PARKWAY DR",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "300   MOUNT LEBANON BLVD",
+        "land_use_description": "OFFICE - 1-2 STORIES",
         "acreage": null,
-        "assessed_value": 477400,
-        "market_value": 495400,
-        "assessed_value_change_pct": -3.1,
+        "assessed_value": 485000,
+        "market_value": 485000,
+        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

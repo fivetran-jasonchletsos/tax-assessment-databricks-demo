@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0120R00279000000",
+        "address": "1055 PREMIER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1055   PREMIER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79600,
+        "market_value": 79600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0120L00138000000",
         "address": "1015 FAIRFIELD ST",
         "city": "11001",
@@ -197,7 +210,7 @@
         "assessed_value": 80000,
         "market_value": 98000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0120M00246000000",
@@ -210,45 +223,32 @@
         "assessed_value": 80000,
         "market_value": 80000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121J00029000000",
-        "address": "1565 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1565   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80100,
-        "market_value": 98100,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0120M00248000000",
-        "address": "1523 SIMONA DR",
+        "parcel_id": "0120R00308000000",
+        "address": "1102 PREMIER ST",
         "city": "11001",
         "zip_code": "15201",
-        "current_owner_name": "1523   SIMONA DR",
+        "current_owner_name": "1102   PREMIER ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 80200,
-        "market_value": 98200,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 79400,
+        "market_value": 97400,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0120M00287000000",
-        "address": "1448 WOODBINE ST",
+        "parcel_id": "0120S00028000000",
+        "address": "1372 SIMONA DR",
         "city": "11001",
         "zip_code": "15201",
-        "current_owner_name": "1448   WOODBINE ST",
+        "current_owner_name": "1372   SIMONA DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 79200,
-        "market_value": 97200,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 79400,
+        "market_value": 79400,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

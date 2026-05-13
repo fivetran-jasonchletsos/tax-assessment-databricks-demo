@@ -52,8 +52,8 @@ _zip_centroids_data: dict[str, list[float]] = (
 )
 ALL_ALLEGHENY_ZIPS = sorted(int(z) for z in _zip_centroids_data.keys())
 
-PER_ZIP_LIMIT = {15116: 5000}  # presenter's ZIP gets a generous sample
-DEFAULT_PER_ZIP = 5000  # effectively "all residential" per ZIP (largest ZIPs cap here)
+PER_ZIP_LIMIT = {15116: 32000}  # presenter's ZIP gets the whole sample
+DEFAULT_PER_ZIP = 32000  # WPRDC's per-query result cap — pull everything available per ZIP
 
 
 def ckan(action: str, **params) -> dict[str, Any]:
@@ -125,18 +125,19 @@ PARCEL_COLS = ",".join(
 
 def fetch_parcels() -> list[dict[str, Any]]:
     out: list[dict[str, Any]] = []
-    # Residential parcels only — commercial/industrial mega-parcels (steel
-    # mills, downtown high-rises, hospitals) at >$50M distort medians and
-    # histograms. Community-facing portal serves homeowners.
+    # Pull ALL parcels (residential + commercial + industrial + everything).
+    # Only filter: must have an assessed value > 0 and a non-null address.
+    # The dashboard's residential-leaning visualizations still read sensibly
+    # because they use medians and quintiles, not means, and the user can
+    # filter to a specific land-use category from the dashboard itself.
     zips_to_pull = ALL_ALLEGHENY_ZIPS or FEATURED_ZIPS
-    print(f"Pulling residential parcels from {len(zips_to_pull)} ZIPs...")
+    print(f"Pulling all parcels from {len(zips_to_pull)} ZIPs...")
     for zip_code in zips_to_pull:
         limit = PER_ZIP_LIMIT.get(zip_code, DEFAULT_PER_ZIP)
         sql = (
             f"SELECT {PARCEL_COLS} FROM \"{ASSESSMENTS_RESOURCE}\" "
             f"WHERE \"PROPERTYZIP\" = {zip_code} "
-            f"  AND \"CLASS\" = 'R' "
-            f"  AND \"COUNTYTOTAL\" BETWEEN 30000 AND 2000000 "
+            f"  AND \"COUNTYTOTAL\" > 0 "
             f"  AND \"PROPERTYADDRESS\" IS NOT NULL "
             f"ORDER BY \"PARID\" "
             f"LIMIT {limit}"
@@ -511,11 +512,13 @@ def _detail_bundle(p: dict[str, Any], appeals_by_pid: dict[str, list[dict[str, A
 
 
 def attach_comparables(parcels: list[dict[str, Any]], details: dict[str, dict[str, Any]]):
+    # Build an O(1) parcel_id lookup so we don't do a linear scan per detail.
+    by_id: dict[str, dict[str, Any]] = {p["parcel_id"]: p for p in parcels}
     by_city: dict[str, list[dict[str, Any]]] = {}
     for p in parcels:
         by_city.setdefault(p["city"], []).append(p)
     for pid, bundle in details.items():
-        target = next((p for p in parcels if p["parcel_id"] == pid), None)
+        target = by_id.get(pid)
         if not target:
             continue
         siblings = [
@@ -615,9 +618,11 @@ def main() -> int:
     # frontend synthesizes a minimal detail bundle from parcels.json
     # when a non-featured parcel is opened.
     featured_parcels = [p for p in parcels if int(p["zip_code"] or 0) in featured_set]
-    print(f"\nWriting detail bundles for {len(featured_parcels)} featured-ZIP parcels...")
+    print(f"\nBuilding {len(featured_parcels)} detail bundles...")
     details = {p["parcel_id"]: _detail_bundle(p, appeals) for p in featured_parcels}
+    print(f"  built bundles, attaching comparables...")
     attach_comparables(featured_parcels, details)
+    print(f"  comparables attached, writing files...")
     write_snapshot(parcels, details)
     return 0
 

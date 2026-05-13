@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121L00014000000",
+        "address": "1931 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1931   ANTIETAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87600,
+        "market_value": 105600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121N00006000000",
+        "address": "1439 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1012  N SAINT CLAIR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87600,
+        "market_value": 105600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0081A00292000000",
         "address": "5417 CAMELIA ST",
         "city": "11003",
@@ -197,7 +223,20 @@
         "assessed_value": 87500,
         "market_value": 87500,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121N00070000000",
+        "address": "1427 MORNINGSIDE AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1427   MORNINGSIDE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87700,
+        "market_value": 105700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080H00172000A00",
@@ -210,45 +249,6 @@
         "assessed_value": 87800,
         "market_value": 87800,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0081B00117000000",
-        "address": "5565 MCCANDLESS AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5565   MCCANDLESS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 87800,
-        "market_value": 105800,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081B00178000000",
-        "address": "4315 UPVIEW TER",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4315   UPVIEW TER",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 87400,
-        "market_value": 105400,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082A00082000000",
-        "address": "1264 DUFFIELD ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1264   DUFFIELD ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 87800,
-        "market_value": 105800,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

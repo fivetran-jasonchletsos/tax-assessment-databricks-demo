@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0223R00274000000",
+    "address": "152 KITTANNING PIKE",
+    "city": "O''hara",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "152   KITTANNING PIKE",
+    "current_mailing_address": "152   KITTANNING PIKE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FIRE DEPARTMENT/EMS",
+    "acreage": 0.198,
+    "latitude": 40.49544,
+    "longitude": -79.92112
+  },
+  "assessments": {
+    "parcel_id": "0223R00274000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 812800,
+        "market_value": 812800,
+        "land_value": 46600,
+        "improvement_value": 766200,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20017,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 812800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 792783,
+        "market_value": 792783,
+        "land_value": 45452,
+        "improvement_value": 747331,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30491,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 792783,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 762292,
+        "market_value": 762292,
+        "land_value": 43704,
+        "improvement_value": 718588,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22202,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 762292,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 740090,
+        "market_value": 740090,
+        "land_value": 42431,
+        "improvement_value": 697659,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14511,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 740090,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 725579,
+        "market_value": 725579,
+        "land_value": 41599,
+        "improvement_value": 683980,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7183,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 725579,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 718396,
+        "market_value": 718396,
+        "land_value": 41187,
+        "improvement_value": 677209,
+        "land_value_percentage": 5.7,
+        "improvement_value_percentage": 94.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 718396,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0223R00274000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0223R00274000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0223R00274000000",
+    "comparables": [
+      {
+        "parcel_id": "0168S00160000000",
+        "address": "19TH ST",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "535   SMITHFIELD ST",
+        "land_use_description": "VACANT INDUSTRIAL LAND",
+        "acreage": null,
+        "assessed_value": 774000,
+        "market_value": 774000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0286C00108000000",
+        "address": "380 VILLAGE DR",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "380   VILLAGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 666500,
+        "market_value": 666500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0223M00102000000",
+        "address": "230 KITTANNING PIKE",
+        "city": "O''hara",
+        "zip_code": "15215",
+        "current_owner_name": "230   KITTANNING PIKE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 622000,
+        "market_value": 640000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0075H00012000000",
+    "address": "3515 MCCLURE AVE",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "NURSING HOME/PRIVATE HOS",
+    "acreage": 0.764,
+    "latitude": 40.41704,
+    "longitude": -80.07284
+  },
+  "assessments": {
+    "parcel_id": "0075H00012000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 851500,
+        "market_value": 851500,
+        "land_value": 22600,
+        "improvement_value": 828900,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 52912,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 851500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 798588,
+        "market_value": 798588,
+        "land_value": 21195,
+        "improvement_value": 777393,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23259,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 798588,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 775329,
+        "market_value": 775329,
+        "land_value": 20578,
+        "improvement_value": 754751,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15202,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 775329,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 760127,
+        "market_value": 760127,
+        "land_value": 20174,
+        "improvement_value": 739953,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7526,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 760127,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 752601,
+        "market_value": 752601,
+        "land_value": 19975,
+        "improvement_value": 732626,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 752601,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 752601,
+        "market_value": 752601,
+        "land_value": 19975,
+        "improvement_value": 732626,
+        "land_value_percentage": 2.7,
+        "improvement_value_percentage": 97.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 752601,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0075H00012000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0075H00012000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0075H00012000000",
+    "comparables": [
+      {
+        "parcel_id": "0075L00142000000",
+        "address": "3300 CALIFORNIA AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3250   CALIFORNIA AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 892500,
+        "market_value": 892500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075L00038000000",
+        "address": "3403 CALIFORNIA AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "3403   CALIFORNIA AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 958300,
+        "market_value": 958300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

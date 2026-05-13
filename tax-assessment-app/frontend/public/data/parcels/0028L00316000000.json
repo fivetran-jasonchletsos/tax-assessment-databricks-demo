@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0028L00316000000",
+    "address": "3459 WARD ST",
+    "city": "4th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "117   BAKER DR",
+    "current_mailing_address": "117   BAKER DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.042,
+    "latitude": 40.43392,
+    "longitude": -79.94332
+  },
+  "assessments": {
+    "parcel_id": "0028L00316000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 183000,
+        "market_value": 183000,
+        "land_value": 110000,
+        "improvement_value": 73000,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2561,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 183000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 185561,
+        "market_value": 185561,
+        "land_value": 111539,
+        "improvement_value": 74022,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8836,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 185561,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 176725,
+        "market_value": 176725,
+        "land_value": 106228,
+        "improvement_value": 70497,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6797,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 176725,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 169928,
+        "market_value": 169928,
+        "land_value": 102142,
+        "improvement_value": 67786,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4949,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 169928,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 164979,
+        "market_value": 164979,
+        "land_value": 99167,
+        "improvement_value": 65812,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3234,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 164979,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 161745,
+        "market_value": 161745,
+        "land_value": 97223,
+        "improvement_value": 64522,
+        "land_value_percentage": 60.1,
+        "improvement_value_percentage": 39.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 161745,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0028L00316000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0028L00316000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "14-Aug-19",
+      "most_recent_appeal_date": "14-Aug-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29252-2019",
+        "filed_date": "14-Aug-19",
+        "hearing_date": "14-Aug-19",
+        "appeal_status": "approved",
+        "original_value": 119800,
+        "requested_value": 119800,
+        "final_value": 298000,
+        "value_reduction": 0,
+        "reduction_percentage": -148.75,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0028L00316000000",
+    "comparables": [
+      {
+        "parcel_id": "0028L00314000000",
+        "address": "422 SEMPLE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2015   BABCOCK BLVD",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 184200,
+        "market_value": 184200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0028L00090000000",
+        "address": "308 MCKEE PL",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5500   WALNUT ST  STE 300",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 181000,
+        "market_value": 181000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0028L00301000000",
+        "address": "413 SEMPLE ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "208   FIELDGATE DR",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 180900,
+        "market_value": 180900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0028G00165000000",
+        "address": "330 ATWOOD ST",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3990   MURRAY HIGHLANDS CIR",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 179300,
+        "market_value": 179300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0028L00277000000",
+        "address": "2 MELBA PL",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "2   MELBA PL",
+        "land_use_description": "APART: 5-19 UNITS",
+        "acreage": null,
+        "assessed_value": 187400,
+        "market_value": 187400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0028R00031000000",
+        "address": "3601 BLVD OF THE ALLIES",
+        "city": "4th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "3535   BLVD OF THE ALLIES",
+        "land_use_description": "CONVENIENCE STORE",
+        "acreage": null,
+        "assessed_value": 187500,
+        "market_value": 187500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0520A00272000000",
     "comparables": [
       {
+        "parcel_id": "0355P00326000000",
+        "address": "1408 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "609   SCOTT AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 97500,
+        "market_value": 97500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0356P00150000000",
         "address": "102 MAGNOLIA DR",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 97500,
         "market_value": 115500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0432S00053000000",
@@ -197,20 +210,20 @@
         "assessed_value": 97500,
         "market_value": 115500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
-        "parcel_id": "0355P00326000000",
-        "address": "1408 MOUNT ROYAL BLVD",
+        "parcel_id": "0615J00207000000",
+        "address": "3804 BELLADONNA DR",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "609   SCOTT AVE",
-        "land_use_description": "RETL/APT'S OVER",
+        "current_owner_name": "3804   BELLADONNA DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 97500,
-        "market_value": 97500,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.5
+        "market_value": 115500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0354D00188000000",
@@ -223,7 +236,7 @@
         "assessed_value": 97600,
         "market_value": 115600,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355H00180000000",
@@ -236,19 +249,6 @@
         "assessed_value": 97400,
         "market_value": 97400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355J00109000000",
-        "address": "122 WETZEL RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "122   WETZEL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97400,
-        "market_value": 115400,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

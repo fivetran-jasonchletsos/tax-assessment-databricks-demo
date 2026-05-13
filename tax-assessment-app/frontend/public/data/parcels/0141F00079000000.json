@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0141F00079000000",
+    "address": "119 CENTRAL SQ",
+    "city": "Mt.lebanon",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "1266   NEWBURY HIGHLAND",
+    "current_mailing_address": "1266   NEWBURY HIGHLAND",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "APART: 5-19 UNITS",
+    "acreage": 0.117,
+    "latitude": 40.35904,
+    "longitude": -80.05482
+  },
+  "assessments": {
+    "parcel_id": "0141F00079000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 240000,
+        "market_value": 240000,
+        "land_value": 50000,
+        "improvement_value": 190000,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17292,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 240000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 222708,
+        "market_value": 222708,
+        "land_value": 46397,
+        "improvement_value": 176311,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2205,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222708,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 220503,
+        "market_value": 220503,
+        "land_value": 45938,
+        "improvement_value": 174565,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220503,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 220503,
+        "market_value": 220503,
+        "land_value": 45938,
+        "improvement_value": 174565,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2228,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220503,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 222731,
+        "market_value": 222731,
+        "land_value": 46402,
+        "improvement_value": 176329,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10606,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222731,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 212125,
+        "market_value": 212125,
+        "land_value": 44192,
+        "improvement_value": 167933,
+        "land_value_percentage": 20.8,
+        "improvement_value_percentage": 79.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 212125,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0141F00079000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0141F00079000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 125000,
+      "total_value_reduction": 125000,
+      "first_appeal_date": "8-Jun-16",
+      "most_recent_appeal_date": "8-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-9499-2016",
+        "filed_date": "8-Jun-16",
+        "hearing_date": "8-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 525000,
+        "requested_value": 525000,
+        "final_value": 400000,
+        "value_reduction": 125000,
+        "reduction_percentage": 23.81,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0141F00079000000",
+    "comparables": [
+      {
+        "parcel_id": "0141A00153000000",
+        "address": "105 SHADY DR W",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "6051   GRAFTON ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 240000,
+        "market_value": 240000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0251M00216000000",
+        "address": "871 MACARTHUR DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "871   MACARTHUR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 240000,
+        "market_value": 258000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0191A00019000000",
+        "address": "457 THORNYCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "457   THORNYCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 239900,
+        "market_value": 257900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0251R00050000000",
+        "address": "109 RIDGWAY CT",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "109   RIDGWAY CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 239900,
+        "market_value": 257900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0141F00240000000",
+        "address": "100 WYNNEWOOD DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "100   WYNNEWOOD DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 239800,
+        "market_value": 257800,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0192G00231000000",
+        "address": "371 AVON DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "371   AVON DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 240200,
+        "market_value": 240200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

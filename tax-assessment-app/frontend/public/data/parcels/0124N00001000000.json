@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0124N00001000000",
+    "address": "134 AUBURN ST",
+    "city": "11203",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "421   PINE TREE DR",
+    "current_mailing_address": "421   PINE TREE DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.055,
+    "latitude": 40.46102,
+    "longitude": -79.91176
+  },
+  "assessments": {
+    "parcel_id": "0124N00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 9100,
+        "market_value": 9100,
+        "land_value": 2500,
+        "improvement_value": 6600,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 899,
+        "assessed_value_change_pct": 10.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 9100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 8201,
+        "market_value": 8201,
+        "land_value": 2253,
+        "improvement_value": 5948,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 160,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8201,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 8041,
+        "market_value": 8041,
+        "land_value": 2209,
+        "improvement_value": 5832,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 79,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8041,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 7962,
+        "market_value": 7962,
+        "land_value": 2187,
+        "improvement_value": 5775,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7962,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 7962,
+        "market_value": 7962,
+        "land_value": 2187,
+        "improvement_value": 5775,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -81,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 7962,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 8043,
+        "market_value": 8043,
+        "land_value": 2209,
+        "improvement_value": 5834,
+        "land_value_percentage": 27.5,
+        "improvement_value_percentage": 72.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 8043,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0124N00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0124N00001000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0124N00001000000",
+    "comparables": [
+      {
+        "parcel_id": "0124N00063000000",
+        "address": "158 MAYFLOWER ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "158   MAYFLOWER ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 9100,
+        "market_value": 27100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125B00370000000",
+        "address": "119 CONTINENTAL ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "119   CONTINENTAL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9100,
+        "market_value": 27100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124J00052000000",
+        "address": "553 LENORA ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "553   LENORA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 27000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124K00165000000",
+        "address": "122 SHETLAND ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "122   SHETLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 27000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124N00035000000",
+        "address": "119 AUBURN ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "119   AUBURN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9000,
+        "market_value": 27000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124P00218000000",
+        "address": "545 LOWELL ST",
+        "city": "11203",
+        "zip_code": "15206",
+        "current_owner_name": "545   LOWELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 9200,
+        "market_value": 27200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

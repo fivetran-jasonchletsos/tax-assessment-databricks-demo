@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0126N00274000000",
+        "address": "6654 KINSMAN RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6654   KINSMAN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 415400,
+        "market_value": 433400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0086N00156000000",
         "address": "5448 BARTLETT ST",
         "city": "11402",
@@ -197,7 +210,20 @@
         "assessed_value": 416600,
         "market_value": 434600,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0125N00088000000",
+        "address": "125 ELYSIAN ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "125   ELYSIAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 417000,
+        "market_value": 435000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085F00086000000",
@@ -210,7 +236,7 @@
         "assessed_value": 417000,
         "market_value": 435000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086N00014000000",
@@ -223,32 +249,6 @@
         "assessed_value": 414400,
         "market_value": 432400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085C00184000000",
-        "address": "1020 HIGHMONT RD",
-        "city": "11402",
-        "zip_code": "15232",
-        "current_owner_name": "1020   HIGHMONT RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 413600,
-        "market_value": 431600,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085H00064000A00",
-        "address": "1215 BEECHWOOD BLVD",
-        "city": "11402",
-        "zip_code": "15206",
-        "current_owner_name": "344   FOX CHAPEL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 413500,
-        "market_value": 413500,
-        "assessed_value_change_pct": 0.9,
         "distance_miles": 1.1
       }
     ]

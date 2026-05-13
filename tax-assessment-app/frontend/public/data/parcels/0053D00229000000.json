@@ -122,6 +122,19 @@
     "parcel_id": "0053D00229000000",
     "comparables": [
       {
+        "parcel_id": "0127E00026000000",
+        "address": "1661 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6507   WILKINS AVE  # 212",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 196400,
+        "market_value": 196400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085N00010000000",
         "address": "5350 BEELER ST",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 197000,
         "market_value": 197000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086G00028000200",
@@ -145,7 +158,7 @@
         "assessed_value": 197000,
         "market_value": 215000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086G00032000200",
@@ -158,7 +171,7 @@
         "assessed_value": 197000,
         "market_value": 215000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086H00166000000",
@@ -171,7 +184,7 @@
         "assessed_value": 197100,
         "market_value": 215100,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085P00027000A00",
@@ -184,19 +197,6 @@
         "assessed_value": 196000,
         "market_value": 196000,
         "assessed_value_change_pct": 2.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086H00088000000",
-        "address": "1645 SHADY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1645   SHADY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 197200,
-        "market_value": 215200,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

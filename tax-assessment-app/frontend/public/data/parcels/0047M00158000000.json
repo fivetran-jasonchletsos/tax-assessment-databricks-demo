@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0047M00158000000",
+    "address": "SPRING GARDEN AVE",
+    "city": "26th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "375   NORTH SHORE DR  STE 600",
+    "current_mailing_address": "375   NORTH SHORE DR  STE 600",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMMERCIAL/UTILITY",
+    "acreage": 0.009,
+    "latitude": 40.41884,
+    "longitude": -80.08148
+  },
+  "assessments": {
+    "parcel_id": "0047M00158000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1300,
+        "market_value": 1300,
+        "land_value": 100,
+        "improvement_value": 1200,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34,
+        "assessed_value_change_pct": 2.69,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1266,
+        "market_value": 1266,
+        "land_value": 97,
+        "improvement_value": 1169,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48,
+        "assessed_value_change_pct": 3.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1266,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1218,
+        "market_value": 1218,
+        "land_value": 93,
+        "improvement_value": 1125,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35,
+        "assessed_value_change_pct": 2.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1218,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1183,
+        "market_value": 1183,
+        "land_value": 91,
+        "improvement_value": 1092,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23,
+        "assessed_value_change_pct": 1.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1183,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1160,
+        "market_value": 1160,
+        "land_value": 89,
+        "improvement_value": 1071,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11,
+        "assessed_value_change_pct": 0.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1160,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1149,
+        "market_value": 1149,
+        "land_value": 88,
+        "improvement_value": 1061,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1149,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0047M00158000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0047M00158000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0047M00158000000",
+    "comparables": [
+      {
+        "parcel_id": "0047M00035000000",
+        "address": "SPRING GARDEN AVE",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 1000,
+        "market_value": 1000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0047M00095000A00",
+        "address": "SPRING GARDEN AVE",
+        "city": "26th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 1000,
+        "market_value": 1000,
+        "assessed_value_change_pct": 2.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

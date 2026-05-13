@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0052N00180000000",
+    "address": "FORBES AVE",
+    "city": "14th Ward (Pittsburgh)",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "5000   FORBES AVE",
+    "current_mailing_address": "5000   FORBES AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+    "acreage": 0.14,
+    "latitude": 40.43368,
+    "longitude": -79.94548
+  },
+  "assessments": {
+    "parcel_id": "0052N00180000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 2800,
+        "market_value": 2800,
+        "land_value": 2800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 177,
+        "assessed_value_change_pct": 6.75,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 2623,
+        "market_value": 2623,
+        "land_value": 2623,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 76,
+        "assessed_value_change_pct": 2.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2623,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 2547,
+        "market_value": 2547,
+        "land_value": 2547,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 49,
+        "assessed_value_change_pct": 1.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2547,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 2498,
+        "market_value": 2498,
+        "land_value": 2498,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 24,
+        "assessed_value_change_pct": 0.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2498,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 2474,
+        "market_value": 2474,
+        "land_value": 2474,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2474,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 2474,
+        "market_value": 2474,
+        "land_value": 2474,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 2474,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0052N00180000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0052N00180000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0052N00180000000",
+    "comparables": [
+      {
+        "parcel_id": "0087D00230000002",
+        "address": "TILBURY AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "6318   PHILLIPS AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 2500,
+        "market_value": 2500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0086M00007000000",
+        "address": "5874 SHADY FORBES TER",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 2300,
+        "market_value": 2300,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087K00057000000",
+        "address": "MURRAY AVE",
+        "city": "14th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "7714   WAVERLY ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 2100,
+        "market_value": 2100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

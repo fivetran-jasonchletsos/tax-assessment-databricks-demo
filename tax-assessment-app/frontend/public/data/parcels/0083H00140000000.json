@@ -122,6 +122,19 @@
     "parcel_id": "0083H00140000000",
     "comparables": [
       {
+        "parcel_id": "0124E00181000000",
+        "address": "6321 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "3166   HABERLEIN RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 40500,
+        "market_value": 40500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0050M00184000000",
         "address": "230 N AIKEN AVE",
         "city": "11103",
@@ -132,7 +145,7 @@
         "assessed_value": 40400,
         "market_value": 58400,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083K00022000000",
@@ -145,7 +158,20 @@
         "assessed_value": 40600,
         "market_value": 58600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124E00202000000",
+        "address": "6312 SAINT MARIE ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6312   SAINT MARIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40400,
+        "market_value": 58400,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0050M00165000000",
@@ -158,7 +184,7 @@
         "assessed_value": 40700,
         "market_value": 40700,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083B00376000000",
@@ -171,32 +197,6 @@
         "assessed_value": 40300,
         "market_value": 40300,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083B00377000000",
-        "address": "812 PORTLAND ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "4661   HIDDEN POND DR",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 40300,
-        "market_value": 40300,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083F00121000000",
-        "address": "526 N NEGLEY AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "526  N NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 40300,
-        "market_value": 58300,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

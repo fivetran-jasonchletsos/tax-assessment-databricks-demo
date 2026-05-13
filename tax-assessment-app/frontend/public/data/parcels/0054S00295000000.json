@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0087N00130000100",
+        "address": "960 KENNEBEC ST",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "960   KENNEBEC ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 86900,
+        "market_value": 104900,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0054M00115000000",
         "address": "710 GRAPHIC ST",
         "city": "11502",
@@ -197,7 +210,7 @@
         "assessed_value": 87000,
         "market_value": 105000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0054M00145000000",
@@ -210,7 +223,7 @@
         "assessed_value": 87000,
         "market_value": 87000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0054M00245000000",
@@ -223,7 +236,7 @@
         "assessed_value": 86800,
         "market_value": 104800,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0054R00186000000",
@@ -236,19 +249,6 @@
         "assessed_value": 87000,
         "market_value": 105000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0054S00013000000",
-        "address": "843 DEELY ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "843   DEELY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 86800,
-        "market_value": 104800,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

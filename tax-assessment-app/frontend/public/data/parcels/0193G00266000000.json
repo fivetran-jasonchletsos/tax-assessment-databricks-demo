@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0141J00106000000",
+        "address": "728 WASHINGTON RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "1   BANK PLZ",
+        "land_use_description": "BANK",
+        "acreage": null,
+        "assessed_value": 261800,
+        "market_value": 261800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0192G00144000000",
         "address": "365 JEFFERSON DR",
         "city": "Mt.lebanon",
@@ -197,7 +210,20 @@
         "assessed_value": 261600,
         "market_value": 261600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0251R00062000000",
+        "address": "112 RIDGWAY CT",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "112   RIDGWAY CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 261800,
+        "market_value": 279800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0192A00152000000",
@@ -210,7 +236,7 @@
         "assessed_value": 261900,
         "market_value": 279900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0193F00068000000",
@@ -223,32 +249,6 @@
         "assessed_value": 261500,
         "market_value": 279500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193K00338000000",
-        "address": "192 MAYFAIR DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "192   MAYFAIR DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 261900,
-        "market_value": 279900,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0193S00072000000",
-        "address": "80 WOODHAVEN DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "80   WOODHAVEN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 261900,
-        "market_value": 279900,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

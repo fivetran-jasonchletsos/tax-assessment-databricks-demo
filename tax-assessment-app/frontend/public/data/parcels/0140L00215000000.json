@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0140L00215000000",
+    "address": "HAVERHILL RD",
+    "city": "Baldwin Twp",
+    "zip_code": "15228",
+    "county": "Allegheny",
+    "current_owner_name": "REGULAR",
+    "current_mailing_address": "REGULAR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.091,
+    "latitude": 40.35868,
+    "longitude": -80.03706
+  },
+  "assessments": {
+    "parcel_id": "0140L00215000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1500,
+        "market_value": 1500,
+        "land_value": 1500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -18,
+        "assessed_value_change_pct": -1.19,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1518,
+        "market_value": 1518,
+        "land_value": 1518,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 72,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1518,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1446,
+        "market_value": 1446,
+        "land_value": 1446,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 55,
+        "assessed_value_change_pct": 3.95,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1446,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1391,
+        "market_value": 1391,
+        "land_value": 1391,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40,
+        "assessed_value_change_pct": 2.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1391,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1351,
+        "market_value": 1351,
+        "land_value": 1351,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26,
+        "assessed_value_change_pct": 1.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1351,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1325,
+        "market_value": 1325,
+        "land_value": 1325,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1325,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0140L00215000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0140L00215000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0140L00215000000",
+    "comparables": [
+      {
+        "parcel_id": "0140S00194000000",
+        "address": "HAVERHILL RD",
+        "city": "Baldwin Twp",
+        "zip_code": "15228",
+        "current_owner_name": "812   MAPLEWOOD DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 1700,
+        "market_value": 1700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

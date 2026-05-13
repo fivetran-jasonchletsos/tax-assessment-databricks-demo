@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0129A00009000000",
+        "address": "123 GILDA AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "123   GILDA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 397400,
+        "market_value": 415400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0053H00266000000",
         "address": "314 SCHENLEY RD",
         "city": "11401",
@@ -197,7 +210,20 @@
         "assessed_value": 397800,
         "market_value": 415800,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088M00056000000",
+        "address": "237 BURKETON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "237   BURKETON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 397900,
+        "market_value": 415900,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085P00117000000",
@@ -210,7 +236,7 @@
         "assessed_value": 396000,
         "market_value": 396000,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085J00151000000",
@@ -223,32 +249,6 @@
         "assessed_value": 398200,
         "market_value": 416200,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086E00010000000",
-        "address": "5469 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5469   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 398700,
-        "market_value": 416700,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086B00073000000",
-        "address": "5634 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5634   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 395100,
-        "market_value": 413100,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

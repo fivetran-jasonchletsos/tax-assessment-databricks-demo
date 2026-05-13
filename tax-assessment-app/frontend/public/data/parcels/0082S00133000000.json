@@ -122,6 +122,19 @@
     "parcel_id": "0082S00133000000",
     "comparables": [
       {
+        "parcel_id": "0123J00062000000",
+        "address": "1232 N SHERIDAN AVE",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1232  N SHERIDAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 232000,
+        "market_value": 250000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082S00223000000",
         "address": "1012 FARRAGUT ST",
         "city": "11101",
@@ -132,7 +145,7 @@
         "assessed_value": 232100,
         "market_value": 232100,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0083D00021000000",
@@ -145,7 +158,7 @@
         "assessed_value": 231700,
         "market_value": 249700,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082M00380000000",
@@ -158,7 +171,7 @@
         "assessed_value": 232500,
         "market_value": 250500,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082S00020000000",
@@ -171,7 +184,7 @@
         "assessed_value": 231300,
         "market_value": 249300,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082S00221000000",
@@ -184,19 +197,6 @@
         "assessed_value": 232800,
         "market_value": 250800,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082S00229000000",
-        "address": "1006 FARRAGUT ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1006   FARRAGUT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 233100,
-        "market_value": 251100,
-        "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }
     ]

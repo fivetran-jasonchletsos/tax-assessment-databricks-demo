@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0088B00044000000",
+    "address": "3523 BEECHWOOD BLVD",
+    "city": "11501",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "1174   BEECHWOOD BLVD",
+    "current_mailing_address": "1174   BEECHWOOD BLVD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.115,
+    "latitude": 40.42,
+    "longitude": -79.9145
+  },
+  "assessments": {
+    "parcel_id": "0088B00044000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 215000,
+        "market_value": 215000,
+        "land_value": 60000,
+        "improvement_value": 155000,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3404,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 215000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 211596,
+        "market_value": 211596,
+        "land_value": 59050,
+        "improvement_value": 152546,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2138,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211596,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 213734,
+        "market_value": 213734,
+        "land_value": 59646,
+        "improvement_value": 154088,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10177,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 213734,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 203557,
+        "market_value": 203557,
+        "land_value": 56806,
+        "improvement_value": 146751,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7829,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 203557,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 195728,
+        "market_value": 195728,
+        "land_value": 54621,
+        "improvement_value": 141107,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5700,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 195728,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 190028,
+        "market_value": 190028,
+        "land_value": 53031,
+        "improvement_value": 136997,
+        "land_value_percentage": 27.9,
+        "improvement_value_percentage": 72.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190028,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088B00044000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088B00044000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 87900,
+      "total_value_reduction": 87900,
+      "first_appeal_date": "4-May-15",
+      "most_recent_appeal_date": "4-May-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2324-2015",
+        "filed_date": "4-May-15",
+        "hearing_date": "4-May-15",
+        "appeal_status": "approved",
+        "original_value": 302900,
+        "requested_value": 302900,
+        "final_value": 215000,
+        "value_reduction": 87900,
+        "reduction_percentage": 29.02,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088B00044000000",
+    "comparables": [
+      {
+        "parcel_id": "0088F00071000000",
+        "address": "3413 BEECHWOOD BLVD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "3413   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 215600,
+        "market_value": 215600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087P00116000000",
+        "address": "3547 BEECHWOOD BLVD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "3547   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213500,
+        "market_value": 231500,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088F00069000000",
+        "address": "3415 BEECHWOOD BLVD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "128   PARKSIDE DR",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 216800,
+        "market_value": 216800,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088B00089000000",
+        "address": "3466 BEECHWOOD BLVD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "110   MANOR RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 212800,
+        "market_value": 212800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088F00065000000",
+        "address": "3421 BEECHWOOD BLVD",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "3421   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 218300,
+        "market_value": 236300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0088B00175000000",
+        "address": "4252 SALINE ST",
+        "city": "11501",
+        "zip_code": "15217",
+        "current_owner_name": "4252   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 219800,
+        "market_value": 219800,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

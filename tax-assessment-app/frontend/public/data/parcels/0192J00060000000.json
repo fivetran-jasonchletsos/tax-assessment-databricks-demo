@@ -122,6 +122,19 @@
     "parcel_id": "0192J00060000000",
     "comparables": [
       {
+        "parcel_id": "0252H00052000000",
+        "address": "100 SUNNYHILL DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "100   SUNNYHILL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 266700,
+        "market_value": 284700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141G00087000000",
         "address": "132 LANCASTER AVE",
         "city": "Mt.lebanon",
@@ -132,7 +145,7 @@
         "assessed_value": 266600,
         "market_value": 284600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0251L00249000000",
@@ -145,7 +158,20 @@
         "assessed_value": 266600,
         "market_value": 266600,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0252D00074000000",
+        "address": "100 LONGUEVUE DR",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "100   LONGUEVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 267000,
+        "market_value": 267000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0192G00243000000",
@@ -158,45 +184,19 @@
         "assessed_value": 266500,
         "market_value": 284500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0193R00054000000",
-        "address": "79 MARKHAM DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "79   MARKHAM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 266300,
-        "market_value": 284300,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0193R00238000000",
-        "address": "56 ALTADENA DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "56   ALTADENA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 267300,
-        "market_value": 285300,
-        "assessed_value_change_pct": 0.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0251L00050000000",
-        "address": "840 RIDGEVIEW DR",
+        "parcel_id": "0252C00028000000",
+        "address": "100 ALTADENA DR",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "840   RIDGEVIEW DR",
+        "current_owner_name": "100   ALTADENA DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 266200,
-        "market_value": 284200,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 267100,
+        "market_value": 285100,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

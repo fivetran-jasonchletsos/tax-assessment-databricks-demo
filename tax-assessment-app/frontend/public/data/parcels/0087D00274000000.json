@@ -174,6 +174,19 @@
     "parcel_id": "0087D00274000000",
     "comparables": [
       {
+        "parcel_id": "0088D00056000000",
+        "address": "2925 BEECHWOOD BLVD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "2925   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 202500,
+        "market_value": 220500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086S00050000000",
         "address": "5919 HOBART ST",
         "city": "11403",
@@ -184,7 +197,7 @@
         "assessed_value": 202400,
         "market_value": 202400,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0087A00092000000",
@@ -197,7 +210,7 @@
         "assessed_value": 202600,
         "market_value": 220600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087D00184000000",
@@ -210,7 +223,7 @@
         "assessed_value": 202300,
         "market_value": 202300,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0087C00142000000",
@@ -223,7 +236,7 @@
         "assessed_value": 202800,
         "market_value": 220800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087D00041000000",
@@ -236,19 +249,6 @@
         "assessed_value": 202200,
         "market_value": 220200,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086R00135000000",
-        "address": "5719 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5719   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203000,
-        "market_value": 221000,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

@@ -122,6 +122,19 @@
     "parcel_id": "0052M00014000000",
     "comparables": [
       {
+        "parcel_id": "0127A00176000000",
+        "address": "6535 AYLESBORO AVE",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6535   AYLESBORO AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 245800,
+        "market_value": 263800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053C00206000000",
         "address": "5147 FORBES AVE",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 245000,
         "market_value": 245000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085K00013000000",
@@ -145,7 +158,7 @@
         "assessed_value": 245000,
         "market_value": 245000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0085K00018000000",
@@ -158,7 +171,7 @@
         "assessed_value": 245000,
         "market_value": 245000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085P00175000000",
@@ -171,32 +184,19 @@
         "assessed_value": 245000,
         "market_value": 245000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085K00028000000",
-        "address": "1210 S NEGLEY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1210  S NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 246200,
-        "market_value": 264200,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0085J00235000000",
-        "address": "5445 WILKINS AVE",
+        "parcel_id": "0127J00220000000",
+        "address": "1842 SHAW AVE",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "1415   BENNINGTON AVE",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "5948   SNOWY EGRET DR",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 246300,
-        "market_value": 246300,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 245000,
+        "market_value": 245000,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

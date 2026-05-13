@@ -122,6 +122,19 @@
     "parcel_id": "0086S00021000000",
     "comparables": [
       {
+        "parcel_id": "0128A00087000000",
+        "address": "115 PHILLIPS PL",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "115   PHILLIPS PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 322200,
+        "market_value": 340200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0087A00144000000",
         "address": "5447 HOBART ST",
         "city": "11403",
@@ -132,7 +145,7 @@
         "assessed_value": 322500,
         "market_value": 340500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086R00158000000",
@@ -145,7 +158,7 @@
         "assessed_value": 322000,
         "market_value": 340000,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0086S00054000000",
@@ -158,7 +171,20 @@
         "assessed_value": 322600,
         "market_value": 340600,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128J00322000000",
+        "address": "2495 MOUNT ROYAL RD",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "910   G ST NE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 321800,
+        "market_value": 321800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087A00082000000",
@@ -171,32 +197,6 @@
         "assessed_value": 322900,
         "market_value": 340900,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087A00188000000",
-        "address": "5454 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5454   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 323300,
-        "market_value": 341300,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087A00186000000",
-        "address": "5448 HOBART ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5448   HOBART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 320300,
-        "market_value": 320300,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

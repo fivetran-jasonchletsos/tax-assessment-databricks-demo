@@ -174,6 +174,19 @@
     "parcel_id": "0055H00157000000",
     "comparables": [
       {
+        "parcel_id": "0088A00318000000",
+        "address": "4316 MURRAY AVE",
+        "city": "11502",
+        "zip_code": "15217",
+        "current_owner_name": "4316   MURRAY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67100,
+        "market_value": 85100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0054M00142000000",
         "address": "842 MONTEIRO ST",
         "city": "11502",
@@ -184,7 +197,7 @@
         "assessed_value": 67000,
         "market_value": 85000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0054M00326000000",
@@ -197,7 +210,7 @@
         "assessed_value": 67000,
         "market_value": 85000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0055D00265000000",
@@ -210,7 +223,7 @@
         "assessed_value": 67000,
         "market_value": 85000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0055D00338000000",
@@ -223,32 +236,19 @@
         "assessed_value": 67000,
         "market_value": 67000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0055H00097000000",
-        "address": "633 MONTCLAIR ST",
-        "city": "11502",
-        "zip_code": "15217",
-        "current_owner_name": "633   MONTCLAIR ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 66900,
-        "market_value": 84900,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0055D00313000000",
-        "address": "924 NORFOLK ST",
+        "parcel_id": "0087N00183000000",
+        "address": "885 KENNEBEC ST",
         "city": "11502",
         "zip_code": "15217",
-        "current_owner_name": "924   NORFOLK ST",
+        "current_owner_name": "885   KENNEBEC ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 67500,
-        "market_value": 85500,
-        "assessed_value_change_pct": -4.5,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

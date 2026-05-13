@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0088F00044000000",
+    "address": "4353 MURRAY AVE",
+    "city": "15th Ward (Pittsburgh)",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 2615",
+    "current_mailing_address": "PO BOX 2615",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.048,
+    "latitude": 40.42048,
+    "longitude": -79.9121
+  },
+  "assessments": {
+    "parcel_id": "0088F00044000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 140000,
+        "market_value": 140000,
+        "land_value": 63000,
+        "improvement_value": 77000,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8701,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 131299,
+        "market_value": 131299,
+        "land_value": 59084,
+        "improvement_value": 72215,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3824,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 131299,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 127475,
+        "market_value": 127475,
+        "land_value": 57363,
+        "improvement_value": 70112,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2499,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127475,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 124976,
+        "market_value": 124976,
+        "land_value": 56239,
+        "improvement_value": 68737,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1237,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124976,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 123739,
+        "market_value": 123739,
+        "land_value": 55682,
+        "improvement_value": 68057,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123739,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 123739,
+        "market_value": 123739,
+        "land_value": 55682,
+        "improvement_value": 68057,
+        "land_value_percentage": 45.0,
+        "improvement_value_percentage": 55.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123739,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088F00044000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088F00044000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jul-19",
+      "most_recent_appeal_date": "15-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30098-2019",
+        "filed_date": "15-Jul-19",
+        "hearing_date": "15-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 107500,
+        "requested_value": 107500,
+        "final_value": 151200,
+        "value_reduction": 0,
+        "reduction_percentage": -40.65,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088F00044000000",
+    "comparables": [
+      {
+        "parcel_id": "0088B00027000000",
+        "address": "4211 MURRAY AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "516   GROVE ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 139800,
+        "market_value": 139800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0088B00056000001",
+        "address": "3503 BEECHWOOD BLVD",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "3503   BEECHWOOD BLVD",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 140350,
+        "market_value": 140350,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0087K00274000000",
+        "address": "3948 MURRAY AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "408  W 7TH AVE",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 140700,
+        "market_value": 140700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088F00032000000",
+        "address": "835 HAZELWOOD AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "5246   FORBES AVE",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 141100,
+        "market_value": 141100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088S00100000A02",
+        "address": "OLD BROWNS HILL RD",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 135900,
+        "market_value": 135900,
+        "assessed_value_change_pct": 2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0088F00043000000",
+        "address": "4355 MURRAY AVE",
+        "city": "15th Ward (Pittsburgh)",
+        "zip_code": "15217",
+        "current_owner_name": "PO BOX 2615",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 133000,
+        "market_value": 133000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0124A00008000000",
+        "address": "6313 GLENVIEW PL",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6313   GLENVIEW PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147400,
+        "market_value": 165400,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123N00305000000",
+        "address": "6483 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6483   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148000,
+        "market_value": 166000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082B00204000000",
         "address": "1341 CORDOVA RD",
         "city": "11102",
@@ -145,7 +171,20 @@
         "assessed_value": 147100,
         "market_value": 165100,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123K00006000000",
+        "address": "6636 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6636   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 148100,
+        "market_value": 166100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082G00126000C00",
@@ -158,45 +197,6 @@
         "assessed_value": 147000,
         "market_value": 165000,
         "assessed_value_change_pct": 0.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082F00212000000",
-        "address": "1146 KING AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1045  S TRENTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146900,
-        "market_value": 146900,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082H00135000000",
-        "address": "5820 CALLOWHILL ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5820   CALLOWHILL ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 148900,
-        "market_value": 166900,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082K00162000000",
-        "address": "5556 HAMPTON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5556   HAMPTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 146300,
-        "market_value": 164300,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0022G00132000000",
+    "address": "1000 CALIFORNIA AVE",
+    "city": "21st Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1000   CALIFORNIA AVE",
+    "current_mailing_address": "1000   CALIFORNIA AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMM AUX BUILDING",
+    "acreage": 0.578,
+    "latitude": 40.41632,
+    "longitude": -80.07356
+  },
+  "assessments": {
+    "parcel_id": "0022G00132000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 30000,
+        "market_value": 30000,
+        "land_value": 7500,
+        "improvement_value": 22500,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 741,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 29259,
+        "market_value": 29259,
+        "land_value": 7314,
+        "improvement_value": 21945,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1125,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29259,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 28134,
+        "market_value": 28134,
+        "land_value": 7033,
+        "improvement_value": 21101,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 819,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28134,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27315,
+        "market_value": 27315,
+        "land_value": 6828,
+        "improvement_value": 20487,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 535,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27315,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 26780,
+        "market_value": 26780,
+        "land_value": 6695,
+        "improvement_value": 20085,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 265,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26780,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 26515,
+        "market_value": 26515,
+        "land_value": 6628,
+        "improvement_value": 19887,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26515,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0022G00132000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0022G00132000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0022G00132000000",
+    "comparables": [
+      {
+        "parcel_id": "0022G00023000000",
+        "address": "SEDGWICK ST",
+        "city": "21st Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "1300   BRIGHTON RD",
+        "land_use_description": "COMM AUX BUILDING",
+        "acreage": null,
+        "assessed_value": 24300,
+        "market_value": 24300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

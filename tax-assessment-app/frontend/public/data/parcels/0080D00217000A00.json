@@ -122,6 +122,19 @@
     "parcel_id": "0080D00217000A00",
     "comparables": [
       {
+        "parcel_id": "0081A00082000000",
+        "address": "WICKLIFF ST",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 39000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0121J00288000000",
         "address": "1665 DUFFIELD ST",
         "city": "11003",
@@ -132,7 +145,46 @@
         "assessed_value": 39000,
         "market_value": 39000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0121L00159000000",
+        "address": "1956 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1956   ANTIETAM ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 57000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121L00161000000",
+        "address": "1954 ANTIETAM ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1954 1/2  ANTIETAM ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 57000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121P00017000000",
+        "address": "1668 JANCEY ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1668   JANCEY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 57000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080D00127000000",
@@ -145,58 +197,6 @@
         "assessed_value": 38900,
         "market_value": 38900,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0080D00215000A00",
-        "address": "5319 KEYSTONE ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "1213   MOUNT ROYAL BLVD",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 38900,
-        "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0081E00133000000",
-        "address": "5314 CAMELIA ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5314   CAMELIA ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 56900,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0120N00207000000",
-        "address": "5608 DUNCAN ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5608   DUNCAN ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 56900,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0050M00007000000",
-        "address": "325 N AIKEN AVE",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "101   PINE SHADOWS DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 38900,
-        "market_value": 38900,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

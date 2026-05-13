@@ -120,6 +120,33 @@
   },
   "comparables": {
     "parcel_id": "0048N00060000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0048N00010000000",
+        "address": "1800 LEY ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1622   LOWRY ST",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 536200,
+        "market_value": 536200,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024C00209000000",
+        "address": "1286 SPRING GARDEN AVE",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1308   SPRING GARDEN AVE",
+        "land_use_description": "CHURCHES, PUBLIC WORSHIP",
+        "acreage": null,
+        "assessed_value": 539300,
+        "market_value": 539300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      }
+    ]
   }
 }

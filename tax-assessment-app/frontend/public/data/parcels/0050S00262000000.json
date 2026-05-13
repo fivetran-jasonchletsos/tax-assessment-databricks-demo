@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0050S00262000000",
+    "address": "5430 PENN AVE",
+    "city": "8th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "121   ROUP AVE",
+    "current_mailing_address": "121   ROUP AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.137,
+    "latitude": 40.46246,
+    "longitude": -79.92424
+  },
+  "assessments": {
+    "parcel_id": "0050S00262000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 797500,
+        "market_value": 797500,
+        "land_value": 44600,
+        "improvement_value": 752900,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 35478,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 797500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 762022,
+        "market_value": 762022,
+        "land_value": 42615,
+        "improvement_value": 719407,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 762022,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 762022,
+        "market_value": 762022,
+        "land_value": 42615,
+        "improvement_value": 719407,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -7698,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 762022,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 769720,
+        "market_value": 769720,
+        "land_value": 43046,
+        "improvement_value": 726674,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 36653,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 769720,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 733067,
+        "market_value": 733067,
+        "land_value": 40996,
+        "improvement_value": 692071,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28194,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 733067,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 704873,
+        "market_value": 704873,
+        "land_value": 39419,
+        "improvement_value": 665454,
+        "land_value_percentage": 5.6,
+        "improvement_value_percentage": 94.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 704873,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050S00262000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050S00262000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "26-Jun-19",
+      "most_recent_appeal_date": "26-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29501-2019",
+        "filed_date": "26-Jun-19",
+        "hearing_date": "26-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 310200,
+        "requested_value": 310200,
+        "final_value": 797500,
+        "value_reduction": 0,
+        "reduction_percentage": -157.09,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0050S00262000000",
+    "comparables": [
+      {
+        "parcel_id": "0051J00040000000",
+        "address": "750 S MILLVALE AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "5879   CENTRE AVE",
+        "land_use_description": "MINI WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 800000,
+        "market_value": 800000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0084E00094000000",
+        "address": "290 S EUCLID AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "500   OHIO RIVER BLVD",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 806600,
+        "market_value": 806600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0084E00084000000",
+        "address": "5720 FRIENDSHIP AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "611   WILLIAM PENN PL  STE 800",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 820000,
+        "market_value": 820000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0084B00089000000",
+        "address": "124 S HIGHLAND AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "947   LIBERTY AVE  UNIT 1",
+        "land_use_description": "RETL/OFF OVER",
+        "acreage": null,
+        "assessed_value": 762300,
+        "market_value": 762300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0084B00234000000",
+        "address": "5915 BAUM BLVD",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "357   LINCOLN HWY  STE 2200",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 760400,
+        "market_value": 760400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0051J00037000000",
+        "address": "732 S MILLVALE AVE",
+        "city": "8th Ward (Pittsburgh)",
+        "zip_code": "15213",
+        "current_owner_name": "6236   5TH AVE  STE 105-C",
+        "land_use_description": "APART:20-39 UNITS",
+        "acreage": null,
+        "assessed_value": 756100,
+        "market_value": 756100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

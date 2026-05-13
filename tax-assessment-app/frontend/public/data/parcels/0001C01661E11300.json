@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0001C01661E11300",
+    "address": "320 FORT DUQUESNE BLVD",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "210  W KENSINGER DR  STE 500",
+    "current_mailing_address": "210  W KENSINGER DR  STE 500",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "CONDOMINIUM OFFICE BUILDING",
+    "acreage": 0.0,
+    "latitude": 40.43906,
+    "longitude": -80.00002
+  },
+  "assessments": {
+    "parcel_id": "0001C01661E11300",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 111700,
+        "market_value": 111700,
+        "land_value": 0,
+        "improvement_value": 111700,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6942,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 104758,
+        "market_value": 104758,
+        "land_value": 0,
+        "improvement_value": 104758,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3051,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 104758,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101707,
+        "market_value": 101707,
+        "land_value": 0,
+        "improvement_value": 101707,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1994,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101707,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 99713,
+        "market_value": 99713,
+        "land_value": 0,
+        "improvement_value": 99713,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 987,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 99713,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 98726,
+        "market_value": 98726,
+        "land_value": 0,
+        "improvement_value": 98726,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98726,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 98726,
+        "market_value": 98726,
+        "land_value": 0,
+        "improvement_value": 98726,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98726,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001C01661E11300",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001C01661E11300",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001C01661E11300",
+    "comparables": [
+      {
+        "parcel_id": "0009H00022000000",
+        "address": "1711 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1737   PENN AVE",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 111300,
+        "market_value": 111300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009N00058010000",
+        "address": "913 LIBERTY AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "922   WESTERN AVE  REAR OFFICE",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 113100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0024S00011000000",
+        "address": "21ST ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 106900,
+        "market_value": 106900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009G00200000000",
+        "address": "SMALLMAN ST",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "1251   WATERFRONT PL  STE 201",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 103600,
+        "market_value": 103600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0009D00112000000",
+        "address": "2019 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "104   BRECKENRIDGE DR",
+        "land_use_description": "SMALL DETACHED RET(UNDER 10000)",
+        "acreage": null,
+        "assessed_value": 120000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0010A00020000000",
+        "address": "2220 PENN AVE",
+        "city": "2nd Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "2112   CHRIS DR",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 120000,
+        "market_value": 120000,
+        "assessed_value_change_pct": 12.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

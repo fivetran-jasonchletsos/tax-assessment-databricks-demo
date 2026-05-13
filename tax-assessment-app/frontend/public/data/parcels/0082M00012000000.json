@@ -174,6 +174,19 @@
     "parcel_id": "0082M00012000000",
     "comparables": [
       {
+        "parcel_id": "0123J00132000000",
+        "address": "1237 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1237   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 551000,
+        "market_value": 569000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0082S00244000000",
         "address": "1005 N SHERIDAN AVE",
         "city": "11101",
@@ -184,7 +197,46 @@
         "assessed_value": 557700,
         "market_value": 557700,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00253000000",
+        "address": "974 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "974   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 541900,
+        "market_value": 541900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0123N00067000000",
+        "address": "1101 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1101   HEBERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 539800,
+        "market_value": 557800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123N00079000000",
+        "address": "1019 HEBERTON ST",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "1019   HEBERTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 575000,
+        "market_value": 575000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00253000000",
@@ -197,58 +249,6 @@
         "assessed_value": 528400,
         "market_value": 528400,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0083D00158000000",
-        "address": "931 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "931  N SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 523900,
-        "market_value": 541900,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082S00073000000",
-        "address": "1011 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1011  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 517000,
-        "market_value": 535000,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083D00288000000",
-        "address": "914 N SHERIDAN AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "914  N SHERIDAN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 506000,
-        "market_value": 524000,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082S00055000000",
-        "address": "1025 N HIGHLAND AVE",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "1025  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 607000,
-        "market_value": 625000,
-        "assessed_value_change_pct": -0.9,
         "distance_miles": 1.1
       }
     ]

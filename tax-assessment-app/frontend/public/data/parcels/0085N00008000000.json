@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0127N00233000000",
+        "address": "2137 BEECHWOOD BLVD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "2137   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 247000,
+        "market_value": 265000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0052R00063000000",
         "address": "5117 BEELER ST",
         "city": "11401",
@@ -145,7 +158,20 @@
         "assessed_value": 247500,
         "market_value": 247500,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127P00053000000",
+        "address": "6746 FOREST GLEN RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6746   FOREST GLEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 246800,
+        "market_value": 264800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0086J00270000000",
@@ -158,45 +184,19 @@
         "assessed_value": 246700,
         "market_value": 264700,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0085N00022000000",
-        "address": "5464 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5464   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 246600,
-        "market_value": 264600,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086S00265000000",
-        "address": "6420 BARTLETT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "6420   BARTLETT ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 247900,
-        "market_value": 265900,
-        "assessed_value_change_pct": 0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052R00069000000",
-        "address": "5131 BEELER ST",
+        "parcel_id": "0127P00118000000",
+        "address": "6669 FOREST GLEN RD",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5131   BEELER ST",
+        "current_owner_name": "6669   FOREST GLEN RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 248000,
-        "market_value": 266000,
-        "assessed_value_change_pct": -0.7,
+        "assessed_value": 247700,
+        "market_value": 265700,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 1.1
       }
     ]

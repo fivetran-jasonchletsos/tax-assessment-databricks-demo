@@ -197,6 +197,19 @@
     "parcel_id": "0083D00047000000",
     "comparables": [
       {
+        "parcel_id": "0124A00224000000",
+        "address": "909 WELLESLEY RD",
+        "city": "11101",
+        "zip_code": "15206",
+        "current_owner_name": "909   WELLESLEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 219100,
+        "market_value": 237100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0083D00160000000",
         "address": "929 N SHERIDAN AVE",
         "city": "11101",
@@ -207,7 +220,7 @@
         "assessed_value": 219200,
         "market_value": 219200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0082M00313000000",
@@ -220,7 +233,7 @@
         "assessed_value": 219600,
         "market_value": 237600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082S00296000000",
@@ -233,45 +246,32 @@
         "assessed_value": 220000,
         "market_value": 220000,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0082M00324000000",
-        "address": "6047 GRAFTON ST",
-        "city": "11101",
-        "zip_code": "15206",
-        "current_owner_name": "6047   GRAFTON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 217400,
-        "market_value": 235400,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0082M00376000000",
-        "address": "1411 BROWNING RD",
+        "parcel_id": "0123E00032000000",
+        "address": "122 HIGH PARK PL",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "1411   BROWNING RD",
+        "current_owner_name": "122   HIGH PARK PL",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 217100,
-        "market_value": 235100,
-        "assessed_value_change_pct": -0.9,
+        "assessed_value": 218000,
+        "market_value": 236000,
+        "assessed_value_change_pct": -5.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082M00245000000",
-        "address": "1218 N HIGHLAND AVE",
+        "parcel_id": "0123E00021000000",
+        "address": "1354 N SHERIDAN AVE",
         "city": "11101",
         "zip_code": "15206",
-        "current_owner_name": "1218  N HIGHLAND AVE",
+        "current_owner_name": "1354  N SHERIDAN AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 216300,
-        "market_value": 234300,
-        "assessed_value_change_pct": -1.9,
+        "assessed_value": 220200,
+        "market_value": 238200,
+        "assessed_value_change_pct": 14.1,
         "distance_miles": 1.1
       }
     ]

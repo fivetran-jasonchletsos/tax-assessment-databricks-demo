@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0088L00103000000",
+        "address": "1695 BILTMORE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1695   BILTMORE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 908700,
+        "market_value": 926700,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0086D00193000000",
         "address": "1544 BEECHWOOD BLVD",
         "city": "11401",
@@ -210,7 +223,20 @@
         "assessed_value": 894000,
         "market_value": 912000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0129A00070000000",
+        "address": "39 ROSEMONT LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "39   ROSEMONT LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 893500,
+        "market_value": 911500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086S00218000000",
@@ -223,32 +249,6 @@
         "assessed_value": 887000,
         "market_value": 905000,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085N00059000000",
-        "address": "1235 BENNINGTON AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1235   BENNINGTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 920900,
-        "market_value": 938900,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085R00248000000",
-        "address": "5867 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5867   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 921600,
-        "market_value": 939600,
-        "assessed_value_change_pct": 0.3,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0083P00148000000",
+    "address": "HARVARD ST",
+    "city": "11th Ward (Pittsburgh)",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+    "current_mailing_address": "412   BOULEVARD OF THE ALLIES   STE 901",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "MUNICIPAL URBAN RENEWAL",
+    "acreage": 0.004,
+    "latitude": 40.46318,
+    "longitude": -79.91944
+  },
+  "assessments": {
+    "parcel_id": "0083P00148000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1300,
+        "market_value": 1300,
+        "land_value": 100,
+        "improvement_value": 1200,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22,
+        "assessed_value_change_pct": 1.72,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1278,
+        "market_value": 1278,
+        "land_value": 98,
+        "improvement_value": 1180,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -13,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1278,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1291,
+        "market_value": 1291,
+        "land_value": 99,
+        "improvement_value": 1192,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 61,
+        "assessed_value_change_pct": 4.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1291,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1230,
+        "market_value": 1230,
+        "land_value": 94,
+        "improvement_value": 1136,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 47,
+        "assessed_value_change_pct": 3.97,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1230,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1183,
+        "market_value": 1183,
+        "land_value": 91,
+        "improvement_value": 1092,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 34,
+        "assessed_value_change_pct": 2.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1183,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1149,
+        "market_value": 1149,
+        "land_value": 88,
+        "improvement_value": 1061,
+        "land_value_percentage": 7.7,
+        "improvement_value_percentage": 92.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1149,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0083P00148000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0083P00148000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0083P00148000000",
+    "comparables": [
+      {
+        "parcel_id": "0084C00100000100",
+        "address": "PENN AVE",
+        "city": "11th Ward (Pittsburgh)",
+        "zip_code": "15206",
+        "current_owner_name": "345   6TH AVE",
+        "land_use_description": "COUNTY GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 1400,
+        "market_value": 1400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

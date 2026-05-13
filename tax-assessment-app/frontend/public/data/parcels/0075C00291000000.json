@@ -122,6 +122,19 @@
     "parcel_id": "0075C00291000000",
     "comparables": [
       {
+        "parcel_id": "0045A00166000000",
+        "address": "2819 SHADELAND AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1119   IRWIN ST",
+        "land_use_description": "OWNED BY BOARD OF EDUCATION",
+        "acreage": null,
+        "assessed_value": 84800,
+        "market_value": 84800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0045K00047000000",
         "address": "1250 INGHAM ST",
         "city": "Ward 27 - Marshall - Shadeland",
@@ -132,7 +145,7 @@
         "assessed_value": 85000,
         "market_value": 85000,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0076A00085000000",
@@ -145,7 +158,7 @@
         "assessed_value": 84800,
         "market_value": 102800,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0076A00106000000",
@@ -158,7 +171,20 @@
         "assessed_value": 85000,
         "market_value": 103000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0076A00227000000",
+        "address": "3526 BRIGHTON RD",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "103   BARBARA DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 84800,
+        "market_value": 84800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0045F00060000000",
@@ -171,32 +197,6 @@
         "assessed_value": 85100,
         "market_value": 85100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0044D00342000000",
-        "address": "2901 PLOUGH ST",
-        "city": "Ward 27 - Marshall - Shadeland",
-        "zip_code": "15212",
-        "current_owner_name": "PO BOX 111085",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 84600,
-        "market_value": 84600,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0045J00057000000",
-        "address": "1525 SUPERIOR AVE",
-        "city": "Ward 27 - Marshall - Shadeland",
-        "zip_code": "15212",
-        "current_owner_name": "4610 C  TORLEY ST  APT 3",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 85200,
-        "market_value": 85200,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

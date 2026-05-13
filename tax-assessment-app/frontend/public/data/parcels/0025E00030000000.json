@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "0025E00030000000",
+    "address": "27TH ST",
+    "city": "2nd Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "2545   RAILROAD ST  STE 300",
+    "current_mailing_address": "2545   RAILROAD ST  STE 300",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT COMMERCIAL LAND",
+    "acreage": 0.031,
+    "latitude": 40.45958,
+    "longitude": -79.99498
+  },
+  "assessments": {
+    "parcel_id": "0025E00030000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 400,
+        "market_value": 400,
+        "land_value": 400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 41,
+        "assessed_value_change_pct": 11.42,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 359,
+        "market_value": 359,
+        "land_value": 359,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 359,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 352,
+        "market_value": 352,
+        "land_value": 352,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3,
+        "assessed_value_change_pct": 0.86,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 352,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 349,
+        "market_value": 349,
+        "land_value": 349,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 349,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 349,
+        "market_value": 349,
+        "land_value": 349,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4,
+        "assessed_value_change_pct": -1.13,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 349,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 353,
+        "market_value": 353,
+        "land_value": 353,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 353,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025E00030000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025E00030000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "3-Jun-16",
+      "most_recent_appeal_date": "3-Jun-16",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8211-2016",
+        "filed_date": "3-Jun-16",
+        "hearing_date": "3-Jun-16",
+        "appeal_status": "approved",
+        "original_value": 400,
+        "requested_value": 400,
+        "final_value": 400,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025E00030000000",
+    "comparables": []
+  }
+}

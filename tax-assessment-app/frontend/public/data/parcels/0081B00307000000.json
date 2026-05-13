@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0121N00144000000",
+        "address": "1443 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1443   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130100,
+        "market_value": 148100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082J00064000000",
         "address": "1020 MORNINGSIDE AVE",
         "city": "11003",
@@ -197,7 +210,7 @@
         "assessed_value": 130000,
         "market_value": 148000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0119S00052000A00",
@@ -210,7 +223,20 @@
         "assessed_value": 130500,
         "market_value": 130500,
         "assessed_value_change_pct": 2.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0121N00157000000",
+        "address": "1627 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1627   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129900,
+        "market_value": 129900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0081B00125000000",
@@ -223,32 +249,6 @@
         "assessed_value": 130600,
         "market_value": 130600,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082J00279000000",
-        "address": "919 HIGHVIEW ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "970   KENT AVE  APT 407",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 130600,
-        "market_value": 130600,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080H00123000000",
-        "address": "604 52ND ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "604   52ND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 129700,
-        "market_value": 147700,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

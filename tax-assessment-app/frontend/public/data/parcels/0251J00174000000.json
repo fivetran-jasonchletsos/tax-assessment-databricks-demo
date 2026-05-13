@@ -174,6 +174,19 @@
     "parcel_id": "0251J00174000000",
     "comparables": [
       {
+        "parcel_id": "0251R00020000000",
+        "address": "121 BRADLEY CT",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "121   BRADLEY CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238500,
+        "market_value": 256500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0141K00014000000",
         "address": "221 MERION DR",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 238400,
         "market_value": 256400,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0142D00152000000",
@@ -197,7 +210,7 @@
         "assessed_value": 238400,
         "market_value": 256400,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0192H00090000000",
@@ -210,7 +223,7 @@
         "assessed_value": 238400,
         "market_value": 256400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0192K00086000000",
@@ -223,32 +236,19 @@
         "assessed_value": 238600,
         "market_value": 256600,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0141J00075000000",
-        "address": "814 WASHINGTON RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "814   WASHINGTON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 238300,
-        "market_value": 238300,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0140E00043000000",
-        "address": "275 OLD FARM RD",
+        "parcel_id": "0251R00194000000",
+        "address": "141 STILWELL CT",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "275   OLD FARM RD",
+        "current_owner_name": "141   STILWELL CT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 238800,
-        "market_value": 256800,
-        "assessed_value_change_pct": -5.3,
+        "assessed_value": 238400,
+        "market_value": 256400,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

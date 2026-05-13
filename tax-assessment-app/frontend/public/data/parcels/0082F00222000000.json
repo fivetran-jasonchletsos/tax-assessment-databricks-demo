@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0123J00167000000",
+        "address": "1221 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1221   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 214200,
+        "market_value": 232200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082G00199000000",
         "address": "1264 N NEGLEY AVE",
         "city": "11102",
@@ -197,7 +210,7 @@
         "assessed_value": 215500,
         "market_value": 215500,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0082F00277000000",
@@ -210,7 +223,7 @@
         "assessed_value": 215800,
         "market_value": 233800,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082M00060000000",
@@ -223,32 +236,19 @@
         "assessed_value": 215900,
         "market_value": 215900,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00282000000",
-        "address": "1206 N NEGLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1206  N NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 212000,
-        "market_value": 230000,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082G00216000000",
-        "address": "5625 ELGIN ST",
+        "parcel_id": "0123K00001000000",
+        "address": "6620 JACKSON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "5625   ELGIN ST",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "6620   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 218000,
-        "market_value": 236000,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 213600,
+        "market_value": 231600,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

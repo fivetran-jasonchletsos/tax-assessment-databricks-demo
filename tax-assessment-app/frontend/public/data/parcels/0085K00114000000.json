@@ -174,6 +174,19 @@
     "parcel_id": "0085K00114000000",
     "comparables": [
       {
+        "parcel_id": "0088M00080000000",
+        "address": "231 BEARDSLEY LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "231   BEARDSLEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 549500,
+        "market_value": 567500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0053H00110000000",
         "address": "5425 ALBEMARLE AVE",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 548200,
         "market_value": 548200,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0086E00198000000",
@@ -197,7 +210,20 @@
         "assessed_value": 548100,
         "market_value": 548100,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0127N00068000000",
+        "address": "6553 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6553   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 547900,
+        "market_value": 565900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0053D00327000000",
@@ -210,7 +236,7 @@
         "assessed_value": 550000,
         "market_value": 568000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086H00029000000",
@@ -223,32 +249,6 @@
         "assessed_value": 550000,
         "market_value": 568000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0086G00084000000",
-        "address": "5859 AYLESBORO AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5859   AYLESBORO AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 547700,
-        "market_value": 565700,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086B00141000000",
-        "address": "5631 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "815   WATER ST  UNIT B1614",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 550600,
-        "market_value": 550600,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

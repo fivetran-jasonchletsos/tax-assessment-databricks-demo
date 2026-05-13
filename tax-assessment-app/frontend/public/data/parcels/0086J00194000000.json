@@ -174,6 +174,19 @@
     "parcel_id": "0086J00194000000",
     "comparables": [
       {
+        "parcel_id": "0125N00071000000",
+        "address": "118 HASTINGS ST",
+        "city": "11402",
+        "zip_code": "15206",
+        "current_owner_name": "118   HASTINGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 289000,
+        "market_value": 307000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086K00016000000",
         "address": "1724 WIGHTMAN ST",
         "city": "11402",
@@ -184,7 +197,20 @@
         "assessed_value": 288000,
         "market_value": 288000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0126J00286000000",
+        "address": "6671 KINSMAN RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6671   KINSMAN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 288000,
+        "market_value": 306000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053M00049000000",
@@ -197,7 +223,7 @@
         "assessed_value": 287700,
         "market_value": 287700,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085C00412000000",
@@ -210,7 +236,7 @@
         "assessed_value": 289300,
         "market_value": 307300,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086K00078000000",
@@ -223,32 +249,6 @@
         "assessed_value": 287400,
         "market_value": 305400,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0085R00295000000",
-        "address": "1337 SHADY AVE",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "363   HIGHLAND AVE  APT 802",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 287300,
-        "market_value": 287300,
-        "assessed_value_change_pct": 0.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086J00106000000",
-        "address": "5435 DARLINGTON RD",
-        "city": "11402",
-        "zip_code": "15217",
-        "current_owner_name": "5435   DARLINGTON RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 289800,
-        "market_value": 307800,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

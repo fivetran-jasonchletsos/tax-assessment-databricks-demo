@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0023S00287000000",
+    "address": "422 FORELAND ST",
+    "city": "23rd Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "546   MACLEOD DR",
+    "current_mailing_address": "546   MACLEOD DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "RESTAURANT, CAFET AND/OR BAR",
+    "acreage": 0.287,
+    "latitude": 40.4192,
+    "longitude": -80.07752
+  },
+  "assessments": {
+    "parcel_id": "0023S00287000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 629300,
+        "market_value": 629300,
+        "land_value": 133000,
+        "improvement_value": 496300,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 27995,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 629300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 601305,
+        "market_value": 601305,
+        "land_value": 127083,
+        "improvement_value": 474222,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 601305,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 601305,
+        "market_value": 601305,
+        "land_value": 127083,
+        "improvement_value": 474222,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6074,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 601305,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 607379,
+        "market_value": 607379,
+        "land_value": 128367,
+        "improvement_value": 479012,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28922,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 607379,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 578457,
+        "market_value": 578457,
+        "land_value": 122254,
+        "improvement_value": 456203,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22248,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 578457,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 556209,
+        "market_value": 556209,
+        "land_value": 117552,
+        "improvement_value": 438657,
+        "land_value_percentage": 21.1,
+        "improvement_value_percentage": 78.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 556209,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023S00287000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023S00287000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "15-Jul-19",
+      "most_recent_appeal_date": "15-Jul-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-29155-2019",
+        "filed_date": "15-Jul-19",
+        "hearing_date": "15-Jul-19",
+        "appeal_status": "approved",
+        "original_value": 280000,
+        "requested_value": 280000,
+        "final_value": 629300,
+        "value_reduction": 0,
+        "reduction_percentage": -124.75,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023S00287000000",
+    "comparables": [
+      {
+        "parcel_id": "0008D00128000000",
+        "address": "507 LOCKHART ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "507   LOCKHART ST",
+        "land_use_description": "COMMERCIAL GARAGE",
+        "acreage": null,
+        "assessed_value": 625000,
+        "market_value": 625000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009E00154000000",
+        "address": "700 RIVER AVE",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "700   RIVER AVE  STE 231",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 636616,
+        "market_value": 2546466,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023S00341000000",
+        "address": "537 SUISMON ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "537   SUISMON ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 534400,
+        "market_value": 534400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023M00312000000",
+        "address": "922 MIDDLE ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414  W NORTH AVE",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 520700,
+        "market_value": 520700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023S00202000000",
+        "address": "728 JAMES ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "832   LOVINGTON DR",
+        "land_use_description": "OFFICE/APARTMENTS OVER",
+        "acreage": null,
+        "assessed_value": 491000,
+        "market_value": 491000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024L00280000000",
+        "address": "PANDAM ST",
+        "city": "23rd Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 489100,
+        "market_value": 489100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

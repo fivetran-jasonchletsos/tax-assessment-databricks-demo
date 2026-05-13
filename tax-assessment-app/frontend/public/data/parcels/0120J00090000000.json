@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0120J00090000000",
+    "address": "5601 BUTLER ST",
+    "city": "10th Ward (Pittsburgh)",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "5601   BUTLER ST",
+    "current_mailing_address": "5601   BUTLER ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OTHER RETAIL STRUCTURES",
+    "acreage": 0.324,
+    "latitude": 40.46392,
+    "longitude": -79.94716
+  },
+  "assessments": {
+    "parcel_id": "0120J00090000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 575000,
+        "market_value": 575000,
+        "land_value": 80000,
+        "improvement_value": 495000,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 56673,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 575000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 518327,
+        "market_value": 518327,
+        "land_value": 72115,
+        "improvement_value": 446212,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10163,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 518327,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 508164,
+        "market_value": 508164,
+        "land_value": 70701,
+        "improvement_value": 437463,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5031,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 508164,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 503133,
+        "market_value": 503133,
+        "land_value": 70001,
+        "improvement_value": 433132,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 503133,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 503133,
+        "market_value": 503133,
+        "land_value": 70001,
+        "improvement_value": 433132,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -5083,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 503133,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 508216,
+        "market_value": 508216,
+        "land_value": 70708,
+        "improvement_value": 437508,
+        "land_value_percentage": 13.9,
+        "improvement_value_percentage": 86.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 508216,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0120J00090000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0120J00090000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "12-Jun-19",
+      "most_recent_appeal_date": "12-Jun-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30463-2019",
+        "filed_date": "12-Jun-19",
+        "hearing_date": "12-Jun-19",
+        "appeal_status": "approved",
+        "original_value": 260000,
+        "requested_value": 260000,
+        "final_value": 260000,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0120J00090000000",
+    "comparables": [
+      {
+        "parcel_id": "0080C00155000000",
+        "address": "5247 BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "5247   BUTLER ST",
+        "land_use_description": "BARS",
+        "acreage": null,
+        "assessed_value": 571500,
+        "market_value": 571500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0119S00280000000",
+        "address": "60 54TH ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "154   SANDY CREEK RD",
+        "land_use_description": "WAREHOUSE",
+        "acreage": null,
+        "assessed_value": 597500,
+        "market_value": 597500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0119S00166000000",
+        "address": "5329 BUTLER ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "5333   BUTLER ST",
+        "land_use_description": "RETL/APT'S OVER",
+        "acreage": null,
+        "assessed_value": 537600,
+        "market_value": 537600,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120D00150000000",
+        "address": "6425 AVRR ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "2746   SUN MINE RD",
+        "land_use_description": "RECYCLING/SCRAP YARDS",
+        "acreage": null,
+        "assessed_value": 616100,
+        "market_value": 616100,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0119M00050000000",
+        "address": "50 55TH ST",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "3264   LONG MEADOW DR",
+        "land_use_description": "MEDIUM MANUFACTURING",
+        "acreage": null,
+        "assessed_value": 523600,
+        "market_value": 523600,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0081C00016000000",
+        "address": "4603 STANTON AVE",
+        "city": "10th Ward (Pittsburgh)",
+        "zip_code": "15201",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 631200,
+        "market_value": 631200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0086B00222000000",
     "comparables": [
       {
+        "parcel_id": "0053C00097000000",
+        "address": "31 ROSELAWN TER",
+        "city": "11401",
+        "zip_code": "15213",
+        "current_owner_name": "5000   FORBES AVE",
+        "land_use_description": "OWNED BY COLLEGE/UNIV/ACADEMY",
+        "acreage": null,
+        "assessed_value": 325100,
+        "market_value": 325100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086A00204000000",
         "address": "1284 BELLEROCK ST",
         "city": "11401",
@@ -184,7 +197,7 @@
         "assessed_value": 325200,
         "market_value": 343200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0085N00280000000",
@@ -197,7 +210,20 @@
         "assessed_value": 325400,
         "market_value": 325400,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0126N00056000000",
+        "address": "6629 NORTHUMBERLAND ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6629   NORTHUMBERLAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324600,
+        "market_value": 342600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085K00002000000",
@@ -210,7 +236,7 @@
         "assessed_value": 325500,
         "market_value": 343500,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086D00237000000",
@@ -223,32 +249,6 @@
         "assessed_value": 324500,
         "market_value": 342500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053D00120000000",
-        "address": "1329 MALVERN AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1329   MALVERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 324400,
-        "market_value": 342400,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086D00096000000",
-        "address": "1514 DENNISTON ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1535   SHADY AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 324400,
-        "market_value": 324400,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

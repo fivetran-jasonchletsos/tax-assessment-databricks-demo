@@ -122,6 +122,19 @@
     "parcel_id": "0086A00256000000",
     "comparables": [
       {
+        "parcel_id": "0127N00177000000",
+        "address": "6580 BEACON ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6580   BEACON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 483600,
+        "market_value": 501600,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0086G00030000000",
         "address": "1524 MURRAY AVE",
         "city": "11401",
@@ -132,7 +145,46 @@
         "assessed_value": 484100,
         "market_value": 502100,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0127J00202000000",
+        "address": "6621 DARLINGTON RD",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "6621   DARLINGTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 484700,
+        "market_value": 502700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088M00040000000",
+        "address": "1680 SHELBURNE LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1680   SHELBURNE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 484800,
+        "market_value": 502800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088M00007000000",
+        "address": "1572 OVERTON LN",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1572   OVERTON LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 484900,
+        "market_value": 502900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0085N00159000000",
@@ -145,58 +197,6 @@
         "assessed_value": 485000,
         "market_value": 485000,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0053D00140000000",
-        "address": "1225 MALVERN AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1225   MALVERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 482000,
-        "market_value": 500000,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0053D00161000000",
-        "address": "1252 MALVERN AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1252   MALVERN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 482000,
-        "market_value": 500000,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0053H00020000000",
-        "address": "5412 NORTHUMBERLAND ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5412   NORTHUMBERLAND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 482000,
-        "market_value": 500000,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0085P00220000000",
-        "address": "1235 S NEGLEY AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1235  S NEGLEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 485600,
-        "market_value": 503600,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

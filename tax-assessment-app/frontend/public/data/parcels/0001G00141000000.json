@@ -1,0 +1,214 @@
+{
+  "parcel": {
+    "parcel_id": "0001G00141000000",
+    "address": "60 BLVD OF THE ALLIES ST",
+    "city": "1st Ward (Pittsburgh)",
+    "zip_code": "15222",
+    "county": "Allegheny",
+    "current_owner_name": "60   BLVD OF THE ALLIES",
+    "current_mailing_address": "60   BLVD OF THE ALLIES",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+    "acreage": 2.032,
+    "latitude": 40.45946,
+    "longitude": -79.99318
+  },
+  "assessments": {
+    "parcel_id": "0001G00141000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5244000,
+        "market_value": 5244000,
+        "land_value": 2500000,
+        "improvement_value": 2744000,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 377810,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5244000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4866190,
+        "market_value": 4866190,
+        "land_value": 2319884,
+        "improvement_value": 2546306,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 48180,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4866190,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4818010,
+        "market_value": 4818010,
+        "land_value": 2296915,
+        "improvement_value": 2521095,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4818010,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4818010,
+        "market_value": 4818010,
+        "land_value": 2296915,
+        "improvement_value": 2521095,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -48667,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4818010,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4866677,
+        "market_value": 4866677,
+        "land_value": 2320116,
+        "improvement_value": 2546561,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 231746,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4866677,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4634931,
+        "market_value": 4634931,
+        "land_value": 2209635,
+        "improvement_value": 2425296,
+        "land_value_percentage": 47.7,
+        "improvement_value_percentage": 52.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4634931,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001G00141000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001G00141000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 887500,
+      "total_value_reduction": 887500,
+      "first_appeal_date": "17-May-19",
+      "most_recent_appeal_date": "17-May-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-28950-2019",
+        "filed_date": "17-May-19",
+        "hearing_date": "17-May-19",
+        "appeal_status": "approved",
+        "original_value": 6131500,
+        "requested_value": 6131500,
+        "final_value": 5244000,
+        "value_reduction": 887500,
+        "reduction_percentage": 14.47,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001G00141000000",
+    "comparables": [
+      {
+        "parcel_id": "0001H00363000000",
+        "address": "319 3RD AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "200   DRYDEN RD  STE 2000",
+        "land_use_description": "APART:40+ UNITS",
+        "acreage": null,
+        "assessed_value": 5042900,
+        "market_value": 5042900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001C00200000000",
+        "address": "400 LIBERTY AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "7044   SEPULVEDA BLVD  STE #1333",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 5611200,
+        "market_value": 5611200,
+        "assessed_value_change_pct": 12.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001C00228000300",
+        "address": "424 STANWIX ST",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "11   PARKWAY CTR  STE 300",
+        "land_use_description": "CONDOMINIUM UNIT",
+        "acreage": null,
+        "assessed_value": 6124700,
+        "market_value": 6124700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001H00338000000",
+        "address": "334 4TH AVE",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "336   4TH AVE",
+        "land_use_description": "OFFICE-ELEVATOR -3 + STORIES",
+        "acreage": null,
+        "assessed_value": 4154600,
+        "market_value": 4154600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001F00100000002",
+        "address": "1 FORT PITT BLVD",
+        "city": "1st Ward (Pittsburgh)",
+        "zip_code": "15222",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "PARKING GARAGE/LOTS",
+        "acreage": null,
+        "assessed_value": 6500000,
+        "market_value": 6500000,
+        "assessed_value_change_pct": 13.3,
+        "distance_miles": 0.9
+      }
+    ]
+  }
+}

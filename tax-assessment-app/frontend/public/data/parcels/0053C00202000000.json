@@ -122,6 +122,19 @@
     "parcel_id": "0053C00202000000",
     "comparables": [
       {
+        "parcel_id": "0127A00018000000",
+        "address": "1463 BARNSDALE ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "1463   BARNSDALE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 151300,
+        "market_value": 169300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0085N00276000000",
         "address": "5540 WILKINS AVE",
         "city": "11401",
@@ -132,7 +145,7 @@
         "assessed_value": 151100,
         "market_value": 169100,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0052S00028000000",
@@ -145,7 +158,7 @@
         "assessed_value": 151000,
         "market_value": 151000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0053D00242000000",
@@ -158,7 +171,7 @@
         "assessed_value": 152000,
         "market_value": 170000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0085K00005000000",
@@ -171,7 +184,7 @@
         "assessed_value": 152000,
         "market_value": 170000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0086H00184000000",
@@ -184,19 +197,6 @@
         "assessed_value": 151000,
         "market_value": 169000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0086M00317000000",
-        "address": "6328 BARTLETT ST",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "6328   BARTLETT ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 152000,
-        "market_value": 170000,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

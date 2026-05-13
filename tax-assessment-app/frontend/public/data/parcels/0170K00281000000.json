@@ -174,6 +174,19 @@
     "parcel_id": "0170K00281000000",
     "comparables": [
       {
+        "parcel_id": "0170D00001000000",
+        "address": "341 FOX CHAPEL RD",
+        "city": "Fox Chapel",
+        "zip_code": "15215",
+        "current_owner_name": "401   FOX CHAPEL RD",
+        "land_use_description": "PUBLIC PARK",
+        "acreage": null,
+        "assessed_value": 250700,
+        "market_value": 250700,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0224M00048000000",
         "address": "209 BUCKINGHAM RD",
         "city": "Fox Chapel",
@@ -184,7 +197,7 @@
         "assessed_value": 251800,
         "market_value": 269800,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0170J00106000000",
@@ -197,7 +210,7 @@
         "assessed_value": 252500,
         "market_value": 270500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0170K00300000000",
@@ -210,7 +223,7 @@
         "assessed_value": 252900,
         "market_value": 270900,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0170K00340000000",
@@ -223,7 +236,7 @@
         "assessed_value": 249000,
         "market_value": 267000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0224M00175000000",
@@ -236,19 +249,6 @@
         "assessed_value": 254600,
         "market_value": 272600,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0170P00014000000",
-        "address": "112 ALPINE CIR",
-        "city": "Fox Chapel",
-        "zip_code": "15215",
-        "current_owner_name": "112   ALPINE CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 247500,
-        "market_value": 265500,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -135,6 +135,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0083E00080000000",
+        "address": "BLACK ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "412   BOULEVARD OF THE ALLIES   STE 901",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 36600,
+        "market_value": 36600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0082M00135000000",
         "address": "5911 BRYANT ST",
         "city": "11103",
@@ -145,7 +158,20 @@
         "assessed_value": 36300,
         "market_value": 54300,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0124E00163000000",
+        "address": "6328 STANTON AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "6328   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36700,
+        "market_value": 54700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0050M00282000000",
@@ -158,7 +184,7 @@
         "assessed_value": 36800,
         "market_value": 54800,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0083E00195000000",
@@ -171,32 +197,6 @@
         "assessed_value": 36200,
         "market_value": 36200,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0083E00269000000",
-        "address": "428 ARDARY ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "616  N HIGHLAND AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 36200,
-        "market_value": 36200,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0083E00219000000",
-        "address": "N FAIRMOUNT ST",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "428  N FAIRMONT ST",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 36900,
-        "market_value": 36900,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

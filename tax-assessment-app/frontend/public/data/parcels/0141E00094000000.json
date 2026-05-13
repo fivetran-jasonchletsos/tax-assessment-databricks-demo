@@ -174,6 +174,19 @@
     "parcel_id": "0141E00094000000",
     "comparables": [
       {
+        "parcel_id": "0098N00192000000",
+        "address": "201 BOWER HILL RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "201   BOWER HILL RD",
+        "land_use_description": "CHARITABLE EXEMPTION/HOS/HOMES",
+        "acreage": null,
+        "assessed_value": 178000,
+        "market_value": 178000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0140P00042000000",
         "address": "620 KENILWORTH DR",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 177800,
         "market_value": 195800,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0141K00030000000",
@@ -197,7 +210,7 @@
         "assessed_value": 177800,
         "market_value": 177800,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0193R00223000000",
@@ -210,7 +223,7 @@
         "assessed_value": 177800,
         "market_value": 195800,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0140N00303000000",
@@ -223,7 +236,7 @@
         "assessed_value": 177700,
         "market_value": 177700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0141A00279000000",
@@ -236,19 +249,6 @@
         "assessed_value": 178100,
         "market_value": 196100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0141A00344000000",
-        "address": "473 MARLIN DR",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "473   MARLIN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 177700,
-        "market_value": 195700,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

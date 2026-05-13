@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0088F00259000000",
+    "address": "4315 LUDWICK ST",
+    "city": "11402",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "4315   LUDWICK ST",
+    "current_mailing_address": "4315   LUDWICK ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": 40.42144,
+    "longitude": -79.9271
+  },
+  "assessments": {
+    "parcel_id": "0088F00259000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 92300,
+        "market_value": 92300,
+        "land_value": 50100,
+        "improvement_value": 42200,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2276,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 90024,
+        "market_value": 90024,
+        "land_value": 48864,
+        "improvement_value": 41160,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3462,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 90024,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 86562,
+        "market_value": 86562,
+        "land_value": 46985,
+        "improvement_value": 39577,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2521,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 86562,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 84041,
+        "market_value": 84041,
+        "land_value": 45617,
+        "improvement_value": 38424,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1647,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 84041,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 82394,
+        "market_value": 82394,
+        "land_value": 44723,
+        "improvement_value": 37671,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 815,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82394,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 81579,
+        "market_value": 81579,
+        "land_value": 44280,
+        "improvement_value": 37299,
+        "land_value_percentage": 54.3,
+        "improvement_value_percentage": 45.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81579,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0088F00259000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0088F00259000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "23-Jun-15",
+      "most_recent_appeal_date": "23-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2337-2015",
+        "filed_date": "23-Jun-15",
+        "hearing_date": "23-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 92300,
+        "requested_value": 92300,
+        "final_value": 92300,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0088F00259000000",
+    "comparables": [
+      {
+        "parcel_id": "0087R00145000000",
+        "address": "MONITOR ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6330   MONITOR ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 92400,
+        "market_value": 92400,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0087R00263000000",
+        "address": "2905 SHADY AVE",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "2905   SHADY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0088C00149000000",
+        "address": "6532 ROSEMOOR ST",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6532   ROSEMOOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 92000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0088C00230000000",
+        "address": "6617 LANDVIEW RD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "6617   LANDVIEW ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0088G00168000000",
+        "address": "3062 BEECHWOOD BLVD",
+        "city": "11402",
+        "zip_code": "15217",
+        "current_owner_name": "3062   BEECHWOOD BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0085F00147000000",
+        "address": "284 CHAPEL HILL RD",
+        "city": "11402",
+        "zip_code": "15232",
+        "current_owner_name": "121   WOODLAND RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 93100,
+        "market_value": 93100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

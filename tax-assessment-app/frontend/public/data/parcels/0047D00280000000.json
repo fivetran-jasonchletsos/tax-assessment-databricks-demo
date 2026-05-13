@@ -122,6 +122,19 @@
     "parcel_id": "0047D00280000000",
     "comparables": [
       {
+        "parcel_id": "0078E00237000000",
+        "address": "3324 SPRING GARDEN RD",
+        "city": "Reserve",
+        "zip_code": "15212",
+        "current_owner_name": "3324   SPRING GARDEN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33500,
+        "market_value": 33500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0047H00301000000",
         "address": "1709 LUTY AVE",
         "city": "Reserve",
@@ -132,7 +145,7 @@
         "assessed_value": 33400,
         "market_value": 33400,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0047H00302000000",
@@ -145,7 +158,7 @@
         "assessed_value": 33400,
         "market_value": 51400,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0047H00288000000",
@@ -158,7 +171,7 @@
         "assessed_value": 33800,
         "market_value": 33800,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0048B00080000000",
@@ -171,32 +184,19 @@
         "assessed_value": 33800,
         "market_value": 33800,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0047H00142000000",
-        "address": "1700 LUTY AVE",
-        "city": "Reserve",
-        "zip_code": "15212",
-        "current_owner_name": "1700   LUTY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 34000,
-        "market_value": 52000,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0048E00050000000",
-        "address": "1925 MOUNT TROY RD",
+        "parcel_id": "0078S00057000000",
+        "address": "2418 CRONEMEYER AVE",
         "city": "Reserve",
         "zip_code": "15212",
-        "current_owner_name": "1925   MT TROY RD",
+        "current_owner_name": "2418   CRONEMEYER AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 34000,
-        "market_value": 34000,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 33900,
+        "market_value": 51900,
+        "assessed_value_change_pct": 0.5,
         "distance_miles": 1.1
       }
     ]

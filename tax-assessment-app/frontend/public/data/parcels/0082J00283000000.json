@@ -174,6 +174,32 @@
     "parcel_id": "0082J00283000000",
     "comparables": [
       {
+        "parcel_id": "0120P00036000000",
+        "address": "5711 MCCANDLESS AVE",
+        "city": "11003",
+        "zip_code": "15201",
+        "current_owner_name": "5711   MCCANDLESS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102600,
+        "market_value": 120600,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0121N00120000000",
+        "address": "1606 DUFFIELD ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1606   DUFFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102600,
+        "market_value": 120600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0081F00036000000",
         "address": "4235 STANTON AVE",
         "city": "11003",
@@ -184,7 +210,7 @@
         "assessed_value": 102500,
         "market_value": 102500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0119S00066000000",
@@ -197,7 +223,7 @@
         "assessed_value": 102500,
         "market_value": 120500,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082E00208000000",
@@ -210,7 +236,7 @@
         "assessed_value": 102700,
         "market_value": 120700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082E00343000000",
@@ -223,32 +249,6 @@
         "assessed_value": 102700,
         "market_value": 102700,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0081C00034000000",
-        "address": "4376 STANTON AVE",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "4376   STANTON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 102400,
-        "market_value": 120400,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082A00130000000",
-        "address": "1401 MORNINGSIDE AVE",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1401   MORNINGSIDE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 102800,
-        "market_value": 102800,
-        "assessed_value_change_pct": 14.3,
         "distance_miles": 1.1
       }
     ]

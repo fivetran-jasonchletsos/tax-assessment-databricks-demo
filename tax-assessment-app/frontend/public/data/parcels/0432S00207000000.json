@@ -122,6 +122,19 @@
     "parcel_id": "0432S00207000000",
     "comparables": [
       {
+        "parcel_id": "0521N00210000001",
+        "address": "1899 DUQUESNE ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1800   SEYMOUR ST",
+        "land_use_description": "COMMERCIAL/UTILITY",
+        "acreage": null,
+        "assessed_value": 175900,
+        "market_value": 175900,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0355J00032000000",
         "address": "115 MASON DR",
         "city": "Shaler",
@@ -132,7 +145,7 @@
         "assessed_value": 176000,
         "market_value": 194000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0433S00033000000",
@@ -145,7 +158,7 @@
         "assessed_value": 176000,
         "market_value": 194000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433S00096000000",
@@ -158,7 +171,7 @@
         "assessed_value": 176000,
         "market_value": 194000,
         "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0520R00080000000",
@@ -171,7 +184,7 @@
         "assessed_value": 176000,
         "market_value": 176000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0521E00187000000",
@@ -183,19 +196,6 @@
         "acreage": null,
         "assessed_value": 176000,
         "market_value": 194000,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0354H00027000000",
-        "address": "201 GARDEN LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "201   GARDEN LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 175700,
-        "market_value": 193700,
         "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }

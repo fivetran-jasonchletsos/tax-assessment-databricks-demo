@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0123N00320000000",
+    "address": "6500 JACKSON ST",
+    "city": "11102",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "6500   JACKSON ST",
+    "current_mailing_address": "6500   JACKSON ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.194,
+    "latitude": 40.46138,
+    "longitude": -79.9084
+  },
+  "assessments": {
+    "parcel_id": "0123N00320000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 170400,
+        "market_value": 170400,
+        "land_value": 65500,
+        "improvement_value": 104900,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2384,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 170400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 172784,
+        "market_value": 172784,
+        "land_value": 66416,
+        "improvement_value": 106368,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8227,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 172784,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 164557,
+        "market_value": 164557,
+        "land_value": 63254,
+        "improvement_value": 101303,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6329,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 164557,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 158228,
+        "market_value": 158228,
+        "land_value": 60821,
+        "improvement_value": 97407,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4608,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 158228,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 153620,
+        "market_value": 153620,
+        "land_value": 59049,
+        "improvement_value": 94571,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3012,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 153620,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 150608,
+        "market_value": 150608,
+        "land_value": 57892,
+        "improvement_value": 92716,
+        "land_value_percentage": 38.4,
+        "improvement_value_percentage": 61.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 150608,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0123N00320000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0123N00320000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0123N00320000000",
+    "comparables": [
+      {
+        "parcel_id": "0123N00199000000",
+        "address": "1211 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1211   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170400,
+        "market_value": 188400,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123P00036000000",
+        "address": "6715 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6715   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170500,
+        "market_value": 188500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0123N00223000000",
+        "address": "1124 WINTERTON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1124   WINTERTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170600,
+        "market_value": 188600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0082B00245000000",
+        "address": "1317 KING AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "1317   KING AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170800,
+        "market_value": 170800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0123P00065000000",
+        "address": "6605 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6605   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170800,
+        "market_value": 170800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0124E00065000000",
+        "address": "6329 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6329   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170000,
+        "market_value": 188000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -174,6 +174,19 @@
     "parcel_id": "0047G00100000000",
     "comparables": [
       {
+        "parcel_id": "0078R00218000000",
+        "address": "2416 LINDELL ST",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2416   LINDELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34000,
+        "market_value": 52000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0047A00188000000",
         "address": "1128 FABYAN ST",
         "city": "Ward 26 - Northview Heights",
@@ -184,7 +197,7 @@
         "assessed_value": 34100,
         "market_value": 52100,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0047F00161000000",
@@ -197,7 +210,7 @@
         "assessed_value": 34100,
         "market_value": 52100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0047A00189000000",
@@ -210,7 +223,20 @@
         "assessed_value": 34200,
         "market_value": 52200,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0078L00084000000",
+        "address": "2730 SPRING GARDEN AVE",
+        "city": "Ward 26 - Northview Heights",
+        "zip_code": "15212",
+        "current_owner_name": "2907   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34300,
+        "market_value": 34300,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0047B00086000000",
@@ -223,32 +249,6 @@
         "assessed_value": 33500,
         "market_value": 51500,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0047E00022000000",
-        "address": "935 SOUTH SIDE AVE",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "935   SOUTH SIDE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 33500,
-        "market_value": 51500,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0047E00196000000",
-        "address": "86 LUELLA ST",
-        "city": "Ward 26 - Northview Heights",
-        "zip_code": "15212",
-        "current_owner_name": "2303   COLUMBIA AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 33500,
-        "market_value": 33500,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 1.1
       }
     ]

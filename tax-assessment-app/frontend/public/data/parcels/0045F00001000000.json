@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0045F00001000000",
+    "address": "1228 WOODLAND AVE",
+    "city": "Ward 27 - Marshall - Shadeland",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1670   GOLDEN MILE HWY",
+    "current_mailing_address": "1670   GOLDEN MILE HWY",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.06,
+    "latitude": 40.4162,
+    "longitude": -80.0774
+  },
+  "assessments": {
+    "parcel_id": "0045F00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 14100,
+        "market_value": 14100,
+        "land_value": 13100,
+        "improvement_value": 1000,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 878,
+        "assessed_value_change_pct": 6.64,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 13222,
+        "market_value": 13222,
+        "land_value": 12284,
+        "improvement_value": 938,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 385,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 13222,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 12837,
+        "market_value": 12837,
+        "land_value": 11926,
+        "improvement_value": 911,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 251,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12837,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 12586,
+        "market_value": 12586,
+        "land_value": 11693,
+        "improvement_value": 893,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 124,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12586,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 12462,
+        "market_value": 12462,
+        "land_value": 11578,
+        "improvement_value": 884,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12462,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 12462,
+        "market_value": 12462,
+        "land_value": 11578,
+        "improvement_value": 884,
+        "land_value_percentage": 92.9,
+        "improvement_value_percentage": 7.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12462,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0045F00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0045F00001000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 54600,
+      "total_value_reduction": 54600,
+      "first_appeal_date": "31-May-17",
+      "most_recent_appeal_date": "31-May-17",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-15683-2017",
+        "filed_date": "31-May-17",
+        "hearing_date": "31-May-17",
+        "appeal_status": "approved",
+        "original_value": 68700,
+        "requested_value": 68700,
+        "final_value": 14100,
+        "value_reduction": 54600,
+        "reduction_percentage": 79.48,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0045F00001000000",
+    "comparables": [
+      {
+        "parcel_id": "0045A00111000000",
+        "address": "HARTMAN ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "9080   BLOOMFIELD ST  UNIT 80",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14000,
+        "market_value": 14000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0045A00138000000",
+        "address": "CAKE WAY",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "2911   CAKE WAY",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14000,
+        "market_value": 14000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0045B00053000000",
+        "address": "STAYTON ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "PO BOX 5394",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14200,
+        "market_value": 14200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075B00238000000",
+        "address": "1807 DAVIS AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1807   DAVIS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 14000,
+        "market_value": 32000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075B00286000000",
+        "address": "GRENADA ST",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1821   DAIVS ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14200,
+        "market_value": 14200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0075G00261000000",
+        "address": "FLEMING AVE",
+        "city": "Ward 27 - Marshall - Shadeland",
+        "zip_code": "15212",
+        "current_owner_name": "1119   TERMON AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 14000,
+        "market_value": 14000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

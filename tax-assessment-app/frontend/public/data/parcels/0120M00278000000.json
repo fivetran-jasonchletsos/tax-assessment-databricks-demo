@@ -174,6 +174,19 @@
     "parcel_id": "0120M00278000000",
     "comparables": [
       {
+        "parcel_id": "0120S00149000000",
+        "address": "1400 HAWTHORNE ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1400   HAWTHORNE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 96400,
+        "market_value": 114400,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0081D00240000000",
         "address": "1326 HAWTHORNE ST",
         "city": "11001",
@@ -184,7 +197,7 @@
         "assessed_value": 96500,
         "market_value": 114500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0120M00154000000",
@@ -197,7 +210,7 @@
         "assessed_value": 96500,
         "market_value": 114500,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0120M00293000000",
@@ -210,7 +223,7 @@
         "assessed_value": 96500,
         "market_value": 96500,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0121J00105000000",
@@ -223,7 +236,7 @@
         "assessed_value": 96300,
         "market_value": 114300,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0081D00161000000",
@@ -236,19 +249,6 @@
         "assessed_value": 96200,
         "market_value": 114200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0120L00201000000",
-        "address": "1009 OGLETHORPE AVE",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1009   OGLETHORPE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 96200,
-        "market_value": 114200,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

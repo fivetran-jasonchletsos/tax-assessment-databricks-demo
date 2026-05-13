@@ -148,6 +148,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0120R00041000000",
+        "address": "1060 CHRISTOPHER ST",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1060   CHRISTOPHER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110500,
+        "market_value": 110500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0120R00094000000",
+        "address": "1334 SIMONA DR",
+        "city": "11001",
+        "zip_code": "15201",
+        "current_owner_name": "1334   SIMONA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110500,
+        "market_value": 128500,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0120H00001000000",
         "address": "121 HAWTHORNE CT",
         "city": "11001",
@@ -158,45 +184,19 @@
         "assessed_value": 111000,
         "market_value": 129000,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0121J00027000000",
-        "address": "1601 TRINITY ST",
-        "city": "11001",
-        "zip_code": "15206",
-        "current_owner_name": "1601   TRINITY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110300,
-        "market_value": 128300,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0120M00138000000",
-        "address": "1553 HAWTHORNE ST",
-        "city": "11001",
-        "zip_code": "15201",
-        "current_owner_name": "1553   HAWTHORNE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110200,
-        "market_value": 128200,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0120M00089000000",
-        "address": "1464 HAWTHORNE ST",
+        "parcel_id": "0120S00252000000",
+        "address": "22 FAIRFIELD CT",
         "city": "11001",
         "zip_code": "15201",
-        "current_owner_name": "1464   HAWTHORNE ST",
+        "current_owner_name": "22   FAIRFIELD CT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 111600,
-        "market_value": 129600,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 111100,
+        "market_value": 129100,
+        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

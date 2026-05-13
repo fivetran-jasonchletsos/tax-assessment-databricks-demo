@@ -174,6 +174,19 @@
     "parcel_id": "0524A00240000000",
     "comparables": [
       {
+        "parcel_id": "0617M00308000000",
+        "address": "MIDDLE RD",
+        "city": "Indiana",
+        "zip_code": "15116",
+        "current_owner_name": "2505   MIDDLE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 32600,
+        "market_value": 32600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0523B00169000000",
         "address": "HILLSIDE LN",
         "city": "Indiana",
@@ -184,7 +197,7 @@
         "assessed_value": 39800,
         "market_value": 39800,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0523H00172000000",
@@ -197,7 +210,7 @@
         "assessed_value": 32000,
         "market_value": 32000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0524A00232000000",
@@ -210,7 +223,7 @@
         "assessed_value": 40000,
         "market_value": 58000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0435H00228000000",
@@ -223,7 +236,7 @@
         "assessed_value": 42400,
         "market_value": 42400,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0435H00233000000",
@@ -236,19 +249,6 @@
         "assessed_value": 42600,
         "market_value": 42600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0436B00016000000",
-        "address": "5024 SILENT MEADOW CT",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3710   SAXONBURG BLVD",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 43100,
-        "market_value": 43100,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

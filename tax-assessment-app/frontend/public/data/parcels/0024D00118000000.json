@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0024D00118000000",
+    "address": "1418 GARDNER ST",
+    "city": "Ward 24 - Spring Hill-city View",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "1422   GARDNER ST",
+    "current_mailing_address": "1422   GARDNER ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+    "acreage": 0.028,
+    "latitude": 40.41668,
+    "longitude": -80.06936
+  },
+  "assessments": {
+    "parcel_id": "0024D00118000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 5000,
+        "market_value": 5000,
+        "land_value": 1500,
+        "improvement_value": 3500,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 225,
+        "assessed_value_change_pct": 4.71,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 5000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 4775,
+        "market_value": 4775,
+        "land_value": 1432,
+        "improvement_value": 3343,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4775,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 4775,
+        "market_value": 4775,
+        "land_value": 1432,
+        "improvement_value": 3343,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -49,
+        "assessed_value_change_pct": -1.02,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4775,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 4824,
+        "market_value": 4824,
+        "land_value": 1447,
+        "improvement_value": 3377,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 229,
+        "assessed_value_change_pct": 4.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4824,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 4595,
+        "market_value": 4595,
+        "land_value": 1378,
+        "improvement_value": 3217,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 176,
+        "assessed_value_change_pct": 3.98,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4595,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 4419,
+        "market_value": 4419,
+        "land_value": 1325,
+        "improvement_value": 3094,
+        "land_value_percentage": 30.0,
+        "improvement_value_percentage": 70.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 4419,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0024D00118000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0024D00118000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "30-Jun-15",
+      "most_recent_appeal_date": "30-Jun-15",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-637-2015",
+        "filed_date": "30-Jun-15",
+        "hearing_date": "30-Jun-15",
+        "appeal_status": "approved",
+        "original_value": 21500,
+        "requested_value": 21500,
+        "final_value": 21500,
+        "value_reduction": 0,
+        "reduction_percentage": 0.0,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0024D00118000000",
+    "comparables": [
+      {
+        "parcel_id": "0024C00251000000",
+        "address": "1335 SPRING GARDEN AVE",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1335   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 4900,
+        "market_value": 22900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0024F00209000000",
+        "address": "1041 SPRING GARDEN AVE",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1041   SPRING GARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 5100,
+        "market_value": 23100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0048B00117000000",
+        "address": "LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "2175   LOWRIE AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 5100,
+        "market_value": 5100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0048F00125000000",
+        "address": "EGGERS ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "300   CORBET ST  UNIT 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 4800,
+        "market_value": 4800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0024C00271000000",
+        "address": "1311 SPRING GARDEN ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1335   SPRING GARDEN AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 5300,
+        "market_value": 5300,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0024G00128000000",
+        "address": "1332 LOWRIE ST",
+        "city": "Ward 24 - Spring Hill-city View",
+        "zip_code": "15212",
+        "current_owner_name": "1332   LOWRIE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 5300,
+        "market_value": 23300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

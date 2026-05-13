@@ -122,6 +122,32 @@
     "parcel_id": "0087F00164000000",
     "comparables": [
       {
+        "parcel_id": "0126E00042000000",
+        "address": "531 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "531   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123700,
+        "market_value": 141700,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0126E00005000000",
+        "address": "514 GETTYSBURG ST",
+        "city": "11403",
+        "zip_code": "15206",
+        "current_owner_name": "516   GETTYSBURG ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123800,
+        "market_value": 123800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0087F00172000000",
         "address": "5607 POCUSSET ST",
         "city": "11403",
@@ -132,7 +158,7 @@
         "assessed_value": 123900,
         "market_value": 141900,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0087G00303000000",
@@ -145,7 +171,20 @@
         "assessed_value": 123900,
         "market_value": 141900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0128A00022000000",
+        "address": "6359 WALDRON ST",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6359   WALDRON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123900,
+        "market_value": 123900,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0087A00128000000",
@@ -157,45 +196,6 @@
         "acreage": null,
         "assessed_value": 124000,
         "market_value": 142000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0087G00005000000",
-        "address": "5700 MELVIN ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "1038   PASTURE DR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 124000,
-        "market_value": 124000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0087G00272000000",
-        "address": "2323 SHERBROOK ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "41   OAKHURST CIR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 124000,
-        "market_value": 124000,
-        "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0087G00221000000",
-        "address": "2329 ELDRIDGE ST",
-        "city": "11403",
-        "zip_code": "15217",
-        "current_owner_name": "5619   MARLBOROUGH RD",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 123300,
-        "market_value": 123300,
         "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }

@@ -122,6 +122,45 @@
     "parcel_id": "0082F00272000000",
     "comparables": [
       {
+        "parcel_id": "0123K00011000000",
+        "address": "6727 STANTON AVE",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6727   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126100,
+        "market_value": 144100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0123N00287000000",
+        "address": "6527 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6527   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126200,
+        "market_value": 144200,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0124A00062000000",
+        "address": "6404 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "5915   BRYANT CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126200,
+        "market_value": 126200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082F00123000000",
         "address": "1322 CORDOVA RD",
         "city": "11102",
@@ -132,7 +171,7 @@
         "assessed_value": 125200,
         "market_value": 143200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0083D00245000000",
@@ -145,58 +184,19 @@
         "assessed_value": 125200,
         "market_value": 125200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0082F00129000000",
-        "address": "1332 CORDOVA RD",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "1332   CORDOVA RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 124600,
-        "market_value": 142600,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0083D00246000000",
-        "address": "839 HEBERTON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "6049   JACKSON ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 127000,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082P00160000000",
-        "address": "5508 JACKSON ST",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5508   JACKSON ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 124500,
-        "market_value": 142500,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0082K00100000000",
-        "address": "1011 KING AVE",
+        "parcel_id": "0123J00174000000",
+        "address": "1228 WINTERTON ST",
         "city": "11102",
         "zip_code": "15206",
-        "current_owner_name": "1011   KING AVE",
+        "current_owner_name": "1228   WINTERTON ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 124100,
-        "market_value": 142100,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 125200,
+        "market_value": 143200,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

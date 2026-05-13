@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0114P00146000000",
+    "address": "3715 CALIFORNIA AVE",
+    "city": "Ward 27 - Brighton Heights",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "281  W INGOMAR RD",
+    "current_mailing_address": "281  W INGOMAR RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.165,
+    "latitude": 40.41824,
+    "longitude": -80.08544
+  },
+  "assessments": {
+    "parcel_id": "0114P00146000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 121500,
+        "market_value": 121500,
+        "land_value": 26200,
+        "improvement_value": 95300,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1924,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 121500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 119576,
+        "market_value": 119576,
+        "land_value": 25785,
+        "improvement_value": 93791,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1208,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 119576,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 120784,
+        "market_value": 120784,
+        "land_value": 26045,
+        "improvement_value": 94739,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5751,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120784,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 115033,
+        "market_value": 115033,
+        "land_value": 24805,
+        "improvement_value": 90228,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4424,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115033,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 110609,
+        "market_value": 110609,
+        "land_value": 23851,
+        "improvement_value": 86758,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3221,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110609,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 107388,
+        "market_value": 107388,
+        "land_value": 23156,
+        "improvement_value": 84232,
+        "land_value_percentage": 21.6,
+        "improvement_value_percentage": 78.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 107388,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0114P00146000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0114P00146000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 41700,
+      "total_value_reduction": 41700,
+      "first_appeal_date": "8-May-19",
+      "most_recent_appeal_date": "8-May-19",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30413-2019",
+        "filed_date": "8-May-19",
+        "hearing_date": "8-May-19",
+        "appeal_status": "approved",
+        "original_value": 163200,
+        "requested_value": 163200,
+        "final_value": 121500,
+        "value_reduction": 41700,
+        "reduction_percentage": 25.55,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0114P00146000000",
+    "comparables": [
+      {
+        "parcel_id": "0075C00187000000",
+        "address": "1437 ORCHLEE ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1437   ORCHLEE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121600,
+        "market_value": 121600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0114B00040000000",
+        "address": "4062 BRANDON RD",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "4064   BRANDON RD",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 121600,
+        "market_value": 121600,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0114S00188000000",
+        "address": "1216 TERMON AVE",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1216   TERMON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121200,
+        "market_value": 139200,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0114K00270000000",
+        "address": "1847 WITTMER ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1847   WITTMER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0114S00258000000",
+        "address": "3622 BRIGHTON RD",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "3622   BRIGHTON RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 122000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0114P00250000000",
+        "address": "1708 MORRELL ST",
+        "city": "Ward 27 - Brighton Heights",
+        "zip_code": "15212",
+        "current_owner_name": "1708   MORRELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 120900,
+        "market_value": 120900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

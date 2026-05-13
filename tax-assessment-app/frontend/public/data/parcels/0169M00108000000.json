@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0169M00108000000",
+    "address": "7TH ST",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "303   FREEPORT RD  UNIT B",
+    "current_mailing_address": "303   FREEPORT RD  UNIT B",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.977,
+    "latitude": 40.49544,
+    "longitude": -79.92376
+  },
+  "assessments": {
+    "parcel_id": "0169M00108000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 16700,
+        "market_value": 16700,
+        "land_value": 16700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 413,
+        "assessed_value_change_pct": 2.54,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 16287,
+        "market_value": 16287,
+        "land_value": 16287,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 626,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16287,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 15661,
+        "market_value": 15661,
+        "land_value": 15661,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 456,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15661,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 15205,
+        "market_value": 15205,
+        "land_value": 15205,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 298,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15205,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 14907,
+        "market_value": 14907,
+        "land_value": 14907,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 147,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14907,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 14760,
+        "market_value": 14760,
+        "land_value": 14760,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 14760,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0169M00108000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0169M00108000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0169M00108000000",
+    "comparables": [
+      {
+        "parcel_id": "0171A00081000000",
+        "address": "DELAFIELD RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "5738   BAUM BLVD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 18500,
+        "market_value": 18500,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122C00136000000",
+        "address": "WESTERN AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "437   GRANT ST  UNIT 1806",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 20000,
+        "market_value": 20000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "8944X00001000000",
+    "address": "SAPLING ST",
+    "city": "Shaler",
+    "zip_code": "15116",
+    "county": "Allegheny",
+    "current_owner_name": "375   NORTH SHORE DR  STE 600",
+    "current_mailing_address": "375   NORTH SHORE DR  STE 600",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "COMMERCIAL/UTILITY",
+    "acreage": null,
+    "latitude": 40.52958,
+    "longitude": -79.95336
+  },
+  "assessments": {
+    "parcel_id": "8944X00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 800,
+        "market_value": 800,
+        "land_value": 0,
+        "improvement_value": 800,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 81,
+        "assessed_value_change_pct": 11.27,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 719,
+        "market_value": 719,
+        "land_value": 0,
+        "improvement_value": 719,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14,
+        "assessed_value_change_pct": 1.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 719,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 705,
+        "market_value": 705,
+        "land_value": 0,
+        "improvement_value": 705,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6,
+        "assessed_value_change_pct": 0.86,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 705,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 699,
+        "market_value": 699,
+        "land_value": 0,
+        "improvement_value": 699,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 699,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 699,
+        "market_value": 699,
+        "land_value": 0,
+        "improvement_value": 699,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8,
+        "assessed_value_change_pct": -1.13,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 699,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 707,
+        "market_value": 707,
+        "land_value": 0,
+        "improvement_value": 707,
+        "land_value_percentage": 0.0,
+        "improvement_value_percentage": 100.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 707,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "8944X00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "8944X00001000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "8944X00001000000",
+    "comparables": [
+      {
+        "parcel_id": "0356J00065000000",
+        "address": "WILLOW ST",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3132   HARTS RUN RD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434R00280000000",
+        "address": "SPENCER LN EXT",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "587   KIMBLE DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 34700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0520J00006000000",
+        "address": "GREENFIELD RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "2908   GREENFIELD RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0614M00300000000",
+        "address": "PETERS DR",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "9500   BABCOCK BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0167G00116000000",
+        "address": "WILLOW ST",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "213 1/2  KITTANNING ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0222L00038000000",
+        "address": "1550 ETNA AVE",
+        "city": "Shaler",
+        "zip_code": "15215",
+        "current_owner_name": "300   WETZEL RD",
+        "land_use_description": "MUNICIPAL GOVERNMENT",
+        "acreage": null,
+        "assessed_value": 800,
+        "market_value": 800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0124A00124000000",
+        "address": "6411 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "21607  NE 22ND CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 338500,
+        "market_value": 338500,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0082G00041000000",
         "address": "5546 ELGIN ST",
         "city": "11102",
@@ -210,7 +223,20 @@
         "assessed_value": 332000,
         "market_value": 350000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0124A00024000000",
+        "address": "6304 JACKSON ST",
+        "city": "11102",
+        "zip_code": "15206",
+        "current_owner_name": "6304   JACKSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 332000,
+        "market_value": 350000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082M00105000000",
@@ -223,32 +249,6 @@
         "assessed_value": 339700,
         "market_value": 339700,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0082G00194000000",
-        "address": "1268 N NEGLEY AVE",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5524   BEVERLY PL",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 340000,
-        "market_value": 340000,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082P00089000000",
-        "address": "5528 AVONDALE PL",
-        "city": "11102",
-        "zip_code": "15206",
-        "current_owner_name": "5518   AVONDALE PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 329500,
-        "market_value": 329500,
-        "assessed_value_change_pct": -0.1,
         "distance_miles": 1.1
       }
     ]

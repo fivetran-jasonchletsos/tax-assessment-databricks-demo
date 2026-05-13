@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0161P00093000000",
+        "address": "8 OCENAS AVE",
+        "city": "Ross",
+        "zip_code": "15212",
+        "current_owner_name": "8   OCENAS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 113500,
+        "market_value": 131500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0519F00009000000",
         "address": "309 BLAZE DR",
         "city": "Ross",
@@ -197,7 +210,7 @@
         "assessed_value": 114000,
         "market_value": 132000,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0519F00062000000",
@@ -210,7 +223,7 @@
         "assessed_value": 113400,
         "market_value": 131400,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0519B00069000000",
@@ -223,7 +236,7 @@
         "assessed_value": 114100,
         "market_value": 132100,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0519G00201000000",
@@ -236,19 +249,6 @@
         "assessed_value": 114100,
         "market_value": 132100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0519C00056000000",
-        "address": "103 ALBINE DR",
-        "city": "Ross",
-        "zip_code": "15116",
-        "current_owner_name": "103   ALBINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 114200,
-        "market_value": 132200,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

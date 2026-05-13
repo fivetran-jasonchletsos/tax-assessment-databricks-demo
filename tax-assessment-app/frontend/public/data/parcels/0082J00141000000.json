@@ -174,6 +174,19 @@
     "parcel_id": "0082J00141000000",
     "comparables": [
       {
+        "parcel_id": "0121P00162000000",
+        "address": "1628 VILLANOVA RD",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "1628   VILLANOVA RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121400,
+        "market_value": 139400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0050H00153000000",
         "address": "411 N AIKEN AVE",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 121300,
         "market_value": 121300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0081E00071000A00",
@@ -197,7 +210,20 @@
         "assessed_value": 121200,
         "market_value": 139200,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0121P00110000000",
+        "address": "1624 CHISLETT ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2714   JANE ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 121200,
+        "market_value": 121200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0082E00200000000",
@@ -210,7 +236,7 @@
         "assessed_value": 121100,
         "market_value": 121100,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0082J00222000000",
@@ -223,32 +249,6 @@
         "assessed_value": 121100,
         "market_value": 121100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0119S00060000000",
-        "address": "203 54TH ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "203   54TH ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 121000,
-        "market_value": 139000,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0082E00224000000",
-        "address": "1125 JANCEY ST",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "1125   JANCEY ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 121800,
-        "market_value": 121800,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

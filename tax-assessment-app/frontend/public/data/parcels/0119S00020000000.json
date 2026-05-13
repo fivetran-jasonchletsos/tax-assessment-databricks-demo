@@ -174,6 +174,19 @@
     "parcel_id": "0119S00020000000",
     "comparables": [
       {
+        "parcel_id": "0121K00331000000",
+        "address": "6912 BISHOP ST",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "6912   BISHOP ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 49700,
+        "market_value": 67700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0080D00173000A00",
         "address": "5237 KEYSTONE ST",
         "city": "11003",
@@ -184,7 +197,7 @@
         "assessed_value": 49800,
         "market_value": 49800,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0080H00038000000",
@@ -197,7 +210,7 @@
         "assessed_value": 49800,
         "market_value": 49800,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0080H00054000000",
@@ -210,7 +223,7 @@
         "assessed_value": 49600,
         "market_value": 67600,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0080H00199000000",
@@ -223,7 +236,7 @@
         "assessed_value": 49800,
         "market_value": 49800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0080D00097000000",
@@ -236,19 +249,6 @@
         "assessed_value": 49900,
         "market_value": 67900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0080D00384000000",
-        "address": "5269 DUNCAN ST",
-        "city": "11003",
-        "zip_code": "15201",
-        "current_owner_name": "5269   DUNCAN ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 49500,
-        "market_value": 49500,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

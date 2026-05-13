@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0086R00198000000",
+    "address": "HOBART ST",
+    "city": "11403",
+    "zip_code": "15217",
+    "county": "Allegheny",
+    "current_owner_name": "2720   WOOSTER DR",
+    "current_mailing_address": "2720   WOOSTER DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.033,
+    "latitude": 40.42288,
+    "longitude": -79.9187
+  },
+  "assessments": {
+    "parcel_id": "0086R00198000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 12800,
+        "market_value": 12800,
+        "land_value": 12800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1264,
+        "assessed_value_change_pct": 10.96,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 12800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 11536,
+        "market_value": 11536,
+        "land_value": 11536,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 226,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11536,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 11310,
+        "market_value": 11310,
+        "land_value": 11310,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 111,
+        "assessed_value_change_pct": 0.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11310,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 11199,
+        "market_value": 11199,
+        "land_value": 11199,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11199,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 11199,
+        "market_value": 11199,
+        "land_value": 11199,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -114,
+        "assessed_value_change_pct": -1.01,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11199,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 11313,
+        "market_value": 11313,
+        "land_value": 11313,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 11313,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0086R00198000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0086R00198000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0086R00198000000",
+    "comparables": [
+      {
+        "parcel_id": "0087S00016000000",
+        "address": "6380 BURCHFIELD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "6380   BURCHFIELD AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 14400,
+        "market_value": 14400,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0128J00242000000",
+        "address": "FORWARD AVE",
+        "city": "11403",
+        "zip_code": "15217",
+        "current_owner_name": "105   BEAUMONT LN",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 10800,
+        "market_value": 10800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

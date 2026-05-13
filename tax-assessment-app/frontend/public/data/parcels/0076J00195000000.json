@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0076J00195000000",
+    "address": "3170 BRIGHTON RD",
+    "city": "27th Ward (Pittsburgh)",
+    "zip_code": "15212",
+    "county": "Allegheny",
+    "current_owner_name": "8262   VIVIAN DR",
+    "current_mailing_address": "8262   VIVIAN DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "RETL/APT'S OVER",
+    "acreage": 0.067,
+    "latitude": 40.41884,
+    "longitude": -80.08196
+  },
+  "assessments": {
+    "parcel_id": "0076J00195000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 17500,
+        "market_value": 17500,
+        "land_value": 3200,
+        "improvement_value": 14300,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 434,
+        "assessed_value_change_pct": 2.54,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 17066,
+        "market_value": 17066,
+        "land_value": 3120,
+        "improvement_value": 13946,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 656,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 17066,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 16410,
+        "market_value": 16410,
+        "land_value": 3000,
+        "improvement_value": 13410,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 477,
+        "assessed_value_change_pct": 2.99,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 16410,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 15933,
+        "market_value": 15933,
+        "land_value": 2913,
+        "improvement_value": 13020,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 312,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15933,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 15621,
+        "market_value": 15621,
+        "land_value": 2856,
+        "improvement_value": 12765,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 154,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15621,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 15467,
+        "market_value": 15467,
+        "land_value": 2828,
+        "improvement_value": 12639,
+        "land_value_percentage": 18.3,
+        "improvement_value_percentage": 81.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 15467,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0076J00195000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0076J00195000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 1,
+      "denied_count": 0,
+      "success_rate_pct": 100.0,
+      "avg_value_reduction": 106300,
+      "total_value_reduction": 106300,
+      "first_appeal_date": "27-Jun-18",
+      "most_recent_appeal_date": "27-Jun-18",
+      "latest_appeal_status": "approved"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-23101-2018",
+        "filed_date": "27-Jun-18",
+        "hearing_date": "27-Jun-18",
+        "appeal_status": "approved",
+        "original_value": 123800,
+        "requested_value": 123800,
+        "final_value": 17500,
+        "value_reduction": 106300,
+        "reduction_percentage": 85.86,
+        "resolution_notes": "ANNUAL"
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0076J00195000000",
+    "comparables": [
+      {
+        "parcel_id": "0076J00034000000",
+        "address": "3306 BRIGHTON RD",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "109  W MCINTYRE",
+        "land_use_description": "OFFICE - 1-2 STORIES",
+        "acreage": null,
+        "assessed_value": 17600,
+        "market_value": 17600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0075S00139000000",
+        "address": "MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "REGULAR-ESTATE",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 17700,
+        "market_value": 17700,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0076J00377000000",
+        "address": "LECKY AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "120   PARKHURST ST  FL 2",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 16400,
+        "market_value": 16400,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0075S00112000000",
+        "address": "MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3804   BRIGHTON RD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 18900,
+        "market_value": 18900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0075S00110000000",
+        "address": "MCCLURE AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "3804   BRIGHTON RD",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 19200,
+        "market_value": 19200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0076J00379000000",
+        "address": "LECKY AVE",
+        "city": "27th Ward (Pittsburgh)",
+        "zip_code": "15212",
+        "current_owner_name": "120   PARKHURST ST",
+        "land_use_description": "VACANT COMMERCIAL LAND",
+        "acreage": null,
+        "assessed_value": 15800,
+        "market_value": 15800,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}
