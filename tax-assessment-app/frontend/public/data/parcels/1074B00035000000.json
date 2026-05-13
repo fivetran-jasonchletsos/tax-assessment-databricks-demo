@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "1074B00035000000",
+    "address": "10061 MANSION DR",
+    "city": "Mccandless",
+    "zip_code": "15044",
+    "county": "Allegheny",
+    "current_owner_name": "10061   MANSION DR",
+    "current_mailing_address": "10061   MANSION DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.077,
+    "latitude": 40.61392,
+    "longitude": -79.94034
+  },
+  "assessments": {
+    "parcel_id": "1074B00035000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 221500,
+        "market_value": 239499,
+        "land_value": 28800,
+        "improvement_value": 192700,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 21832,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 203500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 199668,
+        "market_value": 215893,
+        "land_value": 25961,
+        "improvement_value": 173707,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 3915,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 181668,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 195753,
+        "market_value": 211660,
+        "land_value": 25452,
+        "improvement_value": 170301,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 1938,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 177753,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 193815,
+        "market_value": 209565,
+        "land_value": 25200,
+        "improvement_value": 168615,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 175815,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 193815,
+        "market_value": 209565,
+        "land_value": 25200,
+        "improvement_value": 168615,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": -1958,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 175815,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 195773,
+        "market_value": 211682,
+        "land_value": 25454,
+        "improvement_value": 170319,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 177773,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1074B00035000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "1074B00035000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-44313-2020",
+        "filed_date": null,
+        "hearing_date": "16-Sep-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1074B00035000000",
+    "comparables": [
+      {
+        "parcel_id": "0945F00016000000",
+        "address": "309 GABLE CT",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "309   GABLE CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 220700,
+        "market_value": 220700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0945F00018000000",
+        "address": "307 GABLE CT",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "307   GABLE CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 220700,
+        "market_value": 220700,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0945F00020000000",
+        "address": "305 GABLE CT",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "305   GABLE CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 220700,
+        "market_value": 220700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0945F00045000000",
+        "address": "530 INGOMAR RD",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "530   INGOMAR RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 220700,
+        "market_value": 238700,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0945F00006000000",
+        "address": "525 COOPER ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "525   COOPER ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 220500,
+        "market_value": 220500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0945F00010000000",
+        "address": "529 COOPER ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "529   COOPER ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 220500,
+        "market_value": 220500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.043,
-    "latitude": 40.46252,
-    "longitude": -79.95396
+    "latitude": 40.46392,
+    "longitude": -79.94596
   },
   "assessments": {
     "parcel_id": "0025D00155000000",
@@ -122,6 +122,45 @@
     "parcel_id": "0025D00155000000",
     "comparables": [
       {
+        "parcel_id": "0026B00054000000",
+        "address": "3914 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3914   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34400,
+        "market_value": 52400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026C00017000000",
+        "address": "3811 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3811   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33800,
+        "market_value": 33800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026B00334000000",
+        "address": "3627 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3627   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36400,
+        "market_value": 36400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0025D00206000000",
         "address": "3345 LIGONIER ST",
         "city": "10601",
@@ -132,59 +171,33 @@
         "assessed_value": 36600,
         "market_value": 36600,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0025D00198000000",
-        "address": "3333 LIGONIER ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3333   LIGONIER ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 33200,
-        "market_value": 51200,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0025D00204000000",
-        "address": "3341 LIGONIER ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "430  E END AVE  APT 2",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 33200,
-        "market_value": 51200,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0025G00163000000",
-        "address": "3047 PENN AVE",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "7058   BENNINGTONWOODS DR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 40000,
-        "market_value": 40000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0025G00164000000",
-        "address": "3049 PENN AVE",
+        "parcel_id": "0026A00019000000",
+        "address": "3409 DENNY ST",
         "city": "10601",
         "zip_code": "15201",
-        "current_owner_name": "7058   BENNINGTONWOODS DR",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "3409   DENNY ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 40000,
-        "market_value": 40000,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 36700,
+        "market_value": 54700,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0026A00095000000",
+        "address": "3636 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3636   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33300,
+        "market_value": 51300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
       }
     ]
   }

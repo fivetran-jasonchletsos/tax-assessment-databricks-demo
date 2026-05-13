@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0090G00026000000",
+    "address": "534 W 7TH AVE",
+    "city": "West Homestead",
+    "zip_code": "15120",
+    "county": "Allegheny",
+    "current_owner_name": "534  W 7TH AVE",
+    "current_mailing_address": "534  W 7TH AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.077,
+    "latitude": 40.38156,
+    "longitude": -79.89944
+  },
+  "assessments": {
+    "parcel_id": "0090G00026000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 108000,
+        "market_value": 108000,
+        "land_value": 4200,
+        "improvement_value": 103800,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2661,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 108000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 105339,
+        "market_value": 105339,
+        "land_value": 4096,
+        "improvement_value": 101243,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4051,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105339,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101288,
+        "market_value": 101288,
+        "land_value": 3938,
+        "improvement_value": 97350,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2950,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101288,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 98338,
+        "market_value": 98338,
+        "land_value": 3824,
+        "improvement_value": 94514,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1928,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98338,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 96410,
+        "market_value": 96410,
+        "land_value": 3749,
+        "improvement_value": 92661,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 954,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96410,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 95456,
+        "market_value": 95456,
+        "land_value": 3712,
+        "improvement_value": 91744,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95456,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0090G00026000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0090G00026000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0090G00026000000",
+    "comparables": [
+      {
+        "parcel_id": "0090H00240000000",
+        "address": "490 W 7TH AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "3826   EVERLAWN ST",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 105200,
+        "market_value": 105200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0090M00027000000",
+        "address": "548 DOYLE AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "548   DOYLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112100,
+        "market_value": 130100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0079A00173000000",
+    "address": "3 RESERVE ST",
+    "city": "Millvale",
+    "zip_code": "15209",
+    "county": "Allegheny",
+    "current_owner_name": "3   RESERVE ST",
+    "current_mailing_address": "3   RESERVE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.112,
+    "latitude": 40.48934,
+    "longitude": -79.96538
+  },
+  "assessments": {
+    "parcel_id": "0079A00173000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 73600,
+        "market_value": 91600,
+        "land_value": 13800,
+        "improvement_value": 59800,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": 5305,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 55600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 68295,
+        "market_value": 84997,
+        "land_value": 12805,
+        "improvement_value": 55490,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": 676,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 50295,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 67619,
+        "market_value": 84156,
+        "land_value": 12678,
+        "improvement_value": 54941,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 49619,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 67619,
+        "market_value": 84156,
+        "land_value": 12678,
+        "improvement_value": 54941,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": -684,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 49619,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 68303,
+        "market_value": 85007,
+        "land_value": 12806,
+        "improvement_value": 55497,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": 3252,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 50303,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 65051,
+        "market_value": 80960,
+        "land_value": 12197,
+        "improvement_value": 52854,
+        "land_value_percentage": 18.8,
+        "improvement_value_percentage": 81.2,
+        "market_to_assessed_ratio": 1.24,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 47051,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0079A00173000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0079A00173000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-46237-2021",
+        "filed_date": null,
+        "hearing_date": "15-Jun-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0079A00173000000",
+    "comparables": [
+      {
+        "parcel_id": "0079A00143000000",
+        "address": "825 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 73200,
+        "market_value": 73200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0079A00113000000",
+        "address": "877 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "220   SOOSE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73000,
+        "market_value": 73000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0079B00010000000",
+        "address": "16 GERWIG ST",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "16   GERWIG ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 69700,
+        "market_value": 87700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0079B00004000000",
+        "address": "210 WILLIAM ST",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68800,
+        "market_value": 68800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0079A00116000000",
+        "address": "871 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "871   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79700,
+        "market_value": 97700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0079A00156000000",
+        "address": "801 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 79700,
+        "market_value": 79700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

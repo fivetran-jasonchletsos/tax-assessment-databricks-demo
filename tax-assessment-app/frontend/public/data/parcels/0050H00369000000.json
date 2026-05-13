@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.029,
-    "latitude": 40.451,
-    "longitude": -79.92308
+    "latitude": 40.4621,
+    "longitude": -79.92148
   },
   "assessments": {
     "parcel_id": "0050H00369000000",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0050H00374000000",
+        "address": "400 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99100,
+        "market_value": 99100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0050H00368000000",
         "address": "408 N AIKEN AVE",
         "city": "11103",
@@ -158,7 +171,20 @@
         "assessed_value": 99200,
         "market_value": 99200,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050M00140000000",
+        "address": "5401 BROAD ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "17397  NW WOODRUSH WAY",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0050H00361000000",
@@ -171,32 +197,6 @@
         "assessed_value": 96300,
         "market_value": 96300,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0050H00362000000",
-        "address": "416 N AIKEN AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "171   INDUSTRY DR  STE 150",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 96300,
-        "market_value": 96300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0050H00363000000",
-        "address": "414 N AIKEN AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "171   INDUSTRY DR  STE 150",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 96300,
-        "market_value": 96300,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

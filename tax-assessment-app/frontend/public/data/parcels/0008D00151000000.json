@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.034,
-    "latitude": 40.44266,
-    "longitude": -80.00504
+    "latitude": 40.41656,
+    "longitude": -80.07224
   },
   "assessments": {
     "parcel_id": "0008D00151000000",
@@ -174,6 +174,32 @@
     "parcel_id": "0008D00151000000",
     "comparables": [
       {
+        "parcel_id": "0009A00013000000",
+        "address": "527 LOCKHART ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "527   LOCKHART ST  APT 4",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 171400,
+        "market_value": 189400,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0009A00032000000",
+        "address": "522 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "522   PRESSLEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 175600,
+        "market_value": 193600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0008D00152000000",
         "address": "423 LOCKHART ST",
         "city": "Ward 23 - East Allegheny",
@@ -184,7 +210,20 @@
         "assessed_value": 160100,
         "market_value": 160100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009A00040000000",
+        "address": "606 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "606   PRESSLEY ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 158000,
+        "market_value": 176000,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0009A00004000000",
@@ -197,7 +236,7 @@
         "assessed_value": 150900,
         "market_value": 150900,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0009A00005000000",
@@ -210,45 +249,6 @@
         "assessed_value": 150900,
         "market_value": 150900,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0008D00150000000",
-        "address": "419 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "419   LOCKHART ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 139700,
-        "market_value": 139700,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0008D00168000000",
-        "address": "506 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "506   LOCKHART ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 134300,
-        "market_value": 152300,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0008D00190000300",
-        "address": "504 CEDAR AVE",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "3834   HILLTOP DR",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 133600,
-        "market_value": 133600,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

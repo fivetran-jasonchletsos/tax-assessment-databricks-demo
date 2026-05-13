@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.21,
-    "latitude": 40.51724,
-    "longitude": -79.9526
+    "latitude": 40.52694,
+    "longitude": -79.9572
   },
   "assessments": {
     "parcel_id": "0285E00017000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434D00272000000",
+        "address": "906 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "906   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 118600,
+        "market_value": 136600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0355E00210000000",
         "address": "1807 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -197,7 +210,7 @@
         "assessed_value": 119100,
         "market_value": 137100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433S00036000000",
@@ -210,7 +223,20 @@
         "assessed_value": 118500,
         "market_value": 136500,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0166D00106000000",
+        "address": "111 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "111   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 119300,
+        "market_value": 137300,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0434N00015000000",
@@ -223,32 +249,6 @@
         "assessed_value": 118200,
         "market_value": 136200,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285A00018000000",
-        "address": "306 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "306  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 118000,
-        "market_value": 136000,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520C00255000000",
-        "address": "3305 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3   TARA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 117800,
-        "market_value": 117800,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

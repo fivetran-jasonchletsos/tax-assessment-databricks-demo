@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0113B00054000000",
+    "address": "226 W RIVERVIEW AVE",
+    "city": "Bellevue",
+    "zip_code": "15202",
+    "county": "Allegheny",
+    "current_owner_name": "2  N SPRAGUE AVE",
+    "current_mailing_address": "2  N SPRAGUE AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.713,
+    "latitude": 40.4933,
+    "longitude": -80.0661
+  },
+  "assessments": {
+    "parcel_id": "0113B00054000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 70000,
+        "market_value": 70000,
+        "land_value": 22300,
+        "improvement_value": 47700,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4352,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 65648,
+        "market_value": 65648,
+        "land_value": 20913,
+        "improvement_value": 44735,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1912,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65648,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 63736,
+        "market_value": 63736,
+        "land_value": 20304,
+        "improvement_value": 43432,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1249,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63736,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 62487,
+        "market_value": 62487,
+        "land_value": 19906,
+        "improvement_value": 42581,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 618,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62487,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 61869,
+        "market_value": 61869,
+        "land_value": 19709,
+        "improvement_value": 42160,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61869,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 61869,
+        "market_value": 61869,
+        "land_value": 19709,
+        "improvement_value": 42160,
+        "land_value_percentage": 31.9,
+        "improvement_value_percentage": 68.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61869,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0113B00054000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0113B00054000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16647-2017",
+        "filed_date": null,
+        "hearing_date": "17-May-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0113B00054000000",
+    "comparables": [
+      {
+        "parcel_id": "0113C00111000000",
+        "address": "156 S BRYANT AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "156  S BRYANT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69700,
+        "market_value": 87700,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0113C00138000000",
+        "address": "195 IRWIN AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "195   IRWIN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 70900,
+        "market_value": 88900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0113C00054000000",
+        "address": "133 SPRING AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "2022   GREEN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71900,
+        "market_value": 89900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0113B00027000000",
+        "address": "483 ROOSEVELT AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "483   ROOSEVELT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67800,
+        "market_value": 67800,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0113B00046000000",
+        "address": "401 ROOSEVELT AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "401   ROOSEVELT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 72200,
+        "market_value": 90200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0113C00108000000",
+        "address": "244 LAUREL AVE",
+        "city": "Bellevue",
+        "zip_code": "15202",
+        "current_owner_name": "3731   ORPWOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67700,
+        "market_value": 67700,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

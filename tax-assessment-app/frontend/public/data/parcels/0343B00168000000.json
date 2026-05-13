@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0343B00168000000",
+    "address": "1520 GRANDVIEW WAY",
+    "city": "Glen Osborne",
+    "zip_code": "15143",
+    "county": "Allegheny",
+    "current_owner_name": "1520   GRANDVIEW WAY",
+    "current_mailing_address": "1520   GRANDVIEW WAY",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.97,
+    "latitude": 40.54632,
+    "longitude": -80.147
+  },
+  "assessments": {
+    "parcel_id": "0343B00168000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "land_value": 35000,
+        "improvement_value": 65000,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4450,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 95550,
+        "market_value": 95550,
+        "land_value": 33442,
+        "improvement_value": 62108,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95550,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 95550,
+        "market_value": 95550,
+        "land_value": 33442,
+        "improvement_value": 62108,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -966,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95550,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96516,
+        "market_value": 96516,
+        "land_value": 33780,
+        "improvement_value": 62736,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4596,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 96516,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 91920,
+        "market_value": 91920,
+        "land_value": 32171,
+        "improvement_value": 59749,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3535,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91920,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 30934,
+        "improvement_value": 57451,
+        "land_value_percentage": 35.0,
+        "improvement_value_percentage": 65.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0343B00168000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0343B00168000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0343B00168000000",
+    "comparables": [
+      {
+        "parcel_id": "0343A00305000000",
+        "address": "400 LANTERN LN",
+        "city": "Glen Osborne",
+        "zip_code": "15143",
+        "current_owner_name": "417   THORN ST  STE 300",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 93600,
+        "market_value": 93600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0343A00284000000",
+        "address": "1448 BEAVER RD",
+        "city": "Glen Osborne",
+        "zip_code": "15143",
+        "current_owner_name": "1448   BEAVER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 112000,
+        "market_value": 130000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0343A00207000000",
+        "address": "1485 BEAVER RD",
+        "city": "Glen Osborne",
+        "zip_code": "15143",
+        "current_owner_name": "1485   BEAVER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 120000,
+        "market_value": 138000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

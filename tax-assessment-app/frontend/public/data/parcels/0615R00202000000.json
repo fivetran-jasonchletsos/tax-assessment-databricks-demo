@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 1.738,
-    "latitude": 40.51796,
-    "longitude": -79.95152
+    "latitude": 40.52766,
+    "longitude": -79.95612
   },
   "assessments": {
     "parcel_id": "0615R00202000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434D00274000000",
+        "address": "908 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "908   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117200,
+        "market_value": 117200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0434N00015000000",
         "address": "1914 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -223,32 +236,19 @@
         "assessed_value": 118200,
         "market_value": 136200,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0433C00160000000",
-        "address": "2505 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2503   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 117000,
-        "market_value": 117000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00259000000",
-        "address": "301 S MAGNOLIA DR",
+        "parcel_id": "0166D00084000000",
+        "address": "1 BUTTERFIELD AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "301  S MAGNOLIA DR",
+        "zip_code": "15223",
+        "current_owner_name": "1   BUTTERFIELD ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 116900,
-        "market_value": 134900,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 117000,
+        "market_value": 135000,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

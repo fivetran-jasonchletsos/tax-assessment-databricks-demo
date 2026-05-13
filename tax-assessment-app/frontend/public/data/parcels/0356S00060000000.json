@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "OFFICE/APARTMENTS OVER",
     "acreage": 1.474,
-    "latitude": 40.51856,
-    "longitude": -79.97156
+    "latitude": 40.52826,
+    "longitude": -79.97616
   },
   "assessments": {
     "parcel_id": "0356S00060000000",
@@ -145,30 +145,82 @@
     "parcel_id": "0356S00060000000",
     "comparables": [
       {
-        "parcel_id": "0436K00025000000",
-        "address": "1199 SAXONBURG BLVD",
+        "parcel_id": "0171M00111000000",
+        "address": "696 ARBOR CT",
         "city": "O''hara",
-        "zip_code": "15116",
-        "current_owner_name": "1199   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
+        "zip_code": "15238",
+        "current_owner_name": "696   ARBOR CT",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 343500,
-        "market_value": 361500,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 327900,
+        "market_value": 345900,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.1
       },
       {
-        "parcel_id": "0436H00150000000",
-        "address": "1246 SAXONBURG BLVD",
+        "parcel_id": "0171M00139000000",
+        "address": "667 ARBOR CT",
         "city": "O''hara",
-        "zip_code": "15116",
-        "current_owner_name": "1246   SAXONBURG BLVD",
+        "zip_code": "15238",
+        "current_owner_name": "667   ARBOR CT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 301100,
-        "market_value": 400000,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 327000,
+        "market_value": 345000,
+        "assessed_value_change_pct": -1.7,
         "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171M00117000000",
+        "address": "627 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "627   ARBOR CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 325700,
+        "market_value": 343700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0171M00093000000",
+        "address": "682 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "682   ARBOR CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 331600,
+        "market_value": 349600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0171M00129000000",
+        "address": "651 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "651   ARBOR CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 324000,
+        "market_value": 342000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0171M00027000000",
+        "address": "626 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "626   ARBOR CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 322500,
+        "market_value": 340500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
       }
     ]
   }

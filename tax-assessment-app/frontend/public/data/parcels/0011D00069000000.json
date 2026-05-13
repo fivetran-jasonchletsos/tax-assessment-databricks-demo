@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.12,
-    "latitude": 40.4327,
-    "longitude": -79.95132
+    "latitude": 40.4326,
+    "longitude": -79.94572
   },
   "assessments": {
     "parcel_id": "0011D00069000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0011H00069000000",
+        "address": "125 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "108   SANTA MARIA LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0011D00038000000",
         "address": "3129 ELLERS ST",
         "city": "10402",
@@ -197,7 +210,7 @@
         "assessed_value": 39000,
         "market_value": 57000,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0011H00025000000",
@@ -210,7 +223,7 @@
         "assessed_value": 38600,
         "market_value": 56600,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0011D00044000000",
@@ -223,32 +236,19 @@
         "assessed_value": 42900,
         "market_value": 42900,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0011D00019000000",
-        "address": "3142 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "3142   ELLERS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 36200,
-        "market_value": 54200,
-        "assessed_value_change_pct": -5.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0011D00059000000",
-        "address": "2514 ALLEQUIPPA ST",
+        "parcel_id": "0011H00042000000",
+        "address": "3108 TERRACE ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "45   LEBANON HILLS DR",
+        "current_owner_name": "3108   TERRACE ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 47100,
-        "market_value": 47100,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 42900,
+        "market_value": 60900,
+        "assessed_value_change_pct": -5.5,
         "distance_miles": 1.1
       }
     ]

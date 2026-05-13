@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.151,
-    "latitude": 40.42808,
-    "longitude": -79.93754
+    "latitude": 40.42108,
+    "longitude": -79.92794
   },
   "assessments": {
     "parcel_id": "0052M00168000000",
@@ -236,6 +236,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0052R00178000000",
+        "address": "5136 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5136   BEELER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 307000,
+        "market_value": 325000,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0052M00004000000",
         "address": "5223 BEELER ST",
         "city": "11401",
@@ -246,7 +259,7 @@
         "assessed_value": 304200,
         "market_value": 322200,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00012000000",
@@ -259,19 +272,6 @@
         "assessed_value": 350000,
         "market_value": 350000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052M00155000000",
-        "address": "5396 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5396   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 301200,
-        "market_value": 319200,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,200 @@
+{
+  "parcel": {
+    "parcel_id": "0043A00226000000",
+    "address": "114 PALACE AVE",
+    "city": "Stowe",
+    "zip_code": "15136",
+    "county": "Allegheny",
+    "current_owner_name": "114   PALACE AVE",
+    "current_mailing_address": "114   PALACE AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.184,
+    "latitude": 40.45994,
+    "longitude": -80.08388
+  },
+  "assessments": {
+    "parcel_id": "0043A00226000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 94000,
+        "market_value": 112000,
+        "land_value": 11999,
+        "improvement_value": 82001,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": -1314,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 95314,
+        "market_value": 113565,
+        "land_value": 12167,
+        "improvement_value": 83147,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": 4538,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 77314,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 90776,
+        "market_value": 108158,
+        "land_value": 11588,
+        "improvement_value": 79188,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": 3491,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 72776,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 87285,
+        "market_value": 103999,
+        "land_value": 11142,
+        "improvement_value": 76143,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": 2542,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 69285,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 84743,
+        "market_value": 100970,
+        "land_value": 10818,
+        "improvement_value": 73925,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": 1661,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 66743,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 83082,
+        "market_value": 98991,
+        "land_value": 10606,
+        "improvement_value": 72476,
+        "land_value_percentage": 12.8,
+        "improvement_value_percentage": 87.2,
+        "market_to_assessed_ratio": 1.19,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 65082,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0043A00226000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0043A00226000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22700-2018",
+        "filed_date": null,
+        "hearing_date": "14-Jun-18",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0043A00226000000",
+    "comparables": []
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0383B00356000000",
+    "address": "607 UPSTON ST",
+    "city": "Port Vue",
+    "zip_code": "15133",
+    "county": "Allegheny",
+    "current_owner_name": "1340   ARONA RD",
+    "current_mailing_address": "1340   ARONA RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.084,
+    "latitude": 40.32248,
+    "longitude": -79.85612
+  },
+  "assessments": {
+    "parcel_id": "0383B00356000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 61000,
+        "market_value": 61000,
+        "land_value": 12200,
+        "improvement_value": 48800,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3791,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 57209,
+        "market_value": 57209,
+        "land_value": 11441,
+        "improvement_value": 45768,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1666,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 57209,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 55543,
+        "market_value": 55543,
+        "land_value": 11108,
+        "improvement_value": 44435,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1089,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 55543,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 54454,
+        "market_value": 54454,
+        "land_value": 10890,
+        "improvement_value": 43564,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 539,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 54454,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 53915,
+        "market_value": 53915,
+        "land_value": 10783,
+        "improvement_value": 43132,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53915,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 53915,
+        "market_value": 53915,
+        "land_value": 10783,
+        "improvement_value": 43132,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53915,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0383B00356000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0383B00356000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-85474-2024",
+        "filed_date": null,
+        "hearing_date": "1-May-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0383B00356000000",
+    "comparables": [
+      {
+        "parcel_id": "0308R00288000000",
+        "address": "828 ROMINE AVE",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "828   ROMINE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60700,
+        "market_value": 78700,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0382N00334000000",
+        "address": "1514 FRONT ST",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "1514   FRONT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 61300,
+        "market_value": 79300,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0308R00267000000",
+        "address": "825 ROMINE AVE",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "3716   LIBERTY WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62000,
+        "market_value": 62000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0383B00277000000",
+        "address": "700 UPSTON ST",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "700   UPSTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 62000,
+        "market_value": 80000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0383B00332000000",
+        "address": "917 MONROE AVE",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "917   MONROE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 78000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0383B00350000000",
+        "address": "906 MONROE AVE",
+        "city": "Port Vue",
+        "zip_code": "15133",
+        "current_owner_name": "906   MONROE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59600,
+        "market_value": 77600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

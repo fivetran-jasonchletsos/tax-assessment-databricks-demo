@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.362,
-    "latitude": 40.51676,
-    "longitude": -79.95428
+    "latitude": 40.52646,
+    "longitude": -79.95888
   },
   "assessments": {
     "parcel_id": "0355A00082000000",
@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434C00010000000",
+        "address": "2608 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2608   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 204600,
+        "market_value": 222600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0285E00008000000",
         "address": "107 CANDLEWYCK DR",
         "city": "Shaler",
@@ -220,7 +233,7 @@
         "assessed_value": 204400,
         "market_value": 204400,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0285A00050000000",
@@ -233,7 +246,7 @@
         "assessed_value": 204000,
         "market_value": 204000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0520C00236000000",
@@ -246,7 +259,7 @@
         "assessed_value": 203500,
         "market_value": 203500,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285A00012000000",
@@ -259,19 +272,6 @@
         "assessed_value": 203100,
         "market_value": 221100,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00123000000",
-        "address": "102 ANDERSON PL",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "102   ANDERSON PL",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 213900,
-        "market_value": 231900,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

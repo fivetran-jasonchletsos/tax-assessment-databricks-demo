@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.125,
-    "latitude": 40.366,
-    "longitude": -80.0407
+    "latitude": 40.36,
+    "longitude": -80.0337
   },
   "assessments": {
     "parcel_id": "0098N00104000000",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0098N00174000000",
+        "address": "421 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "421   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114000,
+        "market_value": 132000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0098N00038000000",
         "address": "431 JAYSON AVE",
         "city": "Mt.lebanon",
@@ -235,19 +248,6 @@
         "acreage": null,
         "assessed_value": 110900,
         "market_value": 128900,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0098N00056000000",
-        "address": "303 BOWER HILL RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "303   BOWER HILL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 129400,
-        "market_value": 147400,
         "assessed_value_change_pct": -0.3,
         "distance_miles": 1.1
       }

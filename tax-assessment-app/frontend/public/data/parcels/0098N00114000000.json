@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.126,
-    "latitude": 40.36612,
-    "longitude": -80.03962
+    "latitude": 40.36012,
+    "longitude": -80.03262
   },
   "assessments": {
     "parcel_id": "0098N00114000000",
@@ -135,6 +135,45 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0098N00176000000",
+        "address": "419 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "419   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140300,
+        "market_value": 158300,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0098N00162000000",
+        "address": "441 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "441   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140800,
+        "market_value": 158800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0098N00232000000",
+        "address": "447 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "447  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140900,
+        "market_value": 158900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0098N00142000000",
         "address": "440 CLOKEY AVE",
         "city": "Mt.lebanon",
@@ -145,57 +184,18 @@
         "assessed_value": 138900,
         "market_value": 156900,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0098N00140000000",
-        "address": "438 CLOKEY AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "438   CLOKEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 138400,
-        "market_value": 156400,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0098N00130000000",
-        "address": "420 CLOKEY AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "420   CLOKEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 143700,
-        "market_value": 161700,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0098N00146000000",
-        "address": "450 CLOKEY AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "450   CLOKEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 144000,
-        "market_value": 162000,
-        "assessed_value_change_pct": -0.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0098N00064000000",
-        "address": "412 COOLIDGE AVE",
+        "parcel_id": "0098N00190000000",
+        "address": "203 BOWER HILL RD",
         "city": "Mt.lebanon",
         "zip_code": "15228",
-        "current_owner_name": "429   LAYTON AVE",
+        "current_owner_name": "203   BOWER HILL RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 144200,
-        "market_value": 144200,
+        "assessed_value": 138900,
+        "market_value": 156900,
         "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }

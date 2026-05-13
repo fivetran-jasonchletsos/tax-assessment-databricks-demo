@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 1.056,
-    "latitude": 40.51772,
-    "longitude": -79.94996
+    "latitude": 40.52742,
+    "longitude": -79.95456
   },
   "assessments": {
     "parcel_id": "0433M00180000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0433M00180000000",
     "comparables": [
       {
+        "parcel_id": "0434C00034000000",
+        "address": "2523 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2523   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134000,
+        "market_value": 152000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0433M00009000000",
         "address": "2205 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 134000,
         "market_value": 152000,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0355B00110000000",
@@ -197,7 +210,20 @@
         "assessed_value": 134200,
         "market_value": 134200,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0434D00314000000",
+        "address": "818 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "818   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133300,
+        "market_value": 151300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353D00180000000",
@@ -210,45 +236,19 @@
         "assessed_value": 134600,
         "market_value": 152600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285A00020000000",
-        "address": "103 WADSWORTH DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "103   WADSWORTH DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 132900,
-        "market_value": 150900,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0284D00025000000",
-        "address": "1086 WILLIAM FLYNN HWY",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "4179   WILLIAM FLYNN HWY",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 132600,
-        "market_value": 132600,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0355P00018000000",
-        "address": "1501 MOUNT ROYAL BLVD",
+        "parcel_id": "0434D00276000000",
+        "address": "910 TIDAL TERRACE DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "6108   HECKERT RD",
-        "land_use_description": "DWG USED AS OFFICE",
+        "zip_code": "15101",
+        "current_owner_name": "910   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 132400,
-        "market_value": 132400,
-        "assessed_value_change_pct": -1.1,
+        "assessed_value": 134900,
+        "market_value": 152900,
+        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

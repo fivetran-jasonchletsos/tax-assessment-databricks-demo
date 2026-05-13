@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.161,
-    "latitude": 40.43864,
-    "longitude": -79.9281
+    "latitude": 40.44074,
+    "longitude": -79.9295
   },
   "assessments": {
     "parcel_id": "0051D00071000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0051D00071000000",
     "comparables": [
       {
+        "parcel_id": "0051D00234000000",
+        "address": "323 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "323  S FAIRMOUNT ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 215300,
+        "market_value": 215300,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0051C00253000000",
         "address": "339 S AIKEN AVE",
         "city": "10802",
@@ -132,7 +145,20 @@
         "assessed_value": 215000,
         "market_value": 215000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051D00314000000",
+        "address": "311 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "6636   FORWARD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 212700,
+        "market_value": 212700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0051D00128000000",
@@ -145,7 +171,20 @@
         "assessed_value": 220000,
         "market_value": 220000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051D00242000000",
+        "address": "303 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "303  S FAIRMOUNT ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 220500,
+        "market_value": 220500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00060000000",
@@ -158,45 +197,6 @@
         "assessed_value": 211100,
         "market_value": 229100,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0051C00255000000",
-        "address": "331 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "404   WICKFORD DR",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 200000,
-        "market_value": 200000,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051D00020000000",
-        "address": "308 S GRAHAM ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "308  S GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 197000,
-        "market_value": 215000,
-        "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051C00251000000",
-        "address": "341 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "5405   FRIENDSHIP AVE",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 237600,
-        "market_value": 237600,
-        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

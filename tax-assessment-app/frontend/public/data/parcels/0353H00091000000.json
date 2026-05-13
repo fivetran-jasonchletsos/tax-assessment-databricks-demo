@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.233,
-    "latitude": 40.51736,
-    "longitude": -79.95116
+    "latitude": 40.52706,
+    "longitude": -79.95576
   },
   "assessments": {
     "parcel_id": "0353H00091000000",
@@ -145,6 +145,19 @@
     "parcel_id": "0353H00091000000",
     "comparables": [
       {
+        "parcel_id": "0434D00290000000",
+        "address": "312 SHOREHAM DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "312   SHOREHAM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 181300,
+        "market_value": 181300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285B00247000000",
         "address": "302 S MAGNOLIA DR",
         "city": "Shaler",
@@ -155,7 +168,7 @@
         "assessed_value": 180900,
         "market_value": 198900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0520C00137000000",
@@ -168,7 +181,7 @@
         "assessed_value": 181700,
         "market_value": 181700,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433G00145000000",
@@ -181,7 +194,20 @@
         "assessed_value": 180300,
         "market_value": 198300,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434C00020000000",
+        "address": "2534 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2534   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 180200,
+        "market_value": 198200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285A00046000000",
@@ -194,32 +220,6 @@
         "assessed_value": 183000,
         "market_value": 201000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285B00243000000",
-        "address": "226 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "226  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 179400,
-        "market_value": 197400,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0519M00089000000",
-        "address": "2902 ANGELINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2902   ANGELINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 184900,
-        "market_value": 202900,
-        "assessed_value_change_pct": 0.3,
         "distance_miles": 1.1
       }
     ]

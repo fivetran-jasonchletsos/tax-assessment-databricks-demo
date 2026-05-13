@@ -1,0 +1,148 @@
+{
+  "parcel": {
+    "parcel_id": "1653P00001000000",
+    "address": "2225 WARRENDALE BAYNE RD",
+    "city": "Marshall",
+    "zip_code": "15005",
+    "county": "Allegheny",
+    "current_owner_name": "2225   WARRENDALE BAYNE RD",
+    "current_mailing_address": "2225   WARRENDALE BAYNE RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 31.7,
+    "latitude": 40.63152,
+    "longitude": -80.19394
+  },
+  "assessments": {
+    "parcel_id": "1653P00001000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 1635800,
+        "market_value": 1635800,
+        "land_value": 89100,
+        "improvement_value": 1546700,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -22909,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1635800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 1658709,
+        "market_value": 1658709,
+        "land_value": 90347,
+        "improvement_value": 1568362,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 78986,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1658709,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 1579723,
+        "market_value": 1579723,
+        "land_value": 86045,
+        "improvement_value": 1493678,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 60758,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1579723,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 1518965,
+        "market_value": 1518965,
+        "land_value": 82736,
+        "improvement_value": 1436229,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 44241,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1518965,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 1474724,
+        "market_value": 1474724,
+        "land_value": 80326,
+        "improvement_value": 1394398,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 28916,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1474724,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 1445808,
+        "market_value": 1445808,
+        "land_value": 78751,
+        "improvement_value": 1367057,
+        "land_value_percentage": 5.4,
+        "improvement_value_percentage": 94.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 1445808,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1653P00001000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1653P00001000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-88085-2024",
+        "filed_date": null,
+        "hearing_date": "29-May-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1653P00001000000",
+    "comparables": []
+  }
+}

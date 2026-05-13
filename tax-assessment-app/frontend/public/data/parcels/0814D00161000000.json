@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0814D00161000000",
+    "address": "3 CHESTNUT DR",
+    "city": "Leet",
+    "zip_code": "15003",
+    "county": "Allegheny",
+    "current_owner_name": "3   CHESTNUT RD",
+    "current_mailing_address": "3   CHESTNUT RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.532,
+    "latitude": 40.58958,
+    "longitude": -80.2063
+  },
+  "assessments": {
+    "parcel_id": "0814D00161000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 252700,
+        "market_value": 252700,
+        "land_value": 15600,
+        "improvement_value": 237100,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3535,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 252700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 256235,
+        "market_value": 256235,
+        "land_value": 15818,
+        "improvement_value": 240417,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12201,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 256235,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 244034,
+        "market_value": 244034,
+        "land_value": 15065,
+        "improvement_value": 228969,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9385,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 244034,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 234649,
+        "market_value": 234649,
+        "land_value": 14485,
+        "improvement_value": 220164,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6834,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 234649,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 227815,
+        "market_value": 227815,
+        "land_value": 14063,
+        "improvement_value": 213752,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4466,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 227815,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 223349,
+        "market_value": 223349,
+        "land_value": 13788,
+        "improvement_value": 209561,
+        "land_value_percentage": 6.2,
+        "improvement_value_percentage": 93.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 223349,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0814D00161000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0814D00161000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0814D00161000000",
+    "comparables": [
+      {
+        "parcel_id": "0933S00064000000",
+        "address": "75 MAIN ST",
+        "city": "Leet",
+        "zip_code": "15003",
+        "current_owner_name": "75   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 202000,
+        "market_value": 220000,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

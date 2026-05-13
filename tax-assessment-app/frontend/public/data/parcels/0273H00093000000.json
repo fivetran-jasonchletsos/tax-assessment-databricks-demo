@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0273H00093000000",
+    "address": "237 DAWSON AVE",
+    "city": "Glenfield",
+    "zip_code": "15143",
+    "county": "Allegheny",
+    "current_owner_name": "237   DAWSON AVE",
+    "current_mailing_address": "237   DAWSON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.364,
+    "latitude": 40.54692,
+    "longitude": -80.14628
+  },
+  "assessments": {
+    "parcel_id": "0273H00093000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 193600,
+        "market_value": 193600,
+        "land_value": 12800,
+        "improvement_value": 180800,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2710,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 193600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 196310,
+        "market_value": 196310,
+        "land_value": 12979,
+        "improvement_value": 183331,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9348,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 196310,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 186962,
+        "market_value": 186962,
+        "land_value": 12361,
+        "improvement_value": 174601,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7190,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186962,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 179772,
+        "market_value": 179772,
+        "land_value": 11885,
+        "improvement_value": 167887,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5236,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 179772,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 174536,
+        "market_value": 174536,
+        "land_value": 11539,
+        "improvement_value": 162997,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3422,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 174536,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 171114,
+        "market_value": 171114,
+        "land_value": 11313,
+        "improvement_value": 159801,
+        "land_value_percentage": 6.6,
+        "improvement_value_percentage": 93.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 171114,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0273H00093000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0273H00093000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0273H00093000000",
+    "comparables": [
+      {
+        "parcel_id": "0273H00135000000",
+        "address": "213 DAWSON AVE",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "213   DAWSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 162000,
+        "market_value": 180000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0273H00178000000",
+        "address": "109 CONRAD ST",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "109   CONRAD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 237500,
+        "market_value": 255500,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0273H00101000000",
+        "address": "233 DAWSON AVE",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "233   DAWSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147300,
+        "market_value": 165300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

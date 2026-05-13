@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.226,
-    "latitude": 40.51736,
-    "longitude": -79.94864
+    "latitude": 40.52706,
+    "longitude": -79.95324
   },
   "assessments": {
     "parcel_id": "0353D00086000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0353D00086000000",
     "comparables": [
       {
+        "parcel_id": "0435A00052000000",
+        "address": "609 STONERIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "609   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 120100,
+        "market_value": 138100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285B00163000000",
         "address": "1021 MIDDLE RD",
         "city": "Shaler",
@@ -132,7 +145,7 @@
         "assessed_value": 120100,
         "market_value": 138100,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0285B00213000000",
@@ -145,7 +158,7 @@
         "assessed_value": 120200,
         "market_value": 138200,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0353C00068000000",
@@ -158,7 +171,7 @@
         "assessed_value": 120500,
         "market_value": 138500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353C00012000000",
@@ -171,32 +184,19 @@
         "assessed_value": 120600,
         "market_value": 138600,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353G00012000000",
-        "address": "824 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "824   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 120800,
-        "market_value": 138800,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0355E00210000000",
-        "address": "1807 MOUNT ROYAL BLVD",
+        "parcel_id": "0166D00106000000",
+        "address": "111 MCKINLEY AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1807   MT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "111   MCKINLEY AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 119100,
-        "market_value": 137100,
-        "assessed_value_change_pct": -4.5,
+        "assessed_value": 119300,
+        "market_value": 137300,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

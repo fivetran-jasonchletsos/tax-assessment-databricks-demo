@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0162D00110000000",
+    "address": "KING AVE",
+    "city": "Ross",
+    "zip_code": "15229",
+    "county": "Allegheny",
+    "current_owner_name": "126   KING AVE",
+    "current_mailing_address": "126   KING AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.55,
+    "latitude": 40.53218,
+    "longitude": -80.04024
+  },
+  "assessments": {
+    "parcel_id": "0162D00110000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41700,
+        "market_value": 41700,
+        "land_value": 41700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4112,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37588,
+        "market_value": 37588,
+        "land_value": 37588,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 737,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37588,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 36851,
+        "market_value": 36851,
+        "land_value": 36851,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 364,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36851,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 36487,
+        "market_value": 36487,
+        "land_value": 36487,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36487,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 36487,
+        "market_value": 36487,
+        "land_value": 36487,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -369,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36487,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36856,
+        "market_value": 36856,
+        "land_value": 36856,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36856,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0162D00110000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0162D00110000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0162D00110000000",
+    "comparables": [
+      {
+        "parcel_id": "0215D00020000000",
+        "address": "WILLIAM ST",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 41100,
+        "market_value": 41100,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0163A00257000000",
+        "address": "KING AVE",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "530   PRESSLEY ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40300,
+        "market_value": 40300,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "1074C00225000000",
+    "address": "4818 ANDREWS RD",
+    "city": "Hampton",
+    "zip_code": "15044",
+    "county": "Allegheny",
+    "current_owner_name": "4818   ANDREWS RD",
+    "current_mailing_address": "4818   ANDREWS RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.758,
+    "latitude": 40.61416,
+    "longitude": -79.9389
+  },
+  "assessments": {
+    "parcel_id": "1074C00225000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 488100,
+        "market_value": 488100,
+        "land_value": 61799,
+        "improvement_value": 426301,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12020,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 488100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 476080,
+        "market_value": 476080,
+        "land_value": 60278,
+        "improvement_value": 415802,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18310,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 476080,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 457770,
+        "market_value": 457770,
+        "land_value": 57959,
+        "improvement_value": 399811,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13333,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 457770,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 444437,
+        "market_value": 444437,
+        "land_value": 56271,
+        "improvement_value": 388166,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8714,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 444437,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 435723,
+        "market_value": 435723,
+        "land_value": 55168,
+        "improvement_value": 380555,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4314,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 435723,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 431409,
+        "market_value": 431409,
+        "land_value": 54622,
+        "improvement_value": 376787,
+        "land_value_percentage": 12.7,
+        "improvement_value_percentage": 87.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 431409,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1074C00225000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1074C00225000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "1074C00225000000",
+    "comparables": [
+      {
+        "parcel_id": "1074D00366000000",
+        "address": "4809 AU SABLE DR",
+        "city": "Hampton",
+        "zip_code": "15044",
+        "current_owner_name": "4809   AU SABLE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 546900,
+        "market_value": 546900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1074C00276000000",
+        "address": "4833 ANDREWS RD",
+        "city": "Hampton",
+        "zip_code": "15044",
+        "current_owner_name": "4833   ANDREWS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 367000,
+        "market_value": 385000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

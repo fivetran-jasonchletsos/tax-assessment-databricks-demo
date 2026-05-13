@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.022,
-    "latitude": 40.463,
-    "longitude": -79.94916
+    "latitude": 40.4644,
+    "longitude": -79.94116
   },
   "assessments": {
     "parcel_id": "0025D00159000000",
@@ -172,6 +172,85 @@
   },
   "comparables": {
     "parcel_id": "0025D00159000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0026B00329000000",
+        "address": "3701 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3701   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 228800,
+        "market_value": 246800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025G00231000000",
+        "address": "2904 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2904   PENN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 243300,
+        "market_value": 261300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026B00048000000",
+        "address": "3902 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3902   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 246500,
+        "market_value": 246500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0025G00226000000",
+        "address": "2905 SPRING WAY",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2905   SPRING WAY",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 180700,
+        "market_value": 180700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025G00229000000",
+        "address": "2908 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2908   PENN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 263300,
+        "market_value": 263300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0025G00230000000",
+        "address": "2906 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2906   PENN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 264000,
+        "market_value": 264000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
   }
 }

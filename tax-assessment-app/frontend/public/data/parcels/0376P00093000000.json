@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0376P00093000000",
+    "address": "412 W CARTER DR",
+    "city": "North Versailles",
+    "zip_code": "15137",
+    "county": "Allegheny",
+    "current_owner_name": "1500   ELMERTON AVE",
+    "current_mailing_address": "1500   ELMERTON AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.15,
+    "latitude": 40.36756,
+    "longitude": -79.8184
+  },
+  "assessments": {
+    "parcel_id": "0376P00093000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35100,
+        "market_value": 35100,
+        "land_value": 10100,
+        "improvement_value": 25000,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2183,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 32917,
+        "market_value": 32917,
+        "land_value": 9471,
+        "improvement_value": 23446,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 958,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32917,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31959,
+        "market_value": 31959,
+        "land_value": 9196,
+        "improvement_value": 22763,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 626,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31959,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 31333,
+        "market_value": 31333,
+        "land_value": 9016,
+        "improvement_value": 22317,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 310,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31333,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 31023,
+        "market_value": 31023,
+        "land_value": 8926,
+        "improvement_value": 22097,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31023,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31023,
+        "market_value": 31023,
+        "land_value": 8926,
+        "improvement_value": 22097,
+        "land_value_percentage": 28.8,
+        "improvement_value_percentage": 71.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31023,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0376P00093000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0376P00093000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-18952-2017",
+        "filed_date": null,
+        "hearing_date": "16-Jun-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0376P00093000000",
+    "comparables": [
+      {
+        "parcel_id": "0376L00363000000",
+        "address": "435 E CARTER DR",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "420   PORTER ST E",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0376L00051000000",
+        "address": "430 GRANDVIEW AVE",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "430   GRANDVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34700,
+        "market_value": 52700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0376P00046000000",
+        "address": "420 FERDINAND DR",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "2209   CRESTAS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35500,
+        "market_value": 35500,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0376K00074000000",
+        "address": "1801 GIRARD AVE",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "1801   GIRARD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34600,
+        "market_value": 34600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0376P00077000000",
+        "address": "407 FERDINAND DR",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "407   FERDINAND DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35600,
+        "market_value": 35600,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0376L00342000000",
+        "address": "1905 GIRARD AVE",
+        "city": "North Versailles",
+        "zip_code": "15137",
+        "current_owner_name": "1703   DELAWARE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34400,
+        "market_value": 34400,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

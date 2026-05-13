@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0011H00412000000",
+    "address": "122 BURROWS ST",
+    "city": "10402",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "122   BURROWS ST",
+    "current_mailing_address": "122   BURROWS ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.042,
+    "latitude": 40.43212,
+    "longitude": -79.95328
+  },
+  "assessments": {
+    "parcel_id": "0011H00412000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 381600,
+        "market_value": 381600,
+        "land_value": 13599,
+        "improvement_value": 368001,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9399,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 381600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 372201,
+        "market_value": 372201,
+        "land_value": 13265,
+        "improvement_value": 358936,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14315,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 372201,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 357886,
+        "market_value": 357886,
+        "land_value": 12754,
+        "improvement_value": 345132,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10423,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 357886,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 347463,
+        "market_value": 347463,
+        "land_value": 12383,
+        "improvement_value": 335080,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6813,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 347463,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 340650,
+        "market_value": 340650,
+        "land_value": 12140,
+        "improvement_value": 328510,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3372,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 340650,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 337278,
+        "market_value": 337278,
+        "land_value": 12020,
+        "improvement_value": 325258,
+        "land_value_percentage": 3.6,
+        "improvement_value_percentage": 96.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 337278,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011H00412000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011H00412000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-55771-2022",
+        "filed_date": null,
+        "hearing_date": "7-Jul-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-71685-2023",
+        "filed_date": null,
+        "hearing_date": "7-Jul-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0011H00412000000",
+    "comparables": [
+      {
+        "parcel_id": "0011H00418000000",
+        "address": "128 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "128   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 381000,
+        "market_value": 381000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011H00426000000",
+        "address": "136 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "9408   ARMSTRONG DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 342800,
+        "market_value": 342800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011H00414000000",
+        "address": "124 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "124   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 331200,
+        "market_value": 349200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00408000000",
+        "address": "118 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "123   BRITTANY LN",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 329700,
+        "market_value": 329700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00428000000",
+        "address": "138 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "138   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 327900,
+        "market_value": 327900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011H00404000000",
+        "address": "114 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1807   FRANKLIN RUN CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 327000,
+        "market_value": 327000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

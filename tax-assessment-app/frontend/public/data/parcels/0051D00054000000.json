@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.129,
-    "latitude": 40.43876,
-    "longitude": -79.92666
+    "latitude": 40.44086,
+    "longitude": -79.92806
   },
   "assessments": {
     "parcel_id": "0051D00054000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0051G00175000000",
+        "address": "434 S AIKEN AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "4807   FRIENDSHIP AVE  APT 2",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 270000,
+        "market_value": 270000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0051D00066000000",
         "address": "331 S GRAHAM ST",
         "city": "10802",
@@ -197,7 +210,33 @@
         "assessed_value": 263600,
         "market_value": 281600,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051D00292000000",
+        "address": "304 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "200   CARRIAGE CT",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 260200,
+        "market_value": 260200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0051D00163000000",
+        "address": "304 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "3233   PARKVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 278300,
+        "market_value": 278300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00083000000",
@@ -210,45 +249,6 @@
         "assessed_value": 251000,
         "market_value": 251000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0051D00157000000",
-        "address": "324 S FAIRMOUNT ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "5816   WALNUT ST",
-        "land_use_description": "FOUR FAMILY",
-        "acreage": null,
-        "assessed_value": 250000,
-        "market_value": 250000,
-        "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051D00080000000",
-        "address": "311 S GRAHAM ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "311  S GRAHAM ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 288900,
-        "market_value": 306900,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051C00247000000",
-        "address": "345 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "129   BLUE HERON DR",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 290400,
-        "market_value": 290400,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

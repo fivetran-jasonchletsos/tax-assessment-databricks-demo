@@ -1,0 +1,175 @@
+{
+  "parcel": {
+    "parcel_id": "0090S00195000000",
+    "address": "4403 SWEETBAY ST",
+    "city": "13102",
+    "zip_code": "15120",
+    "county": "Allegheny",
+    "current_owner_name": "4133   FAIRFIELD AVE",
+    "current_mailing_address": "4133   FAIRFIELD AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.189,
+    "latitude": 40.38384,
+    "longitude": -79.90892
+  },
+  "assessments": {
+    "parcel_id": "0090S00195000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 120100,
+        "market_value": 120100,
+        "land_value": 12300,
+        "improvement_value": 107800,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11840,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 108260,
+        "market_value": 108260,
+        "land_value": 11087,
+        "improvement_value": 97173,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2122,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 108260,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 106138,
+        "market_value": 106138,
+        "land_value": 10870,
+        "improvement_value": 95268,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1050,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106138,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 105088,
+        "market_value": 105088,
+        "land_value": 10762,
+        "improvement_value": 94326,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105088,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 105088,
+        "market_value": 105088,
+        "land_value": 10762,
+        "improvement_value": 94326,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1062,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 105088,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 106150,
+        "market_value": 106150,
+        "land_value": 10871,
+        "improvement_value": 95279,
+        "land_value_percentage": 10.2,
+        "improvement_value_percentage": 89.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106150,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0090S00195000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0090S00195000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-2367-2015",
+        "filed_date": null,
+        "hearing_date": "15-May-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0090S00195000000",
+    "comparables": [
+      {
+        "parcel_id": "0090S00204000000",
+        "address": "4433 WHITEBUSH ST",
+        "city": "13102",
+        "zip_code": "15120",
+        "current_owner_name": "4433   WHITEBUSH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 146200,
+        "market_value": 164200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0090S00069000000",
+        "address": "709 VANE ST",
+        "city": "13102",
+        "zip_code": "15120",
+        "current_owner_name": "4811  E ALCOTT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147000,
+        "market_value": 147000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

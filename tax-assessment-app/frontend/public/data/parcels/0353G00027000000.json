@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.232,
-    "latitude": 40.51712,
-    "longitude": -79.95212
+    "latitude": 40.52682,
+    "longitude": -79.95672
   },
   "assessments": {
     "parcel_id": "0353G00027000000",
@@ -161,6 +161,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434C00018000000",
+        "address": "2538 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2538   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 150000,
+        "market_value": 168000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0353H00010000000",
         "address": "24 ANDERSON RD",
         "city": "Shaler",
@@ -171,7 +184,7 @@
         "assessed_value": 150000,
         "market_value": 150000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433M00146000000",
@@ -184,19 +197,6 @@
         "assessed_value": 150000,
         "market_value": 150000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285C00023000000",
-        "address": "1029 MIDDLE RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1029   MIDDLE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 149900,
-        "market_value": 167900,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

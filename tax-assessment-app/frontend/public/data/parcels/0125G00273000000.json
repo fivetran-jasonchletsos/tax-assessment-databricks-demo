@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0125G00273000000",
+    "address": "6801 FRANKSTOWN AVE",
+    "city": "11202",
+    "zip_code": "15208",
+    "county": "Allegheny",
+    "current_owner_name": "171   HOME ST",
+    "current_mailing_address": "171   HOME ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.131,
+    "latitude": 40.44252,
+    "longitude": -79.8899
+  },
+  "assessments": {
+    "parcel_id": "0125G00273000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 70700,
+        "market_value": 70700,
+        "land_value": 4100,
+        "improvement_value": 66600,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3147,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 67553,
+        "market_value": 67553,
+        "land_value": 3917,
+        "improvement_value": 63636,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67553,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 67553,
+        "market_value": 67553,
+        "land_value": 3917,
+        "improvement_value": 63636,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -683,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67553,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 68236,
+        "market_value": 68236,
+        "land_value": 3957,
+        "improvement_value": 64279,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3249,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68236,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 64987,
+        "market_value": 64987,
+        "land_value": 3768,
+        "improvement_value": 61219,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2499,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64987,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 62488,
+        "market_value": 62488,
+        "land_value": 3623,
+        "improvement_value": 58865,
+        "land_value_percentage": 5.8,
+        "improvement_value_percentage": 94.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62488,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0125G00273000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0125G00273000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0125G00273000000",
+    "comparables": [
+      {
+        "parcel_id": "0172L00015000000",
+        "address": "7125 VERONA BLVD",
+        "city": "11202",
+        "zip_code": "15235",
+        "current_owner_name": "7125   VERONA BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67100,
+        "market_value": 67100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125G00105000000",
+        "address": "6910 BENNETT ST",
+        "city": "11202",
+        "zip_code": "15208",
+        "current_owner_name": "6910   BENNET ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 65500,
+        "market_value": 65500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

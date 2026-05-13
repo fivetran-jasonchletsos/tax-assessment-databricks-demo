@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.057,
-    "latitude": 40.50418,
-    "longitude": -79.90426
+    "latitude": 40.51668,
+    "longitude": -79.91296
   },
   "assessments": {
     "parcel_id": "0122C00025000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0122C00025000000",
     "comparables": [
       {
+        "parcel_id": "0122D00026000000",
+        "address": "130 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "130   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 209200,
+        "market_value": 227200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0122C00027000000",
         "address": "128 2ND ST",
         "city": "Aspinwall",
@@ -132,7 +145,46 @@
         "assessed_value": 208500,
         "market_value": 226500,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0122D00014000000",
+        "address": "206 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "157   WOODLAND RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 208500,
+        "market_value": 208500,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122D00060000000",
+        "address": "121 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "213   RUSSELLTON DORSEYVILLE RD  # 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 211000,
+        "market_value": 211000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122C00158000000",
+        "address": "127 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "127   FREEPORT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 211200,
+        "market_value": 211200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00117000000",
@@ -145,58 +197,6 @@
         "assessed_value": 211400,
         "market_value": 229400,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0122C00019000000",
-        "address": "212 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "212   2ND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 213000,
-        "market_value": 213000,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0122C00020000000",
-        "address": "210 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "210   2ND ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 202800,
-        "market_value": 220800,
-        "assessed_value_change_pct": 13.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122C00009000000",
-        "address": "213 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "211   2ND ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 202300,
-        "market_value": 202300,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00024000000",
-        "address": "138 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "138   2ND ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 202200,
-        "market_value": 220200,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 1.1
       }
     ]

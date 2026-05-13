@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.522,
-    "latitude": 40.51664,
-    "longitude": -79.95944
+    "latitude": 40.52634,
+    "longitude": -79.96404
   },
   "assessments": {
     "parcel_id": "0285F00110000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434C00048000000",
+        "address": "2537 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2537   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 216600,
+        "market_value": 234600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285F00298000000",
         "address": "313 S MAGNOLIA DR",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 221700,
         "market_value": 239700,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285A00028000000",
@@ -236,19 +249,6 @@
         "assessed_value": 222900,
         "market_value": 222900,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520L00036000000",
-        "address": "2911 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2909   MOUNT ROYAL BLVD",
-        "land_use_description": "RETL/OFF OVER",
-        "acreage": null,
-        "assessed_value": 214300,
-        "market_value": 214300,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

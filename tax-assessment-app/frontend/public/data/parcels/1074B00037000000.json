@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "1074B00037000000",
+    "address": "10067 MANSION DR",
+    "city": "Mccandless",
+    "zip_code": "15044",
+    "county": "Allegheny",
+    "current_owner_name": "10067   MANSION DR",
+    "current_mailing_address": "10067   MANSION DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.077,
+    "latitude": 40.61416,
+    "longitude": -79.93794
+  },
+  "assessments": {
+    "parcel_id": "1074B00037000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 210400,
+        "market_value": 228399,
+        "land_value": 28800,
+        "improvement_value": 181600,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 5184,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 192400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 205216,
+        "market_value": 222772,
+        "land_value": 28090,
+        "improvement_value": 177126,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 7892,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 187216,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 197324,
+        "market_value": 214205,
+        "land_value": 27010,
+        "improvement_value": 170314,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 5747,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 179324,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 191577,
+        "market_value": 207966,
+        "land_value": 26223,
+        "improvement_value": 165354,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 3756,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 173577,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 187821,
+        "market_value": 203889,
+        "land_value": 25709,
+        "improvement_value": 162112,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 1859,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 169821,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 185962,
+        "market_value": 201871,
+        "land_value": 25454,
+        "improvement_value": 160508,
+        "land_value_percentage": 13.7,
+        "improvement_value_percentage": 86.3,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 167962,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1074B00037000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "1074B00037000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-44314-2020",
+        "filed_date": null,
+        "hearing_date": "23-Sep-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1074B00037000000",
+    "comparables": [
+      {
+        "parcel_id": "0945F00036000000",
+        "address": "9739 HOPKINS ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "9739   HOPKINS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 210500,
+        "market_value": 210500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1074B00040000000",
+        "address": "10070 MANSION DR",
+        "city": "Mccandless",
+        "zip_code": "15044",
+        "current_owner_name": "10070   MANSION DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 209900,
+        "market_value": 209900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0945F00032000000",
+        "address": "9735 HOPKINS ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "9735   HOPKINS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 209900,
+        "market_value": 209900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0945F00034000000",
+        "address": "9737 HOPKINS ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "9737   HOPKINS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 209900,
+        "market_value": 209900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0945F00059000000",
+        "address": "9720 HOPKINS ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "12   GREEN BRIER RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 209700,
+        "market_value": 209700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0945F00055000000",
+        "address": "9724 HOPKINS ST",
+        "city": "Mccandless",
+        "zip_code": "15090",
+        "current_owner_name": "9724   HOPKINS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 209400,
+        "market_value": 209400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

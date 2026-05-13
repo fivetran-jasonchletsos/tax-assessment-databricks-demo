@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.327,
-    "latitude": 40.51712,
-    "longitude": -79.95116
+    "latitude": 40.52682,
+    "longitude": -79.95576
   },
   "assessments": {
     "parcel_id": "0353D00255000000",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0166D00121000000",
+        "address": "117 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "117   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0353D00258000000",
         "address": "105 ANDERSON PL",
         "city": "Shaler",
@@ -236,19 +249,6 @@
         "assessed_value": 99600,
         "market_value": 117600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355A00176000000",
-        "address": "1832 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1832   MT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100600,
-        "market_value": 100600,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

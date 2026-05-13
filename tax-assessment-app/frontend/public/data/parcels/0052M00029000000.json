@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.139,
-    "latitude": 40.4276,
-    "longitude": -79.94162
+    "latitude": 40.4206,
+    "longitude": -79.93202
   },
   "assessments": {
     "parcel_id": "0052M00029000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0052M00029000000",
     "comparables": [
       {
+        "parcel_id": "0052S00010000000",
+        "address": "5213 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5213   BEELER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 238100,
+        "market_value": 256100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0052M00163000000",
         "address": "5400 WILKINS AVE",
         "city": "11401",
@@ -184,7 +197,20 @@
         "assessed_value": 236800,
         "market_value": 254800,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0052R00078000000",
+        "address": "5155 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5155   BEELER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236000,
+        "market_value": 254000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0052M00014000000",
@@ -197,58 +223,32 @@
         "assessed_value": 245500,
         "market_value": 245500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0052M00182000000",
-        "address": "25 UNGER LN",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5514   FAIR OAKS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 249400,
-        "market_value": 249400,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0052M00180000000",
-        "address": "21 UNGER LN",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5213   5TH AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 230300,
-        "market_value": 230300,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0052M00033000000",
-        "address": "5349 BEELER ST",
+        "parcel_id": "0052R00063000000",
+        "address": "5117 BEELER ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "2305   CHALET CT",
+        "current_owner_name": "112   SEARIGHT DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 230000,
-        "market_value": 230000,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 247500,
+        "market_value": 247500,
+        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0052M00076000000",
-        "address": "5 OLYMPIA PL",
+        "parcel_id": "0052R00069000000",
+        "address": "5131 BEELER ST",
         "city": "11401",
         "zip_code": "15217",
-        "current_owner_name": "5   OLYMPIA PL",
+        "current_owner_name": "5131   BEELER ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 252000,
-        "market_value": 270000,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 248000,
+        "market_value": 266000,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

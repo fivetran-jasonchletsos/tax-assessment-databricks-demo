@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0629G00050000000",
+    "address": "432 DANA DR",
+    "city": "Plum",
+    "zip_code": "15068",
+    "county": "Allegheny",
+    "current_owner_name": "432   DANA DR",
+    "current_mailing_address": "432   DANA DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.132,
+    "latitude": 40.55116,
+    "longitude": -79.70786
+  },
+  "assessments": {
+    "parcel_id": "0629G00050000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 200800,
+        "market_value": 218799,
+        "land_value": 35400,
+        "improvement_value": 165400,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 19792,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 182800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 181008,
+        "market_value": 197233,
+        "land_value": 31910,
+        "improvement_value": 149098,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 3549,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 163008,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 177459,
+        "market_value": 193366,
+        "land_value": 31285,
+        "improvement_value": 146174,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 1757,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 159459,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 175702,
+        "market_value": 191452,
+        "land_value": 30975,
+        "improvement_value": 144727,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 157702,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 175702,
+        "market_value": 191452,
+        "land_value": 30975,
+        "improvement_value": 144727,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": -1775,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 157702,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 177477,
+        "market_value": 193386,
+        "land_value": 31288,
+        "improvement_value": 146189,
+        "land_value_percentage": 17.6,
+        "improvement_value_percentage": 82.4,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 159477,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0629G00050000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0629G00050000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-66892-2022",
+        "filed_date": null,
+        "hearing_date": "27-Jul-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0629G00050000000",
+    "comparables": [
+      {
+        "parcel_id": "0629G00058000000",
+        "address": "611 DAVID CT",
+        "city": "Plum",
+        "zip_code": "15068",
+        "current_owner_name": "611   DAVID CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 201300,
+        "market_value": 201300,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0629G00065000000",
+        "address": "600 DAVID CT",
+        "city": "Plum",
+        "zip_code": "15068",
+        "current_owner_name": "600   DAVID CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200300,
+        "market_value": 218300,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0629G00084000000",
+        "address": "410 DANA DR",
+        "city": "Plum",
+        "zip_code": "15068",
+        "current_owner_name": "410   DANA DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200100,
+        "market_value": 218100,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0736G00135000000",
+        "address": "104 WINCHESTER DR",
+        "city": "Plum",
+        "zip_code": "15239",
+        "current_owner_name": "104   WINCHESTER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200000,
+        "market_value": 218000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0629G00002000000",
+        "address": "204 OLIVIA DR",
+        "city": "Plum",
+        "zip_code": "15068",
+        "current_owner_name": "204   OLIVIA DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 202000,
+        "market_value": 220000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0736C00030000000",
+        "address": "705 ROSEWOOD DR",
+        "city": "Plum",
+        "zip_code": "15239",
+        "current_owner_name": "705   ROSEWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 202000,
+        "market_value": 220000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

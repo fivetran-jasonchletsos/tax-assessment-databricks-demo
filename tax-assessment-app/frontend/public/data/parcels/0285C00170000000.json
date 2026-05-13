@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "COMMERCIAL GARAGE",
     "acreage": 0.188,
-    "latitude": 40.517,
-    "longitude": -79.95476
+    "latitude": 40.5267,
+    "longitude": -79.95936
   },
   "assessments": {
     "parcel_id": "0285C00170000000",
@@ -135,19 +135,6 @@
         "distance_miles": 0.1
       },
       {
-        "parcel_id": "0615R00225000000",
-        "address": "3701 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3701   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 229100,
-        "market_value": 229100,
-        "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.3
-      },
-      {
         "parcel_id": "0433M00170000000",
         "address": "2114 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -158,6 +145,19 @@
         "assessed_value": 230900,
         "market_value": 248900,
         "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0615R00225000000",
+        "address": "3701 MOUNT ROYAL BLVD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "3701   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 229100,
+        "market_value": 229100,
+        "assessed_value_change_pct": -0.9,
         "distance_miles": 0.5
       },
       {
@@ -187,16 +187,16 @@
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285A00028000000",
-        "address": "207 WADSWORTH DR",
+        "parcel_id": "0434C00006000000",
+        "address": "2712 OTTERBEIN DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "207   WADSWORTH DR",
+        "zip_code": "15101",
+        "current_owner_name": "2712   OLTERBEIN DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 222900,
-        "market_value": 222900,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 234500,
+        "market_value": 234500,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

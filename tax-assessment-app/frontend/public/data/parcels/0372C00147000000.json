@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0372C00147000000",
+    "address": "759 MARGARETTA ST",
+    "city": "Churchill",
+    "zip_code": "15145",
+    "county": "Allegheny",
+    "current_owner_name": "759   MARGARETTA ST",
+    "current_mailing_address": "759   MARGARETTA ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.172,
+    "latitude": 40.40072,
+    "longitude": -79.81336
+  },
+  "assessments": {
+    "parcel_id": "0372C00147000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 36500,
+        "market_value": 36500,
+        "land_value": 36500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1626,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34874,
+        "market_value": 34874,
+        "land_value": 34874,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34874,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34874,
+        "market_value": 34874,
+        "land_value": 34874,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -353,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34874,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 35227,
+        "market_value": 35227,
+        "land_value": 35227,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1677,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35227,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 33550,
+        "market_value": 33550,
+        "land_value": 33550,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1290,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33550,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 32260,
+        "market_value": 32260,
+        "land_value": 32260,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32260,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0372C00147000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0372C00147000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0372C00147000000",
+    "comparables": [
+      {
+        "parcel_id": "0372C00220000000",
+        "address": "324 HOMER DR",
+        "city": "Churchill",
+        "zip_code": "15145",
+        "current_owner_name": "420   WOODLAND HILLS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41100,
+        "market_value": 41100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0372C00140000000",
+        "address": "MARGARETTA ST",
+        "city": "Churchill",
+        "zip_code": "15145",
+        "current_owner_name": "754  S MARGARETTA ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 45600,
+        "market_value": 45600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

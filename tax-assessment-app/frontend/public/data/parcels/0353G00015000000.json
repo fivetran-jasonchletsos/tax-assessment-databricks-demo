@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.207,
-    "latitude": 40.51676,
-    "longitude": -79.9556
+    "latitude": 40.52646,
+    "longitude": -79.9602
   },
   "assessments": {
     "parcel_id": "0353G00015000000",
@@ -197,6 +197,19 @@
     "parcel_id": "0353G00015000000",
     "comparables": [
       {
+        "parcel_id": "0166C00101000000",
+        "address": "102 DEWEY AVENUE EXT",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "102   DEWEY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 163300,
+        "market_value": 181300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0355E00223000000",
         "address": "1815 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -207,7 +220,7 @@
         "assessed_value": 163100,
         "market_value": 181100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0433G00046000000",
@@ -220,7 +233,7 @@
         "assessed_value": 163500,
         "market_value": 163500,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355K00211000000",
@@ -233,7 +246,7 @@
         "assessed_value": 163000,
         "market_value": 181000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0285A00038000000",
@@ -246,32 +259,19 @@
         "assessed_value": 162400,
         "market_value": 180400,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00117000000",
-        "address": "210 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "210   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 162000,
-        "market_value": 180000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0520L00162000000",
-        "address": "2825 MOUNT ROYAL BLVD",
+        "parcel_id": "0434C00013000000",
+        "address": "2713 WOOSTER DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2825   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2713   WOOSTER DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 161700,
-        "market_value": 179700,
-        "assessed_value_change_pct": -3.1,
+        "assessed_value": 162300,
+        "market_value": 180300,
+        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

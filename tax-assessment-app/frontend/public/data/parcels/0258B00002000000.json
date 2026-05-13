@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0258B00002000000",
+    "address": "408 KRAMERS LN",
+    "city": "South Fayette",
+    "zip_code": "15071",
+    "county": "Allegheny",
+    "current_owner_name": "408   KRAMERS LN",
+    "current_mailing_address": "408   KRAMERS LN",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.85,
+    "latitude": 40.39166,
+    "longitude": -80.18552
+  },
+  "assessments": {
+    "parcel_id": "0258B00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "land_value": 28299,
+        "improvement_value": 71701,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1585,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 98415,
+        "market_value": 98415,
+        "land_value": 27851,
+        "improvement_value": 70564,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -995,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98415,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 99410,
+        "market_value": 99410,
+        "land_value": 28133,
+        "improvement_value": 71277,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4733,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 99410,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 94677,
+        "market_value": 94677,
+        "land_value": 26793,
+        "improvement_value": 67884,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3641,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 94677,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 91036,
+        "market_value": 91036,
+        "land_value": 25763,
+        "improvement_value": 65273,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2651,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91036,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 25012,
+        "improvement_value": 63373,
+        "land_value_percentage": 28.3,
+        "improvement_value_percentage": 71.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0258B00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0258B00002000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-40093-2020",
+        "filed_date": null,
+        "hearing_date": "9-Oct-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0258B00002000000",
+    "comparables": [
+      {
+        "parcel_id": "0583F00020000000",
+        "address": "133 MCVEY ST",
+        "city": "South Fayette",
+        "zip_code": "15082",
+        "current_owner_name": "133   MCVEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100100,
+        "market_value": 118100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0324B00048000000",
+        "address": "315 MEADE ST",
+        "city": "South Fayette",
+        "zip_code": "15064",
+        "current_owner_name": "315   MEADE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100400,
+        "market_value": 100400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0583C00007000000",
+        "address": "156 MCVEY ST",
+        "city": "South Fayette",
+        "zip_code": "15082",
+        "current_owner_name": "156   MCKEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100700,
+        "market_value": 100700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0325J00009000000",
+        "address": "110 BOWMAN ST",
+        "city": "South Fayette",
+        "zip_code": "15031",
+        "current_owner_name": "110   BOWMAN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100800,
+        "market_value": 100800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0257D00016000000",
+        "address": "1350 OAKRIDGE RD",
+        "city": "South Fayette",
+        "zip_code": "15057",
+        "current_owner_name": "1350   OAKRIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 99200,
+        "market_value": 117200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0583F00007000000",
+        "address": "130 MCVEY ST",
+        "city": "South Fayette",
+        "zip_code": "15082",
+        "current_owner_name": "130   MCVEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 98900,
+        "market_value": 98900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

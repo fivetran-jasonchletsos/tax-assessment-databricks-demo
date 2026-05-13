@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TOWNHOUSE",
     "acreage": 0.062,
-    "latitude": 40.4435,
-    "longitude": -80.0186
+    "latitude": 40.4174,
+    "longitude": -80.0858
   },
   "assessments": {
     "parcel_id": "0008D00180000500",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0009A00033000000",
+        "address": "526 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "526   PRESSLEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125700,
+        "market_value": 143700,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0008D00190000700",
         "address": "512 CEDAR AVE",
         "city": "Ward 23 - East Allegheny",
@@ -236,19 +249,6 @@
         "assessed_value": 114600,
         "market_value": 132600,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0008D00148000000",
-        "address": "415 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "201   CONNIE DR",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 114500,
-        "market_value": 114500,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

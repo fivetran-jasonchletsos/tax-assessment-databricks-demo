@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0099E00055000000",
+    "address": "820 OSAGE RD",
+    "city": "Mt.lebanon",
+    "zip_code": "15243",
+    "county": "Allegheny",
+    "current_owner_name": "820   OSAGE RD",
+    "current_mailing_address": "820   OSAGE RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.287,
+    "latitude": 40.36484,
+    "longitude": -80.06218
+  },
+  "assessments": {
+    "parcel_id": "0099E00055000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 850000,
+        "market_value": 850000,
+        "land_value": 290000,
+        "improvement_value": 560000,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13447,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 850000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 836553,
+        "market_value": 836553,
+        "land_value": 285412,
+        "improvement_value": 551141,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -8451,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 836553,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 845004,
+        "market_value": 845004,
+        "land_value": 288295,
+        "improvement_value": 556709,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 40238,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 845004,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 804766,
+        "market_value": 804766,
+        "land_value": 274567,
+        "improvement_value": 530199,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30952,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 804766,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 773814,
+        "market_value": 773814,
+        "land_value": 264007,
+        "improvement_value": 509807,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22538,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 773814,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 751276,
+        "market_value": 751276,
+        "land_value": 256317,
+        "improvement_value": 494959,
+        "land_value_percentage": 34.1,
+        "improvement_value_percentage": 65.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 751276,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0099E00055000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0099E00055000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0099E00055000000",
+    "comparables": [
+      {
+        "parcel_id": "0099E00060000000",
+        "address": "824 OSAGE RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15243",
+        "current_owner_name": "824   OSAGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 898400,
+        "market_value": 916400,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0099E00022000000",
+        "address": "761 OSAGE RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15243",
+        "current_owner_name": "761   OSAGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 778400,
+        "market_value": 778400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0099E00112000000",
+        "address": "775 LARCHMONT RD",
+        "city": "Mt.lebanon",
+        "zip_code": "15243",
+        "current_owner_name": "775   LARCHMONT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 923900,
+        "market_value": 923900,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.187,
-    "latitude": 40.51664,
-    "longitude": -79.9562
+    "latitude": 40.52634,
+    "longitude": -79.9608
   },
   "assessments": {
     "parcel_id": "0285A00016000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434B00007000000",
+        "address": "2712 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2712   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 138600,
+        "market_value": 156600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0520C00166000000",
         "address": "3308 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 138000,
         "market_value": 156000,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0615R00138000000",
@@ -236,19 +249,6 @@
         "assessed_value": 138700,
         "market_value": 156700,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353G00020000000",
-        "address": "829 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "829   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 137500,
-        "market_value": 155500,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

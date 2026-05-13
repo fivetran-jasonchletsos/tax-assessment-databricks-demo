@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0001J00077000000",
+    "address": "GRANDVIEW AVE",
+    "city": "11901",
+    "zip_code": "15211",
+    "county": "Allegheny",
+    "current_owner_name": "863   BENNER PIKE",
+    "current_mailing_address": "863   BENNER PIKE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.143,
+    "latitude": 40.41858,
+    "longitude": -80.003
+  },
+  "assessments": {
+    "parcel_id": "0001J00077000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 90300,
+        "market_value": 90300,
+        "land_value": 90300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1264,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 90300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 91564,
+        "market_value": 91564,
+        "land_value": 91564,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4360,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91564,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 87204,
+        "market_value": 87204,
+        "land_value": 87204,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3354,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87204,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 83850,
+        "market_value": 83850,
+        "land_value": 83850,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2442,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 83850,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 81408,
+        "market_value": 81408,
+        "land_value": 81408,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1596,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 81408,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 79812,
+        "market_value": 79812,
+        "land_value": 79812,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79812,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001J00077000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001J00077000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0001J00077000000",
+    "comparables": [
+      {
+        "parcel_id": "0001J00057000000",
+        "address": "GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "11300   SMITHDALE RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 73400,
+        "market_value": 73400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

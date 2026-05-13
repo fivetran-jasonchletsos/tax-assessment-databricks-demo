@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0625C00400000000",
+    "address": "HIGH ST",
+    "city": "Springdale Twp",
+    "zip_code": "15049",
+    "county": "Allegheny",
+    "current_owner_name": "2001   ELMERTON AVE",
+    "current_mailing_address": "2001   ELMERTON AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 42.44,
+    "latitude": 40.54588,
+    "longitude": -79.80594
+  },
+  "assessments": {
+    "parcel_id": "0625C00400000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 106200,
+        "market_value": 106200,
+        "land_value": 106200,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4726,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 101474,
+        "market_value": 101474,
+        "land_value": 101474,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101474,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101474,
+        "market_value": 101474,
+        "land_value": 101474,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1025,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101474,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 102499,
+        "market_value": 102499,
+        "land_value": 102499,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4880,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 102499,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 97619,
+        "market_value": 97619,
+        "land_value": 97619,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3754,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 97619,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 93865,
+        "market_value": 93865,
+        "land_value": 93865,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93865,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0625C00400000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0625C00400000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0625C00400000000",
+    "comparables": [
+      {
+        "parcel_id": "0530C00195000000",
+        "address": "1015 PILLOW AVE",
+        "city": "Springdale Twp",
+        "zip_code": "15049",
+        "current_owner_name": "1015   PILLOW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 107300,
+        "market_value": 107300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0530C00215000000",
+        "address": "745 PARKWAY DR",
+        "city": "Springdale Twp",
+        "zip_code": "15049",
+        "current_owner_name": "745   PARKWAY DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 107400,
+        "market_value": 107400,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0530D00011000000",
+        "address": "814 MCKINLEY AVE",
+        "city": "Springdale Twp",
+        "zip_code": "15049",
+        "current_owner_name": "814   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 108300,
+        "market_value": 108300,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0530D00319000000",
+        "address": "821 MCKINLEY AVE",
+        "city": "Springdale Twp",
+        "zip_code": "15049",
+        "current_owner_name": "3900   CAPITAL CITY BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103900,
+        "market_value": 103900,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0530C00304000000",
+        "address": "1104 PILLOW AVE",
+        "city": "Springdale Twp",
+        "zip_code": "15049",
+        "current_owner_name": "1104   PILLOW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103700,
+        "market_value": 103700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0626M00310000000",
+        "address": "128 BUCKNELL DR",
+        "city": "Springdale Twp",
+        "zip_code": "15144",
+        "current_owner_name": "128   BUCKNELL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103100,
+        "market_value": 121100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

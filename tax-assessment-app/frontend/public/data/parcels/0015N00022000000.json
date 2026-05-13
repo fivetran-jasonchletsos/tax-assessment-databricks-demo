@@ -1,0 +1,243 @@
+{
+  "parcel": {
+    "parcel_id": "0015N00022000000",
+    "address": "310 DAWN AVE",
+    "city": "11904",
+    "zip_code": "15226",
+    "county": "Allegheny",
+    "current_owner_name": "310   DAWN AVE",
+    "current_mailing_address": "310   DAWN AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.851,
+    "latitude": 40.38906,
+    "longitude": -80.01142
+  },
+  "assessments": {
+    "parcel_id": "0015N00022000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 33800,
+        "market_value": 51800,
+        "land_value": 22900,
+        "improvement_value": 10900,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 835,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 15800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 32965,
+        "market_value": 50520,
+        "land_value": 22334,
+        "improvement_value": 10631,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 1267,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14965,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31698,
+        "market_value": 48578,
+        "land_value": 21475,
+        "improvement_value": 10223,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 923,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13698,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30775,
+        "market_value": 47164,
+        "land_value": 20850,
+        "improvement_value": 9925,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 603,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12775,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 30172,
+        "market_value": 46239,
+        "land_value": 20441,
+        "improvement_value": 9731,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 298,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12172,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 29874,
+        "market_value": 45783,
+        "land_value": 20240,
+        "improvement_value": 9634,
+        "land_value_percentage": 67.8,
+        "improvement_value_percentage": 32.2,
+        "market_to_assessed_ratio": 1.53,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11874,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0015N00022000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0015N00022000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0015N00022000000",
+    "comparables": [
+      {
+        "parcel_id": "0034E00061000000",
+        "address": "1430 WEST LIBERTY AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "1430  W LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38100,
+        "market_value": 38100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0034A00026000000",
+        "address": "225 DAWN AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "225   DAWN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 56300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0034A00063000000",
+        "address": "215 CHARM AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "1001   PINEY RIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 39000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0034E00068000000",
+        "address": "1456 WEST LIBERTY AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "336   STATE ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 39200,
+        "market_value": 39200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0034A00015000000",
+        "address": "241 DAWN AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "241   DAWN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40200,
+        "market_value": 40200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.9
+      }
+    ]
+  }
+}

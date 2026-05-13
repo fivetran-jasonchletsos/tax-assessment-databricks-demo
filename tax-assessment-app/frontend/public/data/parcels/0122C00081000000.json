@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.057,
-    "latitude": 40.48042,
-    "longitude": -79.90258
+    "latitude": 40.49292,
+    "longitude": -79.91128
   },
   "assessments": {
     "parcel_id": "0122C00081000000",
@@ -161,6 +161,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0122C00154000000",
+        "address": "121 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "121   FREEPORT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 181300,
+        "market_value": 199300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0122C00030000000",
         "address": "124 2ND ST",
         "city": "Aspinwall",
@@ -171,7 +184,7 @@
         "assessed_value": 176000,
         "market_value": 176000,
         "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00118000000",
@@ -184,19 +197,6 @@
         "assessed_value": 175000,
         "market_value": 175000,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00110000000",
-        "address": "136 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "4228   MONTRACHET CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 173900,
-        "market_value": 173900,
-        "assessed_value_change_pct": 13.3,
         "distance_miles": 1.1
       }
     ]

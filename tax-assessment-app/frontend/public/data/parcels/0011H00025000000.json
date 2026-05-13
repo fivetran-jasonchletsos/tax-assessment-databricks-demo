@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.108,
-    "latitude": 40.43222,
-    "longitude": -79.95804
+    "latitude": 40.43212,
+    "longitude": -79.95244
   },
   "assessments": {
     "parcel_id": "0011H00025000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0011H00069000000",
+        "address": "125 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "108   SANTA MARIA LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0011D00019000000",
         "address": "3142 ELLERS ST",
         "city": "10402",
@@ -223,32 +236,19 @@
         "assessed_value": 36200,
         "market_value": 54200,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0011D00044000000",
-        "address": "22 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "186   RIDGEVIEW DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 42900,
-        "market_value": 42900,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0011D00032000000",
-        "address": "3143 ELLERS ST",
+        "parcel_id": "0011H00068000000",
+        "address": "123 BURROWS ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "1923   MARY ST",
+        "current_owner_name": "123   BURROWS ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 32700,
-        "market_value": 32700,
-        "assessed_value_change_pct": 13.5,
+        "assessed_value": 36000,
+        "market_value": 54000,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

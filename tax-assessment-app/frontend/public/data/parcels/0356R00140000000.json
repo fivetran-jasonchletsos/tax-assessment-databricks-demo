@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.376,
-    "latitude": 40.51832,
-    "longitude": -79.94936
+    "latitude": 40.52802,
+    "longitude": -79.95396
   },
   "assessments": {
     "parcel_id": "0356R00140000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0356R00140000000",
     "comparables": [
       {
+        "parcel_id": "0166C00248000000",
+        "address": "194 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "194   SEAVEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73400,
+        "market_value": 91400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285F00094000000",
         "address": "1006 SAXONBURG BLVD",
         "city": "Shaler",
@@ -132,7 +145,20 @@
         "assessed_value": 72900,
         "market_value": 90900,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0166C00236000000",
+        "address": "600 SHORT AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "600   SHORT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73600,
+        "market_value": 91600,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0353C00037000000",
@@ -145,7 +171,20 @@
         "assessed_value": 74000,
         "market_value": 92000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0166C00336000000",
+        "address": "200 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "200   SEAVEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 74500,
+        "market_value": 92500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285C00114000000",
@@ -158,45 +197,6 @@
         "assessed_value": 71600,
         "market_value": 89600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0356R00152000000",
-        "address": "1057 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1057   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 71600,
-        "market_value": 89600,
-        "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0356R00130000000",
-        "address": "1051 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1051   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 71500,
-        "market_value": 71500,
-        "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0434P00152000000",
-        "address": "1544 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1544   BUTLER PLANK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 75200,
-        "market_value": 93200,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0343D00240000000",
+    "address": "REDGATE RD",
+    "city": "Aleppo",
+    "zip_code": "15143",
+    "county": "Allegheny",
+    "current_owner_name": "6723   NORWAY RD",
+    "current_mailing_address": "6723   NORWAY RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 5.0,
+    "latitude": 40.54548,
+    "longitude": -80.1566
+  },
+  "assessments": {
+    "parcel_id": "0343D00240000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 74400,
+        "market_value": 74400,
+        "land_value": 74400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3312,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 71088,
+        "market_value": 71088,
+        "land_value": 71088,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71088,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 71088,
+        "market_value": 71088,
+        "land_value": 71088,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -719,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71088,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 71807,
+        "market_value": 71807,
+        "land_value": 71807,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3419,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 71807,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 68388,
+        "market_value": 68388,
+        "land_value": 68388,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2630,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68388,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 65758,
+        "market_value": 65758,
+        "land_value": 65758,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65758,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0343D00240000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0343D00240000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0343D00240000000",
+    "comparables": [
+      {
+        "parcel_id": "0343D00171000000",
+        "address": "341 REDGATE RD",
+        "city": "Aleppo",
+        "zip_code": "15143",
+        "current_owner_name": "341   REDGATE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 81200,
+        "market_value": 99200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0343D00028000000",
+        "address": "321 REDGATE RD",
+        "city": "Aleppo",
+        "zip_code": "15143",
+        "current_owner_name": "321   REDGATE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57000,
+        "market_value": 75000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

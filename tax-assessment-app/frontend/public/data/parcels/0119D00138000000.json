@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0119D00138000000",
+    "address": "11 ANN ST",
+    "city": "Etna",
+    "zip_code": "15223",
+    "county": "Allegheny",
+    "current_owner_name": "4473   MOREFIELD ST",
+    "current_mailing_address": "4473   MOREFIELD ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.381,
+    "latitude": 40.49442,
+    "longitude": -79.94272
+  },
+  "assessments": {
+    "parcel_id": "0119D00138000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 67100,
+        "market_value": 67100,
+        "land_value": 24100,
+        "improvement_value": 43000,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2987,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 64113,
+        "market_value": 64113,
+        "land_value": 23027,
+        "improvement_value": 41086,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64113,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 64113,
+        "market_value": 64113,
+        "land_value": 23027,
+        "improvement_value": 41086,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -648,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64113,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 64761,
+        "market_value": 64761,
+        "land_value": 23259,
+        "improvement_value": 41502,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3083,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64761,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 61678,
+        "market_value": 61678,
+        "land_value": 22152,
+        "improvement_value": 39526,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2372,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61678,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 59306,
+        "market_value": 59306,
+        "land_value": 21300,
+        "improvement_value": 38006,
+        "land_value_percentage": 35.9,
+        "improvement_value_percentage": 64.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59306,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119D00138000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0119D00138000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0119D00138000000",
+    "comparables": [
+      {
+        "parcel_id": "0119C00013000000",
+        "address": "169 WOOD ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "169   WOOD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64000,
+        "market_value": 82000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0119D00148000000",
+        "address": "14 ANN ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "14   ANN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51000,
+        "market_value": 69000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

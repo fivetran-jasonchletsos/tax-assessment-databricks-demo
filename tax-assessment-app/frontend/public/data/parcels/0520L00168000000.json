@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.313,
-    "latitude": 40.51796,
-    "longitude": -79.96868
+    "latitude": 40.52766,
+    "longitude": -79.97328
   },
   "assessments": {
     "parcel_id": "0520L00168000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0119C00196000000",
+        "address": "211 WASHINGTON ST",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "211   WASHINGTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95400,
+        "market_value": 113400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0520L00248000000",
         "address": "2824 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -197,7 +210,7 @@
         "assessed_value": 95500,
         "market_value": 113500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0520C00211000000",
@@ -210,7 +223,7 @@
         "assessed_value": 95100,
         "market_value": 113100,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355K00225000000",
@@ -223,7 +236,7 @@
         "assessed_value": 95000,
         "market_value": 95000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353D00077000000",
@@ -236,19 +249,6 @@
         "assessed_value": 96000,
         "market_value": 114000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520L00174000000",
-        "address": "2821 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2821   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 94800,
-        "market_value": 94800,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

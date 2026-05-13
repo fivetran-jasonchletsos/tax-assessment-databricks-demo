@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.168,
-    "latitude": 40.4384,
-    "longitude": -79.92978
+    "latitude": 40.4405,
+    "longitude": -79.93118
   },
   "assessments": {
     "parcel_id": "0051C00223000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0051D00308000000",
+        "address": "325 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "325   STRATFORD AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 162400,
+        "market_value": 180400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0051C00241000000",
         "address": "350 S AIKEN AVE",
         "city": "10802",
@@ -210,7 +223,7 @@
         "assessed_value": 175000,
         "market_value": 175000,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0051C00240000000",
@@ -223,32 +236,19 @@
         "assessed_value": 157000,
         "market_value": 175000,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051D00139000000",
-        "address": "340 ROUP AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "344   ROUP AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 181400,
-        "market_value": 181400,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0051D00064000000",
-        "address": "335 S GRAHAM ST",
+        "parcel_id": "0051G00170000000",
+        "address": "442 S AIKEN AVE",
         "city": "10802",
         "zip_code": "15232",
-        "current_owner_name": "335  S GRAHAM ST",
+        "current_owner_name": "442  S AIKEN AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 183200,
-        "market_value": 201200,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 157000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

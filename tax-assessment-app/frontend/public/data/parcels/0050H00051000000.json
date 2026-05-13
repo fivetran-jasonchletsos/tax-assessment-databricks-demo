@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.052,
-    "latitude": 40.44956,
-    "longitude": -79.91264
+    "latitude": 40.46066,
+    "longitude": -79.91104
   },
   "assessments": {
     "parcel_id": "0050H00051000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0050M00152000000",
+        "address": "217 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "217  N GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45300,
+        "market_value": 63300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0050H00085000000",
         "address": "444 N GRAHAM ST",
         "city": "11103",
@@ -223,7 +236,7 @@
         "assessed_value": 46800,
         "market_value": 46800,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0050D00030000000",
@@ -236,19 +249,6 @@
         "assessed_value": 44400,
         "market_value": 44400,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0050H00112000000",
-        "address": "516 N AIKEN AVE",
-        "city": "11103",
-        "zip_code": "15206",
-        "current_owner_name": "516  N AIKEN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 48100,
-        "market_value": 66100,
-        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

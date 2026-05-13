@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.473,
-    "latitude": 40.5182,
-    "longitude": -79.96832
+    "latitude": 40.5279,
+    "longitude": -79.97292
   },
   "assessments": {
     "parcel_id": "0285F00078000000",
@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0166C00272000000",
+        "address": "185 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59700,
+        "market_value": 59700,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0166C00282000000",
+        "address": "191 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57800,
+        "market_value": 57800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0520L00251000000",
         "address": "2828 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -197,7 +223,7 @@
         "assessed_value": 61000,
         "market_value": 61000,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0284D00060000000",
@@ -210,7 +236,7 @@
         "assessed_value": 61500,
         "market_value": 61500,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285C00120000000",
@@ -223,32 +249,6 @@
         "assessed_value": 56400,
         "market_value": 74400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00218000000",
-        "address": "813 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "813   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 62000,
-        "market_value": 80000,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285C00117000000",
-        "address": "1018 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1018   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 55900,
-        "market_value": 73900,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

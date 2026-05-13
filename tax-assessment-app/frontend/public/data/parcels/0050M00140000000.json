@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0050M00140000000",
+    "address": "5401 BROAD ST",
+    "city": "11103",
+    "zip_code": "15206",
+    "county": "Allegheny",
+    "current_owner_name": "17397  NW WOODRUSH WAY",
+    "current_mailing_address": "17397  NW WOODRUSH WAY",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.078,
+    "latitude": 40.46114,
+    "longitude": -79.90936
+  },
+  "assessments": {
+    "parcel_id": "0050M00140000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100000,
+        "market_value": 100000,
+        "land_value": 7000,
+        "improvement_value": 93000,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6216,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 93784,
+        "market_value": 93784,
+        "land_value": 6564,
+        "improvement_value": 87220,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2731,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93784,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 91053,
+        "market_value": 91053,
+        "land_value": 6373,
+        "improvement_value": 84680,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1785,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 91053,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 89268,
+        "market_value": 89268,
+        "land_value": 6248,
+        "improvement_value": 83020,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 883,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 89268,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 6186,
+        "improvement_value": 82199,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88385,
+        "market_value": 88385,
+        "land_value": 6186,
+        "improvement_value": 82199,
+        "land_value_percentage": 7.0,
+        "improvement_value_percentage": 93.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88385,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0050M00140000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0050M00140000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8496-2016",
+        "filed_date": null,
+        "hearing_date": "13-Jun-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0050M00140000000",
+    "comparables": [
+      {
+        "parcel_id": "0050H00368000000",
+        "address": "408 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99200,
+        "market_value": 99200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0050H00374000000",
+        "address": "400 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99100,
+        "market_value": 99100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0050H00369000000",
+        "address": "406 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99000,
+        "market_value": 99000,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0050H00371000000",
+        "address": "404 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "1171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99000,
+        "market_value": 99000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0050H00373000000",
+        "address": "402 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 99000,
+        "market_value": 99000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050H00361000000",
+        "address": "416 N AIKEN AVE",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "171   INDUSTRY DR  STE 150",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 96300,
+        "market_value": 96300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

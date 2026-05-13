@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0090G00010000000",
+    "address": "545 W 8TH AVE",
+    "city": "West Homestead",
+    "zip_code": "15120",
+    "county": "Allegheny",
+    "current_owner_name": "838   BEECHLAND ST",
+    "current_mailing_address": "838   BEECHLAND ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.075,
+    "latitude": 40.38072,
+    "longitude": -79.90772
+  },
+  "assessments": {
+    "parcel_id": "0090G00010000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41500,
+        "market_value": 41500,
+        "land_value": 4100,
+        "improvement_value": 37400,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1026,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 40474,
+        "market_value": 40474,
+        "land_value": 3998,
+        "improvement_value": 36476,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1556,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40474,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 38918,
+        "market_value": 38918,
+        "land_value": 3844,
+        "improvement_value": 35074,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1133,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38918,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37785,
+        "market_value": 37785,
+        "land_value": 3732,
+        "improvement_value": 34053,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 740,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37785,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37045,
+        "market_value": 37045,
+        "land_value": 3659,
+        "improvement_value": 33386,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 366,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37045,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36679,
+        "market_value": 36679,
+        "land_value": 3623,
+        "improvement_value": 33056,
+        "land_value_percentage": 9.9,
+        "improvement_value_percentage": 90.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36679,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0090G00010000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0090G00010000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-16441-2017",
+        "filed_date": null,
+        "hearing_date": "30-May-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0090G00010000000",
+    "comparables": [
+      {
+        "parcel_id": "0090H00076000000",
+        "address": "826 FOREST AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "4619   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41600,
+        "market_value": 41600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0090R00034000000",
+        "address": "678 DOYLE AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "678   DOYLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41000,
+        "market_value": 59000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0090R00027000000",
+        "address": "690 DOYLE AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "833   FOREST AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40800,
+        "market_value": 40800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0090H00185000000",
+        "address": "504 8TH AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "504  W 8TH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 58100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0090M00030000000",
+        "address": "554 DOYLE AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "554   DOYLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 58000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0090L00046000000",
+        "address": "604 DOYLE AVE",
+        "city": "West Homestead",
+        "zip_code": "15120",
+        "current_owner_name": "604   DOYLE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39900,
+        "market_value": 57900,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

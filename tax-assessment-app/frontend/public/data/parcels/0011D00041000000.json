@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.061,
-    "latitude": 40.4555,
-    "longitude": -79.96308
+    "latitude": 40.4554,
+    "longitude": -79.95748
   },
   "assessments": {
     "parcel_id": "0011D00041000000",
@@ -145,6 +145,71 @@
     "parcel_id": "0011D00041000000",
     "comparables": [
       {
+        "parcel_id": "0011H00424000000",
+        "address": "134 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "245   OLD COLONY RD",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 216500,
+        "market_value": 216500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0011H00406000000",
+        "address": "116 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "240   GLEN LAKE DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 217600,
+        "market_value": 217600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0011H00400000000",
+        "address": "110 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "110   BURROWS ST ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 200800,
+        "market_value": 218800,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00402000000",
+        "address": "112 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "112   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 199600,
+        "market_value": 217600,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0011H00410000000",
+        "address": "120 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "120   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 199600,
+        "market_value": 217600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0011H00030000000",
         "address": "3134 TERRACE ST",
         "city": "10402",
@@ -155,33 +220,7 @@
         "assessed_value": 188700,
         "market_value": 188700,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0011D00042000000",
-        "address": "3119 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "816   WESTERN AVE  UNIT 3",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 179700,
-        "market_value": 179700,
-        "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0011D00043000000",
-        "address": "3117 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "816   WESTERN AVE  UNIT 3",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 179700,
-        "market_value": 179700,
-        "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.5
+        "distance_miles": 1.1
       }
     ]
   }

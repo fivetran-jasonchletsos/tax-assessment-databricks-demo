@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0001N00045000000",
+    "address": "135 LABELLE ST",
+    "city": "11903",
+    "zip_code": "15211",
+    "county": "Allegheny",
+    "current_owner_name": "135   LABELLE ST",
+    "current_mailing_address": "135   LABELLE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.099,
+    "latitude": 40.41846,
+    "longitude": -80.00624
+  },
+  "assessments": {
+    "parcel_id": "0001N00045000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 168000,
+        "market_value": 168000,
+        "land_value": 40000,
+        "improvement_value": 128000,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4139,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 168000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 163861,
+        "market_value": 163861,
+        "land_value": 39014,
+        "improvement_value": 124847,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6302,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 163861,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 157559,
+        "market_value": 157559,
+        "land_value": 37514,
+        "improvement_value": 120045,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4589,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 157559,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 152970,
+        "market_value": 152970,
+        "land_value": 36421,
+        "improvement_value": 116549,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2999,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 152970,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 149971,
+        "market_value": 149971,
+        "land_value": 35707,
+        "improvement_value": 114264,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1484,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 149971,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 148487,
+        "market_value": 148487,
+        "land_value": 35354,
+        "improvement_value": 113133,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 148487,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001N00045000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001N00045000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-37-2015",
+        "filed_date": null,
+        "hearing_date": "2-Jul-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-55530-2022",
+        "filed_date": null,
+        "hearing_date": "10-Oct-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001N00045000000",
+    "comparables": [
+      {
+        "parcel_id": "0001J00029000000",
+        "address": "809 GRANDVIEW AVE",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "809   GRANDVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 172700,
+        "market_value": 190700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001J00031000000",
+        "address": "805 GRANDVIEW AVE",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "805   GRANDVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 174800,
+        "market_value": 192800,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001N00010000000",
+        "address": "237 LABELLE ST",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "85   GENSLER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 158100,
+        "market_value": 158100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001J00024000000",
+        "address": "817 GRANDVIEW AVE",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "PO BOX 737",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155200,
+        "market_value": 155200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001J00028000000",
+        "address": "811 GRANDVIEW AVE",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "811   GRANDVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 187500,
+        "market_value": 205500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001N00089000000",
+        "address": "226 BIGHAM ST",
+        "city": "11903",
+        "zip_code": "15211",
+        "current_owner_name": "226   BIGHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 188400,
+        "market_value": 188400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

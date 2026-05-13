@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "1999E00025000000",
+    "address": "115 JOHNSON RD",
+    "city": "Marshall",
+    "zip_code": "15086",
+    "county": "Allegheny",
+    "current_owner_name": "612   CIDERBERG DR",
+    "current_mailing_address": "612   CIDERBERG DR",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 2.247,
+    "latitude": 40.42528,
+    "longitude": -80.01484
+  },
+  "assessments": {
+    "parcel_id": "1999E00025000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 652100,
+        "market_value": 652100,
+        "land_value": 84900,
+        "improvement_value": 567200,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10317,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 652100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 641783,
+        "market_value": 641783,
+        "land_value": 83556,
+        "improvement_value": 558227,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -6483,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 641783,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 648266,
+        "market_value": 648266,
+        "land_value": 84400,
+        "improvement_value": 563866,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 30869,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 648266,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 617397,
+        "market_value": 617397,
+        "land_value": 80381,
+        "improvement_value": 537016,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 23746,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 617397,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 593651,
+        "market_value": 593651,
+        "land_value": 77290,
+        "improvement_value": 516361,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17290,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 593651,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 576361,
+        "market_value": 576361,
+        "land_value": 75039,
+        "improvement_value": 501322,
+        "land_value_percentage": 13.0,
+        "improvement_value_percentage": 87.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 576361,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1999E00025000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1999E00025000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-81819-2023",
+        "filed_date": null,
+        "hearing_date": "7-Jun-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1999E00025000000",
+    "comparables": [
+      {
+        "parcel_id": "1654A00079000000",
+        "address": "5006 LUKE CT",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "5006   LUKE CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 656200,
+        "market_value": 674200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1654A00074000000",
+        "address": "4029 KILEY LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "4029   KILEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 626900,
+        "market_value": 644900,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "1654A00050000000",
+        "address": "4041 KILEY LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "1302   ADRIAN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 616600,
+        "market_value": 616600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "1653S00007000000",
+        "address": "3040 KASON CT",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "3040   KASON CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 607900,
+        "market_value": 607900,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "1654A00112000000",
+        "address": "6033 HADLEY FARMS LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "6033   HADLEY FARMS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 606000,
+        "market_value": 624000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "1654E00098000000",
+        "address": "3000 KASON CT",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "3000   KASON CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 603700,
+        "market_value": 603700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

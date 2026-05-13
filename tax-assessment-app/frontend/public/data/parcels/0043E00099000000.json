@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0043E00099000000",
+    "address": "839 RAILROAD ST",
+    "city": "Mckees Rocks",
+    "zip_code": "15136",
+    "county": "Allegheny",
+    "current_owner_name": "839   RAILROAD ST",
+    "current_mailing_address": "839   RAILROAD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.064,
+    "latitude": 40.46138,
+    "longitude": -80.09624
+  },
+  "assessments": {
+    "parcel_id": "0043E00099000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 67000,
+        "market_value": 67000,
+        "land_value": 6200,
+        "improvement_value": 60800,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4164,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 62836,
+        "market_value": 62836,
+        "land_value": 5814,
+        "improvement_value": 57022,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1830,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62836,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 61006,
+        "market_value": 61006,
+        "land_value": 5645,
+        "improvement_value": 55361,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1196,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 61006,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 59810,
+        "market_value": 59810,
+        "land_value": 5534,
+        "improvement_value": 54276,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 592,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59810,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 59218,
+        "market_value": 59218,
+        "land_value": 5479,
+        "improvement_value": 53739,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59218,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 59218,
+        "market_value": 59218,
+        "land_value": 5479,
+        "improvement_value": 53739,
+        "land_value_percentage": 9.3,
+        "improvement_value_percentage": 90.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59218,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0043E00099000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0043E00099000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-88816-2025",
+        "filed_date": null,
+        "hearing_date": "6-Nov-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0043E00099000000",
+    "comparables": [
+      {
+        "parcel_id": "0043A00286000000",
+        "address": "904 ETNA ST",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "904   ETNA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67500,
+        "market_value": 85500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0043A00234000000",
+        "address": "218 ERWIN PL",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "218   ERWIN PL",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64200,
+        "market_value": 82200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0043C00134000000",
+        "address": "124 MUNSON AVE",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "300   CATHERINE ST  FL 2ND",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60300,
+        "market_value": 60300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0043E00113000000",
+        "address": "811 RAILROAD ST",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "PO BOX 343",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60100,
+        "market_value": 60100,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0043E00062000000",
+        "address": "860 RAILROAD ST",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "104   SECANE AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 60000,
+        "market_value": 60000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0043E00014000000",
+        "address": "828 ETNA ST",
+        "city": "Mckees Rocks",
+        "zip_code": "15136",
+        "current_owner_name": "828   ETNA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59200,
+        "market_value": 77200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

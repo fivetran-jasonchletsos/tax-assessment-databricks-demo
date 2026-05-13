@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0096L00187000000",
+    "address": "2120 GROVELAND ST",
+    "city": "13202",
+    "zip_code": "15234",
+    "county": "Allegheny",
+    "current_owner_name": "2120   GROVELAND ST",
+    "current_mailing_address": "2120   GROVELAND ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.198,
+    "latitude": 40.36004,
+    "longitude": -80.02612
+  },
+  "assessments": {
+    "parcel_id": "0096L00187000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 85600,
+        "market_value": 85600,
+        "land_value": 30300,
+        "improvement_value": 55300,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8439,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 77161,
+        "market_value": 77161,
+        "land_value": 27312,
+        "improvement_value": 49849,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1512,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77161,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 75649,
+        "market_value": 75649,
+        "land_value": 26777,
+        "improvement_value": 48872,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 749,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75649,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 74900,
+        "market_value": 74900,
+        "land_value": 26512,
+        "improvement_value": 48388,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74900,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 74900,
+        "market_value": 74900,
+        "land_value": 26512,
+        "improvement_value": 48388,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -757,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74900,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 75657,
+        "market_value": 75657,
+        "land_value": 26780,
+        "improvement_value": 48877,
+        "land_value_percentage": 35.4,
+        "improvement_value_percentage": 64.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75657,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0096L00187000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0096L00187000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0096L00187000000",
+    "comparables": [
+      {
+        "parcel_id": "0095N00152000000",
+        "address": "26 BRIGGS ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "26   BRIGGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0095N00259000000",
+        "address": "4 BRIGGS ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "4   BRIGGS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 86500,
+        "market_value": 86500,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0096L00171000000",
+        "address": "2214 GROVELAND ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "2214   GROVELAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 86600,
+        "market_value": 104600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0096L00175000000",
+        "address": "2202 GROVELAND ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "2202   GROVELAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84000,
+        "market_value": 84000,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0096L00213000000",
+        "address": "2139 PARKLYN ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "2139   PARKLYN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83800,
+        "market_value": 83800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0096L00184000000",
+        "address": "2128 GROVELAND ST",
+        "city": "13202",
+        "zip_code": "15234",
+        "current_owner_name": "2128   GROVELAND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83200,
+        "market_value": 101200,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

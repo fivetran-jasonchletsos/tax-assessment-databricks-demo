@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0003P00071000000",
+    "address": "54 HANOVER ST",
+    "city": "11802",
+    "zip_code": "15210",
+    "county": "Allegheny",
+    "current_owner_name": "55   HANOVER ST",
+    "current_mailing_address": "55   HANOVER ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.04,
+    "latitude": 40.39652,
+    "longitude": -79.97514
+  },
+  "assessments": {
+    "parcel_id": "0003P00071000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 47000,
+        "market_value": 47000,
+        "land_value": 17000,
+        "improvement_value": 30000,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2092,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 44908,
+        "market_value": 44908,
+        "land_value": 16243,
+        "improvement_value": 28665,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44908,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 44908,
+        "market_value": 44908,
+        "land_value": 16243,
+        "improvement_value": 28665,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -454,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44908,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 45362,
+        "market_value": 45362,
+        "land_value": 16407,
+        "improvement_value": 28955,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2160,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45362,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 43202,
+        "market_value": 43202,
+        "land_value": 15626,
+        "improvement_value": 27576,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1661,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43202,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 41541,
+        "market_value": 41541,
+        "land_value": 15025,
+        "improvement_value": 26516,
+        "land_value_percentage": 36.2,
+        "improvement_value_percentage": 63.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41541,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0003P00071000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0003P00071000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0003P00071000000",
+    "comparables": [
+      {
+        "parcel_id": "0003R00191000000",
+        "address": "941 MCLAIN ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "933   MCLAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49000,
+        "market_value": 49000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0003R00181000000",
+        "address": "927 MCLAIN ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "936   MCLAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43400,
+        "market_value": 43400,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0003P00134000000",
+        "address": "921 MCLAIN ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "921   MCLAIN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41000,
+        "market_value": 59000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

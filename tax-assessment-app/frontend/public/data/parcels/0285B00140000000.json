@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "FOUR FAMILY",
     "acreage": 2.182,
-    "latitude": 40.51652,
-    "longitude": -79.9586
+    "latitude": 40.52622,
+    "longitude": -79.9632
   },
   "assessments": {
     "parcel_id": "0285B00140000000",
@@ -135,6 +135,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0166D00056000000",
+        "address": "16 BUTTERFIELD AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "16   BUTTERFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110200,
+        "market_value": 128200,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0166D00120000000",
+        "address": "115 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "115   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110100,
+        "market_value": 128100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285B00205000000",
         "address": "205 S MAGNOLIA DR",
         "city": "Shaler",
@@ -145,7 +171,20 @@
         "assessed_value": 110000,
         "market_value": 128000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435A00142000000",
+        "address": "406 SHOREHAM DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "406   SHOREHAM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110600,
+        "market_value": 128600,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285A00011000000",
@@ -158,45 +197,6 @@
         "assessed_value": 110600,
         "market_value": 128600,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285B00217000000",
-        "address": "211 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "211  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110700,
-        "market_value": 128700,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0433G00152000000",
-        "address": "2301 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2301   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 109700,
-        "market_value": 127700,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00209000000",
-        "address": "805 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "805   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110800,
-        "market_value": 128800,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

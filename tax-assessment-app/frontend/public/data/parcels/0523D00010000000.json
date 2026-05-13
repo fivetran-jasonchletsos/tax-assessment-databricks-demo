@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.388,
-    "latitude": 40.53968,
-    "longitude": -79.964
+    "latitude": 40.54938,
+    "longitude": -79.9686
   },
   "assessments": {
     "parcel_id": "0523D00010000000",
@@ -197,6 +197,19 @@
     "parcel_id": "0523D00010000000",
     "comparables": [
       {
+        "parcel_id": "0957F00294000000",
+        "address": "26 BARNHART ST",
+        "city": "Indiana",
+        "zip_code": "15075",
+        "current_owner_name": "PO BOX 75",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 86000,
+        "market_value": 104000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0524A00254000000",
         "address": "3375 SAXONBURG BLVD",
         "city": "Indiana",
@@ -207,7 +220,20 @@
         "assessed_value": 85800,
         "market_value": 85800,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0725B00313000000",
+        "address": "76 SUMMIT DR",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "76   SUMMIT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85500,
+        "market_value": 85500,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0436D00146000000",
@@ -220,58 +246,32 @@
         "assessed_value": 84900,
         "market_value": 84900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0436H00326000000",
-        "address": "3333 SAXONBURG BLVD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "231   HIGHVIEW AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 84200,
-        "market_value": 84200,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0436D00163000000",
-        "address": "3336 SAXONBURG BLVD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3336   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 91400,
-        "market_value": 109400,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0524A00262000000",
-        "address": "3385 SAXONBURG BLVD",
+        "parcel_id": "0957F00146000000",
+        "address": "9 RING ST",
         "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3385   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
+        "zip_code": "15075",
+        "current_owner_name": "103   REPUBLIC AVE",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 78500,
-        "market_value": 78500,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 87100,
+        "market_value": 87100,
+        "assessed_value_change_pct": -1.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0523S00121000000",
-        "address": "3346 SAXONBURG BLVD",
+        "parcel_id": "0725B00305000000",
+        "address": "74 SUMMIT DR",
         "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3346   SAXONBURG BLVD",
+        "zip_code": "15051",
+        "current_owner_name": "7910   JAMES AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 73000,
-        "market_value": 151100,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 84300,
+        "market_value": 84300,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

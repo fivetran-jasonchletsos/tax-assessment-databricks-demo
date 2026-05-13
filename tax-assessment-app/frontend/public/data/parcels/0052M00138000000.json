@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.408,
-    "latitude": 40.42772,
-    "longitude": -79.94078
+    "latitude": 40.42072,
+    "longitude": -79.93118
   },
   "assessments": {
     "parcel_id": "0052M00138000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0127D00017000000",
+        "address": "528 UNDERCLIFF RD",
+        "city": "11401",
+        "zip_code": "15221",
+        "current_owner_name": "528   UNDERCLIFF RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 532000,
+        "market_value": 550000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0052M00106000000",
         "address": "1018 WILKINS HEIGHTS RD",
         "city": "11401",
@@ -210,7 +223,7 @@
         "assessed_value": 663600,
         "market_value": 681600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052M00118000000",
@@ -223,7 +236,7 @@
         "assessed_value": 505600,
         "market_value": 523600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00134000000",
@@ -235,19 +248,6 @@
         "acreage": null,
         "assessed_value": 505500,
         "market_value": 523500,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052M00116000000",
-        "address": "1009 WILKINS HEIGHTS RD",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "1009   WILKINS HEIGHTS RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 719500,
-        "market_value": 737500,
         "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }

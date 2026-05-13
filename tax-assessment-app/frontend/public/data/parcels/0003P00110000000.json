@@ -1,0 +1,217 @@
+{
+  "parcel": {
+    "parcel_id": "0003P00110000000",
+    "address": "67 HANOVER ST",
+    "city": "11802",
+    "zip_code": "15210",
+    "county": "Allegheny",
+    "current_owner_name": "67   HANOVER ST",
+    "current_mailing_address": "67   HANOVER ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.377,
+    "latitude": 40.3958,
+    "longitude": -79.98186
+  },
+  "assessments": {
+    "parcel_id": "0003P00110000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 62000,
+        "market_value": 80000,
+        "land_value": 62000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": 4470,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 44000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 57530,
+        "market_value": 74232,
+        "land_value": 57530,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": 569,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 39530,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 56961,
+        "market_value": 73498,
+        "land_value": 56961,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 38961,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 56961,
+        "market_value": 73498,
+        "land_value": 56961,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": -576,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 38961,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 57537,
+        "market_value": 74241,
+        "land_value": 57537,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": 2739,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 39537,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 54798,
+        "market_value": 70707,
+        "land_value": 54798,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.29,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 36798,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0003P00110000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0003P00110000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0003P00110000000",
+    "comparables": [
+      {
+        "parcel_id": "0003R00189000000",
+        "address": "937 MCLAIN ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "937   MCLAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0003R00191000000",
+        "address": "941 MCLAIN ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "933   MCLAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 49000,
+        "market_value": 49000,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0003P00071000000",
+        "address": "54 HANOVER ST",
+        "city": "11802",
+        "zip_code": "15210",
+        "current_owner_name": "55   HANOVER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 47000,
+        "market_value": 47000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

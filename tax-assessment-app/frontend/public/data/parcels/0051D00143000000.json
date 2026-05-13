@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.012,
-    "latitude": 40.43864,
-    "longitude": -79.92798
+    "latitude": 40.44074,
+    "longitude": -79.92938
   },
   "assessments": {
     "parcel_id": "0051D00143000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0051D00236000000",
+        "address": "319 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 8222",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 120000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0051C00217000000",
         "address": "308 S AIKEN AVE",
         "city": "10802",
@@ -197,7 +210,20 @@
         "assessed_value": 121500,
         "market_value": 139500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0051D00240000000",
+        "address": "305 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "3535   BLVD OF THE ALLIES",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 105000,
+        "market_value": 105000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0051C00218000000",
@@ -210,7 +236,7 @@
         "assessed_value": 126000,
         "market_value": 126000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051C00215000000",
@@ -223,32 +249,6 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051C00221000000",
-        "address": "314 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "314  S AIKEN AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 131900,
-        "market_value": 149900,
-        "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051D00134000000",
-        "address": "332 ROUP AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "332   ROUP AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 133600,
-        "market_value": 151600,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

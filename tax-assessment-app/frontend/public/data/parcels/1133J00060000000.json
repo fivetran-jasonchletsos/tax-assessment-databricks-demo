@@ -1,0 +1,214 @@
+{
+  "parcel": {
+    "parcel_id": "1133J00060000000",
+    "address": "727 4TH ST",
+    "city": "West Elizabeth",
+    "zip_code": "15088",
+    "county": "Allegheny",
+    "current_owner_name": "2230   ROUTE 51",
+    "current_mailing_address": "2230   ROUTE 51",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.113,
+    "latitude": 40.26056,
+    "longitude": -79.89228
+  },
+  "assessments": {
+    "parcel_id": "1133J00060000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 113800,
+        "market_value": 113800,
+        "land_value": 14900,
+        "improvement_value": 98900,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2805,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 113800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 110995,
+        "market_value": 110995,
+        "land_value": 14532,
+        "improvement_value": 96463,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4269,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 110995,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 106726,
+        "market_value": 106726,
+        "land_value": 13973,
+        "improvement_value": 92753,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3108,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 106726,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 103618,
+        "market_value": 103618,
+        "land_value": 13566,
+        "improvement_value": 90052,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2031,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 103618,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 101587,
+        "market_value": 101587,
+        "land_value": 13300,
+        "improvement_value": 88287,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1005,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 101587,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 100582,
+        "market_value": 100582,
+        "land_value": 13169,
+        "improvement_value": 87413,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100582,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1133J00060000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1133J00060000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-54460-2021",
+        "filed_date": null,
+        "hearing_date": "9-Jul-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1133J00060000000",
+    "comparables": [
+      {
+        "parcel_id": "1133J00349000000",
+        "address": "816 KENNEDY ST",
+        "city": "West Elizabeth",
+        "zip_code": "15088",
+        "current_owner_name": "PO BOX 533",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 109800,
+        "market_value": 127800,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1133J00099000000",
+        "address": "912 4TH ST",
+        "city": "West Elizabeth",
+        "zip_code": "15088",
+        "current_owner_name": "PO BOX 514",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 108000,
+        "market_value": 108000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "1133J00379000000",
+        "address": "909 7TH ST",
+        "city": "West Elizabeth",
+        "zip_code": "15088",
+        "current_owner_name": "909   7TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 106800,
+        "market_value": 106800,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "1133J00151000000",
+        "address": "718 4TH ST",
+        "city": "West Elizabeth",
+        "zip_code": "15088",
+        "current_owner_name": "454   OLD CLAIRTON RD",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 102100,
+        "market_value": 102100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "1133J00223000000",
+        "address": "507 GRANT ST",
+        "city": "West Elizabeth",
+        "zip_code": "15088",
+        "current_owner_name": "33   PARK AVE  APT 1406",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 94200,
+        "market_value": 94200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.9
+      }
+    ]
+  }
+}

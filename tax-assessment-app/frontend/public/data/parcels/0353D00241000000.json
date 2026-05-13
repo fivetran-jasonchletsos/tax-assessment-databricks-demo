@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.286,
-    "latitude": 40.51652,
-    "longitude": -79.95704
+    "latitude": 40.52622,
+    "longitude": -79.96164
   },
   "assessments": {
     "parcel_id": "0353D00241000000",
@@ -197,6 +197,19 @@
     "parcel_id": "0353D00241000000",
     "comparables": [
       {
+        "parcel_id": "0434D00278000000",
+        "address": "912 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "912   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130400,
+        "market_value": 130400,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0433H00012000000",
         "address": "2209 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -207,7 +220,7 @@
         "assessed_value": 130400,
         "market_value": 148400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0285A00024000000",
@@ -220,7 +233,7 @@
         "assessed_value": 130700,
         "market_value": 148700,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0285E00018000000",
@@ -233,7 +246,7 @@
         "assessed_value": 130700,
         "market_value": 148700,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353G00009000000",
@@ -246,32 +259,19 @@
         "assessed_value": 129900,
         "market_value": 129900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285A00017000000",
-        "address": "514 GLEN MALCOLM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "514   GLEN MALCOLM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 129800,
-        "market_value": 147800,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0520R00143000000",
-        "address": "2705 MOUNT ROYAL BLVD",
+        "parcel_id": "0434C00042000000",
+        "address": "2531 COLLEGE PARK RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2705   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2531   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 129600,
-        "market_value": 147600,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 130800,
+        "market_value": 148800,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

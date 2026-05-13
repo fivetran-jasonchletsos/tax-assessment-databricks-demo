@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0128S00183000000",
+    "address": "WINDERMERE DR",
+    "city": "11403",
+    "zip_code": "15218",
+    "county": "Allegheny",
+    "current_owner_name": "1024   WINDERMERE DR",
+    "current_mailing_address": "1024   WINDERMERE DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.149,
+    "latitude": 40.41482,
+    "longitude": -79.89564
+  },
+  "assessments": {
+    "parcel_id": "0128S00183000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45300,
+        "market_value": 45300,
+        "land_value": 45300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3266,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 42034,
+        "market_value": 42034,
+        "land_value": 42034,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 416,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42034,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 41618,
+        "market_value": 41618,
+        "land_value": 41618,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41618,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 41618,
+        "market_value": 41618,
+        "land_value": 41618,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -421,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41618,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 42039,
+        "market_value": 42039,
+        "land_value": 42039,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2001,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42039,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40038,
+        "market_value": 40038,
+        "land_value": 40038,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40038,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0128S00183000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0128S00183000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0128S00183000000",
+    "comparables": [
+      {
+        "parcel_id": "0129C00150000000",
+        "address": "1105 ONONDAGO ST",
+        "city": "11403",
+        "zip_code": "15218",
+        "current_owner_name": "1105   ONONDAGO ST",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 45000,
+        "market_value": 45000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0129C00080000000",
+        "address": "ONONDAGO ST",
+        "city": "11403",
+        "zip_code": "15218",
+        "current_owner_name": "1138   ONONDAGO ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 45700,
+        "market_value": 45700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

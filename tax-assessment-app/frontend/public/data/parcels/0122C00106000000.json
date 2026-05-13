@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.081,
-    "latitude": 40.50418,
-    "longitude": -79.90426
+    "latitude": 40.51668,
+    "longitude": -79.91296
   },
   "assessments": {
     "parcel_id": "0122C00106000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0122C00106000000",
     "comparables": [
       {
+        "parcel_id": "0122C00124000000",
+        "address": "112 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "112   1ST ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170000,
+        "market_value": 188000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0122C00043000000",
         "address": "117 1ST ST",
         "city": "Aspinwall",
@@ -184,7 +197,46 @@
         "assessed_value": 172000,
         "market_value": 190000,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0122D00052000000",
+        "address": "113 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "113   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 168300,
+        "market_value": 168300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122D00036000000",
+        "address": "120 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "120   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173300,
+        "market_value": 191300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122D00040000000",
+        "address": "116 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "116   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173300,
+        "market_value": 191300,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00110000000",
@@ -197,58 +249,6 @@
         "assessed_value": 173900,
         "market_value": 173900,
         "assessed_value_change_pct": 13.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0122C00120000000",
-        "address": "118 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "118   1ST ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 166400,
-        "market_value": 184400,
-        "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0122C00118000000",
-        "address": "120 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "1819   MIDDLE RD",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 175000,
-        "market_value": 175000,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122C00030000000",
-        "address": "124 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "220   LORI RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 176000,
-        "market_value": 176000,
-        "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00012000000",
-        "address": "219 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "219   2ND ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 164300,
-        "market_value": 182300,
-        "assessed_value_change_pct": 13.5,
         "distance_miles": 1.1
       }
     ]

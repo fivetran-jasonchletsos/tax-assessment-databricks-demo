@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0840B00055000000",
+    "address": "2115 BUTLER LOGAN RD",
+    "city": "Frazer",
+    "zip_code": "15084",
+    "county": "Allegheny",
+    "current_owner_name": "109   DIVISION RD",
+    "current_mailing_address": "109   DIVISION RD",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 18.5,
+    "latitude": 40.60766,
+    "longitude": -79.78028
+  },
+  "assessments": {
+    "parcel_id": "0840B00055000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 299300,
+        "market_value": 299300,
+        "land_value": 66700,
+        "improvement_value": 232600,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7372,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 299300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 291928,
+        "market_value": 291928,
+        "land_value": 65057,
+        "improvement_value": 226871,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 11228,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 291928,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 280700,
+        "market_value": 280700,
+        "land_value": 62554,
+        "improvement_value": 218146,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8175,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 280700,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 272525,
+        "market_value": 272525,
+        "land_value": 60733,
+        "improvement_value": 211792,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5343,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 272525,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 267182,
+        "market_value": 267182,
+        "land_value": 59542,
+        "improvement_value": 207640,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2645,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 267182,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 264537,
+        "market_value": 264537,
+        "land_value": 58952,
+        "improvement_value": 205585,
+        "land_value_percentage": 22.3,
+        "improvement_value_percentage": 77.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 264537,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0840B00055000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0840B00055000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0840B00055000000",
+    "comparables": [
+      {
+        "parcel_id": "0729F00061000000",
+        "address": "1739 BUTLER LOGAN RD",
+        "city": "Frazer",
+        "zip_code": "15084",
+        "current_owner_name": "1739   BUTLER LOGAN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 236600,
+        "market_value": 254600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0839D00042000000",
+        "address": "117 GRANDVIEW LN",
+        "city": "Frazer",
+        "zip_code": "15084",
+        "current_owner_name": "117   GRANDVIEW LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 228200,
+        "market_value": 246200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

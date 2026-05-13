@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.057,
-    "latitude": 40.50406,
-    "longitude": -79.90534
+    "latitude": 40.51656,
+    "longitude": -79.91404
   },
   "assessments": {
     "parcel_id": "0122C00015000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0122C00015000000",
     "comparables": [
       {
+        "parcel_id": "0122C00150000000",
+        "address": "113 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1389   OLD FREEPORT RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 155300,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0122C00023000000",
         "address": "206 2ND ST",
         "city": "Aspinwall",
@@ -184,7 +197,7 @@
         "assessed_value": 153600,
         "market_value": 171600,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0122C00006000000",
@@ -197,7 +210,20 @@
         "assessed_value": 156700,
         "market_value": 156700,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122D00018000000",
+        "address": "202 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "202   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152000,
+        "market_value": 170000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0122C00040000000",
@@ -210,7 +236,7 @@
         "assessed_value": 158100,
         "market_value": 176100,
         "assessed_value_change_pct": 13.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00104000000",
@@ -223,32 +249,6 @@
         "assessed_value": 159100,
         "market_value": 159100,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122C00045000000",
-        "address": "119 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "119   1ST ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 159800,
-        "market_value": 177800,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00109000000",
-        "address": "134 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "134   1ST ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 147600,
-        "market_value": 165600,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

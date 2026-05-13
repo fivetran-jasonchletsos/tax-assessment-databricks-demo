@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0054J00060000000",
+    "address": "445 SALINE ST",
+    "city": "11404",
+    "zip_code": "15207",
+    "county": "Allegheny",
+    "current_owner_name": "445   SALINE ST",
+    "current_mailing_address": "445   SALINE ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.07,
+    "latitude": 40.38938,
+    "longitude": -79.92864
+  },
+  "assessments": {
+    "parcel_id": "0054J00060000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32700,
+        "market_value": 50700,
+        "land_value": 16100,
+        "improvement_value": 16600,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": -456,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 33156,
+        "market_value": 51407,
+        "land_value": 16324,
+        "improvement_value": 16832,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 1578,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 15156,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31578,
+        "market_value": 48960,
+        "land_value": 15547,
+        "improvement_value": 16031,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 1214,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13578,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30364,
+        "market_value": 47078,
+        "land_value": 14949,
+        "improvement_value": 15415,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 884,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12364,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29480,
+        "market_value": 45707,
+        "land_value": 14514,
+        "improvement_value": 14966,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 578,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11480,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28902,
+        "market_value": 44811,
+        "land_value": 14230,
+        "improvement_value": 14672,
+        "land_value_percentage": 49.2,
+        "improvement_value_percentage": 50.8,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10902,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0054J00060000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0054J00060000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0054J00060000000",
+    "comparables": [
+      {
+        "parcel_id": "0054J00067000000",
+        "address": "431 SALINE ST",
+        "city": "11404",
+        "zip_code": "15207",
+        "current_owner_name": "4430   SARDIS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37200,
+        "market_value": 37200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0125K00011000000",
+        "address": "MCPHERSON BLVD",
+        "city": "11404",
+        "zip_code": "15208",
+        "current_owner_name": "6700   MCPHERSON BLVD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 38300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0054F00139000000",
+        "address": "700 NAYLOR ST",
+        "city": "11404",
+        "zip_code": "15207",
+        "current_owner_name": "6125   FREDANNA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0054F00094000000",
+        "address": "535 SALINE ST",
+        "city": "11404",
+        "zip_code": "15207",
+        "current_owner_name": "535   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 58700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

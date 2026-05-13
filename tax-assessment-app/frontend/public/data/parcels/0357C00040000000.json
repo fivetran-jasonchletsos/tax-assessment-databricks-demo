@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 3.46,
-    "latitude": 40.51652,
-    "longitude": -79.95884
+    "latitude": 40.52622,
+    "longitude": -79.96344
   },
   "assessments": {
     "parcel_id": "0357C00040000000",
@@ -172,6 +172,85 @@
   },
   "comparables": {
     "parcel_id": "0357C00040000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0171M00165000000",
+        "address": "416 CHAPEL HARBOR DR",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "416   CHAPEL HARBOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 612700,
+        "market_value": 612700,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0171M00063000000",
+        "address": "658 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "658   ARBOR CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 573500,
+        "market_value": 591500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0171M00167000000",
+        "address": "414 CHAPEL HARBOR DR",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "414   CHAPEL HARBOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 670000,
+        "market_value": 670000,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0171M00133000000",
+        "address": "659 ARBOR CT",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "659   ARBOR CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 533700,
+        "market_value": 551700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0171M00159000000",
+        "address": "420 CHAPEL HARBOR DR",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "420   CHAPEL HARBOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 507000,
+        "market_value": 525000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0171M00155000000",
+        "address": "424 CHAPEL HARBOR DR",
+        "city": "O''hara",
+        "zip_code": "15238",
+        "current_owner_name": "424   CHAPEL HARBOR DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 502000,
+        "market_value": 502000,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 1.1
+      }
+    ]
   }
 }

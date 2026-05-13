@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0529M00092000000",
+    "address": "210 ACME AVE",
+    "city": "Harmar",
+    "zip_code": "15024",
+    "county": "Allegheny",
+    "current_owner_name": "210   ACME AVE",
+    "current_mailing_address": "210   ACME AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.115,
+    "latitude": 40.55898,
+    "longitude": -79.84988
+  },
+  "assessments": {
+    "parcel_id": "0529M00092000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 77200,
+        "market_value": 77200,
+        "land_value": 15999,
+        "improvement_value": 61201,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1224,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 75976,
+        "market_value": 75976,
+        "land_value": 15746,
+        "improvement_value": 60230,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -768,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75976,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 76744,
+        "market_value": 76744,
+        "land_value": 15905,
+        "improvement_value": 60839,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3654,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76744,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 73090,
+        "market_value": 73090,
+        "land_value": 15148,
+        "improvement_value": 57942,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2811,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73090,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 70279,
+        "market_value": 70279,
+        "land_value": 14565,
+        "improvement_value": 55714,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2046,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 70279,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 68233,
+        "market_value": 68233,
+        "land_value": 14141,
+        "improvement_value": 54092,
+        "land_value_percentage": 20.7,
+        "improvement_value_percentage": 79.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68233,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0529M00092000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0529M00092000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0529M00092000000",
+    "comparables": [
+      {
+        "parcel_id": "0529S00102000000",
+        "address": "100 ACME AVE",
+        "city": "Harmar",
+        "zip_code": "15024",
+        "current_owner_name": "100   ACME AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79400,
+        "market_value": 97400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0529S00114000000",
+        "address": "126 ACME AVE",
+        "city": "Harmar",
+        "zip_code": "15024",
+        "current_owner_name": "126   ACME AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73500,
+        "market_value": 91500,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0529C00047000000",
+        "address": "717 GULF LAB RD",
+        "city": "Harmar",
+        "zip_code": "15024",
+        "current_owner_name": "705   MIDDLE LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71200,
+        "market_value": 71200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0529S00105000000",
+        "address": "110 ACME AVE",
+        "city": "Harmar",
+        "zip_code": "15024",
+        "current_owner_name": "405 1/2  CENTER AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71100,
+        "market_value": 71100,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0625B00020000000",
+        "address": "112 CRONE HOLLOW RD",
+        "city": "Harmar",
+        "zip_code": "15049",
+        "current_owner_name": "112   CRONE HOLLOW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 70800,
+        "market_value": 88800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0625B00030000000",
+        "address": "110 CRONE HOLLOW RD",
+        "city": "Harmar",
+        "zip_code": "15049",
+        "current_owner_name": "110   CRONE HOLLOW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 70800,
+        "market_value": 88800,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

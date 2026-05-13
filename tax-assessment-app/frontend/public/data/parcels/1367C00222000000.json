@@ -1,0 +1,291 @@
+{
+  "parcel": {
+    "parcel_id": "1367C00222000000",
+    "address": "1210 CAMBRIDGE ST",
+    "city": "Harrison",
+    "zip_code": "15065",
+    "county": "Allegheny",
+    "current_owner_name": "1210   CAMBRIDGE ST",
+    "current_mailing_address": "1210   CAMBRIDGE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.172,
+    "latitude": 40.6313,
+    "longitude": -79.7237
+  },
+  "assessments": {
+    "parcel_id": "1367C00222000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "land_value": 26199,
+        "improvement_value": 75801,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 1615,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 84000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 100385,
+        "market_value": 118100,
+        "land_value": 25785,
+        "improvement_value": 74600,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": -1014,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 82385,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101399,
+        "market_value": 119292,
+        "land_value": 26045,
+        "improvement_value": 75354,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 4828,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 83399,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96571,
+        "market_value": 113612,
+        "land_value": 24805,
+        "improvement_value": 71766,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 3714,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 78571,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 92857,
+        "market_value": 109243,
+        "land_value": 23851,
+        "improvement_value": 69006,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 2704,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 74857,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 90153,
+        "market_value": 106062,
+        "land_value": 23156,
+        "improvement_value": 66997,
+        "land_value_percentage": 25.7,
+        "improvement_value_percentage": 74.3,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 72153,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1367C00222000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "1367C00222000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-70350-2022",
+        "filed_date": null,
+        "hearing_date": "29-Nov-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-92130-2025",
+        "filed_date": null,
+        "hearing_date": "18-Dec-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1367C00222000000",
+    "comparables": [
+      {
+        "parcel_id": "1367C00194000000",
+        "address": "1122 CAMBRIDGE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1122   CAMBRIDGE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1367C00139000000",
+        "address": "1211 CARLISLE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1211   CARLISLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101900,
+        "market_value": 119900,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "1367C00049000000",
+        "address": "1202 CARLISLE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1202   CARLISLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101300,
+        "market_value": 101300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "1367C00061000000",
+        "address": "1210 CARLISLE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1210   CARLISLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102800,
+        "market_value": 120800,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "1367C00150000000",
+        "address": "1203 CARLISLE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1203   CARLISLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 101200,
+        "market_value": 101200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "1367C00070000000",
+        "address": "1216 CARLISLE ST",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1216   CARLISLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103100,
+        "market_value": 103100,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

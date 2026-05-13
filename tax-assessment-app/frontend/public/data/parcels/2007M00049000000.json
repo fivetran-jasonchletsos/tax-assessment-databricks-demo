@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "2007M00049000000",
+    "address": "3580 BAKERSTOWN RD",
+    "city": "Richland",
+    "zip_code": "15007",
+    "county": "Allegheny",
+    "current_owner_name": "3580   BAKERSTOWN RD",
+    "current_mailing_address": "3580   BAKERSTOWN RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.213,
+    "latitude": 40.63808,
+    "longitude": -79.93952
+  },
+  "assessments": {
+    "parcel_id": "2007M00049000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 86000,
+        "market_value": 86000,
+        "land_value": 44400,
+        "improvement_value": 41600,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6198,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 86000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 79802,
+        "market_value": 79802,
+        "land_value": 41200,
+        "improvement_value": 38602,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 790,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79802,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 79012,
+        "market_value": 79012,
+        "land_value": 40792,
+        "improvement_value": 38220,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79012,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 79012,
+        "market_value": 79012,
+        "land_value": 40792,
+        "improvement_value": 38220,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -799,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79012,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 79811,
+        "market_value": 79811,
+        "land_value": 41204,
+        "improvement_value": 38607,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3800,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79811,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 76011,
+        "market_value": 76011,
+        "land_value": 39242,
+        "improvement_value": 36769,
+        "land_value_percentage": 51.6,
+        "improvement_value_percentage": 48.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76011,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "2007M00049000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "2007M00049000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-96602-2026",
+        "filed_date": null,
+        "hearing_date": "18-Sep-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "2007M00049000000",
+    "comparables": [
+      {
+        "parcel_id": "2007H00191000000",
+        "address": "5908 HOHMAN LN",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "PO BOX 85",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85500,
+        "market_value": 85500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "2007M00206000000",
+        "address": "5913 HECKERT RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "1737   OLD STATE RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 85000,
+        "market_value": 85000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "2008J00123000000",
+        "address": "3575 BAKERSTOWN RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "3575   BAKERSTOWN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87500,
+        "market_value": 105500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "2007H00088000000",
+        "address": "5976 HECKERT RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "5976   HECKERT DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83600,
+        "market_value": 101600,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "2007H00108000000",
+        "address": "5956 HECKERT RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "5956   HECKERT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 88600,
+        "market_value": 106600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "2007H00113000000",
+        "address": "5952 HECKERT RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "5952   HECKERT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90200,
+        "market_value": 108200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

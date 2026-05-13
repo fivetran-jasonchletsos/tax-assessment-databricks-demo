@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0626G00200000000",
+    "address": "543 SHRADER ST",
+    "city": "Springdale Twp",
+    "zip_code": "15144",
+    "county": "Allegheny",
+    "current_owner_name": "543   SHRADER ST",
+    "current_mailing_address": "543   SHRADER ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.15,
+    "latitude": 40.53284,
+    "longitude": -79.78428
+  },
+  "assessments": {
+    "parcel_id": "0626G00200000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 249600,
+        "market_value": 249600,
+        "land_value": 27100,
+        "improvement_value": 222500,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15510,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 234090,
+        "market_value": 234090,
+        "land_value": 25416,
+        "improvement_value": 208674,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6818,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 234090,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 227272,
+        "market_value": 227272,
+        "land_value": 24675,
+        "improvement_value": 202597,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4456,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 227272,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 222816,
+        "market_value": 222816,
+        "land_value": 24191,
+        "improvement_value": 198625,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2206,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 222816,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 220610,
+        "market_value": 220610,
+        "land_value": 23952,
+        "improvement_value": 196658,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220610,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 220610,
+        "market_value": 220610,
+        "land_value": 23952,
+        "improvement_value": 196658,
+        "land_value_percentage": 10.9,
+        "improvement_value_percentage": 89.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 220610,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0626G00200000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0626G00200000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0626G00200000000",
+    "comparables": [
+      {
+        "parcel_id": "0626B00050000000",
+        "address": "BUTLER RD",
+        "city": "Springdale Twp",
+        "zip_code": "15144",
+        "current_owner_name": "1346   BUTLER RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 261500,
+        "market_value": 365800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0626R00215000000",
+        "address": "252 SYCAMORE RIDGE DR",
+        "city": "Springdale Twp",
+        "zip_code": "15144",
+        "current_owner_name": "252   SYCAMORE RIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 193500,
+        "market_value": 211500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0626L00140000000",
+        "address": "572 SHRADER ST",
+        "city": "Springdale Twp",
+        "zip_code": "15144",
+        "current_owner_name": "572   SHRADER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 190100,
+        "market_value": 208100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

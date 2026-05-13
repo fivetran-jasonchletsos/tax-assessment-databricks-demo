@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "THREE FAMILY",
     "acreage": 0.08,
-    "latitude": 40.48054,
-    "longitude": -79.90078
+    "latitude": 40.49304,
+    "longitude": -79.90948
   },
   "assessments": {
     "parcel_id": "0122C00118000000",
@@ -148,6 +148,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0122D00036000000",
+        "address": "120 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "120   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173300,
+        "market_value": 191300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122D00040000000",
+        "address": "116 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "116   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 173300,
+        "market_value": 191300,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0122C00016000000",
         "address": "220 2ND ST",
         "city": "Aspinwall",
@@ -158,7 +184,7 @@
         "assessed_value": 177900,
         "market_value": 177900,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00043000000",
@@ -170,32 +196,6 @@
         "acreage": null,
         "assessed_value": 172000,
         "market_value": 190000,
-        "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122C00081000000",
-        "address": "223 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "163   CAMP TREES RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 178800,
-        "market_value": 178800,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00106000000",
-        "address": "7 CENTER AVE",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "7   CENTER AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 170300,
-        "market_value": 188300,
         "assessed_value_change_pct": 14.3,
         "distance_miles": 1.1
       }

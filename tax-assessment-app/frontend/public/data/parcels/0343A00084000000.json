@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0343A00084000000",
+    "address": "BEAVER RD",
+    "city": "Glen Osborne",
+    "zip_code": "15143",
+    "county": "Allegheny",
+    "current_owner_name": "765   GENESEE AVE NE",
+    "current_mailing_address": "765   GENESEE AVE NE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 6.15,
+    "latitude": 40.54584,
+    "longitude": -80.1512
+  },
+  "assessments": {
+    "parcel_id": "0343A00084000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 43300,
+        "market_value": 43300,
+        "land_value": 43300,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2693,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 40607,
+        "market_value": 40607,
+        "land_value": 40607,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1182,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40607,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 39425,
+        "market_value": 39425,
+        "land_value": 39425,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 773,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39425,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38652,
+        "market_value": 38652,
+        "land_value": 38652,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 382,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38652,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 38270,
+        "market_value": 38270,
+        "land_value": 38270,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38270,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 38270,
+        "market_value": 38270,
+        "land_value": 38270,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38270,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0343A00084000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0343A00084000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0343A00084000000",
+    "comparables": [
+      {
+        "parcel_id": "0343B00072000000",
+        "address": "531 SYCAMORE RD",
+        "city": "Glen Osborne",
+        "zip_code": "15143",
+        "current_owner_name": "4101   BROWNSVILLE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 44100,
+        "market_value": 44100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0343A00068000000",
+        "address": "BEAVER RD",
+        "city": "Glen Osborne",
+        "zip_code": "15143",
+        "current_owner_name": "1001   MERCHANT ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 49100,
+        "market_value": 49100,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

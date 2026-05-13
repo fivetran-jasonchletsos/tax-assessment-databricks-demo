@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0749L00125000000",
+    "address": "NASER RD",
+    "city": "Trafford",
+    "zip_code": "15085",
+    "county": "Allegheny",
+    "current_owner_name": "REGULAR",
+    "current_mailing_address": "REGULAR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.32,
+    "latitude": 40.37658,
+    "longitude": -79.73358
+  },
+  "assessments": {
+    "parcel_id": "0749L00125000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35800,
+        "market_value": 35800,
+        "land_value": 35800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 569,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 35231,
+        "market_value": 35231,
+        "land_value": 35231,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -356,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35231,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 35587,
+        "market_value": 35587,
+        "land_value": 35587,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1694,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35587,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 33893,
+        "market_value": 33893,
+        "land_value": 33893,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1303,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33893,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32590,
+        "market_value": 32590,
+        "land_value": 32590,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 949,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32590,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31641,
+        "market_value": 31641,
+        "land_value": 31641,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31641,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0749L00125000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0749L00125000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0749L00125000000",
+    "comparables": [
+      {
+        "parcel_id": "0749R00074000000",
+        "address": "WALLACE AVE",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0749H00100000000",
+        "address": "STEWART ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "31   WALLACE AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 30500,
+        "market_value": 30500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0749H00242000000",
+        "address": "6 MAPLE ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "6   MAPLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 43300,
+        "market_value": 61300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

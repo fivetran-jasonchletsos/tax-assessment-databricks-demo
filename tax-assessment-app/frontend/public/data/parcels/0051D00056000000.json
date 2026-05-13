@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.129,
-    "latitude": 40.439,
-    "longitude": -79.92426
+    "latitude": 40.4411,
+    "longitude": -79.92566
   },
   "assessments": {
     "parcel_id": "0051D00056000000",
@@ -184,6 +184,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0051G00173000000",
+        "address": "436 S AIKEN AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "4807   FRIENDSHIP AVE  APT 2",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 352400,
+        "market_value": 352400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0051C00249000000",
         "address": "343 S AIKEN AVE",
         "city": "10802",
@@ -194,7 +207,7 @@
         "assessed_value": 347000,
         "market_value": 365000,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00131000000",
@@ -207,19 +220,6 @@
         "assessed_value": 343500,
         "market_value": 343500,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051D00058000000",
-        "address": "349 S GRAHAM ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "349  S GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 495000,
-        "market_value": 513000,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

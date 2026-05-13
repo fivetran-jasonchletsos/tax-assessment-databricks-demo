@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0546L00111000000",
+    "address": "326 GROVE ST",
+    "city": "East Mckeesport",
+    "zip_code": "15035",
+    "county": "Allegheny",
+    "current_owner_name": "650   CENTER RD  APT C3",
+    "current_mailing_address": "650   CENTER RD  APT C3",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.112,
+    "latitude": 40.37358,
+    "longitude": -79.80298
+  },
+  "assessments": {
+    "parcel_id": "0546L00111000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 57500,
+        "market_value": 57500,
+        "land_value": 8900,
+        "improvement_value": 48600,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3575,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 57500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 53925,
+        "market_value": 53925,
+        "land_value": 8346,
+        "improvement_value": 45579,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1570,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 53925,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 52355,
+        "market_value": 52355,
+        "land_value": 8103,
+        "improvement_value": 44252,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1026,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 52355,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 51329,
+        "market_value": 51329,
+        "land_value": 7944,
+        "improvement_value": 43385,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 508,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 51329,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 50821,
+        "market_value": 50821,
+        "land_value": 7866,
+        "improvement_value": 42955,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50821,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 50821,
+        "market_value": 50821,
+        "land_value": 7866,
+        "improvement_value": 42955,
+        "land_value_percentage": 15.5,
+        "improvement_value_percentage": 84.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 50821,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0546L00111000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0546L00111000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-5680-2015",
+        "filed_date": null,
+        "hearing_date": "2-Jun-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0546L00111000000",
+    "comparables": [
+      {
+        "parcel_id": "0546H00112000000",
+        "address": "327 SARAH ST",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "327   SARAH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57500,
+        "market_value": 75500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0546H00226000000",
+        "address": "519 VICTOR ST",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "519   VICTOR AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57200,
+        "market_value": 75200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0546M00121000000",
+        "address": "337 SARAH ST",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "337   SARAH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 58100,
+        "market_value": 58100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0546L00370000000",
+        "address": "429 WOODMONT AVE",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "429   WOODMONT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59300,
+        "market_value": 77300,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0546H00061000000",
+        "address": "524 PLAYFORD AVE",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "524   PLAYFORD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55400,
+        "market_value": 73400,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0546M00129000000",
+        "address": "345 SARAH ST",
+        "city": "East Mckeesport",
+        "zip_code": "15035",
+        "current_owner_name": "345   SARAH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 55300,
+        "market_value": 73300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

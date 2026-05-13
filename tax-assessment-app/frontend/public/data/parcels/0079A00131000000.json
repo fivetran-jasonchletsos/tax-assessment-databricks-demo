@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0079A00131000000",
+    "address": "843 STANTON AVE",
+    "city": "Millvale",
+    "zip_code": "15209",
+    "county": "Allegheny",
+    "current_owner_name": "843   STANTON AVE",
+    "current_mailing_address": "843   STANTON AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.122,
+    "latitude": 40.48862,
+    "longitude": -79.9721
+  },
+  "assessments": {
+    "parcel_id": "0079A00131000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 127000,
+        "market_value": 127000,
+        "land_value": 14000,
+        "improvement_value": 113000,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12519,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 127000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 114481,
+        "market_value": 114481,
+        "land_value": 12619,
+        "improvement_value": 101862,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2244,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 114481,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 112237,
+        "market_value": 112237,
+        "land_value": 12372,
+        "improvement_value": 99865,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1111,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112237,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 111126,
+        "market_value": 111126,
+        "land_value": 12250,
+        "improvement_value": 98876,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111126,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 111126,
+        "market_value": 111126,
+        "land_value": 12250,
+        "improvement_value": 98876,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1123,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 111126,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 112249,
+        "market_value": 112249,
+        "land_value": 12373,
+        "improvement_value": 99876,
+        "land_value_percentage": 11.0,
+        "improvement_value_percentage": 89.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 112249,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0079A00131000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0079A00131000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-57430-2022",
+        "filed_date": null,
+        "hearing_date": "26-Aug-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0079A00131000000",
+    "comparables": [
+      {
+        "parcel_id": "0079A00064000A00",
+        "address": "820 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "1812   WILDERNESS CIR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125300,
+        "market_value": 125300,
+        "assessed_value_change_pct": 0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0079A00201000000",
+        "address": "855 RESERVE ST",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "855   RESERVE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 125100,
+        "market_value": 143100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0079A00153000000",
+        "address": "807 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 123100,
+        "market_value": 123100,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0079A00065000000",
+        "address": "824 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "824   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121700,
+        "market_value": 139700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0079A00100000000",
+        "address": "884 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "884   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 120200,
+        "market_value": 120200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0079A00094000000",
+        "address": "876 STANTON AVE",
+        "city": "Millvale",
+        "zip_code": "15209",
+        "current_owner_name": "876   STANTON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114000,
+        "market_value": 114000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

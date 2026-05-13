@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0236D00265000000",
+    "address": "223 COPELAND AVE",
+    "city": "North Braddock",
+    "zip_code": "15104",
+    "county": "Allegheny",
+    "current_owner_name": "223   COPELAND AVE",
+    "current_mailing_address": "223   COPELAND AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.111,
+    "latitude": 40.39324,
+    "longitude": -79.8523
+  },
+  "assessments": {
+    "parcel_id": "0236D00265000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 33700,
+        "market_value": 33700,
+        "land_value": 3900,
+        "improvement_value": 29800,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2430,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 31270,
+        "market_value": 31270,
+        "land_value": 3618,
+        "improvement_value": 27652,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 309,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31270,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30961,
+        "market_value": 30961,
+        "land_value": 3583,
+        "improvement_value": 27378,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30961,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30961,
+        "market_value": 30961,
+        "land_value": 3583,
+        "improvement_value": 27378,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -313,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30961,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 31274,
+        "market_value": 31274,
+        "land_value": 3619,
+        "improvement_value": 27655,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1489,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31274,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 29785,
+        "market_value": 29785,
+        "land_value": 3446,
+        "improvement_value": 26339,
+        "land_value_percentage": 11.6,
+        "improvement_value_percentage": 88.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29785,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0236D00265000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0236D00265000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-10394-2016",
+        "filed_date": null,
+        "hearing_date": "24-May-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0236D00265000000",
+    "comparables": [
+      {
+        "parcel_id": "0236D00286000000",
+        "address": "231 PLEASANT AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "231   PLEASANT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0236D00238000000",
+        "address": "232 COPELAND AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "232   COPELAND AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34500,
+        "market_value": 34500,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0236D00239000000",
+        "address": "234 COPELAND AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "1021   JONES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32900,
+        "market_value": 32900,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0236D00278000000",
+        "address": "215 PLEASANT AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "215   PLEASANT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32900,
+        "market_value": 50900,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0236D00012000000",
+        "address": "1135 WILKINS AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "1135   WILKINS AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32300,
+        "market_value": 32300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0236D00111000000",
+        "address": "209 HAWKINS AVE",
+        "city": "North Braddock",
+        "zip_code": "15104",
+        "current_owner_name": "305  E 8TH AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32300,
+        "market_value": 32300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

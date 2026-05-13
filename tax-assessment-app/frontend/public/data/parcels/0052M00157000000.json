@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "VACANT LAND",
     "acreage": 0.119,
-    "latitude": 40.42784,
-    "longitude": -79.93982
+    "latitude": 40.42084,
+    "longitude": -79.93022
   },
   "assessments": {
     "parcel_id": "0052M00157000000",
@@ -120,6 +120,85 @@
   },
   "comparables": {
     "parcel_id": "0052M00157000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0054F00061000000",
+        "address": "717 SALINE ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "717   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 68300,
+        "market_value": 68300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0054G00006000000",
+        "address": "743 NAYLOR ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "743   NAYLOR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 66200,
+        "market_value": 84200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0054G00020000000",
+        "address": "739 SALINE ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "739   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 65000,
+        "market_value": 83000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0054F00176000000",
+        "address": "701 NAYLOR ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76300,
+        "market_value": 76300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0054F00167000000",
+        "address": "719 NAYLOR ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "723   SALIUE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 78500,
+        "market_value": 78500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0054F00062000000",
+        "address": "715 SALINE ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "715   SALINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57600,
+        "market_value": 57600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
   }
 }

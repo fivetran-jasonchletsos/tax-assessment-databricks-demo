@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "OFFICE - 1-2 STORIES",
     "acreage": 0.092,
-    "latitude": 40.5188,
-    "longitude": -79.9664
+    "latitude": 40.5285,
+    "longitude": -79.971
   },
   "assessments": {
     "parcel_id": "0355P00129000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0355P00129000000",
     "comparables": [
       {
+        "parcel_id": "0434C00028000000",
+        "address": "2522 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2522   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 127000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285K00089000000",
         "address": "973 SAXONBURG BLVD",
         "city": "Shaler",
@@ -132,19 +145,6 @@
         "assessed_value": 127000,
         "market_value": 127000,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0520G00006000000",
-        "address": "3002 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3002   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 145000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 0.3
       },
       {
@@ -161,42 +161,42 @@
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0520C00143000000",
-        "address": "3402 MOUNT ROYAL BLVD",
+        "parcel_id": "0520G00006000000",
+        "address": "3002 MOUNT ROYAL BLVD",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "3402   MOUNT ROYAL BLVD",
+        "current_owner_name": "3002   MOUNT ROYAL BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 127000,
+        "market_value": 145000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434C00038000000",
+        "address": "2527 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2527   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 127100,
         "market_value": 145100,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285B00257000000",
-        "address": "303 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "303  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 127200,
-        "market_value": 145200,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0353D00038000000",
-        "address": "109 CREST LN",
+        "parcel_id": "0434D00328000000",
+        "address": "911 LIMESTONE DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "109   CREST LN",
+        "zip_code": "15101",
+        "current_owner_name": "911   LIMESTONE DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 127300,
-        "market_value": 145300,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 126700,
+        "market_value": 144700,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

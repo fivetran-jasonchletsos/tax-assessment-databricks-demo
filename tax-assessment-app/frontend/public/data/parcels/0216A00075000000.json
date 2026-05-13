@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0216A00075000000",
+    "address": "12 OAKRIDGE RD",
+    "city": "Ross",
+    "zip_code": "15229",
+    "county": "Allegheny",
+    "current_owner_name": "10   OAKRIDGE RD",
+    "current_mailing_address": "10   OAKRIDGE RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.208,
+    "latitude": 40.50902,
+    "longitude": -80.03016
+  },
+  "assessments": {
+    "parcel_id": "0216A00075000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 85700,
+        "market_value": 85700,
+        "land_value": 20600,
+        "improvement_value": 65100,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8449,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 77251,
+        "market_value": 77251,
+        "land_value": 18569,
+        "improvement_value": 58682,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1514,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 77251,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 75737,
+        "market_value": 75737,
+        "land_value": 18205,
+        "improvement_value": 57532,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 749,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75737,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 74988,
+        "market_value": 74988,
+        "land_value": 18025,
+        "improvement_value": 56963,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74988,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 74988,
+        "market_value": 74988,
+        "land_value": 18025,
+        "improvement_value": 56963,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -758,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74988,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 75746,
+        "market_value": 75746,
+        "land_value": 18207,
+        "improvement_value": 57539,
+        "land_value_percentage": 24.0,
+        "improvement_value_percentage": 76.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75746,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0216A00075000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0216A00075000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-84288-2024",
+        "filed_date": null,
+        "hearing_date": "30-Apr-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0216A00075000000",
+    "comparables": [
+      {
+        "parcel_id": "0216A00077000000",
+        "address": "10 OAKRIDGE RD",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "10   OAKRIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 85600,
+        "market_value": 85600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0217M00024000000",
+        "address": "167 CEMETERY LN",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "167 169  CEMETERY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 87200,
+        "market_value": 87200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0163C00175000000",
+        "address": "4517 PEOPLES RD",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "4517   PEOPLES RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 83800,
+        "market_value": 101800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0216B00057000000",
+        "address": "133 SPRUCE CT",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "133   SPRUCE CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 88200,
+        "market_value": 106200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0215B00008000000",
+        "address": "691 UNION AVENUE EXT",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "691   UNION AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 88300,
+        "market_value": 106300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0218D00076000000",
+        "address": "104 STEVENS DR",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "104   STEVENS DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 88800,
+        "market_value": 106800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

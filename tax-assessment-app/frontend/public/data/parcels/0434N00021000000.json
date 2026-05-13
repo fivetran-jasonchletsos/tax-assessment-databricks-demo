@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": 40.51724,
-    "longitude": -79.95512
+    "latitude": 40.52694,
+    "longitude": -79.95972
   },
   "assessments": {
     "parcel_id": "0434N00021000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0434N00021000000",
     "comparables": [
       {
+        "parcel_id": "0434D00328000000",
+        "address": "911 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "911   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126700,
+        "market_value": 144700,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0353D00030000000",
         "address": "103 CREST LN",
         "city": "Shaler",
@@ -184,20 +197,20 @@
         "assessed_value": 126100,
         "market_value": 144100,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
-        "parcel_id": "0355P00129000000",
-        "address": "1401 MOUNT ROYAL BLVD",
+        "parcel_id": "0166D00068000000",
+        "address": "15 BUTTERFIELD AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1401   MOUNT ROYAL BLVD",
-        "land_use_description": "OFFICE - 1-2 STORIES",
+        "zip_code": "15223",
+        "current_owner_name": "15   BUTTERFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 126900,
-        "market_value": 126900,
-        "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.3
+        "assessed_value": 126100,
+        "market_value": 126100,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355A00070000000",
@@ -210,45 +223,32 @@
         "assessed_value": 126100,
         "market_value": 144100,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285K00089000000",
-        "address": "973 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "973   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 127000,
-        "assessed_value_change_pct": -0.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0520G00006000000",
-        "address": "3002 MOUNT ROYAL BLVD",
+        "parcel_id": "0355P00129000000",
+        "address": "1401 MOUNT ROYAL BLVD",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "3002   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "1401   MOUNT ROYAL BLVD",
+        "land_use_description": "OFFICE - 1-2 STORIES",
         "acreage": null,
-        "assessed_value": 127000,
-        "market_value": 145000,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 126900,
+        "market_value": 126900,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0433S00057000000",
-        "address": "1921 MOUNT ROYAL BLVD",
+        "parcel_id": "0434C00028000000",
+        "address": "2522 COLLEGE PARK RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1921   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2522   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 127000,
         "market_value": 145000,
-        "assessed_value_change_pct": -0.5,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0122C00158000000",
+    "address": "127 FREEPORT RD",
+    "city": "Aspinwall",
+    "zip_code": "15215",
+    "county": "Allegheny",
+    "current_owner_name": "127   FREEPORT RD",
+    "current_mailing_address": "127   FREEPORT RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.08,
+    "latitude": 40.49352,
+    "longitude": -79.90516
+  },
+  "assessments": {
+    "parcel_id": "0122C00158000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 211200,
+        "market_value": 211200,
+        "land_value": 77800,
+        "improvement_value": 133400,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20816,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 211200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 190384,
+        "market_value": 190384,
+        "land_value": 70131,
+        "improvement_value": 120253,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3733,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 190384,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 186651,
+        "market_value": 186651,
+        "land_value": 68756,
+        "improvement_value": 117895,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1848,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186651,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 184803,
+        "market_value": 184803,
+        "land_value": 68076,
+        "improvement_value": 116727,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 184803,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 184803,
+        "market_value": 184803,
+        "land_value": 68076,
+        "improvement_value": 116727,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1867,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 184803,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 186670,
+        "market_value": 186670,
+        "land_value": 68763,
+        "improvement_value": 117907,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 186670,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0122C00158000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0122C00158000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-30474-2019",
+        "filed_date": null,
+        "hearing_date": "9-Jul-19",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0122C00158000000",
+    "comparables": [
+      {
+        "parcel_id": "0122C00117000000",
+        "address": "122 1ST ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "122   1ST ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 211400,
+        "market_value": 229400,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0122D00060000000",
+        "address": "121 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "213   RUSSELLTON DORSEYVILLE RD  # 1",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 211000,
+        "market_value": 211000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0122C00025000000",
+        "address": "134 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "12   STROHM DR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 209500,
+        "market_value": 209500,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0122C00019000000",
+        "address": "212 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "212   2ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213000,
+        "market_value": 213000,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122D00026000000",
+        "address": "130 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "130   EMERSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 209200,
+        "market_value": 227200,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0122C00027000000",
+        "address": "128 2ND ST",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "128   2ND ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 208500,
+        "market_value": 226500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0317F00019000000",
+    "address": "4457 4TH ST",
+    "city": "Bethel Park",
+    "zip_code": "15102",
+    "county": "Allegheny",
+    "current_owner_name": "2925   PETERSON PKWY NE",
+    "current_mailing_address": "2925   PETERSON PKWY NE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.154,
+    "latitude": 40.31032,
+    "longitude": -80.03092
+  },
+  "assessments": {
+    "parcel_id": "0317F00019000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 130600,
+        "market_value": 130600,
+        "land_value": 39100,
+        "improvement_value": 91500,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5811,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 124789,
+        "market_value": 124789,
+        "land_value": 37360,
+        "improvement_value": 87429,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124789,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 124789,
+        "market_value": 124789,
+        "land_value": 37360,
+        "improvement_value": 87429,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1261,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 124789,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 126050,
+        "market_value": 126050,
+        "land_value": 37737,
+        "improvement_value": 88313,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6002,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 126050,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 120048,
+        "market_value": 120048,
+        "land_value": 35940,
+        "improvement_value": 84108,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4617,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120048,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 115431,
+        "market_value": 115431,
+        "land_value": 34558,
+        "improvement_value": 80873,
+        "land_value_percentage": 29.9,
+        "improvement_value_percentage": 70.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 115431,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0317F00019000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0317F00019000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-40627-2020",
+        "filed_date": null,
+        "hearing_date": "5-Aug-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0317F00019000000",
+    "comparables": [
+      {
+        "parcel_id": "0317E00064000000",
+        "address": "4357 OVERHILL ST",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "4357   OVERHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130600,
+        "market_value": 148600,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0317E00025000000",
+        "address": "4362 OVERHILL ST",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "4362   OVERHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131100,
+        "market_value": 149100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0317E00046000000",
+        "address": "4338 OVERHILL ST",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "4338   OVERHILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131300,
+        "market_value": 131300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0317E00188000000",
+        "address": "2022 MILFORD DR",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "2022   MILFORD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131400,
+        "market_value": 149400,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0317D00122000000",
+        "address": "3520 RIDGEWAY DR",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "3520   RIDGEWAY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 132500,
+        "market_value": 150500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0317E00014000000",
+        "address": "221 SANTA FE DR",
+        "city": "Bethel Park",
+        "zip_code": "15102",
+        "current_owner_name": "221   SANTA FE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 132800,
+        "market_value": 132800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

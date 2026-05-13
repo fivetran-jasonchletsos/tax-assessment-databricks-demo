@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.032,
-    "latitude": 40.44278,
-    "longitude": -80.00396
+    "latitude": 40.41668,
+    "longitude": -80.07116
   },
   "assessments": {
     "parcel_id": "0008D00161000000",
@@ -170,6 +170,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0009A00037000000",
+        "address": "600 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "600   PRESSLEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 282000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0008D00121000000",
         "address": "512 PRESSLEY ST",
         "city": "Ward 23 - East Allegheny",
@@ -180,7 +193,20 @@
         "assessed_value": 304800,
         "market_value": 304800,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0009A00006000000",
+        "address": "517 LOCKHART ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "517   LOCKHART ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 305000,
+        "market_value": 305000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0008D00131000000",
@@ -193,7 +219,7 @@
         "assessed_value": 311200,
         "market_value": 329200,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0008D00132000000",
@@ -206,20 +232,7 @@
         "assessed_value": 251900,
         "market_value": 269900,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0008D00149000000",
-        "address": "417 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "417   LOCKHART ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 242700,
-        "market_value": 260700,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.9
+        "distance_miles": 1.1
       }
     ]
   }

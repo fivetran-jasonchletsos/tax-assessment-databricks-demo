@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.226,
-    "latitude": 40.51724,
-    "longitude": -79.94984
+    "latitude": 40.52694,
+    "longitude": -79.95444
   },
   "assessments": {
     "parcel_id": "0353D00247000000",
@@ -213,6 +213,32 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0166C00075000000",
+        "address": "204 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "204   SEAVEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 106800,
+        "market_value": 124800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434D00286000000",
+        "address": "905 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "905   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 106700,
+        "market_value": 124700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0284C00307000000",
         "address": "402 CLIFTON AVE",
         "city": "Shaler",
@@ -223,32 +249,6 @@
         "assessed_value": 106700,
         "market_value": 124700,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00095000000",
-        "address": "219 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "219   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 106400,
-        "market_value": 124400,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00270000000",
-        "address": "108 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "108   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107600,
-        "market_value": 125600,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

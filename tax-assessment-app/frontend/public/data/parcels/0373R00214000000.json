@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0373R00214000000",
+    "address": "950 GREENSBURG PIKE",
+    "city": "Wilkins",
+    "zip_code": "15112",
+    "county": "Allegheny",
+    "current_owner_name": "962   GREENSBURG PIKE",
+    "current_mailing_address": "962   GREENSBURG PIKE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.539,
+    "latitude": 40.39424,
+    "longitude": -79.85066
+  },
+  "assessments": {
+    "parcel_id": "0373R00214000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 37100,
+        "market_value": 37100,
+        "land_value": 7400,
+        "improvement_value": 29700,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 917,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 36183,
+        "market_value": 36183,
+        "land_value": 7217,
+        "improvement_value": 28966,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1391,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36183,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34792,
+        "market_value": 34792,
+        "land_value": 6939,
+        "improvement_value": 27853,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1013,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34792,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 33779,
+        "market_value": 33779,
+        "land_value": 6737,
+        "improvement_value": 27042,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 662,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33779,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 33117,
+        "market_value": 33117,
+        "land_value": 6605,
+        "improvement_value": 26512,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 327,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33117,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 32790,
+        "market_value": 32790,
+        "land_value": 6540,
+        "improvement_value": 26250,
+        "land_value_percentage": 19.9,
+        "improvement_value_percentage": 80.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32790,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0373R00214000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0373R00214000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-94872-2026",
+        "filed_date": null,
+        "hearing_date": "8-Sep-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0373R00214000000",
+    "comparables": [
+      {
+        "parcel_id": "0373R00228000000",
+        "address": "970 GREENSBURG PIKE",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "970   GREENSBURG PIKE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37100,
+        "market_value": 55100,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0373M00368000000",
+        "address": "139 POWELL ST",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "139   POWELL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37000,
+        "market_value": 55000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0373L00178000000",
+        "address": "113 WALLACE AVE",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "113   WALLACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36800,
+        "market_value": 54800,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0373H00190000000",
+        "address": "238 CLINE ST",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "317   LEAX LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37500,
+        "market_value": 37500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0373L00148000000",
+        "address": "316 CLINE ST",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "316   CLINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37700,
+        "market_value": 55700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0373M00228000000",
+        "address": "267 CLINE ST",
+        "city": "Wilkins",
+        "zip_code": "15112",
+        "current_owner_name": "267   CLINE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35900,
+        "market_value": 53900,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

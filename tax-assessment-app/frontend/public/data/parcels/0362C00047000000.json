@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0362C00047000000",
+    "address": "1112 OAKMONT AVE",
+    "city": "Oakmont",
+    "zip_code": "15139",
+    "county": "Allegheny",
+    "current_owner_name": "1112   OAKMONT AVE",
+    "current_mailing_address": "1112   OAKMONT AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.049,
+    "latitude": 40.50868,
+    "longitude": -79.82958
+  },
+  "assessments": {
+    "parcel_id": "0362C00047000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 42000,
+        "market_value": 60000,
+        "land_value": 32099,
+        "improvement_value": 9901,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": -584,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 24000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 42584,
+        "market_value": 60834,
+        "land_value": 32546,
+        "improvement_value": 10038,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 2027,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 24584,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 40557,
+        "market_value": 57938,
+        "land_value": 30997,
+        "improvement_value": 9560,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 1559,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 22557,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38998,
+        "market_value": 55711,
+        "land_value": 29805,
+        "improvement_value": 9193,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 1135,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 20998,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37863,
+        "market_value": 54090,
+        "land_value": 28938,
+        "improvement_value": 8925,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 742,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19863,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 37121,
+        "market_value": 53030,
+        "land_value": 28371,
+        "improvement_value": 8750,
+        "land_value_percentage": 76.4,
+        "improvement_value_percentage": 23.6,
+        "market_to_assessed_ratio": 1.43,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19121,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0362C00047000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0362C00047000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-4685-2015",
+        "filed_date": null,
+        "hearing_date": "30-Jun-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0362C00047000000",
+    "comparables": [
+      {
+        "parcel_id": "0362F00111000000",
+        "address": "26 POTOMAC ST",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "695   BAIRDFORD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42500,
+        "market_value": 42500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0362G00171000000",
+        "address": "WOODLAND AVE",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "560   RIVERSIDE DR  UNIT 6J",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 46000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0362C00038000000",
+        "address": "1130 OAKMONT AVE",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "1130   OAKMONT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46400,
+        "market_value": 64400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0362F00269000000",
+        "address": "21 HUSTON RD",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "21   HUSTON RD",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 37000,
+        "market_value": 37000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0362C00034000000",
+        "address": "1136 OAKMONT AVE",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "6960   VERONA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0362D00380000000",
+        "address": "1162 OAKMONT AVE",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "1162   OAKMONT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34700,
+        "market_value": 52700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

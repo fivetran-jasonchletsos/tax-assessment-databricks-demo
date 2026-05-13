@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0041A00030000000",
+    "address": "1344 PRITCHARD ST",
+    "city": "12003",
+    "zip_code": "15204",
+    "county": "Allegheny",
+    "current_owner_name": "1344   PRITCHARD ST",
+    "current_mailing_address": "1344   PRITCHARD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.069,
+    "latitude": 40.46656,
+    "longitude": -80.06968
+  },
+  "assessments": {
+    "parcel_id": "0041A00030000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 47000,
+        "market_value": 47000,
+        "land_value": 11200,
+        "improvement_value": 35800,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2922,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 47000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 44078,
+        "market_value": 44078,
+        "land_value": 10503,
+        "improvement_value": 33575,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1283,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 44078,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 42795,
+        "market_value": 42795,
+        "land_value": 10197,
+        "improvement_value": 32598,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 839,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42795,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 41956,
+        "market_value": 41956,
+        "land_value": 9998,
+        "improvement_value": 31958,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 415,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41956,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 41541,
+        "market_value": 41541,
+        "land_value": 9899,
+        "improvement_value": 31642,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41541,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 41541,
+        "market_value": 41541,
+        "land_value": 9899,
+        "improvement_value": 31642,
+        "land_value_percentage": 23.8,
+        "improvement_value_percentage": 76.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41541,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0041A00030000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0041A00030000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0041A00030000000",
+    "comparables": [
+      {
+        "parcel_id": "0021N00041000000",
+        "address": "2723 MERWYN AVE",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "6744   OLIVER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 47200,
+        "market_value": 47200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0007N00179000000",
+        "address": "5 BALFOUR ST",
+        "city": "12003",
+        "zip_code": "15220",
+        "current_owner_name": "79   BALFOUR ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46700,
+        "market_value": 46700,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0005K00018000000",
+        "address": "1417 WOODRUFF ST",
+        "city": "12003",
+        "zip_code": "15220",
+        "current_owner_name": "87  W PROSPECT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46400,
+        "market_value": 46400,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0021N00043000000",
+        "address": "2715 MERWYN AVE",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "3201   MCKNIGHT EAST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 47700,
+        "market_value": 47700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0021N00336000000",
+        "address": "2633 GLASGOW ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "2633   GLASGOW ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 47700,
+        "market_value": 47700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0021P00038000000",
+        "address": "329 OTTERSON ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "329   OTTERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 64000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

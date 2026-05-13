@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.152,
-    "latitude": 40.42664,
-    "longitude": -79.9271
+    "latitude": 40.41964,
+    "longitude": -79.9175
   },
   "assessments": {
     "parcel_id": "0052M00012000000",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0052R00067000000",
+        "address": "5125 BEELER ST",
+        "city": "11401",
+        "zip_code": "15217",
+        "current_owner_name": "5271   FORBES AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 357000,
+        "market_value": 357000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0052M00174000000",
         "address": "5414 WILKINS AVE",
         "city": "11401",
@@ -158,7 +171,7 @@
         "assessed_value": 362100,
         "market_value": 362100,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052M00061000000",
@@ -171,7 +184,7 @@
         "assessed_value": 366600,
         "market_value": 366600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00008000000",
@@ -184,19 +197,6 @@
         "assessed_value": 367900,
         "market_value": 385900,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052M00168000000",
-        "address": "5404 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5404   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 327000,
-        "market_value": 345000,
-        "assessed_value_change_pct": -1.7,
         "distance_miles": 1.1
       }
     ]

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.04,
-    "latitude": 40.4384,
-    "longitude": -79.9305
+    "latitude": 40.4405,
+    "longitude": -79.9319
   },
   "assessments": {
     "parcel_id": "0051D00150000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0051D00228000000",
+        "address": "335 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "335  S FAIRMOUNT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0051C00215000000",
         "address": "304 S AIKEN AVE",
         "city": "10802",
@@ -210,7 +223,7 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       }
     ]
   }

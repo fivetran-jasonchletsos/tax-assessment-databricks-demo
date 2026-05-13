@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0704F00101000000",
+    "address": "32 OHIO RIVER BLVD",
+    "city": "Leetsdale",
+    "zip_code": "15056",
+    "county": "Allegheny",
+    "current_owner_name": "432   GLENWOOD DR",
+    "current_mailing_address": "432   GLENWOOD DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.046,
+    "latitude": 40.55456,
+    "longitude": -80.21158
+  },
+  "assessments": {
+    "parcel_id": "0704F00101000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 39700,
+        "market_value": 39700,
+        "land_value": 16100,
+        "improvement_value": 23600,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 630,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 39070,
+        "market_value": 39070,
+        "land_value": 15844,
+        "improvement_value": 23226,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -395,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39070,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 39465,
+        "market_value": 39465,
+        "land_value": 16004,
+        "improvement_value": 23461,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1879,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39465,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37586,
+        "market_value": 37586,
+        "land_value": 15242,
+        "improvement_value": 22344,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1445,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37586,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 36141,
+        "market_value": 36141,
+        "land_value": 14656,
+        "improvement_value": 21485,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1052,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36141,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35089,
+        "market_value": 35089,
+        "land_value": 14230,
+        "improvement_value": 20859,
+        "land_value_percentage": 40.6,
+        "improvement_value_percentage": 59.4,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35089,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0704F00101000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0704F00101000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0704F00101000000",
+    "comparables": [
+      {
+        "parcel_id": "0704B00157000000",
+        "address": "318 BEAVER ST",
+        "city": "Leetsdale",
+        "zip_code": "15056",
+        "current_owner_name": "2493   BROADHEAD RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 40000,
+        "market_value": 40000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0704B00004000000",
+        "address": "77 BROAD ST",
+        "city": "Leetsdale",
+        "zip_code": "15056",
+        "current_owner_name": "2677   WAGAR RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 39000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0814D00275000000",
+        "address": "14 BEAVER ST",
+        "city": "Leetsdale",
+        "zip_code": "15003",
+        "current_owner_name": "14   BEAVER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40600,
+        "market_value": 58600,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0704A00269000000",
+        "address": "473 WASHINGTON ST",
+        "city": "Leetsdale",
+        "zip_code": "15056",
+        "current_owner_name": "REGULAR-ETUX OR ET VIR",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 38700,
+        "market_value": 56700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0704A00079000000",
+        "address": "275 BEAVER ST",
+        "city": "Leetsdale",
+        "zip_code": "15056",
+        "current_owner_name": "275   BEAVER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41000,
+        "market_value": 59000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0814D00081000000",
+        "address": "7 DAVIS RD",
+        "city": "Leetsdale",
+        "zip_code": "15003",
+        "current_owner_name": "7   DAVIS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41500,
+        "market_value": 59500,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

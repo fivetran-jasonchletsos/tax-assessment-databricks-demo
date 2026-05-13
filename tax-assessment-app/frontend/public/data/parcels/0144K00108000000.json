@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0144K00108000000",
+    "address": "1726 MAIN ST",
+    "city": "Scott",
+    "zip_code": "15017",
+    "county": "Allegheny",
+    "current_owner_name": "1253   MCEWEN AVE",
+    "current_mailing_address": "1253   MCEWEN AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.195,
+    "latitude": 40.33676,
+    "longitude": -80.10558
+  },
+  "assessments": {
+    "parcel_id": "0144K00108000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 233200,
+        "market_value": 233200,
+        "land_value": 40300,
+        "improvement_value": 192900,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 22987,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 233200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 210213,
+        "market_value": 210213,
+        "land_value": 36327,
+        "improvement_value": 173886,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4121,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 210213,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 206092,
+        "market_value": 206092,
+        "land_value": 35615,
+        "improvement_value": 170477,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2040,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 206092,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 204052,
+        "market_value": 204052,
+        "land_value": 35262,
+        "improvement_value": 168790,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 204052,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 204052,
+        "market_value": 204052,
+        "land_value": 35262,
+        "improvement_value": 168790,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2062,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 204052,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 206114,
+        "market_value": 206114,
+        "land_value": 35619,
+        "improvement_value": 170495,
+        "land_value_percentage": 17.3,
+        "improvement_value_percentage": 82.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 206114,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0144K00108000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0144K00108000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0144K00108000000",
+    "comparables": [
+      {
+        "parcel_id": "0144P00124000000",
+        "address": "1737 MAIN ST",
+        "city": "Scott",
+        "zip_code": "15017",
+        "current_owner_name": "1737   MAIN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 226500,
+        "market_value": 244500,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0099F00058040400",
+        "address": "1500 COCHRAN RD",
+        "city": "Scott",
+        "zip_code": "15243",
+        "current_owner_name": "1500   COCHRAN RD  UNIT 404",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 178900,
+        "market_value": 196900,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

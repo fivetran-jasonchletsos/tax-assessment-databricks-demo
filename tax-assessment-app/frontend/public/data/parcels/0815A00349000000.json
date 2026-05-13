@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0815A00349000000",
+    "address": "206 HIGH ST",
+    "city": "Leet",
+    "zip_code": "15003",
+    "county": "Allegheny",
+    "current_owner_name": "199   HILL ST",
+    "current_mailing_address": "199   HILL ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.241,
+    "latitude": 40.5903,
+    "longitude": -80.22226
+  },
+  "assessments": {
+    "parcel_id": "0815A00349000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32700,
+        "market_value": 50700,
+        "land_value": 14500,
+        "improvement_value": 18200,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 807,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 31893,
+        "market_value": 49448,
+        "land_value": 14142,
+        "improvement_value": 17751,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 1226,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13893,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30667,
+        "market_value": 47547,
+        "land_value": 13598,
+        "improvement_value": 17069,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 893,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 12667,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29774,
+        "market_value": 46163,
+        "land_value": 13202,
+        "improvement_value": 16572,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 583,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11774,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29191,
+        "market_value": 45259,
+        "land_value": 12944,
+        "improvement_value": 16247,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 289,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11191,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28902,
+        "market_value": 44811,
+        "land_value": 12815,
+        "improvement_value": 16087,
+        "land_value_percentage": 44.3,
+        "improvement_value_percentage": 55.7,
+        "market_to_assessed_ratio": 1.55,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10902,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0815A00349000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0815A00349000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0815A00349000000",
+    "comparables": [
+      {
+        "parcel_id": "0933S00062000000",
+        "address": "3 BEECH ST",
+        "city": "Leet",
+        "zip_code": "15003",
+        "current_owner_name": "11   LITTLE SEWICKLEY CREEK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33500,
+        "market_value": 33500,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0933S00068000000",
+        "address": "5 BEECH ST",
+        "city": "Leet",
+        "zip_code": "15003",
+        "current_owner_name": "5   BEECH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34300,
+        "market_value": 52300,
+        "assessed_value_change_pct": 0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0933S00215000000",
+        "address": "47 PLUM ST",
+        "city": "Leet",
+        "zip_code": "15003",
+        "current_owner_name": "52   PLUM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 30200,
+        "market_value": 48200,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0933S00134000000",
+        "address": "43 BEECH ST",
+        "city": "Leet",
+        "zip_code": "15003",
+        "current_owner_name": "43   BEECH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40500,
+        "market_value": 58500,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

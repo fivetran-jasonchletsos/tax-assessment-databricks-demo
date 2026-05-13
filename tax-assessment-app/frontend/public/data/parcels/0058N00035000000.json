@@ -1,0 +1,291 @@
+{
+  "parcel": {
+    "parcel_id": "0058N00035000000",
+    "address": "1154 CLOVERFIELD DR",
+    "city": "Baldwin Boro",
+    "zip_code": "15227",
+    "county": "Allegheny",
+    "current_owner_name": "1154   CLOVERFIELD DR",
+    "current_mailing_address": "1154   CLOVERFIELD DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.149,
+    "latitude": 40.37078,
+    "longitude": -79.97846
+  },
+  "assessments": {
+    "parcel_id": "0058N00035000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 77300,
+        "market_value": 95300,
+        "land_value": 26100,
+        "improvement_value": 51200,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": 5571,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 59300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 71729,
+        "market_value": 88431,
+        "land_value": 24218,
+        "improvement_value": 47511,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": 710,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 53729,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 71019,
+        "market_value": 87556,
+        "land_value": 23979,
+        "improvement_value": 47040,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 53019,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 71019,
+        "market_value": 87556,
+        "land_value": 23979,
+        "improvement_value": 47040,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": -718,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 53019,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 71737,
+        "market_value": 88441,
+        "land_value": 24221,
+        "improvement_value": 47516,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": 3416,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 53737,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 68321,
+        "market_value": 84230,
+        "land_value": 23068,
+        "improvement_value": 45253,
+        "land_value_percentage": 33.8,
+        "improvement_value_percentage": 66.2,
+        "market_to_assessed_ratio": 1.23,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 50321,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0058N00035000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0058N00035000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-56947-2022",
+        "filed_date": null,
+        "hearing_date": "6-Sep-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-72467-2023",
+        "filed_date": null,
+        "hearing_date": "6-Sep-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0058N00035000000",
+    "comparables": [
+      {
+        "parcel_id": "0058N00084000000",
+        "address": "1146 MICHAEL DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1146   MICHAEL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 77700,
+        "market_value": 95700,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0058J00164000000",
+        "address": "962 AGNEW RD",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1812  E CARSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 76600,
+        "market_value": 76600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0058N00082000000",
+        "address": "1140 MICHAEL DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1140   MICHAEL DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 78500,
+        "market_value": 96500,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0058J00020000000",
+        "address": "983 AGNEW RD",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "983   AGNEW RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 78700,
+        "market_value": 96700,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0058J00084000000",
+        "address": "1007 TOWERVUE DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1007   TOWERVUE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75900,
+        "market_value": 93900,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0058J00078000000",
+        "address": "1238 CLOVERFIELD DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1238   CLOVERFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 79200,
+        "market_value": 97200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

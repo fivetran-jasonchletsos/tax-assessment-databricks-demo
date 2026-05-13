@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "VACANT LAND",
     "acreage": 0.319,
-    "latitude": 40.51748,
-    "longitude": -79.94924
+    "latitude": 40.52718,
+    "longitude": -79.95384
   },
   "assessments": {
     "parcel_id": "0284D00048000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0284D00048000000",
     "comparables": [
       {
+        "parcel_id": "0166C00185000000",
+        "address": "326 DEWEY AVENUE EXT",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "326   DEWEY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50700,
+        "market_value": 50700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285C00079000000",
         "address": "SAXONBURG BLVD",
         "city": "Shaler",
@@ -132,7 +145,7 @@
         "assessed_value": 51200,
         "market_value": 51200,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0285J00024000000",
@@ -145,58 +158,45 @@
         "assessed_value": 51500,
         "market_value": 69500,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0520L00290000000",
-        "address": "2900 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2900   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 53400,
-        "market_value": 71400,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0285F00073000000",
-        "address": "993 SAXONBURG BLVD",
+        "parcel_id": "0166C00197000000",
+        "address": "332 DEWEY AVENUE EXT",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "993   SAXONBURG BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "332   DEWEY AVE EXT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 46800,
-        "market_value": 64800,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 51900,
+        "market_value": 69900,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0284D00065000000",
-        "address": "1066 WILLIAM FLYNN HWY",
+        "parcel_id": "0166D00035000000",
+        "address": "184 SEAVEY RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "806   BREEZEWOOD DR",
+        "zip_code": "15223",
+        "current_owner_name": "184   SEAVEY RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 55000,
-        "market_value": 55000,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 52900,
+        "market_value": 70900,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0355K00219000000",
-        "address": "1510 MOUNT ROYAL BLVD",
+        "parcel_id": "0166C00165000000",
+        "address": "300 COLEMAN WAY",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1510   MOUNT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "300   COLEMAN WAY",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 55000,
-        "market_value": 73000,
-        "assessed_value_change_pct": -1.5,
+        "assessed_value": 47400,
+        "market_value": 65400,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

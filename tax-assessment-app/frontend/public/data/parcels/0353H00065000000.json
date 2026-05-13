@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.289,
-    "latitude": 40.51748,
-    "longitude": -79.9496
+    "latitude": 40.52718,
+    "longitude": -79.9542
   },
   "assessments": {
     "parcel_id": "0353H00065000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0166D00066000000",
+        "address": "17 BUTTERFIELD AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "17   BUTTERFIELD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102700,
+        "market_value": 102700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0353H00095000000",
         "address": "115 PARK LN",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 102600,
         "market_value": 120600,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0520G00112000000",
@@ -236,19 +249,6 @@
         "assessed_value": 103200,
         "market_value": 103200,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0284D00067000000",
-        "address": "1064 WILLIAM FLYNN HWY",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1064   WILLIAM FLYNN HWY",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103500,
-        "market_value": 103500,
-        "assessed_value_change_pct": -2.5,
         "distance_miles": 1.1
       }
     ]

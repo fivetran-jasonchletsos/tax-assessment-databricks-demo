@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0013A00006000000",
+    "address": "1511 SAINT PATRICK ST",
+    "city": "11702",
+    "zip_code": "15210",
+    "county": "Allegheny",
+    "current_owner_name": "212   16TH ST",
+    "current_mailing_address": "212   16TH ST",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.076,
+    "latitude": 40.4186,
+    "longitude": -79.98534
+  },
+  "assessments": {
+    "parcel_id": "0013A00006000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 85200,
+        "market_value": 85200,
+        "land_value": 24900,
+        "improvement_value": 60300,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1191,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 85200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 86391,
+        "market_value": 86391,
+        "land_value": 25248,
+        "improvement_value": 61143,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4113,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 86391,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 82278,
+        "market_value": 82278,
+        "land_value": 24046,
+        "improvement_value": 58232,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3164,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 82278,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 79114,
+        "market_value": 79114,
+        "land_value": 23121,
+        "improvement_value": 55993,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2304,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 79114,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 76810,
+        "market_value": 76810,
+        "land_value": 22447,
+        "improvement_value": 54363,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1506,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 76810,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 75304,
+        "market_value": 75304,
+        "land_value": 22007,
+        "improvement_value": 53297,
+        "land_value_percentage": 29.2,
+        "improvement_value_percentage": 70.8,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 75304,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0013A00006000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0013A00006000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0013A00006000000",
+    "comparables": [
+      {
+        "parcel_id": "0013A00003000000",
+        "address": "1515 SAINT PATRICK ST",
+        "city": "11702",
+        "zip_code": "15210",
+        "current_owner_name": "300   SEWARD ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 86000,
+        "market_value": 86000,
+        "assessed_value_change_pct": 12.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

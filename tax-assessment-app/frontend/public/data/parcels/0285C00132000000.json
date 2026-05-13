@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.172,
-    "latitude": 40.51676,
-    "longitude": -79.95668
+    "latitude": 40.52646,
+    "longitude": -79.96128
   },
   "assessments": {
     "parcel_id": "0285C00132000000",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0166D00121000000",
+        "address": "117 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "117   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0355A00176000000",
         "address": "1832 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -158,7 +171,7 @@
         "assessed_value": 100600,
         "market_value": 100600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0285F00112000000",
@@ -171,7 +184,7 @@
         "assessed_value": 99900,
         "market_value": 117900,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353D00057000000",
@@ -184,19 +197,6 @@
         "assessed_value": 100700,
         "market_value": 100700,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353H00068000000",
-        "address": "825 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "825   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 99900,
-        "market_value": 117900,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

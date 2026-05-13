@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0017F00114000000",
+    "address": "118 E MANILLA AVE",
+    "city": "Greentree",
+    "zip_code": "15220",
+    "county": "Allegheny",
+    "current_owner_name": "118  E MANILLA AVE",
+    "current_mailing_address": "118  E MANILLA AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.143,
+    "latitude": 40.40658,
+    "longitude": -80.04948
+  },
+  "assessments": {
+    "parcel_id": "0017F00114000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 165800,
+        "market_value": 183800,
+        "land_value": 45099,
+        "improvement_value": 120701,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": 7377,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 147800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 158423,
+        "market_value": 175622,
+        "land_value": 43093,
+        "improvement_value": 115330,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 140423,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 158423,
+        "market_value": 175622,
+        "land_value": 43093,
+        "improvement_value": 115330,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": -1601,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 140423,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 160024,
+        "market_value": 177396,
+        "land_value": 43528,
+        "improvement_value": 116496,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": 7620,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 142024,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 152404,
+        "market_value": 168949,
+        "land_value": 41456,
+        "improvement_value": 110948,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": 5861,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 134404,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 146543,
+        "market_value": 162452,
+        "land_value": 39861,
+        "improvement_value": 106682,
+        "land_value_percentage": 27.2,
+        "improvement_value_percentage": 72.8,
+        "market_to_assessed_ratio": 1.11,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 128543,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0017F00114000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0017F00114000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-45419-2021",
+        "filed_date": null,
+        "hearing_date": "9-Jul-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0017F00114000000",
+    "comparables": [
+      {
+        "parcel_id": "0017F00082000000",
+        "address": "88 E MANILLA AVE",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "88  E MANILLA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 164000,
+        "market_value": 182000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0017A00115000000",
+        "address": "1000 HECKLER DR",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "1000   HECKLER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 170900,
+        "market_value": 188900,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0017F00088000000",
+        "address": "94 E MANILLA AVE",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "94  E MANILLA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 172100,
+        "market_value": 190100,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0017F00080000000",
+        "address": "12 E MANILLA AVE",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "12  E MANILLA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 172800,
+        "market_value": 190800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0017B00010000000",
+        "address": "898 GREENTREE RD",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "898   GREENTREE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154500,
+        "market_value": 172500,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0017A00150000000",
+        "address": "900 HECKLER DR",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "900   HECKLER DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 179200,
+        "market_value": 197200,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

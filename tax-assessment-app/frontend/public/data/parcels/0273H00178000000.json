@@ -1,0 +1,217 @@
+{
+  "parcel": {
+    "parcel_id": "0273H00178000000",
+    "address": "109 CONRAD ST",
+    "city": "Glenfield",
+    "zip_code": "15143",
+    "county": "Allegheny",
+    "current_owner_name": "109   CONRAD ST",
+    "current_mailing_address": "109   CONRAD ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.385,
+    "latitude": 40.5474,
+    "longitude": -80.16548
+  },
+  "assessments": {
+    "parcel_id": "0273H00178000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 237500,
+        "market_value": 255500,
+        "land_value": 51100,
+        "improvement_value": 186400,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 23410,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 219500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 214090,
+        "market_value": 230315,
+        "land_value": 46063,
+        "improvement_value": 168027,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 4197,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 196090,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 209893,
+        "market_value": 225800,
+        "land_value": 45160,
+        "improvement_value": 164733,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 2078,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 191893,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 207815,
+        "market_value": 223565,
+        "land_value": 44713,
+        "improvement_value": 163102,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 189815,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 207815,
+        "market_value": 223565,
+        "land_value": 44713,
+        "improvement_value": 163102,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": -2100,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 189815,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 209915,
+        "market_value": 225824,
+        "land_value": 45164,
+        "improvement_value": 164751,
+        "land_value_percentage": 21.5,
+        "improvement_value_percentage": 78.5,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 191915,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0273H00178000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0273H00178000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0273H00178000000",
+    "comparables": [
+      {
+        "parcel_id": "0274G00135000000",
+        "address": "82 HILL RD",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "314   KILBUCK ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 245500,
+        "market_value": 245500,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0273G00012000000",
+        "address": "277 DAWSON AVE",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "277   DAWSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 266600,
+        "market_value": 284600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0273H00093000000",
+        "address": "237 DAWSON AVE",
+        "city": "Glenfield",
+        "zip_code": "15143",
+        "current_owner_name": "237   DAWSON AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 193600,
+        "market_value": 193600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

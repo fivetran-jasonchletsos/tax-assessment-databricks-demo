@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 3.45,
-    "latitude": 40.51832,
-    "longitude": -79.94948
+    "latitude": 40.52802,
+    "longitude": -79.95408
   },
   "assessments": {
     "parcel_id": "0356R00230000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0166D00040000002",
+        "address": "2 BUTTERFIELD AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "2   BUTTERFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 86700,
+        "market_value": 104700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0520R00134000000",
         "address": "2709 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -197,7 +210,7 @@
         "assessed_value": 86700,
         "market_value": 104700,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0353H00060000000",
@@ -210,19 +223,6 @@
         "assessed_value": 87400,
         "market_value": 105400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0355J00068000000",
-        "address": "1707 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1707   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 87400,
-        "market_value": 105400,
-        "assessed_value_change_pct": -1.3,
         "distance_miles": 0.7
       },
       {
@@ -239,16 +239,16 @@
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285F00116000000",
-        "address": "1007 SAXONBURG BLVD",
+        "parcel_id": "0355J00068000000",
+        "address": "1707 MOUNT ROYAL BLVD",
         "city": "Shaler",
         "zip_code": "15116",
-        "current_owner_name": "1007   SAXONBURG BLVD",
+        "current_owner_name": "1707   MOUNT ROYAL BLVD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 86400,
-        "market_value": 104400,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 87400,
+        "market_value": 105400,
+        "assessed_value_change_pct": -1.3,
         "distance_miles": 1.1
       }
     ]

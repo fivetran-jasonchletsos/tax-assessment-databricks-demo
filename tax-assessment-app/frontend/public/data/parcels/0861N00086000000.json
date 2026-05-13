@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0861N00086000000",
+    "address": "535 5TH STREET EXT",
+    "city": "Trafford",
+    "zip_code": "15085",
+    "county": "Allegheny",
+    "current_owner_name": "706   BLUE RIDGE RD",
+    "current_mailing_address": "706   BLUE RIDGE RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "FOUR FAMILY",
+    "acreage": 0.14,
+    "latitude": 40.37694,
+    "longitude": -79.72854
+  },
+  "assessments": {
+    "parcel_id": "0861N00086000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 69000,
+        "market_value": 69000,
+        "land_value": 35200,
+        "improvement_value": 33800,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6803,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 69000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 62197,
+        "market_value": 62197,
+        "land_value": 31729,
+        "improvement_value": 30468,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1219,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62197,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 60978,
+        "market_value": 60978,
+        "land_value": 31107,
+        "improvement_value": 29871,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 603,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60978,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 60375,
+        "market_value": 60375,
+        "land_value": 30800,
+        "improvement_value": 29575,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60375,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 60375,
+        "market_value": 60375,
+        "land_value": 30800,
+        "improvement_value": 29575,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -610,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60375,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 60985,
+        "market_value": 60985,
+        "land_value": 31111,
+        "improvement_value": 29874,
+        "land_value_percentage": 51.0,
+        "improvement_value_percentage": 49.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 60985,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0861N00086000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0861N00086000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-13728-2016",
+        "filed_date": null,
+        "hearing_date": "14-Jun-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0861N00086000000",
+    "comparables": [
+      {
+        "parcel_id": "0749H00245000000",
+        "address": "5 MAPLE ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "5   MAPLE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 87000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0861N00090000000",
+        "address": "543 5TH STREET EXT",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "706   BLUE RIDGE RD",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 69000,
+        "market_value": 69000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0749H00198000000",
+        "address": "177 STEWART ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "177   STEWART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67800,
+        "market_value": 85800,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0749H00257000000",
+        "address": "27 BLUFF ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "27   BLUFF ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 70700,
+        "market_value": 88700,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0749H00192000000",
+        "address": "175 STEWART ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "175   STEWART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 71300,
+        "market_value": 89300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0749H00188000000",
+        "address": "173 STEWART ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "173   STEWART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 65800,
+        "market_value": 65800,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

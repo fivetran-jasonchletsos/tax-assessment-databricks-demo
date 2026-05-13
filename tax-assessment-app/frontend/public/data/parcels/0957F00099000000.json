@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0957F00099000000",
+    "address": "31 ROWE ST",
+    "city": "Indiana",
+    "zip_code": "15075",
+    "county": "Allegheny",
+    "current_owner_name": "912   SETTLERS RIDGE RD",
+    "current_mailing_address": "912   SETTLERS RIDGE RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.151,
+    "latitude": 40.42588,
+    "longitude": -80.0284
+  },
+  "assessments": {
+    "parcel_id": "0957F00099000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 63700,
+        "market_value": 63700,
+        "land_value": 33200,
+        "improvement_value": 30500,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1570,
+        "assessed_value_change_pct": 2.53,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 63700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 62130,
+        "market_value": 62130,
+        "land_value": 32381,
+        "improvement_value": 29749,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2389,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 62130,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 59741,
+        "market_value": 59741,
+        "land_value": 31136,
+        "improvement_value": 28605,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1740,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 59741,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 58001,
+        "market_value": 58001,
+        "land_value": 30229,
+        "improvement_value": 27772,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1137,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 58001,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 56864,
+        "market_value": 56864,
+        "land_value": 29637,
+        "improvement_value": 27227,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 563,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56864,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 56301,
+        "market_value": 56301,
+        "land_value": 29343,
+        "improvement_value": 26958,
+        "land_value_percentage": 52.1,
+        "improvement_value_percentage": 47.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 56301,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0957F00099000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0957F00099000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-14120-2016",
+        "filed_date": null,
+        "hearing_date": "16-Jun-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-44111-2020",
+        "filed_date": null,
+        "hearing_date": "7-Jul-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0957F00099000000",
+    "comparables": [
+      {
+        "parcel_id": "0725B00226000000",
+        "address": "20 CREST DR",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "20   CREST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63700,
+        "market_value": 81700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0725A00009000000",
+        "address": "22 CREST DR",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "22   CREST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 63900,
+        "market_value": 81900,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0957F00117000000",
+        "address": "13 RING ST",
+        "city": "Indiana",
+        "zip_code": "15075",
+        "current_owner_name": "PO BOX 204",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 63900,
+        "market_value": 81900,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0725A00078000000",
+        "address": "43 VICTORY WAY",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "1431   WHITE CLOUD RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64000,
+        "market_value": 64000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0725A00220000000",
+        "address": "39 PARK DR",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "39   PARK DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64000,
+        "market_value": 82000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0725B00222000000",
+        "address": "19 CREST DR",
+        "city": "Indiana",
+        "zip_code": "15051",
+        "current_owner_name": "19   CREST DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64400,
+        "market_value": 64400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

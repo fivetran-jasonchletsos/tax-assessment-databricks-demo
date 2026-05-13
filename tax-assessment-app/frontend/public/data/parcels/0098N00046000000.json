@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.116,
-    "latitude": 40.3666,
-    "longitude": -80.05894
+    "latitude": 40.3606,
+    "longitude": -80.05194
   },
   "assessments": {
     "parcel_id": "0098N00046000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0098N00174000000",
+        "address": "421 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "421   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114000,
+        "market_value": 132000,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0098N00110000000",
         "address": "239 BOWER HILL RD",
         "city": "Mt.lebanon",
@@ -223,7 +236,7 @@
         "assessed_value": 123200,
         "market_value": 141200,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0098N00038000000",
@@ -236,19 +249,6 @@
         "assessed_value": 110900,
         "market_value": 128900,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0098N00078000000",
-        "address": "440 COOLIDGE AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "440   COOLIDGE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107000,
-        "market_value": 107000,
-        "assessed_value_change_pct": 0.5,
         "distance_miles": 1.1
       }
     ]

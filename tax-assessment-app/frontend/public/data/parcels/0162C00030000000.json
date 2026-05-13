@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0162C00030000000",
+    "address": "4520 PERRYSVILLE AVE",
+    "city": "Ross",
+    "zip_code": "15229",
+    "county": "Allegheny",
+    "current_owner_name": "1   ATLANTIC AVE",
+    "current_mailing_address": "1   ATLANTIC AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.821,
+    "latitude": 40.53218,
+    "longitude": -80.03964
+  },
+  "assessments": {
+    "parcel_id": "0162C00030000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 136500,
+        "market_value": 136500,
+        "land_value": 42800,
+        "improvement_value": 93700,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13455,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 136500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 123045,
+        "market_value": 123045,
+        "land_value": 38581,
+        "improvement_value": 84464,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2412,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 123045,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 120633,
+        "market_value": 120633,
+        "land_value": 37824,
+        "improvement_value": 82809,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1194,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120633,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 119439,
+        "market_value": 119439,
+        "land_value": 37450,
+        "improvement_value": 81989,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 119439,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 119439,
+        "market_value": 119439,
+        "land_value": 37450,
+        "improvement_value": 81989,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1207,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 119439,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 120646,
+        "market_value": 120646,
+        "land_value": 37828,
+        "improvement_value": 82818,
+        "land_value_percentage": 31.4,
+        "improvement_value_percentage": 68.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 120646,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0162C00030000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0162C00030000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-74136-2023",
+        "filed_date": null,
+        "hearing_date": "26-Sep-23",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0162C00030000000",
+    "comparables": [
+      {
+        "parcel_id": "0218D00072000000",
+        "address": "102 STEVENS DR",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "3000   SALISBURY CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135200,
+        "market_value": 135200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0216B00028000000",
+        "address": "163 SPRUCE CT",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "163   SPRUCE CT",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 134600,
+        "market_value": 134600,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0162C00063000000",
+        "address": "100 BENEDICT DR",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "1   ATLANTIC AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 134500,
+        "market_value": 134500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0218L00133000000",
+        "address": "134 RENFER ST",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "134   RENFER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140600,
+        "market_value": 140600,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0216B00091000000",
+        "address": "130 SPRUCE VALLEY DR",
+        "city": "Ross",
+        "zip_code": "15229",
+        "current_owner_name": "130   SPRUCE VALLEY DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 140800,
+        "market_value": 158800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0218L00195000000",
+        "address": "100 JOHN ST",
+        "city": "Ross",
+        "zip_code": "15237",
+        "current_owner_name": "150   RENFER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129600,
+        "market_value": 129600,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

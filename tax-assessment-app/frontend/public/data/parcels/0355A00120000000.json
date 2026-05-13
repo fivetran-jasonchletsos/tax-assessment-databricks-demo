@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": 40.51592,
-    "longitude": -79.9622
+    "latitude": 40.52562,
+    "longitude": -79.9668
   },
   "assessments": {
     "parcel_id": "0355A00120000000",
@@ -174,6 +174,45 @@
     "parcel_id": "0355A00120000000",
     "comparables": [
       {
+        "parcel_id": "0166C00214000000",
+        "address": "321 DEWEY AVENUE EXT",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "321   DEWEY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104200,
+        "market_value": 122200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0166D00123000000",
+        "address": "119 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "119   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 104200,
+        "market_value": 122200,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0435A00072000000",
+        "address": "612 STONERIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "612   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 103700,
+        "market_value": 121700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285C00138000000",
         "address": "1032 SAXONBURG BLVD",
         "city": "Shaler",
@@ -184,7 +223,7 @@
         "assessed_value": 104400,
         "market_value": 104400,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0284D00067000000",
@@ -197,7 +236,7 @@
         "assessed_value": 103500,
         "market_value": 103500,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355P00127000000",
@@ -210,45 +249,6 @@
         "assessed_value": 104600,
         "market_value": 104600,
         "assessed_value_change_pct": -0.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0520G00112000000",
-        "address": "3210 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3210   MT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103200,
-        "market_value": 103200,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00244000000",
-        "address": "804 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "804   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 104900,
-        "market_value": 122900,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00292000000",
-        "address": "104 PARK LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "104   PARK LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 103100,
-        "market_value": 121100,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

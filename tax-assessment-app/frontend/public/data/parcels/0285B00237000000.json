@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.363,
-    "latitude": 40.51736,
-    "longitude": -79.95032
+    "latitude": 40.52706,
+    "longitude": -79.95492
   },
   "assessments": {
     "parcel_id": "0285B00237000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0285B00237000000",
     "comparables": [
       {
+        "parcel_id": "0435A00130000000",
+        "address": "922 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "922   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 124000,
+        "market_value": 142000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0353C00053000000",
         "address": "107 FORLIVIEW RD",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 124100,
         "market_value": 142100,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0285B00249000000",
@@ -197,7 +210,7 @@
         "assessed_value": 124200,
         "market_value": 142200,
         "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0355A00117000000",
@@ -210,7 +223,7 @@
         "assessed_value": 123400,
         "market_value": 141400,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353D00111000000",
@@ -223,7 +236,7 @@
         "assessed_value": 123300,
         "market_value": 123300,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285F00134000000",
@@ -236,19 +249,6 @@
         "assessed_value": 123200,
         "market_value": 123200,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520C00264000000",
-        "address": "3309 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3309   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 123100,
-        "market_value": 141100,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

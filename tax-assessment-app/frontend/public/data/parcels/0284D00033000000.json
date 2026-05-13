@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.559,
-    "latitude": 40.51676,
-    "longitude": -79.95632
+    "latitude": 40.52646,
+    "longitude": -79.96092
   },
   "assessments": {
     "parcel_id": "0284D00033000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0166D00046000000",
+        "address": "6 BUTTERFIELD AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "3   CHRISTLER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 84300,
+        "market_value": 84300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285F00084000000",
         "address": "1004 SAXONBURG BLVD",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 84500,
         "market_value": 102500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353C00015000000",
@@ -236,19 +249,6 @@
         "assessed_value": 83100,
         "market_value": 101100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355K00230000000",
-        "address": "1518 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1518   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 82800,
-        "market_value": 100800,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "1366S00075000000",
+    "address": "SUMMIT DR",
+    "city": "Harrison",
+    "zip_code": "15065",
+    "county": "Allegheny",
+    "current_owner_name": "CORPORATION",
+    "current_mailing_address": "CORPORATION",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 2.151,
+    "latitude": 40.63382,
+    "longitude": -79.7315
+  },
+  "assessments": {
+    "parcel_id": "1366S00075000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 34200,
+        "market_value": 34200,
+        "land_value": 34200,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 544,
+        "assessed_value_change_pct": 1.62,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 33656,
+        "market_value": 33656,
+        "land_value": 33656,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -340,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33656,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 33996,
+        "market_value": 33996,
+        "land_value": 33996,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1618,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33996,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 32378,
+        "market_value": 32378,
+        "land_value": 32378,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1245,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32378,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 31133,
+        "market_value": 31133,
+        "land_value": 31133,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 906,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31133,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 30227,
+        "market_value": 30227,
+        "land_value": 30227,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30227,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1366S00075000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1366S00075000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "1366S00075000000",
+    "comparables": [
+      {
+        "parcel_id": "1366S00385000000",
+        "address": "LITTLE BULL CREEK",
+        "city": "Harrison",
+        "zip_code": "15065",
+        "current_owner_name": "1433   CARLISLE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 37200,
+        "market_value": 37200,
+        "assessed_value_change_pct": 1.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

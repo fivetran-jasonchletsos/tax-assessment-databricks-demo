@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.057,
-    "latitude": 40.50382,
-    "longitude": -79.9081
+    "latitude": 40.51632,
+    "longitude": -79.9168
   },
   "assessments": {
     "parcel_id": "0122C00040000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0122C00150000000",
+        "address": "113 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "1389   OLD FREEPORT RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 155300,
+        "market_value": 155300,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0122C00015000000",
         "address": "222 2ND ST",
         "city": "Aspinwall",
@@ -223,7 +236,7 @@
         "assessed_value": 154800,
         "market_value": 172800,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00023000000",
@@ -236,19 +249,6 @@
         "assessed_value": 153600,
         "market_value": 171600,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00012000000",
-        "address": "219 2ND ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "219   2ND ST",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 164300,
-        "market_value": 182300,
-        "assessed_value_change_pct": 13.5,
         "distance_miles": 1.1
       }
     ]

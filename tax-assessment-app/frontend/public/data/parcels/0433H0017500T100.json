@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "COMM AUX BUILDING",
     "acreage": null,
-    "latitude": 40.52204,
-    "longitude": -79.9622
+    "latitude": 40.53174,
+    "longitude": -79.9668
   },
   "assessments": {
     "parcel_id": "0433H0017500T100",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0166C00170000000",
+        "address": "310 DEWEY AVENUE EXT",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "310   DEWEY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 193500,
+        "market_value": 211500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285B00300000000",
         "address": "102 WADSWORTH DR",
         "city": "Shaler",
@@ -158,7 +171,7 @@
         "assessed_value": 193700,
         "market_value": 211700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0355D00028000000",
@@ -171,7 +184,7 @@
         "assessed_value": 190400,
         "market_value": 208400,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353C00062000000",
@@ -184,19 +197,6 @@
         "assessed_value": 194300,
         "market_value": 194300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520G00259000000",
-        "address": "3101 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3101   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 195100,
-        "market_value": 213100,
-        "assessed_value_change_pct": -2.7,
         "distance_miles": 1.1
       }
     ]

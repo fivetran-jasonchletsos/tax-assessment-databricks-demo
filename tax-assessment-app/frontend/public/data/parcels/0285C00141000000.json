@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.167,
-    "latitude": 40.51676,
-    "longitude": -79.9568
+    "latitude": 40.52646,
+    "longitude": -79.9614
   },
   "assessments": {
     "parcel_id": "0285C00141000000",
@@ -174,16 +174,16 @@
     "parcel_id": "0285C00141000000",
     "comparables": [
       {
-        "parcel_id": "0355B00098000000",
-        "address": "1537 BUTLER PLANK RD",
+        "parcel_id": "0166D00088000000",
+        "address": "6 SAMPSON AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1537   BUTLER PLANK RD",
+        "zip_code": "15223",
+        "current_owner_name": "6   SAMPSON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 80300,
-        "market_value": 98300,
-        "assessed_value_change_pct": -2.3,
+        "assessed_value": 80800,
+        "market_value": 98800,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 0.1
       },
       {
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0355B00098000000",
+        "address": "1537 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1537   BUTLER PLANK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80300,
+        "market_value": 98300,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285A00014000000",
         "address": "104 CANDLEWYCK DR",
         "city": "Shaler",
@@ -210,7 +223,7 @@
         "assessed_value": 80200,
         "market_value": 98200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0285F00100000000",
@@ -223,32 +236,19 @@
         "assessed_value": 80200,
         "market_value": 98200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
-        "parcel_id": "0520L00245000000",
-        "address": "2822 MOUNT ROYAL BLVD",
+        "parcel_id": "0166C00252000000",
+        "address": "192 SEAVEY RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2822   MOUNT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "192   SEAVEY RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 81300,
         "market_value": 99300,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285C00110000000",
-        "address": "1015 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "4802   GIBSONIA RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 81500,
-        "market_value": 81500,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value_change_pct": -3.7,
         "distance_miles": 1.1
       }
     ]

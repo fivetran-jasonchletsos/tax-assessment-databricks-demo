@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.096,
-    "latitude": 40.5164,
-    "longitude": -79.96016
+    "latitude": 40.5261,
+    "longitude": -79.96476
   },
   "assessments": {
     "parcel_id": "0285C00120000000",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0166C00282000000",
+        "address": "191 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "32   CAMBRIA POINT ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 57800,
+        "market_value": 57800,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0355K00219000000",
         "address": "1510 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -236,19 +249,6 @@
         "assessed_value": 55000,
         "market_value": 73000,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285C00065000000",
-        "address": "SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "REGULAR",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 58300,
-        "market_value": 58300,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

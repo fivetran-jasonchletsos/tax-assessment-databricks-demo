@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.122,
-    "latitude": 40.36576,
-    "longitude": -80.04334
+    "latitude": 40.35976,
+    "longitude": -80.03634
   },
   "assessments": {
     "parcel_id": "0098N00120000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0098N00218000000",
+        "address": "456 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "456  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 202400,
+        "market_value": 220400,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0098N00030000000",
         "address": "449 JAYSON AVE",
         "city": "Mt.lebanon",
@@ -210,7 +223,20 @@
         "assessed_value": 204000,
         "market_value": 222000,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0098N00208000000",
+        "address": "440 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "440  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 205200,
+        "market_value": 223200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0098N00050000000",
@@ -223,32 +249,6 @@
         "assessed_value": 194300,
         "market_value": 212300,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0098N00034000000",
-        "address": "439 JAYSON AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "439   JAYSON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 193400,
-        "market_value": 211400,
-        "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0098N00144000000",
-        "address": "444 CLOKEY AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "444   CLOKEY AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 213000,
-        "market_value": 231000,
-        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

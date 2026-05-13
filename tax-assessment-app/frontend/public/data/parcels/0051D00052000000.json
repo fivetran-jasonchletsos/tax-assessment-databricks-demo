@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.258,
-    "latitude": 40.43852,
-    "longitude": -79.92906
+    "latitude": 40.44062,
+    "longitude": -79.93046
   },
   "assessments": {
     "parcel_id": "0051D00052000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0051D00052000000",
     "comparables": [
       {
+        "parcel_id": "0051D00337000000",
+        "address": "304 S NEGLEY AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "304  S NEGLEY AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 302000,
+        "market_value": 320000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0051D00155000000",
         "address": "328 S FAIRMOUNT ST",
         "city": "10802",
@@ -184,7 +197,7 @@
         "assessed_value": 304200,
         "market_value": 304200,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0051C00247000000",
@@ -197,7 +210,7 @@
         "assessed_value": 290400,
         "market_value": 290400,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0051D00080000000",
@@ -210,45 +223,32 @@
         "assessed_value": 288900,
         "market_value": 306900,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0051D00054000000",
-        "address": "357 S GRAHAM ST",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "357  S GRAHAM ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 267200,
-        "market_value": 285200,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0051C00245000000",
-        "address": "347 S AIKEN AVE",
+        "parcel_id": "0051D00342000000",
+        "address": "330 S NEGLEY AVE",
         "city": "10802",
         "zip_code": "15232",
-        "current_owner_name": "PO BOX 90003",
+        "current_owner_name": "330  S NEGLEY AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 264700,
-        "market_value": 264700,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 323000,
+        "market_value": 341000,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0051D00066000000",
-        "address": "331 S GRAHAM ST",
+        "parcel_id": "0051D00163000000",
+        "address": "304 S FAIRMOUNT ST",
         "city": "10802",
         "zip_code": "15232",
-        "current_owner_name": "331  S GRAHAM ST",
+        "current_owner_name": "3233   PARKVIEW AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 263600,
-        "market_value": 281600,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 278300,
+        "market_value": 278300,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

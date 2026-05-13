@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.209,
-    "latitude": 40.51652,
-    "longitude": -79.95572
+    "latitude": 40.52622,
+    "longitude": -79.96032
   },
   "assessments": {
     "parcel_id": "0353C00026000000",
@@ -249,6 +249,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0434D00322000000",
+        "address": "901 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "901   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 143600,
+        "market_value": 161600,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0355D00154000000",
         "address": "1484 BUTLER PLANK RD",
         "city": "Shaler",
@@ -259,19 +272,6 @@
         "assessed_value": 144200,
         "market_value": 144200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285A00025000000",
-        "address": "507 GLEN MALCOLM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "507   GLEN MALCOLM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 143500,
-        "market_value": 161500,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

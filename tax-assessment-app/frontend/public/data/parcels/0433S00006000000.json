@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.24,
-    "latitude": 40.51808,
-    "longitude": -79.94876
+    "latitude": 40.52778,
+    "longitude": -79.95336
   },
   "assessments": {
     "parcel_id": "0433S00006000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0433S00006000000",
     "comparables": [
       {
+        "parcel_id": "0434D00316000000",
+        "address": "819 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "819   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 177000,
+        "market_value": 195000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0353D00083000000",
         "address": "202 ANDERSON PL",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 177000,
         "market_value": 177000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0433C00154000000",
@@ -197,7 +210,7 @@
         "assessed_value": 176600,
         "market_value": 194600,
         "assessed_value_change_pct": -4.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433S00033000000",
@@ -210,7 +223,7 @@
         "assessed_value": 176000,
         "market_value": 194000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0285A00008000000",
@@ -223,32 +236,19 @@
         "assessed_value": 175400,
         "market_value": 193400,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285B00243000000",
-        "address": "226 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "226  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 179400,
-        "market_value": 197400,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0433G00145000000",
-        "address": "2307 MOUNT ROYAL BLVD",
+        "parcel_id": "0434B00022000000",
+        "address": "2713 COLLEGE PARK RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2307   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2713   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 180300,
-        "market_value": 198300,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 174800,
+        "market_value": 174800,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

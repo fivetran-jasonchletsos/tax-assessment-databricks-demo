@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.186,
-    "latitude": 40.5176,
-    "longitude": -79.9502
+    "latitude": 40.5273,
+    "longitude": -79.9548
   },
   "assessments": {
     "parcel_id": "0285F00064000000",
@@ -174,6 +174,45 @@
     "parcel_id": "0285F00064000000",
     "comparables": [
       {
+        "parcel_id": "0434D00288000000",
+        "address": "903 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "903   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90800,
+        "market_value": 108800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0434D00264000000",
+        "address": "304 SHOREHAM DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "304   SHOREHAM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90500,
+        "market_value": 108500,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0435A00056000000",
+        "address": "611 STONERIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "611   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90400,
+        "market_value": 108400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285G00006000000",
         "address": "1014 SAXONBURG BLVD",
         "city": "Shaler",
@@ -184,7 +223,7 @@
         "assessed_value": 91000,
         "market_value": 109000,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0434P00182000000",
@@ -197,7 +236,7 @@
         "assessed_value": 91300,
         "market_value": 109300,
         "assessed_value_change_pct": -1.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0356R00146000000",
@@ -210,45 +249,6 @@
         "assessed_value": 91400,
         "market_value": 91400,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285F00122000000",
-        "address": "1005 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1005   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 91700,
-        "market_value": 109700,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0520C00258000000",
-        "address": "3307 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3307   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89500,
-        "market_value": 107500,
-        "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00026000000",
-        "address": "107 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "107   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 89400,
-        "market_value": 107400,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

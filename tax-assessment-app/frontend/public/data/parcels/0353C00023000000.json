@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.209,
-    "latitude": 40.51616,
-    "longitude": -79.95932
+    "latitude": 40.52586,
+    "longitude": -79.96392
   },
   "assessments": {
     "parcel_id": "0353C00023000000",
@@ -223,6 +223,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0166C00090000000",
+        "address": "202 SEAVEY RD",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "202   SEAVEY RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 132500,
+        "market_value": 150500,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0355K00024000000",
         "address": "1605 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -233,7 +246,20 @@
         "assessed_value": 131900,
         "market_value": 131900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434D00324000000",
+        "address": "903 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "903   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131800,
+        "market_value": 149800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0284D00025000000",
@@ -246,32 +272,6 @@
         "assessed_value": 132600,
         "market_value": 132600,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353H00079000000",
-        "address": "106 PARK LN",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "106   PARK LN",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 131800,
-        "market_value": 149800,
-        "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285A00020000000",
-        "address": "103 WADSWORTH DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "103   WADSWORTH DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 132900,
-        "market_value": 150900,
-        "assessed_value_change_pct": -5.1,
         "distance_miles": 1.1
       }
     ]

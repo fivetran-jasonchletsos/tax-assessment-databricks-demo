@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0034E00061000000",
+    "address": "1430 WEST LIBERTY AVE",
+    "city": "11904",
+    "zip_code": "15226",
+    "county": "Allegheny",
+    "current_owner_name": "1430  W LIBERTY AVE",
+    "current_mailing_address": "1430  W LIBERTY AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.116,
+    "latitude": 40.38846,
+    "longitude": -80.01346
+  },
+  "assessments": {
+    "parcel_id": "0034E00061000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 38100,
+        "market_value": 38100,
+        "land_value": 20000,
+        "improvement_value": 18100,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 605,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37495,
+        "market_value": 37495,
+        "land_value": 19682,
+        "improvement_value": 17813,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -379,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37495,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 37874,
+        "market_value": 37874,
+        "land_value": 19881,
+        "improvement_value": 17993,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1803,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37874,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 36071,
+        "market_value": 36071,
+        "land_value": 18934,
+        "improvement_value": 17137,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1387,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36071,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 34684,
+        "market_value": 34684,
+        "land_value": 18206,
+        "improvement_value": 16478,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1010,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34684,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 33674,
+        "market_value": 33674,
+        "land_value": 17676,
+        "improvement_value": 15998,
+        "land_value_percentage": 52.5,
+        "improvement_value_percentage": 47.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33674,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0034E00061000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0034E00061000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0034E00061000000",
+    "comparables": [
+      {
+        "parcel_id": "0034A00026000000",
+        "address": "225 DAWN AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "225   DAWN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38300,
+        "market_value": 56300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0034A00063000000",
+        "address": "215 CHARM AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "1001   PINEY RIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 39000,
+        "market_value": 39000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0034E00068000000",
+        "address": "1456 WEST LIBERTY AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "336   STATE ST",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 39200,
+        "market_value": 39200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0034A00015000000",
+        "address": "241 DAWN AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "241   DAWN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40200,
+        "market_value": 40200,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0015N00022000000",
+        "address": "310 DAWN AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "310   DAWN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33800,
+        "market_value": 51800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0015N00030000000",
+        "address": "308 CHARM AVE",
+        "city": "11904",
+        "zip_code": "15226",
+        "current_owner_name": "310   DAWN AVE",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 46300,
+        "market_value": 46300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

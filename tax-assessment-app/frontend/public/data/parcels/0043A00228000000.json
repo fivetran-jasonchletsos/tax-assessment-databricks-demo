@@ -1,0 +1,191 @@
+{
+  "parcel": {
+    "parcel_id": "0043A00228000000",
+    "address": "215 ERWIN PL",
+    "city": "Stowe",
+    "zip_code": "15136",
+    "county": "Allegheny",
+    "current_owner_name": "215   ERWIN PL",
+    "current_mailing_address": "215   ERWIN PL",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.236,
+    "latitude": 40.46018,
+    "longitude": -80.08148
+  },
+  "assessments": {
+    "parcel_id": "0043A00228000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41300,
+        "market_value": 59300,
+        "land_value": 12500,
+        "improvement_value": 28800,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": 1838,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 23300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 39462,
+        "market_value": 56660,
+        "land_value": 11943,
+        "improvement_value": 27519,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 21462,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 39462,
+        "market_value": 56660,
+        "land_value": 11943,
+        "improvement_value": 27519,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": -399,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 21462,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 39861,
+        "market_value": 57233,
+        "land_value": 12064,
+        "improvement_value": 27797,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": 1898,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 21861,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37963,
+        "market_value": 54508,
+        "land_value": 11490,
+        "improvement_value": 26473,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": 1460,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19963,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36503,
+        "market_value": 52412,
+        "land_value": 11048,
+        "improvement_value": 25455,
+        "land_value_percentage": 30.3,
+        "improvement_value_percentage": 69.7,
+        "market_to_assessed_ratio": 1.44,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 18503,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0043A00228000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0043A00228000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0043A00228000000",
+    "comparables": [
+      {
+        "parcel_id": "0043A00224000000",
+        "address": "2 JUVET ST",
+        "city": "Stowe",
+        "zip_code": "15136",
+        "current_owner_name": "2   JUVET ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50300,
+        "market_value": 50300,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

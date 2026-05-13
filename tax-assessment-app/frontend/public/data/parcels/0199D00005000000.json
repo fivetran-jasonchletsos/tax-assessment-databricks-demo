@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0199D00005000000",
+    "address": "CLUXTON RD",
+    "city": "Collier",
+    "zip_code": "15071",
+    "county": "Allegheny",
+    "current_owner_name": "REGULAR",
+    "current_mailing_address": "REGULAR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 3.0,
+    "latitude": 40.39274,
+    "longitude": -80.17904
+  },
+  "assessments": {
+    "parcel_id": "0199D00005000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 34500,
+        "market_value": 34500,
+        "land_value": 34500,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2489,
+        "assessed_value_change_pct": 7.78,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 32011,
+        "market_value": 32011,
+        "land_value": 32011,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 316,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32011,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31695,
+        "market_value": 31695,
+        "land_value": 31695,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31695,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 31695,
+        "market_value": 31695,
+        "land_value": 31695,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -321,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31695,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 32016,
+        "market_value": 32016,
+        "land_value": 32016,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1524,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32016,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 30492,
+        "market_value": 30492,
+        "land_value": 30492,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30492,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0199D00005000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0199D00005000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0199D00005000000",
+    "comparables": [
+      {
+        "parcel_id": "0199C00026000000",
+        "address": "HILLTOP RD",
+        "city": "Collier",
+        "zip_code": "15071",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "BUILDERS LOT",
+        "acreage": null,
+        "assessed_value": 33000,
+        "market_value": 33000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0200N00016000000",
+        "address": "42 WALKERS MILL RD",
+        "city": "Collier",
+        "zip_code": "15071",
+        "current_owner_name": "42   WALKERS MILL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38600,
+        "market_value": 38600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

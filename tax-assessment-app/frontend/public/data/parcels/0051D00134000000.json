@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.016,
-    "latitude": 40.43864,
-    "longitude": -79.92786
+    "latitude": 40.44074,
+    "longitude": -79.92926
   },
   "assessments": {
     "parcel_id": "0051D00134000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0051D00238000000",
+        "address": "315 S FAIRMOUNT ST",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "PO BOX 8222",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 140000,
+        "market_value": 140000,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0051C00218000000",
         "address": "310 S AIKEN AVE",
         "city": "10802",
@@ -197,7 +210,7 @@
         "assessed_value": 126000,
         "market_value": 126000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0051D00145000000",
@@ -210,7 +223,7 @@
         "assessed_value": 142000,
         "market_value": 160000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0051D00137000000",
@@ -223,7 +236,7 @@
         "assessed_value": 144400,
         "market_value": 162400,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051C00217000000",
@@ -236,19 +249,6 @@
         "assessed_value": 121500,
         "market_value": 139500,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051C00236000000",
-        "address": "344 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "3190   CANTERBURY DR",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 150000,
-        "market_value": 150000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

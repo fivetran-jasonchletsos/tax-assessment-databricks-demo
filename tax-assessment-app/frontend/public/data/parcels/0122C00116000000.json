@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "THREE FAMILY",
     "acreage": 0.115,
-    "latitude": 40.4803,
-    "longitude": -79.90318
+    "latitude": 40.4928,
+    "longitude": -79.91188
   },
   "assessments": {
     "parcel_id": "0122C00116000000",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0122C00154000000",
+        "address": "121 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "121   FREEPORT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 181300,
+        "market_value": 199300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0122C00016000000",
         "address": "220 2ND ST",
         "city": "Aspinwall",
@@ -158,7 +171,20 @@
         "assessed_value": 177900,
         "market_value": 177900,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0122D00012000000",
+        "address": "208 EMERSON AVE",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "107   WHITE GATE RD",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 182900,
+        "market_value": 182900,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0122C00030000000",
@@ -171,32 +197,6 @@
         "assessed_value": 176000,
         "market_value": 176000,
         "assessed_value_change_pct": 13.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0122C00118000000",
-        "address": "120 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "1819   MIDDLE RD",
-        "land_use_description": "THREE FAMILY",
-        "acreage": null,
-        "assessed_value": 175000,
-        "market_value": 175000,
-        "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00110000000",
-        "address": "136 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "4228   MONTRACHET CT",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 173900,
-        "market_value": 173900,
-        "assessed_value_change_pct": 13.3,
         "distance_miles": 1.1
       }
     ]

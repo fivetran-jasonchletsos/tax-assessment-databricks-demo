@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0259A00519000000",
+    "address": "2652 SALERNO DR",
+    "city": "Collier",
+    "zip_code": "15071",
+    "county": "Allegheny",
+    "current_owner_name": "2652   SALERNO DR",
+    "current_mailing_address": "2652   SALERNO DR",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.277,
+    "latitude": 40.39322,
+    "longitude": -80.19536
+  },
+  "assessments": {
+    "parcel_id": "0259A00519000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 296100,
+        "market_value": 296100,
+        "land_value": 59200,
+        "improvement_value": 236900,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4146,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 296100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 300246,
+        "market_value": 300246,
+        "land_value": 60028,
+        "improvement_value": 240218,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14297,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 300246,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 285949,
+        "market_value": 285949,
+        "land_value": 57170,
+        "improvement_value": 228779,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10998,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 285949,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 274951,
+        "market_value": 274951,
+        "land_value": 54971,
+        "improvement_value": 219980,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8008,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 274951,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 266943,
+        "market_value": 266943,
+        "land_value": 53370,
+        "improvement_value": 213573,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5234,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 266943,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 261709,
+        "market_value": 261709,
+        "land_value": 52324,
+        "improvement_value": 209385,
+        "land_value_percentage": 20.0,
+        "improvement_value_percentage": 80.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 261709,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0259A00519000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0259A00519000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-94456-2026",
+        "filed_date": null,
+        "hearing_date": "10-Nov-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0259A00519000000",
+    "comparables": [
+      {
+        "parcel_id": "0144A00011000000",
+        "address": "526 AZALEA LN",
+        "city": "Collier",
+        "zip_code": "15017",
+        "current_owner_name": "526   AZALEA LN",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 296000,
+        "market_value": 314000,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0146K00907000000",
+        "address": "907 CHERRY HILL DR",
+        "city": "Collier",
+        "zip_code": "15142",
+        "current_owner_name": "907   CHERRY HILL DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 296000,
+        "market_value": 314000,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0146K01005000000",
+        "address": "1005 CHERRY HILL DR",
+        "city": "Collier",
+        "zip_code": "15142",
+        "current_owner_name": "1005   CHERRY HILL DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 296000,
+        "market_value": 314000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0145K00001000000",
+        "address": "5345 THOMS RUN RD",
+        "city": "Collier",
+        "zip_code": "15142",
+        "current_owner_name": "5345   THOMS RUN RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 318000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0146J00105000000",
+        "address": "105 CHERRY HILL DR",
+        "city": "Collier",
+        "zip_code": "15142",
+        "current_owner_name": "105   CHERRY HILL DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 300000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0146J00607000000",
+        "address": "607 CHERRY HILL DR",
+        "city": "Collier",
+        "zip_code": "15142",
+        "current_owner_name": "352   45TH ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 292000,
+        "market_value": 310000,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

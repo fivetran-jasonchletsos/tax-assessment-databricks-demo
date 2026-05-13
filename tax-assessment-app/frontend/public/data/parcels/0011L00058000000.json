@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0011L00058000000",
+    "address": "2314 BEELEN ST",
+    "city": "10404",
+    "zip_code": "15213",
+    "county": "Allegheny",
+    "current_owner_name": "PO BOX 93",
+    "current_mailing_address": "PO BOX 93",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.07,
+    "latitude": 40.43332,
+    "longitude": -79.9672
+  },
+  "assessments": {
+    "parcel_id": "0011L00058000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 43100,
+        "market_value": 43100,
+        "land_value": 3200,
+        "improvement_value": 39900,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1919,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 41181,
+        "market_value": 41181,
+        "land_value": 3057,
+        "improvement_value": 38124,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41181,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 41181,
+        "market_value": 41181,
+        "land_value": 3057,
+        "improvement_value": 38124,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -416,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41181,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 41597,
+        "market_value": 41597,
+        "land_value": 3088,
+        "improvement_value": 38509,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1980,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41597,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 39617,
+        "market_value": 39617,
+        "land_value": 2941,
+        "improvement_value": 36676,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1523,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39617,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 38094,
+        "market_value": 38094,
+        "land_value": 2828,
+        "improvement_value": 35266,
+        "land_value_percentage": 7.4,
+        "improvement_value_percentage": 92.6,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38094,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0011L00058000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0011L00058000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0011L00058000000",
+    "comparables": [
+      {
+        "parcel_id": "0011L00043000000",
+        "address": "2327 5TH AVE",
+        "city": "10404",
+        "zip_code": "15213",
+        "current_owner_name": "2327   5TH AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 40900,
+        "market_value": 40900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

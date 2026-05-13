@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0025G00230000000",
+    "address": "2906 PENN AVE",
+    "city": "10601",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "2906   PENN AVE",
+    "current_mailing_address": "2906   PENN AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "ROWHOUSE",
+    "acreage": 0.021,
+    "latitude": 40.46356,
+    "longitude": -79.95136
+  },
+  "assessments": {
+    "parcel_id": "0025G00230000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 264000,
+        "market_value": 264000,
+        "land_value": 10200,
+        "improvement_value": 253800,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4178,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 264000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 259822,
+        "market_value": 259822,
+        "land_value": 10038,
+        "improvement_value": 249784,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -2625,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 259822,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 262447,
+        "market_value": 262447,
+        "land_value": 10139,
+        "improvement_value": 252308,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 12497,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 262447,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 249950,
+        "market_value": 249950,
+        "land_value": 9657,
+        "improvement_value": 240293,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9613,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 249950,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 240337,
+        "market_value": 240337,
+        "land_value": 9285,
+        "improvement_value": 231052,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 7000,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 240337,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 233337,
+        "market_value": 233337,
+        "land_value": 9015,
+        "improvement_value": 224322,
+        "land_value_percentage": 3.9,
+        "improvement_value_percentage": 96.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 233337,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025G00230000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025G00230000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-685-2015",
+        "filed_date": null,
+        "hearing_date": "8-Jun-15",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025G00230000000",
+    "comparables": [
+      {
+        "parcel_id": "0025G00229000000",
+        "address": "2908 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2908   PENN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 263300,
+        "market_value": 263300,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026B00320000000",
+        "address": "3721 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3721   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 274100,
+        "market_value": 292100,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026B00042000000",
+        "address": "3828 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3828   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 281200,
+        "market_value": 299200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026B00048000000",
+        "address": "3902 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3902   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 246500,
+        "market_value": 246500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0025G00231000000",
+        "address": "2904 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2904   PENN AVE",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 243300,
+        "market_value": 261300,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0026A00011000000",
+        "address": "3420 LIGONIER ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3420   LIGONIER ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 290600,
+        "market_value": 290600,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

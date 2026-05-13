@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "2007H00125000000",
+    "address": "5942 HECKERT RD",
+    "city": "Richland",
+    "zip_code": "15007",
+    "county": "Allegheny",
+    "current_owner_name": "125   IDA LN",
+    "current_mailing_address": "125   IDA LN",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.05,
+    "latitude": 40.63688,
+    "longitude": -79.92452
+  },
+  "assessments": {
+    "parcel_id": "2007H00125000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 41200,
+        "market_value": 41200,
+        "land_value": 29600,
+        "improvement_value": 11600,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -575,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41200,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 41775,
+        "market_value": 41775,
+        "land_value": 30013,
+        "improvement_value": 11762,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1989,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41775,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 39786,
+        "market_value": 39786,
+        "land_value": 28584,
+        "improvement_value": 11202,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1530,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39786,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38256,
+        "market_value": 38256,
+        "land_value": 27484,
+        "improvement_value": 10772,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1114,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38256,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37142,
+        "market_value": 37142,
+        "land_value": 26684,
+        "improvement_value": 10458,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 728,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37142,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 36414,
+        "market_value": 36414,
+        "land_value": 26161,
+        "improvement_value": 10253,
+        "land_value_percentage": 71.8,
+        "improvement_value_percentage": 28.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36414,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "2007H00125000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "2007H00125000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "2007H00125000000",
+    "comparables": [
+      {
+        "parcel_id": "2007D00100000000",
+        "address": "1001 VAN VELSOR DR",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "29   INDIAN FIELDS TRL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 39500,
+        "market_value": 39500,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "2007M00075000000",
+        "address": "5922 HECKERT RD",
+        "city": "Richland",
+        "zip_code": "15007",
+        "current_owner_name": "5922   HECKERT RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 50400,
+        "market_value": 68400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

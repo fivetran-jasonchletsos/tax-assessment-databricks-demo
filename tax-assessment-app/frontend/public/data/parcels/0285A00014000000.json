@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.207,
-    "latitude": 40.5164,
-    "longitude": -79.9586
+    "latitude": 40.5261,
+    "longitude": -79.9632
   },
   "assessments": {
     "parcel_id": "0285A00014000000",
@@ -187,19 +187,6 @@
         "distance_miles": 0.1
       },
       {
-        "parcel_id": "0355B00098000000",
-        "address": "1537 BUTLER PLANK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1537   BUTLER PLANK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 80300,
-        "market_value": 98300,
-        "assessed_value_change_pct": -2.3,
-        "distance_miles": 0.3
-      },
-      {
         "parcel_id": "0355B00055000000",
         "address": "1532 BUTLER PLANK RD",
         "city": "Shaler",
@@ -210,6 +197,19 @@
         "assessed_value": 80300,
         "market_value": 98300,
         "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0355B00098000000",
+        "address": "1537 BUTLER PLANK RD",
+        "city": "Shaler",
+        "zip_code": "15116",
+        "current_owner_name": "1537   BUTLER PLANK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 80300,
+        "market_value": 98300,
+        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.5
       },
       {
@@ -239,16 +239,16 @@
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0520L00245000000",
-        "address": "2822 MOUNT ROYAL BLVD",
+        "parcel_id": "0166D00088000000",
+        "address": "6 SAMPSON AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2822   MOUNT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "6   SAMPSON AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 81300,
-        "market_value": 99300,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value": 80800,
+        "market_value": 98800,
+        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

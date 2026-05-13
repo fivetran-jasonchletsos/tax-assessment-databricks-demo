@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "BARS",
     "acreage": 1.339,
-    "latitude": 40.51652,
-    "longitude": -79.95476
+    "latitude": 40.52622,
+    "longitude": -79.95936
   },
   "assessments": {
     "parcel_id": "0524A00118000000",
@@ -171,6 +171,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0957F00315000000",
+        "address": "20 BARNHART ST",
+        "city": "Indiana",
+        "zip_code": "15075",
+        "current_owner_name": "PO BOX 207",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121800,
+        "market_value": 139800,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0957F00299000000",
+        "address": "24 BARNHART ST",
+        "city": "Indiana",
+        "zip_code": "15075",
+        "current_owner_name": "PO BOX 41",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130600,
+        "market_value": 148600,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0524A00248000000",
         "address": "3370 SAXONBURG BLVD",
         "city": "Indiana",
@@ -181,45 +207,19 @@
         "assessed_value": 130600,
         "market_value": 148600,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0436H00320000000",
-        "address": "3337 SAXONBURG BLVD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3337   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 132800,
-        "market_value": 150800,
-        "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0436H00346000000",
-        "address": "3331 SAXONBURG BLVD",
-        "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3331   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 118600,
-        "market_value": 136600,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0523H00058000000",
-        "address": "3366 SAXONBURG BLVD",
+        "parcel_id": "0957F00274000000",
+        "address": "32 BARNHART ST",
         "city": "Indiana",
-        "zip_code": "15116",
-        "current_owner_name": "3366   SAXONBURG BLVD",
+        "zip_code": "15075",
+        "current_owner_name": "PO BOX 25",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 134700,
-        "market_value": 134700,
-        "assessed_value_change_pct": -2.5,
+        "assessed_value": 121300,
+        "market_value": 139300,
+        "assessed_value_change_pct": -0.7,
         "distance_miles": 1.1
       }
     ]

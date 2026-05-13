@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.03,
-    "latitude": 40.46348,
-    "longitude": -79.96884
+    "latitude": 40.46488,
+    "longitude": -79.96084
   },
   "assessments": {
     "parcel_id": "0025D00199000000",
@@ -122,6 +122,32 @@
     "parcel_id": "0025D00199000000",
     "comparables": [
       {
+        "parcel_id": "0026C00010000000",
+        "address": "3717 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3717   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 67900,
+        "market_value": 85900,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026B00332000000",
+        "address": "3629 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "12   BEECH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73500,
+        "market_value": 73500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0025D00211000000",
         "address": "3352 SPRING WAY",
         "city": "10601",
@@ -132,46 +158,46 @@
         "assessed_value": 74300,
         "market_value": 74300,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.1
-      },
-      {
-        "parcel_id": "0025D00227000000",
-        "address": "307 34TH ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "2173   REIS RUN RD",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 80500,
-        "market_value": 80500,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0025D00209000000",
-        "address": "3351 LIGONIER ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3351   LIGONIER ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 56500,
-        "market_value": 74500,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0025D00202000000",
-        "address": "3337 LIGONIER ST",
+        "parcel_id": "0026B00018000A00",
+        "address": "3738 LIBERTY AVE",
         "city": "10601",
         "zip_code": "15201",
-        "current_owner_name": "3337   LIGONIER ST",
+        "current_owner_name": "3738   LIBERTY AVE",
         "land_use_description": "ROWHOUSE",
         "acreage": null,
-        "assessed_value": 55400,
-        "market_value": 55400,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 63500,
+        "market_value": 63500,
+        "assessed_value_change_pct": -1.5,
         "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0026B00063000000",
+        "address": "3932 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3932   LIBERTY AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 76800,
+        "market_value": 76800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0026A00023000000",
+        "address": "3417 DENNY ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "31621   FALCON WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59500,
+        "market_value": 59500,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 1.1
       }
     ]
   }

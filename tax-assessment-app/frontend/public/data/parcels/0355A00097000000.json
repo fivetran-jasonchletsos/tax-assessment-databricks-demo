@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.23,
-    "latitude": 40.51748,
-    "longitude": -79.9712
+    "latitude": 40.52718,
+    "longitude": -79.9758
   },
   "assessments": {
     "parcel_id": "0355A00097000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434C00008000000",
+        "address": "2711 OTTERBEIN DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "211   OTTERBEIN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135700,
+        "market_value": 153700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0615R00210000000",
         "address": "3711 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -197,58 +210,45 @@
         "assessed_value": 135500,
         "market_value": 153500,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
-        "parcel_id": "0353D00229000000",
-        "address": "814 VILSACK RD",
+        "parcel_id": "0435A00048000000",
+        "address": "607 STONERIDGE DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "814   VILSACK RD",
+        "zip_code": "15101",
+        "current_owner_name": "607   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135800,
+        "market_value": 153800,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0435A00140000000",
+        "address": "407 SHOREHAM DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "407   SHOREHAM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 135300,
+        "market_value": 153300,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0434B00034000000",
+        "address": "2705 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2705   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
         "assessed_value": 136000,
         "market_value": 154000,
-        "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0520C00252000000",
-        "address": "3305 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3305   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 136100,
-        "market_value": 136100,
-        "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0356S00078000000",
-        "address": "1066 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1066   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 136200,
-        "market_value": 136200,
-        "assessed_value_change_pct": 0.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0355A00088000000",
-        "address": "1835 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1835   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 136400,
-        "market_value": 136400,
-        "assessed_value_change_pct": -2.7,
+        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

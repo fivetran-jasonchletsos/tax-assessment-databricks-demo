@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0543F00031000000",
+    "address": "1234 JAMES ST",
+    "city": "Monroeville",
+    "zip_code": "15146",
+    "county": "Allegheny",
+    "current_owner_name": "1234   JAMES ST",
+    "current_mailing_address": "1234   JAMES ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.114,
+    "latitude": 40.41772,
+    "longitude": -79.76122
+  },
+  "assessments": {
+    "parcel_id": "0543F00031000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 139500,
+        "market_value": 157500,
+        "land_value": 28200,
+        "improvement_value": 111300,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 13751,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 121500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 125749,
+        "market_value": 141974,
+        "land_value": 25420,
+        "improvement_value": 100329,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 2465,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 107749,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 123284,
+        "market_value": 139191,
+        "land_value": 24921,
+        "improvement_value": 98363,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 1220,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 105284,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 122064,
+        "market_value": 137814,
+        "land_value": 24675,
+        "improvement_value": 97389,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 104064,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 122064,
+        "market_value": 137814,
+        "land_value": 24675,
+        "improvement_value": 97389,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": -1233,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 104064,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 123297,
+        "market_value": 139206,
+        "land_value": 24924,
+        "improvement_value": 98373,
+        "land_value_percentage": 20.2,
+        "improvement_value_percentage": 79.8,
+        "market_to_assessed_ratio": 1.13,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 105297,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0543F00031000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0543F00031000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-65957-2022",
+        "filed_date": null,
+        "hearing_date": "6-May-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0543F00031000000",
+    "comparables": [
+      {
+        "parcel_id": "0861M00369000000",
+        "address": "22 FORBES RD",
+        "city": "Monroeville",
+        "zip_code": "15085",
+        "current_owner_name": "22   FORBES RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 145000,
+        "market_value": 145000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0543F00056000000",
+        "address": "1320 JAMES ST",
+        "city": "Monroeville",
+        "zip_code": "15146",
+        "current_owner_name": "1320   JAMES ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133300,
+        "market_value": 151300,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0543D00295000000",
+        "address": "106 QUEEN DR",
+        "city": "Monroeville",
+        "zip_code": "15146",
+        "current_owner_name": "106   QUEEN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 133200,
+        "market_value": 151200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0543C00215000000",
+        "address": "1418 JOHN ST",
+        "city": "Monroeville",
+        "zip_code": "15146",
+        "current_owner_name": "1418   JOHN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 132300,
+        "market_value": 150300,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0543B00003000000",
+        "address": "1419 JOHN ST",
+        "city": "Monroeville",
+        "zip_code": "15146",
+        "current_owner_name": "1419   JOHN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 147000,
+        "market_value": 165000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0543B00014000000",
+        "address": "1413 JOHN ST",
+        "city": "Monroeville",
+        "zip_code": "15146",
+        "current_owner_name": "1413   JOHN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 129700,
+        "market_value": 147700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

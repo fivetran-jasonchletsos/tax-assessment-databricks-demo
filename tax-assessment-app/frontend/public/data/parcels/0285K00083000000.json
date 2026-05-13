@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.223,
-    "latitude": 40.51832,
-    "longitude": -79.97024
+    "latitude": 40.52802,
+    "longitude": -79.97484
   },
   "assessments": {
     "parcel_id": "0285K00083000000",
@@ -249,6 +249,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0435A00134000000",
+        "address": "914 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "914   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102100,
+        "market_value": 120100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0353G00024000000",
         "address": "831 VILSACK RD",
         "city": "Shaler",
@@ -259,19 +272,6 @@
         "assessed_value": 101700,
         "market_value": 119700,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353H00017000000",
-        "address": "23 ANDERSON RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "506   BROWNSVILLE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101700,
-        "market_value": 101700,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

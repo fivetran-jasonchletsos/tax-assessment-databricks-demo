@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": 40.51844,
-    "longitude": -79.9694
+    "latitude": 40.52814,
+    "longitude": -79.974
   },
   "assessments": {
     "parcel_id": "0433S00027000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434D00300000000",
+        "address": "912 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "912   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 111400,
+        "market_value": 129400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285B00253000000",
         "address": "307 S MAGNOLIA DR",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 112900,
         "market_value": 130900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285C00126000000",
@@ -236,19 +249,6 @@
         "assessed_value": 112900,
         "market_value": 112900,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285A00019000000",
-        "address": "513 GLEN MALCOLM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "513   GLEN MALCOLM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 113000,
-        "market_value": 131000,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

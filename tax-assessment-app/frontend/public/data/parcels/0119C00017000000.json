@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0119C00017000000",
+    "address": "175 WOOD ST",
+    "city": "Etna",
+    "zip_code": "15223",
+    "county": "Allegheny",
+    "current_owner_name": "175   WOOD ST",
+    "current_mailing_address": "175   WOOD ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.166,
+    "latitude": 40.49382,
+    "longitude": -79.94764
+  },
+  "assessments": {
+    "parcel_id": "0119C00017000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 100500,
+        "market_value": 100500,
+        "land_value": 23200,
+        "improvement_value": 77300,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9907,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 100500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 90593,
+        "market_value": 90593,
+        "land_value": 20913,
+        "improvement_value": 69680,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1776,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 90593,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 88817,
+        "market_value": 88817,
+        "land_value": 20503,
+        "improvement_value": 68314,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 879,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88817,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 87938,
+        "market_value": 87938,
+        "land_value": 20300,
+        "improvement_value": 67638,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87938,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 87938,
+        "market_value": 87938,
+        "land_value": 20300,
+        "improvement_value": 67638,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -889,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 87938,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 88827,
+        "market_value": 88827,
+        "land_value": 20505,
+        "improvement_value": 68322,
+        "land_value_percentage": 23.1,
+        "improvement_value_percentage": 76.9,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 88827,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119C00017000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0119C00017000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0119C00017000000",
+    "comparables": [
+      {
+        "parcel_id": "0119C00031000000",
+        "address": "155 VISTA ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "155   VISTA ST  REAR",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 92200,
+        "market_value": 110200,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

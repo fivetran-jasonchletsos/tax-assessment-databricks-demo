@@ -1,0 +1,177 @@
+{
+  "parcel": {
+    "parcel_id": "0197J00020000000",
+    "address": "3012 MARLEY WAY",
+    "city": "South Fayette",
+    "zip_code": "15071",
+    "county": "Allegheny",
+    "current_owner_name": "3012   MARLEY WAY",
+    "current_mailing_address": "3012   MARLEY WAY",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 2.411,
+    "latitude": 40.39286,
+    "longitude": -80.18024
+  },
+  "assessments": {
+    "parcel_id": "0197J00020000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 665800,
+        "market_value": 683800,
+        "land_value": 34500,
+        "improvement_value": 631300,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 65622,
+        "assessed_value_change_pct": 10.93,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 647800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 600178,
+        "market_value": 616403,
+        "land_value": 31099,
+        "improvement_value": 569079,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 11768,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 582178,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 588410,
+        "market_value": 604317,
+        "land_value": 30489,
+        "improvement_value": 557921,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 5825,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 570410,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 582585,
+        "market_value": 598335,
+        "land_value": 30188,
+        "improvement_value": 552397,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 564585,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 582585,
+        "market_value": 598335,
+        "land_value": 30188,
+        "improvement_value": 552397,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": -5885,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 564585,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 588470,
+        "market_value": 604379,
+        "land_value": 30492,
+        "improvement_value": 557978,
+        "land_value_percentage": 5.2,
+        "improvement_value_percentage": 94.8,
+        "market_to_assessed_ratio": 1.03,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 570470,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0197J00020000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0197J00020000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0197J00020000000",
+    "comparables": []
+  }
+}

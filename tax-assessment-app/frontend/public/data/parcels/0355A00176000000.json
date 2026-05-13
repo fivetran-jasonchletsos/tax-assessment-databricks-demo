@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.234,
-    "latitude": 40.51724,
-    "longitude": -79.9496
+    "latitude": 40.52694,
+    "longitude": -79.9542
   },
   "assessments": {
     "parcel_id": "0355A00176000000",
@@ -158,6 +158,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0166D00121000000",
+        "address": "117 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "117   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0353D00046000000",
         "address": "106 CREST LN",
         "city": "Shaler",
@@ -168,7 +181,7 @@
         "assessed_value": 100800,
         "market_value": 118800,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0285C00132000000",
@@ -181,7 +194,7 @@
         "assessed_value": 100300,
         "market_value": 100300,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353D00114000000",
@@ -194,7 +207,7 @@
         "assessed_value": 100900,
         "market_value": 118900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285E00014000000",
@@ -207,19 +220,6 @@
         "assessed_value": 100200,
         "market_value": 118200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00060000000",
-        "address": "111 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "111   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 101000,
-        "market_value": 119000,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

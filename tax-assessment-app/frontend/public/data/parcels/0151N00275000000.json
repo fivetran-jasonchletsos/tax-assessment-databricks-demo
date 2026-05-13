@@ -1,0 +1,177 @@
+{
+  "parcel": {
+    "parcel_id": "0151N00275000000",
+    "address": "112 HIGHLAND AVE",
+    "city": "West View",
+    "zip_code": "15229",
+    "county": "Allegheny",
+    "current_owner_name": "112   HIGHLAND AVE",
+    "current_mailing_address": "112   HIGHLAND AVE",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.249,
+    "latitude": 40.51058,
+    "longitude": -80.04564
+  },
+  "assessments": {
+    "parcel_id": "0151N00275000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 103100,
+        "market_value": 121100,
+        "land_value": 35500,
+        "improvement_value": 67600,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 7429,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 85100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 95671,
+        "market_value": 112373,
+        "land_value": 32942,
+        "improvement_value": 62729,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 947,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 77671,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 94724,
+        "market_value": 111261,
+        "land_value": 32615,
+        "improvement_value": 62109,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76724,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 94724,
+        "market_value": 111261,
+        "land_value": 32615,
+        "improvement_value": 62109,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": -957,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 76724,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 95681,
+        "market_value": 112385,
+        "land_value": 32945,
+        "improvement_value": 62736,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 4556,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 77681,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 91125,
+        "market_value": 107034,
+        "land_value": 31376,
+        "improvement_value": 59749,
+        "land_value_percentage": 34.4,
+        "improvement_value_percentage": 65.6,
+        "market_to_assessed_ratio": 1.17,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 73125,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0151N00275000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0151N00275000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0151N00275000000",
+    "comparables": []
+  }
+}

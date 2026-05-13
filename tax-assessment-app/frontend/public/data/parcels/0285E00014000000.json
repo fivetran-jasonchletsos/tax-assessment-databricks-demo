@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.207,
-    "latitude": 40.51688,
-    "longitude": -79.9562
+    "latitude": 40.52658,
+    "longitude": -79.9608
   },
   "assessments": {
     "parcel_id": "0285E00014000000",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0166D00121000000",
+        "address": "117 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "117   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0355A00176000000",
         "address": "1832 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -236,19 +249,6 @@
         "assessed_value": 100600,
         "market_value": 100600,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00057000000",
-        "address": "109 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "109   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100700,
-        "market_value": 100700,
-        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

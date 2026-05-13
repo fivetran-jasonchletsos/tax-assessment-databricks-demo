@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.058,
-    "latitude": 40.45004,
-    "longitude": -79.90808
+    "latitude": 40.46114,
+    "longitude": -79.90648
   },
   "assessments": {
     "parcel_id": "0050H00154000000",
@@ -184,6 +184,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0050M00071000000",
+        "address": "213 N AIKEN AVE",
+        "city": "11003",
+        "zip_code": "15206",
+        "current_owner_name": "2121   OLD GATESBURG RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117200,
+        "market_value": 117200,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0050H00162000000",
         "address": "429 N AIKEN AVE",
         "city": "11003",
@@ -194,32 +207,19 @@
         "assessed_value": 117000,
         "market_value": 117000,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0050H00164000000",
-        "address": "433 N AIKEN AVE",
-        "city": "11003",
-        "zip_code": "15206",
-        "current_owner_name": "2121   OLD GATESBURG RD",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 126400,
-        "market_value": 126400,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0050H00151000000",
-        "address": "405 N AIKEN AVE",
+        "parcel_id": "0050M00029000000",
+        "address": "241 N AIKEN AVE",
         "city": "11003",
         "zip_code": "15206",
-        "current_owner_name": "2121   OLD GATESBURG RD",
+        "current_owner_name": "17397  NW WOODRUSH WAY",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 129600,
-        "market_value": 129600,
-        "assessed_value_change_pct": -4.7,
+        "assessed_value": 115100,
+        "market_value": 115100,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

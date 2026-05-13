@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.193,
-    "latitude": 40.51628,
-    "longitude": -79.96016
+    "latitude": 40.52598,
+    "longitude": -79.96476
   },
   "assessments": {
     "parcel_id": "0285A00040000000",
@@ -210,6 +210,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434B00030000000",
+        "address": "2707 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2707   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 200800,
+        "market_value": 218800,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0433M00155000000",
         "address": "2106 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -220,7 +233,7 @@
         "assessed_value": 199600,
         "market_value": 217600,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0434K00112000000",
@@ -233,45 +246,32 @@
         "assessed_value": 201100,
         "market_value": 201100,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285A00012000000",
-        "address": "106 CANDLEWYCK DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "106   CANDLEWYCK DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203100,
-        "market_value": 221100,
-        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0520C00236000000",
-        "address": "3301 MOUNT ROYAL BLVD",
+        "parcel_id": "0435A00126000000",
+        "address": "1000 DRESSEL RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3301   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "1000   DRESSEL RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 203500,
-        "market_value": 203500,
-        "assessed_value_change_pct": -4.5,
+        "assessed_value": 199200,
+        "market_value": 217200,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00302000000",
-        "address": "102 MARK TWAIN DR",
+        "parcel_id": "0434C00005000000",
+        "address": "2709 OTTERBEIN DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "102   MARK TWAIN DR",
+        "zip_code": "15101",
+        "current_owner_name": "2709   OTTERBEIN DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 196800,
-        "market_value": 196800,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 198900,
+        "market_value": 216900,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 1.1
       }
     ]

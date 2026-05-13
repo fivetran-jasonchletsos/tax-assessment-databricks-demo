@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.128,
-    "latitude": 40.36564,
-    "longitude": -80.04442
+    "latitude": 40.35964,
+    "longitude": -80.03742
   },
   "assessments": {
     "parcel_id": "0098N00110000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0098N00110000000",
     "comparables": [
       {
+        "parcel_id": "0098N00160000000",
+        "address": "447 CLOKEY AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "447   CLOKEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 126800,
+        "market_value": 144800,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0098N00136000000",
         "address": "432 CLOKEY AVE",
         "city": "Mt.lebanon",
@@ -184,7 +197,7 @@
         "assessed_value": 118800,
         "market_value": 136800,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0098N00104000000",
@@ -197,7 +210,7 @@
         "assessed_value": 118700,
         "market_value": 136700,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0098N00046000000",
@@ -210,7 +223,7 @@
         "assessed_value": 117200,
         "market_value": 135200,
         "assessed_value_change_pct": -0.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0098N00092000000",
@@ -223,7 +236,7 @@
         "assessed_value": 117200,
         "market_value": 135200,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0098N00056000000",
@@ -236,19 +249,6 @@
         "assessed_value": 129400,
         "market_value": 147400,
         "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0098N00070000000",
-        "address": "426 COOLIDGE AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "426   COOLIDGE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130000,
-        "market_value": 148000,
-        "assessed_value_change_pct": -1.1,
         "distance_miles": 1.1
       }
     ]

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": 40.51628,
-    "longitude": -79.95848
+    "latitude": 40.52598,
+    "longitude": -79.96308
   },
   "assessments": {
     "parcel_id": "0355A00114000000",
@@ -158,6 +158,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434C00032000000",
+        "address": "2521 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2521   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 213600,
+        "market_value": 231600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0353D00123000000",
         "address": "102 ANDERSON PL",
         "city": "Shaler",
@@ -168,7 +181,7 @@
         "assessed_value": 213900,
         "market_value": 231900,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0520L00036000000",
@@ -181,7 +194,20 @@
         "assessed_value": 214300,
         "market_value": 214300,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434C00010000000",
+        "address": "2608 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2608   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 204600,
+        "market_value": 222600,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0285E00008000000",
@@ -194,32 +220,6 @@
         "assessed_value": 204400,
         "market_value": 204400,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285A00050000000",
-        "address": "103 MARK TWAIN DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "103   MARK TWAIN DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 204000,
-        "market_value": 204000,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520C00236000000",
-        "address": "3301 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3301   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 203500,
-        "market_value": 203500,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0362D00366000000",
+    "address": "1144 OAKMONT AVE",
+    "city": "Oakmont",
+    "zip_code": "15139",
+    "county": "Allegheny",
+    "current_owner_name": "1144 -1146  OAKMONT AVE",
+    "current_mailing_address": "1144 -1146  OAKMONT AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.152,
+    "latitude": 40.50928,
+    "longitude": -79.82514
+  },
+  "assessments": {
+    "parcel_id": "0362D00366000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 104500,
+        "market_value": 104500,
+        "land_value": 45200,
+        "improvement_value": 59300,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6496,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 104500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 98004,
+        "market_value": 98004,
+        "land_value": 42390,
+        "improvement_value": 55614,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2854,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 98004,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 95150,
+        "market_value": 95150,
+        "land_value": 41155,
+        "improvement_value": 53995,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1865,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 95150,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 93285,
+        "market_value": 93285,
+        "land_value": 40349,
+        "improvement_value": 52936,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 923,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 93285,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 92362,
+        "market_value": 92362,
+        "land_value": 39949,
+        "improvement_value": 52413,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92362,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 92362,
+        "market_value": 92362,
+        "land_value": 39949,
+        "improvement_value": 52413,
+        "land_value_percentage": 43.3,
+        "improvement_value_percentage": 56.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 92362,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0362D00366000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0362D00366000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-25497-2018",
+        "filed_date": null,
+        "hearing_date": "14-Jun-18",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0362D00366000000",
+    "comparables": [
+      {
+        "parcel_id": "0362C00066000000",
+        "address": "413 LEE ST",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "422   CAVITT AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 103000,
+        "market_value": 103000,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0362F00089000000",
+        "address": "53 MORRIS ST",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "53   MORRIS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 106400,
+        "market_value": 124400,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0362F00274003700",
+        "address": "37 HUSTON RD",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "37   HUSTON RD",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 102500,
+        "market_value": 120500,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0362F00096000000",
+        "address": "31 POTOMAC ST",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "31   POTOMAC ST",
+        "land_use_description": "MOBILE HOME",
+        "acreage": null,
+        "assessed_value": 108600,
+        "market_value": 126600,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0362F00274003600",
+        "address": "36 HUSTON RD",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "36   HUSTON RD",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 109000,
+        "market_value": 127000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0362G00099000000",
+        "address": "1031 5TH ST",
+        "city": "Oakmont",
+        "zip_code": "15139",
+        "current_owner_name": "1031   5TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 98600,
+        "market_value": 116600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

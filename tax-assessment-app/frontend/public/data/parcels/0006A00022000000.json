@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0006A00022000000",
+    "address": "93 STEUBEN ST",
+    "city": "12003",
+    "zip_code": "15220",
+    "county": "Allegheny",
+    "current_owner_name": "93   STEUBEN ST",
+    "current_mailing_address": "93   STEUBEN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.031,
+    "latitude": 40.4295,
+    "longitude": -80.0556
+  },
+  "assessments": {
+    "parcel_id": "0006A00022000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 45300,
+        "market_value": 45300,
+        "land_value": 5400,
+        "improvement_value": 39900,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -632,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 45932,
+        "market_value": 45932,
+        "land_value": 5475,
+        "improvement_value": 40457,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2187,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 45932,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 43745,
+        "market_value": 43745,
+        "land_value": 5214,
+        "improvement_value": 38531,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1682,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 43745,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 42063,
+        "market_value": 42063,
+        "land_value": 5014,
+        "improvement_value": 37049,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1225,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42063,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 40838,
+        "market_value": 40838,
+        "land_value": 4868,
+        "improvement_value": 35970,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 800,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40838,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 40038,
+        "market_value": 40038,
+        "land_value": 4772,
+        "improvement_value": 35266,
+        "land_value_percentage": 11.9,
+        "improvement_value_percentage": 88.1,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40038,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0006A00022000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0006A00022000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0006A00022000000",
+    "comparables": [
+      {
+        "parcel_id": "0021N00056000000",
+        "address": "2655 MERWYN AVE",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "2655   MERWYN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45100,
+        "market_value": 45100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0021J00014000000",
+        "address": "2748 STAFFORD ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "2748   STAFFORD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45900,
+        "market_value": 45900,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0021P00038000000",
+        "address": "329 OTTERSON ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "329   OTTERSON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 64000,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0041A00023000000",
+        "address": "1324 PRITCHARD ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "1321   PRITCHARD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 46000,
+        "assessed_value_change_pct": 13.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0041A00043000000",
+        "address": "1331 PRITCHARD ST",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "1331   PRITCHARD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 46000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0021J00071000000",
+        "address": "2738 SACRAMENTO AVE",
+        "city": "12003",
+        "zip_code": "15204",
+        "current_owner_name": "1800   MURRAY AVE  UNIT 81865",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 44400,
+        "market_value": 44400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

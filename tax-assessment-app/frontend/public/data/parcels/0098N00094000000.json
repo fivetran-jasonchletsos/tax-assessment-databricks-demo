@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.101,
-    "latitude": 40.36696,
-    "longitude": -80.05594
+    "latitude": 40.36096,
+    "longitude": -80.04894
   },
   "assessments": {
     "parcel_id": "0098N00094000000",
@@ -200,6 +200,45 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0098N00202000000",
+        "address": "424 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "424  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 92000,
+        "market_value": 110000,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0098N00236000000",
+        "address": "439 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "439  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "assessed_value_change_pct": -0.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0098N00212000000",
+        "address": "444 S MEADOWCROFT AVE",
+        "city": "Mt.lebanon",
+        "zip_code": "15228",
+        "current_owner_name": "444  S MEADOWCROFT AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 102200,
+        "market_value": 120200,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0098N00078000000",
         "address": "440 COOLIDGE AVE",
         "city": "Mt.lebanon",
@@ -210,45 +249,6 @@
         "assessed_value": 107000,
         "market_value": 107000,
         "assessed_value_change_pct": 0.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0098N00038000000",
-        "address": "431 JAYSON AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "431   JAYSON AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 110900,
-        "market_value": 128900,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0098N00076000000",
-        "address": "438 COOLIDGE AVE",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "438   COOLIDGE AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 77400,
-        "market_value": 95400,
-        "assessed_value_change_pct": 0.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0098N00046000000",
-        "address": "335 BOWER HILL RD",
-        "city": "Mt.lebanon",
-        "zip_code": "15228",
-        "current_owner_name": "335   BOWER HILL RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 117200,
-        "market_value": 135200,
-        "assessed_value_change_pct": -0.5,
         "distance_miles": 1.1
       }
     ]

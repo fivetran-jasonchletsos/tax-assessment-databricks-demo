@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0144P00124000000",
+    "address": "1737 MAIN ST",
+    "city": "Scott",
+    "zip_code": "15017",
+    "county": "Allegheny",
+    "current_owner_name": "1737   MAIN ST",
+    "current_mailing_address": "1737   MAIN ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.307,
+    "latitude": 40.33712,
+    "longitude": -80.10522
+  },
+  "assessments": {
+    "parcel_id": "0144P00124000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 226500,
+        "market_value": 244500,
+        "land_value": 40800,
+        "improvement_value": 185700,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": -3168,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 208500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 229668,
+        "market_value": 247919,
+        "land_value": 41370,
+        "improvement_value": 188298,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 10936,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 211668,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 218732,
+        "market_value": 236114,
+        "land_value": 39400,
+        "improvement_value": 179332,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 8412,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 200732,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 210320,
+        "market_value": 227034,
+        "land_value": 37885,
+        "improvement_value": 172435,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 6125,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 192320,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 204195,
+        "market_value": 220422,
+        "land_value": 36782,
+        "improvement_value": 167413,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 4003,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 186195,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 200192,
+        "market_value": 216101,
+        "land_value": 36061,
+        "improvement_value": 164131,
+        "land_value_percentage": 18.0,
+        "improvement_value_percentage": 82.0,
+        "market_to_assessed_ratio": 1.08,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 182192,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0144P00124000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0144P00124000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0144P00124000000",
+    "comparables": [
+      {
+        "parcel_id": "0144K00108000000",
+        "address": "1726 MAIN ST",
+        "city": "Scott",
+        "zip_code": "15017",
+        "current_owner_name": "1253   MCEWEN AVE",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 233200,
+        "market_value": 233200,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0099F00058040400",
+        "address": "1500 COCHRAN RD",
+        "city": "Scott",
+        "zip_code": "15243",
+        "current_owner_name": "1500   COCHRAN RD  UNIT 404",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 178900,
+        "market_value": 196900,
+        "assessed_value_change_pct": 0.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

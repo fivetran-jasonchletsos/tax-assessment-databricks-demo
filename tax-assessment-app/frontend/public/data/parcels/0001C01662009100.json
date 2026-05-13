@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "CONDOMINIUM",
     "acreage": null,
-    "latitude": 40.43406,
-    "longitude": -79.99836
+    "latitude": 40.43726,
+    "longitude": -79.99486
   },
   "assessments": {
     "parcel_id": "0001C01662009100",
@@ -182,6 +182,19 @@
         "market_value": 88100,
         "assessed_value_change_pct": -2.9,
         "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001C01662019700",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "5404  N OCEAN BLVD  UNIT 8B",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 71600,
+        "market_value": 71600,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.7
       }
     ]
   }

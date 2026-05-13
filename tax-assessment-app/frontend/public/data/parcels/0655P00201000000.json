@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0655P00201000000",
+    "address": "BELLBRIDGE RD",
+    "city": "Lincoln",
+    "zip_code": "15037",
+    "county": "Allegheny",
+    "current_owner_name": "149   BELLBRIDGE RD",
+    "current_mailing_address": "149   BELLBRIDGE RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 8.48,
+    "latitude": 40.25588,
+    "longitude": -79.84948
+  },
+  "assessments": {
+    "parcel_id": "0655P00201000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 33100,
+        "market_value": 33100,
+        "land_value": 33100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 2387,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 30713,
+        "market_value": 30713,
+        "land_value": 30713,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 304,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30713,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30409,
+        "market_value": 30409,
+        "land_value": 30409,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30409,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30409,
+        "market_value": 30409,
+        "land_value": 30409,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -308,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30409,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 30717,
+        "market_value": 30717,
+        "land_value": 30717,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1462,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30717,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 29255,
+        "market_value": 29255,
+        "land_value": 29255,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29255,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0655P00201000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0655P00201000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-20440-2017",
+        "filed_date": null,
+        "hearing_date": "2-Jun-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-67114-2022",
+        "filed_date": null,
+        "hearing_date": "22-Apr-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0655P00201000000",
+    "comparables": [
+      {
+        "parcel_id": "0655P00110000000",
+        "address": "218 BELLBRIDGE RD",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "218   BELLBRIDGE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32600,
+        "market_value": 50600,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0762H00241000000",
+        "address": "4322 LIBERTY WAY",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "4322   LIBERTY WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34200,
+        "market_value": 52200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0762D00121000000",
+        "address": "LIBERTY WAY",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "203   CRABAPPLE DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 34400,
+        "market_value": 34400,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0762J00048000000",
+        "address": "2394 LINCOLN BLVD",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "2394   LINCOLN BLVD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34900,
+        "market_value": 52900,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0656F00056000000",
+        "address": "29 COURSIN RD",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "2212   LINCOLN BLVD",
+        "land_use_description": "RES AUX BUILDING (NO HOUSE)",
+        "acreage": null,
+        "assessed_value": 35100,
+        "market_value": 35100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0654R00148000000",
+        "address": "CALHOUN RD",
+        "city": "Lincoln",
+        "zip_code": "15037",
+        "current_owner_name": "1941   ANTONE ST",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 31000,
+        "market_value": 31000,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

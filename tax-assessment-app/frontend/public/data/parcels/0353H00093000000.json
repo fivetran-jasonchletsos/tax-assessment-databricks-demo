@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.204,
-    "latitude": 40.5176,
-    "longitude": -79.94876
+    "latitude": 40.5273,
+    "longitude": -79.95336
   },
   "assessments": {
     "parcel_id": "0353H00093000000",
@@ -197,6 +197,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0435A00128000000",
+        "address": "924 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "924   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 159400,
+        "market_value": 177400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0520G00040000000",
         "address": "3102 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -207,19 +220,6 @@
         "assessed_value": 159400,
         "market_value": 177400,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285E00006000000",
-        "address": "105 CANDLEWYCK DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "105   CANDLEWYCK DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 159500,
-        "market_value": 177500,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "RETL/APT'S OVER",
     "acreage": 0.182,
-    "latitude": 40.51784,
-    "longitude": -79.95188
+    "latitude": 40.52754,
+    "longitude": -79.95648
   },
   "assessments": {
     "parcel_id": "0355P00112000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0355P00112000000",
     "comparables": [
       {
+        "parcel_id": "0434B00003000000",
+        "address": "2704 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2704   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 165500,
+        "market_value": 183500,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0285C00025000000",
         "address": "1031 MIDDLE RD",
         "city": "Shaler",
@@ -132,7 +145,20 @@
         "assessed_value": 165500,
         "market_value": 183500,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0434D00266000000",
+        "address": "306 SHOREHAM DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "306   SHOREHAM DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 165000,
+        "market_value": 183000,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0433S00052000000",
@@ -145,7 +171,20 @@
         "assessed_value": 165800,
         "market_value": 183800,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434C00044000000",
+        "address": "2533 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2533   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 165900,
+        "market_value": 183900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0520R00026000000",
@@ -158,45 +197,6 @@
         "assessed_value": 167000,
         "market_value": 185000,
         "assessed_value_change_pct": -2.1,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0433G00046000000",
-        "address": "2407 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2503   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 163500,
-        "market_value": 163500,
-        "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353G00015000000",
-        "address": "822 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "822   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 163300,
-        "market_value": 181300,
-        "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0433G00050000000",
-        "address": "2401 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2401   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 167300,
-        "market_value": 185300,
-        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

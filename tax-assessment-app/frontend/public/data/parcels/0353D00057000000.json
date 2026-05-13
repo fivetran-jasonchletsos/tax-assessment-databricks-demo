@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.197,
-    "latitude": 40.51712,
-    "longitude": -79.95068
+    "latitude": 40.52682,
+    "longitude": -79.95528
   },
   "assessments": {
     "parcel_id": "0353D00057000000",
@@ -161,6 +161,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0166D00121000000",
+        "address": "117 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "117   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 100500,
+        "market_value": 118500,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0353D00060000000",
         "address": "111 TARTLINE DR",
         "city": "Shaler",
@@ -171,32 +184,19 @@
         "assessed_value": 101000,
         "market_value": 119000,
         "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285C00132000000",
-        "address": "1028 SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1028   SAXONBURG BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 100300,
-        "market_value": 100300,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285E00014000000",
-        "address": "500 GLEN MALCOLM DR",
+        "parcel_id": "0434D00284000000",
+        "address": "907 TIDAL TERRACE DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "500   GLEN MALCOLM RD",
+        "zip_code": "15101",
+        "current_owner_name": "907   TIDAL TERRACE DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 100200,
-        "market_value": 118200,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 101100,
+        "market_value": 119100,
+        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

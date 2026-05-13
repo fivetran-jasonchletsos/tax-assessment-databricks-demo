@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0023A00192000000",
+    "address": "BUENA VISTA ST",
+    "city": "Ward 25",
+    "zip_code": "15214",
+    "county": "Allegheny",
+    "current_owner_name": "8   CHURCHILL RD",
+    "current_mailing_address": "8   CHURCHILL RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.558,
+    "latitude": 40.47474,
+    "longitude": -80.0092
+  },
+  "assessments": {
+    "parcel_id": "0023A00192000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32800,
+        "market_value": 32800,
+        "land_value": 32800,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -457,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 33257,
+        "market_value": 33257,
+        "land_value": 33257,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1583,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33257,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31674,
+        "market_value": 31674,
+        "land_value": 31674,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1218,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31674,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30456,
+        "market_value": 30456,
+        "land_value": 30456,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 887,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30456,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29569,
+        "market_value": 29569,
+        "land_value": 29569,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 579,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29569,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28990,
+        "market_value": 28990,
+        "land_value": 28990,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28990,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0023A00192000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0023A00192000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-37241-2020",
+        "filed_date": null,
+        "hearing_date": "28-Aug-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-92633-2026",
+        "filed_date": null,
+        "hearing_date": "18-Nov-25",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0023A00192000000",
+    "comparables": [
+      {
+        "parcel_id": "0023A00142000000",
+        "address": "610 ROLLA ST",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "610   ROLLA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32400,
+        "market_value": 50400,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0023B00065000000",
+        "address": "1912 LITHGOW AVE",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "319   PATTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33600,
+        "market_value": 33600,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0023B00057000000",
+        "address": "1915 LITHGOW AVE",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "1915   LITHGOW AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 31800,
+        "market_value": 31800,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0023C00077000000",
+        "address": "1703 MEADVILLE ST",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "2261   MARKET ST  STE 22263",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 31800,
+        "market_value": 31800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0023A00288000000",
+        "address": "CLAYTON AVE",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "948  W NORTH AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 31600,
+        "market_value": 31600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0023C00078000000",
+        "address": "1705 MEADVILLE ST",
+        "city": "Ward 25",
+        "zip_code": "15214",
+        "current_owner_name": "2261   MARKET ST  STE 22263",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 34100,
+        "market_value": 34100,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

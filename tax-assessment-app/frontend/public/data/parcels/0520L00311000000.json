@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.406,
-    "latitude": 40.51676,
-    "longitude": -79.95656
+    "latitude": 40.52646,
+    "longitude": -79.96116
   },
   "assessments": {
     "parcel_id": "0520L00311000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0520L00311000000",
     "comparables": [
       {
+        "parcel_id": "0119C00160000000",
+        "address": "197 WASHINGTON ST",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "PO BOX 66",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 169800,
+        "market_value": 169800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0433S00068000000",
         "address": "1929 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -184,7 +197,7 @@
         "assessed_value": 169700,
         "market_value": 187700,
         "assessed_value_change_pct": -0.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0355P00322000000",
@@ -197,58 +210,45 @@
         "assessed_value": 170900,
         "market_value": 170900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.3
-      },
-      {
-        "parcel_id": "0520R00133000000",
-        "address": "2711 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "745   JEFFERSON DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 167800,
-        "market_value": 167800,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0433G00050000000",
-        "address": "2401 MOUNT ROYAL BLVD",
+        "parcel_id": "0434D00282000000",
+        "address": "909 TIDAL TERRACE DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2401   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "909   TIDAL TERRACE DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 167300,
-        "market_value": 185300,
-        "assessed_value_change_pct": -4.3,
+        "assessed_value": 171300,
+        "market_value": 171300,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0520R00026000000",
-        "address": "2815 MOUNT ROYAL BLVD",
+        "parcel_id": "0321R00098000000",
+        "address": "2723 WOOSTER DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2815   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2723   WOOSTER DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 167000,
-        "market_value": 185000,
-        "assessed_value_change_pct": -2.1,
+        "assessed_value": 168300,
+        "market_value": 186300,
+        "assessed_value_change_pct": -0.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00251000000",
-        "address": "309 S MAGNOLIA DR",
+        "parcel_id": "0166D00108000000",
+        "address": "113 MCKINLEY AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "309  S MAGNOLIA DR",
+        "zip_code": "15223",
+        "current_owner_name": "113   MCKINLEY AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 173600,
-        "market_value": 191600,
-        "assessed_value_change_pct": -3.7,
+        "assessed_value": 167800,
+        "market_value": 185800,
+        "assessed_value_change_pct": -3.5,
         "distance_miles": 1.1
       }
     ]

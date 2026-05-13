@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.241,
-    "latitude": 40.51808,
-    "longitude": -79.94912
+    "latitude": 40.52778,
+    "longitude": -79.95372
   },
   "assessments": {
     "parcel_id": "0433S00033000000",
@@ -223,6 +223,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0434D00316000000",
+        "address": "819 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "819   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 177000,
+        "market_value": 195000,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0353D00083000000",
         "address": "202 ANDERSON PL",
         "city": "Shaler",
@@ -233,7 +246,7 @@
         "assessed_value": 177000,
         "market_value": 177000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0433S00006000000",
@@ -246,32 +259,19 @@
         "assessed_value": 177000,
         "market_value": 195000,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285B00251000000",
-        "address": "309 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "309  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 173600,
-        "market_value": 191600,
-        "assessed_value_change_pct": -3.7,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00243000000",
-        "address": "226 S MAGNOLIA DR",
+        "parcel_id": "0434B00022000000",
+        "address": "2713 COLLEGE PARK RD",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "226  S MAGNOLIA DR",
+        "zip_code": "15101",
+        "current_owner_name": "2713   COLLEGE PARK RD",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 179400,
-        "market_value": 197400,
-        "assessed_value_change_pct": -3.5,
+        "assessed_value": 174800,
+        "market_value": 174800,
+        "assessed_value_change_pct": -5.3,
         "distance_miles": 1.1
       }
     ]

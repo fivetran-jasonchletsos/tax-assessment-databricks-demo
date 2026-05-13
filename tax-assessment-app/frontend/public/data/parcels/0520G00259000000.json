@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.422,
-    "latitude": 40.51748,
-    "longitude": -79.9706
+    "latitude": 40.52718,
+    "longitude": -79.9752
   },
   "assessments": {
     "parcel_id": "0520G00259000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0434B00005000000",
+        "address": "2708 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2708   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196400,
+        "market_value": 214400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0285B00300000000",
         "address": "102 WADSWORTH DR",
         "city": "Shaler",
@@ -197,7 +210,20 @@
         "assessed_value": 193700,
         "market_value": 211700,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0166C00170000000",
+        "address": "310 DEWEY AVENUE EXT",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "310   DEWEY AVE EXT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 193500,
+        "market_value": 211500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0285B00302000000",
@@ -210,7 +236,7 @@
         "assessed_value": 196800,
         "market_value": 196800,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433H0017500T100",
@@ -223,32 +249,6 @@
         "assessed_value": 192100,
         "market_value": 192100,
         "assessed_value_change_pct": 4.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0615L00006000000",
-        "address": "3722 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3722   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 190900,
-        "market_value": 190900,
-        "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285F00300000000",
-        "address": "311 S MAGNOLIA DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "311  S MAGNOLIA DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 190700,
-        "market_value": 208700,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

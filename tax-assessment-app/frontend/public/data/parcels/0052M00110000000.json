@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.176,
-    "latitude": 40.42652,
-    "longitude": -79.92854
+    "latitude": 40.41952,
+    "longitude": -79.91894
   },
   "assessments": {
     "parcel_id": "0052M00110000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0127D00035000000",
+        "address": "500 UNDERCLIFF RD",
+        "city": "11401",
+        "zip_code": "15221",
+        "current_owner_name": "500   UNDERCLIFF RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 695800,
+        "market_value": 713800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0052M00142000000",
         "address": "5320 WILKINS AVE",
         "city": "11401",
@@ -210,7 +223,7 @@
         "assessed_value": 825200,
         "market_value": 843200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0052M00106000000",
@@ -223,7 +236,7 @@
         "assessed_value": 663600,
         "market_value": 681600,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0052M00108000000",
@@ -236,19 +249,6 @@
         "assessed_value": 621000,
         "market_value": 639000,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0052M00120000000",
-        "address": "5256 WILKINS AVE",
-        "city": "11401",
-        "zip_code": "15217",
-        "current_owner_name": "5256   WILKINS AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 610500,
-        "market_value": 628500,
-        "assessed_value_change_pct": -4.1,
         "distance_miles": 1.1
       }
     ]

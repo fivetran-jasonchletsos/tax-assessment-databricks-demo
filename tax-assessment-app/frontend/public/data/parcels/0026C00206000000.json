@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0026C00206000000",
+    "address": "EWING ST",
+    "city": "10902",
+    "zip_code": "15224",
+    "county": "Allegheny",
+    "current_owner_name": "414   GRANT ST  RM 200",
+    "current_mailing_address": "414   GRANT ST  RM 200",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.303,
+    "latitude": 40.45256,
+    "longitude": -79.94132
+  },
+  "assessments": {
+    "parcel_id": "0026C00206000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 40700,
+        "market_value": 40700,
+        "land_value": 40700,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 646,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40700,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 40054,
+        "market_value": 40054,
+        "land_value": 40054,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -405,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40054,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 40459,
+        "market_value": 40459,
+        "land_value": 40459,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1926,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 40459,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38533,
+        "market_value": 38533,
+        "land_value": 38533,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1482,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38533,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37051,
+        "market_value": 37051,
+        "land_value": 37051,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1079,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37051,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35972,
+        "market_value": 35972,
+        "land_value": 35972,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35972,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0026C00206000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0026C00206000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0026C00206000000",
+    "comparables": [
+      {
+        "parcel_id": "0026C00198000000",
+        "address": "CHOPIN ST",
+        "city": "10902",
+        "zip_code": "15224",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026C00202000000",
+        "address": "CHOPIN ST",
+        "city": "10902",
+        "zip_code": "15224",
+        "current_owner_name": "414   GRANT ST  RM 200",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 36000,
+        "assessed_value_change_pct": 14.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

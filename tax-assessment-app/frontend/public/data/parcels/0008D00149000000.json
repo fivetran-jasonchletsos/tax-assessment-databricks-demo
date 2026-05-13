@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.035,
-    "latitude": 40.4435,
-    "longitude": -79.99652
+    "latitude": 40.4174,
+    "longitude": -80.06372
   },
   "assessments": {
     "parcel_id": "0008D00149000000",
@@ -187,6 +187,32 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0009A00016000000",
+        "address": "603 LOCKHART ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "603   LOCKHART ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 210700,
+        "market_value": 228700,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0009A00037000000",
+        "address": "600 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "600   PRESSLEY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 282000,
+        "market_value": 300000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0008D00167000000",
         "address": "508 LOCKHART ST",
         "city": "Ward 23 - East Allegheny",
@@ -197,7 +223,7 @@
         "assessed_value": 291200,
         "market_value": 309200,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0008D00161000000",
@@ -210,7 +236,7 @@
         "assessed_value": 292100,
         "market_value": 292100,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       }
     ]
   }

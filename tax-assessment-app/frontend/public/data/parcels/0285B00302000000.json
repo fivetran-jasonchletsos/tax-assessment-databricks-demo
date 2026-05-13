@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.215,
-    "latitude": 40.51652,
-    "longitude": -79.9586
+    "latitude": 40.52622,
+    "longitude": -79.9632
   },
   "assessments": {
     "parcel_id": "0285B00302000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0285B00302000000",
     "comparables": [
       {
+        "parcel_id": "0434B00005000000",
+        "address": "2708 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2708   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 196400,
+        "market_value": 214400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0520G00259000000",
         "address": "3101 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -132,7 +145,33 @@
         "assessed_value": 195100,
         "market_value": 213100,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0434C00005000000",
+        "address": "2709 OTTERBEIN DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2709   OTTERBEIN DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 198900,
+        "market_value": 216900,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0435A00126000000",
+        "address": "1000 DRESSEL RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "1000   DRESSEL RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 199200,
+        "market_value": 217200,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353C00062000000",
@@ -145,7 +184,7 @@
         "assessed_value": 194300,
         "market_value": 194300,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0433M00155000000",
@@ -158,45 +197,6 @@
         "assessed_value": 199600,
         "market_value": 217600,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285B00300000000",
-        "address": "102 WADSWORTH DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "102   WADSWORTH DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 193700,
-        "market_value": 211700,
-        "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0355P00328000000",
-        "address": "1412 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1416   MT ROYAL BLVD",
-        "land_use_description": "OFFICE/APARTMENTS OVER",
-        "acreage": null,
-        "assessed_value": 200000,
-        "market_value": 200000,
-        "assessed_value_change_pct": -0.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285A00040000000",
-        "address": "208 WADSWORTH DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "208   WADSWORTH DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 200200,
-        "market_value": 218200,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,217 @@
+{
+  "parcel": {
+    "parcel_id": "0065A00224000000",
+    "address": "315 CALIFORNIA AVE",
+    "city": "Carnegie",
+    "zip_code": "15106",
+    "county": "Allegheny",
+    "current_owner_name": "315   CALIFORNIA AVE",
+    "current_mailing_address": "315   CALIFORNIA AVE",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.154,
+    "latitude": 40.39138,
+    "longitude": -80.0885
+  },
+  "assessments": {
+    "parcel_id": "0065A00224000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 199400,
+        "market_value": 217400,
+        "land_value": 26200,
+        "improvement_value": 173200,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 8872,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 181400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 190528,
+        "market_value": 207727,
+        "land_value": 25034,
+        "improvement_value": 165494,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 172528,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 190528,
+        "market_value": 207727,
+        "land_value": 25034,
+        "improvement_value": 165494,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": -1925,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 172528,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 192453,
+        "market_value": 209825,
+        "land_value": 25287,
+        "improvement_value": 167166,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 9164,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 174453,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 183289,
+        "market_value": 199834,
+        "land_value": 24083,
+        "improvement_value": 159206,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 7049,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 165289,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 176240,
+        "market_value": 192149,
+        "land_value": 23156,
+        "improvement_value": 153084,
+        "land_value_percentage": 13.1,
+        "improvement_value_percentage": 86.9,
+        "market_to_assessed_ratio": 1.09,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 158240,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0065A00224000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0065A00224000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0065A00224000000",
+    "comparables": [
+      {
+        "parcel_id": "0065A00128000000",
+        "address": "319 ROWLAND AVE",
+        "city": "Carnegie",
+        "zip_code": "15106",
+        "current_owner_name": "44382   PALM FROND DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 192900,
+        "market_value": 192900,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0065A00234000000",
+        "address": "318 CALIFORNIA AVE",
+        "city": "Carnegie",
+        "zip_code": "15106",
+        "current_owner_name": "318   CALIFORNIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 164300,
+        "market_value": 182300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0065A00226000000",
+        "address": "312 CALIFORNIA AVE",
+        "city": "Carnegie",
+        "zip_code": "15106",
+        "current_owner_name": "312   CALIFORNIA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 154500,
+        "market_value": 154500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.482,
-    "latitude": 40.51772,
-    "longitude": -79.94876
+    "latitude": 40.52742,
+    "longitude": -79.95336
   },
   "assessments": {
     "parcel_id": "0285F00128000000",
@@ -197,6 +197,19 @@
     "parcel_id": "0285F00128000000",
     "comparables": [
       {
+        "parcel_id": "0435A00040000000",
+        "address": "603 STONERIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "603   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 97800,
+        "market_value": 115800,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0353D00043000000",
         "address": "108 CREST LN",
         "city": "Shaler",
@@ -207,7 +220,7 @@
         "assessed_value": 98200,
         "market_value": 116200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0355P00326000000",
@@ -220,7 +233,7 @@
         "assessed_value": 97500,
         "market_value": 97500,
         "assessed_value_change_pct": -0.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0285B00233000000",
@@ -233,45 +246,32 @@
         "assessed_value": 98400,
         "market_value": 116400,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285B00165000000",
-        "address": "1023 MIDDLE RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1023   MIDDLE RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 97000,
-        "market_value": 115000,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0520C00178000000",
-        "address": "3302 MOUNT ROYAL BLVD",
+        "parcel_id": "0166C00226000000",
+        "address": "604 SHORT AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3302   MOUNT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "604   SHORT AVE",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 98800,
-        "market_value": 116800,
+        "assessed_value": 97300,
+        "market_value": 115300,
         "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0355E00207000000",
-        "address": "1805 MOUNT ROYAL BLVD",
+        "parcel_id": "0166D00052000000",
+        "address": "12 BUTTERFIELD AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1805   MOUNT ROYAL BLVD",
+        "zip_code": "15223",
+        "current_owner_name": "12   BUTTERFIELD ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 96800,
-        "market_value": 114800,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 97300,
+        "market_value": 97300,
+        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

@@ -1,0 +1,204 @@
+{
+  "parcel": {
+    "parcel_id": "0180R00125000000",
+    "address": "3301 CYPRESS ST",
+    "city": "West Mifflin",
+    "zip_code": "15122",
+    "county": "Allegheny",
+    "current_owner_name": "3301   CYPRESS ST",
+    "current_mailing_address": "3301   CYPRESS ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.174,
+    "latitude": 40.35088,
+    "longitude": -79.9206
+  },
+  "assessments": {
+    "parcel_id": "0180R00125000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32000,
+        "market_value": 50000,
+        "land_value": 18000,
+        "improvement_value": 14000,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 2306,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 29694,
+        "market_value": 46396,
+        "land_value": 16702,
+        "improvement_value": 12992,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 294,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11694,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 29400,
+        "market_value": 45937,
+        "land_value": 16537,
+        "improvement_value": 12863,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11400,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29400,
+        "market_value": 45937,
+        "land_value": 16537,
+        "improvement_value": 12863,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": -297,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11400,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29697,
+        "market_value": 46401,
+        "land_value": 16704,
+        "improvement_value": 12993,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 1414,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 11697,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28283,
+        "market_value": 44192,
+        "land_value": 15909,
+        "improvement_value": 12374,
+        "land_value_percentage": 56.2,
+        "improvement_value_percentage": 43.8,
+        "market_to_assessed_ratio": 1.56,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10283,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0180R00125000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0180R00125000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0180R00125000000",
+    "comparables": [
+      {
+        "parcel_id": "0180R00158000000",
+        "address": "3226 CHERRY ST",
+        "city": "West Mifflin",
+        "zip_code": "15122",
+        "current_owner_name": "3226   CHERRY ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32900,
+        "market_value": 50900,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0180R00117000000",
+        "address": "3215 CYPRESS ST",
+        "city": "West Mifflin",
+        "zip_code": "15122",
+        "current_owner_name": "3215   CYPRESS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 30300,
+        "market_value": 48300,
+        "assessed_value_change_pct": -1.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

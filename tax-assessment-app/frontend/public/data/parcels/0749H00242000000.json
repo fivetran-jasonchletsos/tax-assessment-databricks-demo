@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0749H00242000000",
+    "address": "6 MAPLE ST",
+    "city": "Trafford",
+    "zip_code": "15085",
+    "county": "Allegheny",
+    "current_owner_name": "6   MAPLE ST",
+    "current_mailing_address": "6   MAPLE ST",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.086,
+    "latitude": 40.3761,
+    "longitude": -79.71246
+  },
+  "assessments": {
+    "parcel_id": "0749H00242000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 43300,
+        "market_value": 61299,
+        "land_value": 30600,
+        "improvement_value": 12700,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": 4270,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 25300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 39030,
+        "market_value": 55254,
+        "land_value": 27582,
+        "improvement_value": 11448,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": 765,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 21030,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 38265,
+        "market_value": 54171,
+        "land_value": 27041,
+        "improvement_value": 11224,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": 378,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 20265,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 37887,
+        "market_value": 53636,
+        "land_value": 26774,
+        "improvement_value": 11113,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19887,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 37887,
+        "market_value": 53636,
+        "land_value": 26774,
+        "improvement_value": 11113,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": -383,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 19887,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 38270,
+        "market_value": 54179,
+        "land_value": 27045,
+        "improvement_value": 11225,
+        "land_value_percentage": 70.7,
+        "improvement_value_percentage": 29.3,
+        "market_to_assessed_ratio": 1.42,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 20270,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0749H00242000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0749H00242000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0749H00242000000",
+    "comparables": [
+      {
+        "parcel_id": "0749H00226000000",
+        "address": "6 HAYDEN ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "6   HAYDEN ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 45200,
+        "market_value": 63200,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0749H00254000000",
+        "address": "25 BLUFF ST",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "25   BLUFF ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 46000,
+        "market_value": 64000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0749R00074000000",
+        "address": "WALLACE AVE",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "CORPORATION",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40100,
+        "market_value": 40100,
+        "assessed_value_change_pct": 1.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0749L00125000000",
+        "address": "NASER RD",
+        "city": "Trafford",
+        "zip_code": "15085",
+        "current_owner_name": "REGULAR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 35800,
+        "market_value": 35800,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

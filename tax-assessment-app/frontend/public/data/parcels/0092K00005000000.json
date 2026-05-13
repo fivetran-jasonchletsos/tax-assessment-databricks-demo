@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0092K00005000000",
+    "address": "CATHELL RD",
+    "city": "Baldwin Boro",
+    "zip_code": "15236",
+    "county": "Allegheny",
+    "current_owner_name": "1560   CATHELL RD",
+    "current_mailing_address": "1560   CATHELL RD",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 2.763,
+    "latitude": 40.32442,
+    "longitude": -79.97744
+  },
+  "assessments": {
+    "parcel_id": "0092K00005000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 36600,
+        "market_value": 36600,
+        "land_value": 36600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1630,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34970,
+        "market_value": 34970,
+        "land_value": 34970,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34970,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34970,
+        "market_value": 34970,
+        "land_value": 34970,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -354,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34970,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 35324,
+        "market_value": 35324,
+        "land_value": 35324,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1682,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35324,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 33642,
+        "market_value": 33642,
+        "land_value": 33642,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1293,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33642,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 32349,
+        "market_value": 32349,
+        "land_value": 32349,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32349,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0092K00005000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0092K00005000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-83199-2024",
+        "filed_date": null,
+        "hearing_date": "30-May-24",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0092K00005000000",
+    "comparables": [
+      {
+        "parcel_id": "0092P00025000000",
+        "address": "3714 CHURCHVIEW AVE",
+        "city": "Baldwin Boro",
+        "zip_code": "15236",
+        "current_owner_name": "3714   CHURCHVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37100,
+        "market_value": 55100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0092P00141000000",
+        "address": "3669 CHURCHVIEW AVE",
+        "city": "Baldwin Boro",
+        "zip_code": "15236",
+        "current_owner_name": "3669   CHURCHVIEW AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 37300,
+        "market_value": 55300,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0058N00019000000",
+        "address": "1122 CLOVERFIELD DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1130   CLOVERFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34000,
+        "market_value": 34000,
+        "assessed_value_change_pct": -1.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0092J00050000000",
+        "address": "CATHELL RD",
+        "city": "Baldwin Boro",
+        "zip_code": "15236",
+        "current_owner_name": "1703   CATHELL RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 33700,
+        "market_value": 33700,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0058N00031000000",
+        "address": "1146 CLOVERFIELD DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1146   CLOVERFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40700,
+        "market_value": 58700,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0058N00029000000",
+        "address": "1142 CLOVERFIELD DR",
+        "city": "Baldwin Boro",
+        "zip_code": "15227",
+        "current_owner_name": "1142   CLOVERFIELD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41400,
+        "market_value": 59400,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

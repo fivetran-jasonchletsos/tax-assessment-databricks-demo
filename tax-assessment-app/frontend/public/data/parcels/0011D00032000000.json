@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.075,
-    "latitude": 40.4555,
-    "longitude": -79.96296
+    "latitude": 40.4554,
+    "longitude": -79.95736
   },
   "assessments": {
     "parcel_id": "0011D00032000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0011D00032000000",
     "comparables": [
       {
+        "parcel_id": "0011H00070000000",
+        "address": "129 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "1709   ST JOHNS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0011D00047000000",
         "address": "16 ELLERS ST",
         "city": "10402",
@@ -132,7 +145,7 @@
         "assessed_value": 31500,
         "market_value": 31500,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0011H00018000000",
@@ -145,7 +158,20 @@
         "assessed_value": 31000,
         "market_value": 49000,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0011H00068000000",
+        "address": "123 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "123   BURROWS ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 36000,
+        "market_value": 54000,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0011D00019000000",
@@ -158,7 +184,7 @@
         "assessed_value": 36200,
         "market_value": 54200,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.5
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0011H00025000000",
@@ -171,32 +197,6 @@
         "assessed_value": 38600,
         "market_value": 56600,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0011D00038000000",
-        "address": "3129 ELLERS ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "3129   ELLERS ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 39000,
-        "market_value": 57000,
-        "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0011H00028000000",
-        "address": "3136 TERRACE ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "3136   TERRACE ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 40400,
-        "market_value": 58400,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

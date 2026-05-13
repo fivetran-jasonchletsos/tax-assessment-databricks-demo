@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0017A00130000000",
+    "address": "MANSFIELD AVE",
+    "city": "Greentree",
+    "zip_code": "15220",
+    "county": "Allegheny",
+    "current_owner_name": "1000   HECKLER DR",
+    "current_mailing_address": "1000   HECKLER DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 1.252,
+    "latitude": 40.42974,
+    "longitude": -80.05512
+  },
+  "assessments": {
+    "parcel_id": "0017A00130000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 39600,
+        "market_value": 39600,
+        "land_value": 39600,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1763,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 37837,
+        "market_value": 37837,
+        "land_value": 37837,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37837,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 37837,
+        "market_value": 37837,
+        "land_value": 37837,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -383,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37837,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 38220,
+        "market_value": 38220,
+        "land_value": 38220,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1820,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38220,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 36400,
+        "market_value": 36400,
+        "land_value": 36400,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1400,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36400,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "land_value": 35000,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 35000,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0017A00130000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0017A00130000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0017A00130000000",
+    "comparables": [
+      {
+        "parcel_id": "0017A00138000000",
+        "address": "POPLAR ST",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "1000   HECKLER DR",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 36800,
+        "market_value": 36800,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0017A00080000000",
+        "address": "GREENTREE RD",
+        "city": "Greentree",
+        "zip_code": "15220",
+        "current_owner_name": "310   MANSFIELD AVE",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 36300,
+        "market_value": 36300,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

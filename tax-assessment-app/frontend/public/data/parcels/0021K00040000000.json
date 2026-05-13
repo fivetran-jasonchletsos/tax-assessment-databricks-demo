@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0021K00040000000",
+    "address": "W CARSON ST",
+    "city": "12004",
+    "zip_code": "15204",
+    "county": "Allegheny",
+    "current_owner_name": "26080   VIA RIVIERA",
+    "current_mailing_address": "26080   VIA RIVIERA",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "VACANT LAND",
+    "acreage": 0.146,
+    "latitude": 40.44364,
+    "longitude": -80.06332
+  },
+  "assessments": {
+    "parcel_id": "0021K00040000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 30100,
+        "market_value": 30100,
+        "land_value": 30100,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -421,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 30521,
+        "market_value": 30521,
+        "land_value": 30521,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1453,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30521,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 29068,
+        "market_value": 29068,
+        "land_value": 29068,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1118,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29068,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27950,
+        "market_value": 27950,
+        "land_value": 27950,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 814,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27950,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 27136,
+        "market_value": 27136,
+        "land_value": 27136,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 532,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 27136,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 26604,
+        "market_value": 26604,
+        "land_value": 26604,
+        "improvement_value": 0,
+        "land_value_percentage": 100.0,
+        "improvement_value_percentage": 0.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 26604,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0021K00040000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0021K00040000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0021K00040000000",
+    "comparables": [
+      {
+        "parcel_id": "0021E00057000000",
+        "address": "W CARSON ST",
+        "city": "12004",
+        "zip_code": "15204",
+        "current_owner_name": "REGULAR-ETAL",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 30400,
+        "market_value": 30400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0017D00019000000",
+        "address": "MCKINNEY LN",
+        "city": "12004",
+        "zip_code": "15220",
+        "current_owner_name": "11   PARKWAY CTR  STE 300",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 30900,
+        "market_value": 30900,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0021E00014000000",
+        "address": "118 EARL ST",
+        "city": "12004",
+        "zip_code": "15204",
+        "current_owner_name": "64   AGNES ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": 13.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

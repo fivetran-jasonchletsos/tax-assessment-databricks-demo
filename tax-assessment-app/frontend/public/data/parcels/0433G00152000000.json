@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.393,
-    "latitude": 40.51688,
-    "longitude": -79.9544
+    "latitude": 40.52658,
+    "longitude": -79.959
   },
   "assessments": {
     "parcel_id": "0433G00152000000",
@@ -187,6 +187,19 @@
         "distance_miles": 0.1
       },
       {
+        "parcel_id": "0166D00120000000",
+        "address": "115 MCKINLEY AVE",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "115   MCKINLEY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 110100,
+        "market_value": 128100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
         "parcel_id": "0285B00140000000",
         "address": "1003 MIDDLE RD",
         "city": "Shaler",
@@ -197,7 +210,7 @@
         "assessed_value": 110200,
         "market_value": 110200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0353C00047000000",
@@ -210,7 +223,7 @@
         "assessed_value": 110200,
         "market_value": 128200,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353D00232000000",
@@ -223,32 +236,19 @@
         "assessed_value": 109200,
         "market_value": 127200,
         "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285A00023000000",
-        "address": "509 GLEN MALCOLM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "509   GLEN MALCOLM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 108900,
-        "market_value": 126900,
-        "assessed_value_change_pct": -4.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00255000000",
-        "address": "305 S MAGNOLIA DR",
+        "parcel_id": "0166D00056000000",
+        "address": "16 BUTTERFIELD AVE",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "305  S MAGNOLIA DR",
+        "zip_code": "15223",
+        "current_owner_name": "16   BUTTERFIELD ST",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 108900,
-        "market_value": 126900,
-        "assessed_value_change_pct": -2.9,
+        "assessed_value": 110200,
+        "market_value": 128200,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

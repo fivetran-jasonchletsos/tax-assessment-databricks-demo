@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "1653B00002000000",
+    "address": "475 CLIFF RD",
+    "city": "Marshall",
+    "zip_code": "15005",
+    "county": "Allegheny",
+    "current_owner_name": "290   NORTHGATE DR  STE 210",
+    "current_mailing_address": "290   NORTHGATE DR  STE 210",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "BUILDERS LOT",
+    "acreage": 15.53,
+    "latitude": 40.62996,
+    "longitude": -80.20114
+  },
+  "assessments": {
+    "parcel_id": "1653B00002000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 412100,
+        "market_value": 412100,
+        "land_value": 387200,
+        "improvement_value": 24900,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6520,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 412100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 405580,
+        "market_value": 405580,
+        "land_value": 381073,
+        "improvement_value": 24507,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -4097,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 405580,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 409677,
+        "market_value": 409677,
+        "land_value": 384923,
+        "improvement_value": 24754,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 19508,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 409677,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 390169,
+        "market_value": 390169,
+        "land_value": 366594,
+        "improvement_value": 23575,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 15006,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 390169,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 375163,
+        "market_value": 375163,
+        "land_value": 352494,
+        "improvement_value": 22669,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 10927,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 375163,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 364236,
+        "market_value": 364236,
+        "land_value": 342228,
+        "improvement_value": 22008,
+        "land_value_percentage": 94.0,
+        "improvement_value_percentage": 6.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 364236,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1653B00002000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1653B00002000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-70657-2022",
+        "filed_date": null,
+        "hearing_date": "14-Jun-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1653B00002000000",
+    "comparables": [
+      {
+        "parcel_id": "1654A00062000000",
+        "address": "4035 KILEY LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "4035   KILEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 408200,
+        "market_value": 426200,
+        "assessed_value_change_pct": -3.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "1654A00087000000",
+        "address": "5002 LUKE CT",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "5002   LUKE CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 416200,
+        "market_value": 434200,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "1654A00108000000",
+        "address": "6037 HADLEY FARMS LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "6037   HADLEY FARMS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 407300,
+        "market_value": 425300,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "1654E00082000000",
+        "address": "4025 KILEY LN",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "4025   KILEY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 403300,
+        "market_value": 421300,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "1654A00083000000",
+        "address": "5004 LUKE CT",
+        "city": "Marshall",
+        "zip_code": "15005",
+        "current_owner_name": "5004   LUKE CT",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 400400,
+        "market_value": 418400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "1999L00003000000",
+        "address": "290 MAPLE DR",
+        "city": "Marshall",
+        "zip_code": "15086",
+        "current_owner_name": "PO BOX 324",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 396900,
+        "market_value": 414900,
+        "assessed_value_change_pct": -0.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

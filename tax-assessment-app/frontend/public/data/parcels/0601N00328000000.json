@@ -1,0 +1,139 @@
+{
+  "parcel": {
+    "parcel_id": "0601N00328000000",
+    "address": "1399 RIVERVIEW RD",
+    "city": "Crescent",
+    "zip_code": "15046",
+    "county": "Allegheny",
+    "current_owner_name": "941   5TH AVE",
+    "current_mailing_address": "941   5TH AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 1.5,
+    "latitude": 40.54646,
+    "longitude": -80.23868
+  },
+  "assessments": {
+    "parcel_id": "0601N00328000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 36000,
+        "market_value": 36000,
+        "land_value": 9000,
+        "improvement_value": 27000,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1604,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 36000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 34396,
+        "market_value": 34396,
+        "land_value": 8599,
+        "improvement_value": 25797,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34396,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 34396,
+        "market_value": 34396,
+        "land_value": 8599,
+        "improvement_value": 25797,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -348,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34396,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 34744,
+        "market_value": 34744,
+        "land_value": 8686,
+        "improvement_value": 26058,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1654,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 34744,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 33090,
+        "market_value": 33090,
+        "land_value": 8272,
+        "improvement_value": 24818,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1272,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 33090,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31818,
+        "market_value": 31818,
+        "land_value": 7954,
+        "improvement_value": 23864,
+        "land_value_percentage": 25.0,
+        "improvement_value_percentage": 75.0,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31818,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0601N00328000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0601N00328000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0601N00328000000",
+    "comparables": [
+      {
+        "parcel_id": "0600E00321000000",
+        "address": "227 RIVERVIEW RD",
+        "city": "Crescent",
+        "zip_code": "15046",
+        "current_owner_name": "1100   FREEPORT RD",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 43900,
+        "market_value": 43900,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

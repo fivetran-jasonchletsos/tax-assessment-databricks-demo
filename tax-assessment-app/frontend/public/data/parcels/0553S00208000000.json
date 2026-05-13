@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0553S00208000000",
+    "address": "405 ANTONELLI DR",
+    "city": "Elizabeth Twp",
+    "zip_code": "15135",
+    "county": "Allegheny",
+    "current_owner_name": "405   ANTONELLI DR",
+    "current_mailing_address": "405   ANTONELLI DR",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.152,
+    "latitude": 40.29272,
+    "longitude": -79.82308
+  },
+  "assessments": {
+    "parcel_id": "0553S00208000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 74000,
+        "market_value": 74000,
+        "land_value": 27200,
+        "improvement_value": 46800,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5333,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 74000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 68667,
+        "market_value": 68667,
+        "land_value": 25239,
+        "improvement_value": 43428,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 679,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68667,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 67988,
+        "market_value": 67988,
+        "land_value": 24990,
+        "improvement_value": 42998,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67988,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 67988,
+        "market_value": 67988,
+        "land_value": 24990,
+        "improvement_value": 42998,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -687,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67988,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 68675,
+        "market_value": 68675,
+        "land_value": 25242,
+        "improvement_value": 43433,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3270,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68675,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 65405,
+        "market_value": 65405,
+        "land_value": 24040,
+        "improvement_value": 41365,
+        "land_value_percentage": 36.8,
+        "improvement_value_percentage": 63.2,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 65405,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0553S00208000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0553S00208000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-20007-2017",
+        "filed_date": null,
+        "hearing_date": "9-Jun-17",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-66088-2022",
+        "filed_date": null,
+        "hearing_date": "9-Jun-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0553S00208000000",
+    "comparables": [
+      {
+        "parcel_id": "0553N00084000000",
+        "address": "6602 SMITHFIELD ST",
+        "city": "Elizabeth Twp",
+        "zip_code": "15135",
+        "current_owner_name": "6602   SMITHFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 74000,
+        "market_value": 74000,
+        "assessed_value_change_pct": -0.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0553N00107000000",
+        "address": "6628 SMITHFIELD ST",
+        "city": "Elizabeth Twp",
+        "zip_code": "15135",
+        "current_owner_name": "6628   SMITHFIELD ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73400,
+        "market_value": 91400,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "1127J00067000000",
+        "address": "202 MCCORKLE CT",
+        "city": "Elizabeth Twp",
+        "zip_code": "15018",
+        "current_owner_name": "PO BOX 89",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 73100,
+        "market_value": 73100,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0997G00042000000",
+        "address": "385 HENDERSON RD",
+        "city": "Elizabeth Twp",
+        "zip_code": "15018",
+        "current_owner_name": "22249   QUEHANNA HWY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75100,
+        "market_value": 93100,
+        "assessed_value_change_pct": -1.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "1127A00398000000",
+        "address": "431 STYCHE ST",
+        "city": "Elizabeth Twp",
+        "zip_code": "15018",
+        "current_owner_name": "PO BOX 105",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75100,
+        "market_value": 75100,
+        "assessed_value_change_pct": -2.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0651F00046000000",
+        "address": "536 MORAY LN",
+        "city": "Elizabeth Twp",
+        "zip_code": "15047",
+        "current_owner_name": "536   MORAY LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 75100,
+        "market_value": 93100,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

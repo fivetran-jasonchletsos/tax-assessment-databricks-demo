@@ -29,11 +29,10 @@ PARCEL_DIR = OUTPUT_DIR / "parcels"
 ASSESSMENTS_RESOURCE = "9a1c60bd-f9f7-4aba-aeb7-af8c3aaa44e5"
 APPEALS_RESOURCE = "8a7607fb-c93e-4d7a-9b23-528b5c25b1de"
 
-# Areas to include in the snapshot. Glenshaw (15116) is the demo presenter's
-# ZIP. Pittsburgh ZIPs span Squirrel Hill, Oakland, Downtown, Lawrenceville,
-# North Side, Mt Lebanon, Aspinwall — the most commonly searched neighborhoods.
+# Featured ZIPs get the heaviest sampling AND get per-parcel detail bundles
+# written so clicking any of them works without a network call.
 FEATURED_ZIPS = [
-    15116,  # Glenshaw — presenter's ZIP, expanded sample
+    15116,  # Glenshaw — presenter's ZIP
     15217,  # Squirrel Hill
     15222,  # Downtown
     15206,  # East Liberty / Highland Park
@@ -44,8 +43,17 @@ FEATURED_ZIPS = [
     15213,  # Oakland
     15232,  # Shadyside
 ]
+
+# All Allegheny County ZIPs with residential parcels (loaded from
+# zip_centroids.json so the snapshot can geo-place every row).
+_centroids_path = Path(__file__).parent / "zip_centroids.json"
+_zip_centroids_data: dict[str, list[float]] = (
+    json.loads(_centroids_path.read_text()) if _centroids_path.exists() else {}
+)
+ALL_ALLEGHENY_ZIPS = sorted(int(z) for z in _zip_centroids_data.keys())
+
 PER_ZIP_LIMIT = {15116: 250}  # presenter's ZIP gets a generous sample
-DEFAULT_PER_ZIP = 60
+DEFAULT_PER_ZIP = 100  # bumped from 60 → 100 per ZIP across all 109 ZIPs
 
 
 def ckan(action: str, **params) -> dict[str, Any]:
@@ -120,7 +128,9 @@ def fetch_parcels() -> list[dict[str, Any]]:
     # Residential parcels only — commercial/industrial mega-parcels (steel
     # mills, downtown high-rises, hospitals) at >$50M distort medians and
     # histograms. Community-facing portal serves homeowners.
-    for zip_code in FEATURED_ZIPS:
+    zips_to_pull = ALL_ALLEGHENY_ZIPS or FEATURED_ZIPS
+    print(f"Pulling residential parcels from {len(zips_to_pull)} ZIPs...")
+    for zip_code in zips_to_pull:
         limit = PER_ZIP_LIMIT.get(zip_code, DEFAULT_PER_ZIP)
         sql = (
             f"SELECT {PARCEL_COLS} FROM \"{ASSESSMENTS_RESOURCE}\" "
@@ -131,8 +141,13 @@ def fetch_parcels() -> list[dict[str, Any]]:
             f"ORDER BY \"PARID\" "
             f"LIMIT {limit}"
         )
-        rows = query_sql(sql)
-        print(f"  {zip_code}: {len(rows)} parcels")
+        try:
+            rows = query_sql(sql)
+        except Exception as e:
+            print(f"  {zip_code}: ERROR {e}")
+            continue
+        if rows:
+            print(f"  {zip_code}: {len(rows)} parcels")
         out.extend(rows)
     # Ensure every Glenshaw street the demo presenter might reference is
     # represented in full, regardless of value rank.
@@ -153,23 +168,12 @@ def fetch_parcels() -> list[dict[str, Any]]:
     return out
 
 
-# ZIP-centroid coordinates for our featured ZIPs. WPRDC's assessment
-# dataset doesn't ship per-parcel geometry, so we use the ZIP centroid
-# as an approximate location and apply a small deterministic jitter so
-# multiple parcels in the same ZIP don't render on top of each other.
-# Accurate enough for "what neighborhood is this in?"; clearly disclaimed
-# on the parcel detail page.
+# ZIP-centroid coordinates. Loaded from zip_centroids.json (built by
+# scripts/fetch_zip_centroids.py via zippopotam.us). All 109 Allegheny
+# County residential ZIPs are covered; we apply a deterministic jitter
+# so multiple parcels in the same ZIP don't render on top of each other.
 ZIP_CENTROIDS: dict[int, tuple[float, float]] = {
-    15116: (40.5278, -79.9598),   # Glenshaw / Shaler Twp
-    15217: (40.4378, -79.9301),   # Squirrel Hill
-    15222: (40.4445, -79.9968),   # Downtown / Strip District
-    15206: (40.4612, -79.9148),   # East Liberty / Highland Park
-    15212: (40.4543, -80.0078),   # North Side
-    15201: (40.4738, -79.9608),   # Lawrenceville
-    15228: (40.3756, -80.0509),   # Mt Lebanon
-    15215: (40.4923, -79.9051),   # Aspinwall / Fox Chapel
-    15213: (40.4441, -79.9608),   # Oakland
-    15232: (40.4504, -79.9305),   # Shadyside
+    int(z): (coords[0], coords[1]) for z, coords in _zip_centroids_data.items()
 }
 
 

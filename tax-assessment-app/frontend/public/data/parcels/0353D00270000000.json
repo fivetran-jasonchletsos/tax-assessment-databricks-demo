@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.151,
-    "latitude": 40.51676,
-    "longitude": -79.955
+    "latitude": 40.52646,
+    "longitude": -79.9596
   },
   "assessments": {
     "parcel_id": "0353D00270000000",
@@ -200,6 +200,32 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0119C00184000000",
+        "address": "207 WASHINGTON ST",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "207   WASHINGTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 107400,
+        "market_value": 125400,
+        "assessed_value_change_pct": -3.3,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0119C00224000000",
+        "address": "219 WASHINGTON ST",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "219   WASHINGTON ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 107800,
+        "market_value": 125800,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0353H00097000001",
         "address": "117 PARK LN",
         "city": "Shaler",
@@ -210,45 +236,19 @@
         "assessed_value": 107900,
         "market_value": 125900,
         "assessed_value_change_pct": -1.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0285A00006000000",
-        "address": "112 CANDLEWYCK DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "112   CANDLEWYCK DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107000,
-        "market_value": 125000,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0353D00247000000",
-        "address": "802 VILSACK RD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "802   VILSACK RD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 107000,
-        "market_value": 125000,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0353D00049000000",
-        "address": "104 CREST LN",
+        "parcel_id": "0166C00140000000",
+        "address": "206 DEWEY AVENUE EXT",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "104   CREST LN",
+        "zip_code": "15223",
+        "current_owner_name": "206   DEWEY AVE EXT",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 106900,
-        "market_value": 124900,
-        "assessed_value_change_pct": -3.1,
+        "assessed_value": 108100,
+        "market_value": 126100,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

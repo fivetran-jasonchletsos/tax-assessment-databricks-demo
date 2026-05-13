@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "TWO FAMILY",
     "acreage": 0.476,
-    "latitude": 40.51904,
-    "longitude": -79.96616
+    "latitude": 40.52874,
+    "longitude": -79.97076
   },
   "assessments": {
     "parcel_id": "0356R00146000000",
@@ -161,6 +161,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434D00288000000",
+        "address": "903 TIDAL TERRACE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "903   TIDAL TERRACE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 90800,
+        "market_value": 108800,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285F00064000000",
         "address": "987 SAXONBURG BLVD",
         "city": "Shaler",
@@ -171,32 +184,19 @@
         "assessed_value": 90700,
         "market_value": 108700,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0355K00071000000",
-        "address": "1521 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1521   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 92500,
-        "market_value": 110500,
-        "assessed_value_change_pct": -2.3,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0433C00064000000",
-        "address": "2603 MOUNT ROYAL BLVD",
+        "parcel_id": "0434D00264000000",
+        "address": "304 SHOREHAM DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "2603   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "304   SHOREHAM DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 93200,
-        "market_value": 111200,
-        "assessed_value_change_pct": -4.1,
+        "assessed_value": 90500,
+        "market_value": 108500,
+        "assessed_value_change_pct": -3.3,
         "distance_miles": 1.1
       }
     ]

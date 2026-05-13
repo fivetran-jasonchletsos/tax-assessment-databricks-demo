@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.078,
-    "latitude": 40.4498,
-    "longitude": -79.91048
+    "latitude": 40.4609,
+    "longitude": -79.90888
   },
   "assessments": {
     "parcel_id": "0050H00071000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0050M00177000000",
+        "address": "237 N GRAHAM ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "237   GRAHAM ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 220200,
+        "market_value": 220200,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0050H00114000000",
         "address": "512 N AIKEN AVE",
         "city": "11103",
@@ -223,7 +236,20 @@
         "assessed_value": 158700,
         "market_value": 176700,
         "assessed_value_change_pct": -4.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0050M00165000A00",
+        "address": "5400 KINCAID ST",
+        "city": "11103",
+        "zip_code": "15206",
+        "current_owner_name": "5400   KINCAID ST  UNIT 1",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 232300,
+        "market_value": 250300,
+        "assessed_value_change_pct": 0.7,
+        "distance_miles": 1.1
       }
     ]
   }

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.126,
-    "latitude": 40.45514,
-    "longitude": -79.96644
+    "latitude": 40.45504,
+    "longitude": -79.96084
   },
   "assessments": {
     "parcel_id": "0011D00020000000",
@@ -122,6 +122,19 @@
     "parcel_id": "0011D00020000000",
     "comparables": [
       {
+        "parcel_id": "0011H00035000000",
+        "address": "3124 TERRACE ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "3124   TERRACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 65400,
+        "market_value": 65400,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0011D00009000000",
         "address": "3114 ELLERS ST",
         "city": "10402",
@@ -132,7 +145,7 @@
         "assessed_value": 69600,
         "market_value": 69600,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
       },
       {
         "parcel_id": "0011H00023000000",
@@ -145,7 +158,7 @@
         "assessed_value": 61200,
         "market_value": 61200,
         "assessed_value_change_pct": 14.3,
-        "distance_miles": 0.3
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0011D00035000000",
@@ -158,7 +171,7 @@
         "assessed_value": 60600,
         "market_value": 60600,
         "assessed_value_change_pct": 14.1,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0011H00024000000",
@@ -171,7 +184,7 @@
         "assessed_value": 58200,
         "market_value": 58200,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0011D00061000000",
@@ -184,19 +197,6 @@
         "assessed_value": 77000,
         "market_value": 95000,
         "assessed_value_change_pct": 13.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0011D00072000000",
-        "address": "2534 ALLEQUIPPA ST",
-        "city": "10402",
-        "zip_code": "15213",
-        "current_owner_name": "550   NORMANDY CT",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 53800,
-        "market_value": 53800,
-        "assessed_value_change_pct": 14.3,
         "distance_miles": 1.1
       }
     ]

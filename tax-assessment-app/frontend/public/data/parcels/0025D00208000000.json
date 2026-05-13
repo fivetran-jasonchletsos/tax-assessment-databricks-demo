@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.022,
-    "latitude": 40.4624,
-    "longitude": -79.9548
+    "latitude": 40.4638,
+    "longitude": -79.9468
   },
   "assessments": {
     "parcel_id": "0025D00208000000",
@@ -172,6 +172,85 @@
   },
   "comparables": {
     "parcel_id": "0025D00208000000",
-    "comparables": []
+    "comparables": [
+      {
+        "parcel_id": "0026A00096000000",
+        "address": "3634 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "4609   BAYARD ST  APT 47",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 145500,
+        "market_value": 163500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0025G00232000000",
+        "address": "2902 PENN AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "137   43RD ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 153300,
+        "market_value": 153300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026A00027000000",
+        "address": "3425 DENNY ST",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "3425   DENNY ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 162100,
+        "market_value": 162100,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0026B00015000A00",
+        "address": "3724 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "207   ELMTREE RD",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 124500,
+        "market_value": 124500,
+        "assessed_value_change_pct": -2.1,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0026B00057000000",
+        "address": "3920 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3920   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 121000,
+        "market_value": 139000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0025G00226000000",
+        "address": "2905 SPRING WAY",
+        "city": "10601",
+        "zip_code": "15201",
+        "current_owner_name": "2905   SPRING WAY",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 180700,
+        "market_value": 180700,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 1.1
+      }
+    ]
   }
 }

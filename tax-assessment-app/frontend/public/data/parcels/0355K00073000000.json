@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.115,
-    "latitude": 40.51796,
-    "longitude": -79.94816
+    "latitude": 40.52766,
+    "longitude": -79.95276
   },
   "assessments": {
     "parcel_id": "0355K00073000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0119G00230000000",
+        "address": "E OHIO ST",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "209  S 8TH ST  APT 2",
+        "land_use_description": "VACANT LAND",
+        "acreage": null,
+        "assessed_value": 40600,
+        "market_value": 40600,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285F00073000000",
         "address": "993 SAXONBURG BLVD",
         "city": "Shaler",
@@ -223,32 +236,19 @@
         "assessed_value": 46800,
         "market_value": 64800,
         "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0520G00084000000",
-        "address": "3200 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3200   MOUNT ROYAL BLVD",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 39400,
-        "market_value": 39400,
-        "assessed_value_change_pct": -3.5,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0285B00020000000",
-        "address": "SAXONBURG BLVD",
+        "parcel_id": "0166C00165000000",
+        "address": "300 COLEMAN WAY",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "1013   SAXONBURG BLVD",
-        "land_use_description": "VACANT LAND",
+        "zip_code": "15223",
+        "current_owner_name": "300   COLEMAN WAY",
+        "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 39300,
-        "market_value": 39300,
-        "assessed_value_change_pct": -4.9,
+        "assessed_value": 47400,
+        "market_value": 65400,
+        "assessed_value_change_pct": -3.1,
         "distance_miles": 1.1
       }
     ]

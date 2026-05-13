@@ -1,0 +1,177 @@
+{
+  "parcel": {
+    "parcel_id": "0225H00020000000",
+    "address": "301 HEMLOCK HOLLOW RD",
+    "city": "Fox Chapel",
+    "zip_code": "15238",
+    "county": "Allegheny",
+    "current_owner_name": "301   HEMLOCK HOLLOW RD",
+    "current_mailing_address": "301   HEMLOCK HOLLOW RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.55,
+    "latitude": 40.52296,
+    "longitude": -79.88098
+  },
+  "assessments": {
+    "parcel_id": "0225H00020000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 102000,
+        "market_value": 120000,
+        "land_value": 90000,
+        "improvement_value": 12000,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 1615,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 84000,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 100385,
+        "market_value": 118100,
+        "land_value": 88575,
+        "improvement_value": 11810,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": -1014,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 82385,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 101399,
+        "market_value": 119292,
+        "land_value": 89469,
+        "improvement_value": 11930,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 4828,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 83399,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 96571,
+        "market_value": 113612,
+        "land_value": 85209,
+        "improvement_value": 11362,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 3714,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 78571,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 92857,
+        "market_value": 109243,
+        "land_value": 81932,
+        "improvement_value": 10925,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 2704,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 74857,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 90153,
+        "market_value": 106062,
+        "land_value": 79546,
+        "improvement_value": 10607,
+        "land_value_percentage": 88.2,
+        "improvement_value_percentage": 11.8,
+        "market_to_assessed_ratio": 1.18,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 72153,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0225H00020000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0225H00020000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0225H00020000000",
+    "comparables": []
+  }
+}

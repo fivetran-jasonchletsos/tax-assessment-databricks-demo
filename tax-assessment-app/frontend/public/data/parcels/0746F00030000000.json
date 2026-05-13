@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0746F00030000000",
+    "address": "314 SCHOOL ST",
+    "city": "Pitcairn",
+    "zip_code": "15140",
+    "county": "Allegheny",
+    "current_owner_name": "813   PIERSON RUN RD",
+    "current_mailing_address": "813   PIERSON RUN RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "TWO FAMILY",
+    "acreage": 0.057,
+    "latitude": 40.394,
+    "longitude": -79.7752
+  },
+  "assessments": {
+    "parcel_id": "0746F00030000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 42100,
+        "market_value": 42100,
+        "land_value": 6000,
+        "improvement_value": 36100,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 668,
+        "assessed_value_change_pct": 1.61,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 42100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 41432,
+        "market_value": 41432,
+        "land_value": 5904,
+        "improvement_value": 35528,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -419,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41432,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 41851,
+        "market_value": 41851,
+        "land_value": 5964,
+        "improvement_value": 35887,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1992,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 41851,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 39859,
+        "market_value": 39859,
+        "land_value": 5680,
+        "improvement_value": 34179,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1533,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 39859,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 38326,
+        "market_value": 38326,
+        "land_value": 5462,
+        "improvement_value": 32864,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1116,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 38326,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 37210,
+        "market_value": 37210,
+        "land_value": 5303,
+        "improvement_value": 31907,
+        "land_value_percentage": 14.3,
+        "improvement_value_percentage": 85.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 37210,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0746F00030000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0746F00030000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-53238-2021",
+        "filed_date": null,
+        "hearing_date": "20-Aug-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0746F00030000000",
+    "comparables": [
+      {
+        "parcel_id": "0746B00250000000",
+        "address": "1246 WALL AVE",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "1246   WALL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41800,
+        "market_value": 41800,
+        "assessed_value_change_pct": -3.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0746B00182000000",
+        "address": "1245 WALL AVE",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "1245   WALL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41700,
+        "market_value": 41700,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0746E00002000000",
+        "address": "297 HILL ST",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "297   HILL ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42500,
+        "market_value": 60500,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0746G00065000000",
+        "address": "620 13TH ST",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "620   13TH ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41600,
+        "market_value": 41600,
+        "assessed_value_change_pct": -1.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0746B00217000000",
+        "address": "1108 WALL AVE",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "1050   WALL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42700,
+        "market_value": 42700,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0746B00245000000",
+        "address": "1224 WALL AVE",
+        "city": "Pitcairn",
+        "zip_code": "15140",
+        "current_owner_name": "1224   WALL AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 41500,
+        "market_value": 59500,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

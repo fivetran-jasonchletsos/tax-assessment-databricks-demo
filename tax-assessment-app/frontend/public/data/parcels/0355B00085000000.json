@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 1.854,
-    "latitude": 40.51724,
-    "longitude": -79.95008
+    "latitude": 40.52694,
+    "longitude": -79.95468
   },
   "assessments": {
     "parcel_id": "0355B00085000000",
@@ -213,6 +213,19 @@
         "distance_miles": 0.5
       },
       {
+        "parcel_id": "0434C00026000000",
+        "address": "2524 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2524   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157500,
+        "market_value": 175500,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
         "parcel_id": "0285B00245000000",
         "address": "101 WADSWORTH DR",
         "city": "Shaler",
@@ -223,7 +236,7 @@
         "assessed_value": 157500,
         "market_value": 175500,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0353D00195000000",
@@ -236,19 +249,6 @@
         "assessed_value": 157600,
         "market_value": 175600,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0520C00059000000",
-        "address": "3403 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3403   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 153900,
-        "market_value": 171900,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

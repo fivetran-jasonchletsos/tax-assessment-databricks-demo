@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.075,
-    "latitude": 40.48066,
-    "longitude": -79.89994
+    "latitude": 40.49316,
+    "longitude": -79.90864
   },
   "assessments": {
     "parcel_id": "0122C00065000000",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0122C00156000000",
+        "address": "123 FREEPORT RD",
+        "city": "Aspinwall",
+        "zip_code": "15215",
+        "current_owner_name": "PO BOX 17218",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 147000,
+        "market_value": 147000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0122C00109000000",
         "address": "134 1ST ST",
         "city": "Aspinwall",
@@ -236,19 +249,6 @@
         "assessed_value": 147600,
         "market_value": 165600,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0122C00113000000",
-        "address": "128 1ST ST",
-        "city": "Aspinwall",
-        "zip_code": "15215",
-        "current_owner_name": "128   1ST ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 136100,
-        "market_value": 154100,
-        "assessed_value_change_pct": 13.9,
         "distance_miles": 1.1
       }
     ]

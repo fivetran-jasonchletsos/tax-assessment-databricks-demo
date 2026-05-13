@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "VACANT LAND",
     "acreage": 0.383,
-    "latitude": 40.51604,
-    "longitude": -79.96076
+    "latitude": 40.52574,
+    "longitude": -79.96536
   },
   "assessments": {
     "parcel_id": "0353C00040000000",
@@ -148,6 +148,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0166C00165000000",
+        "address": "300 COLEMAN WAY",
+        "city": "Shaler",
+        "zip_code": "15223",
+        "current_owner_name": "300   COLEMAN WAY",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 47400,
+        "market_value": 65400,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0355K00073000000",
         "address": "1519 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -158,7 +171,7 @@
         "assessed_value": 43400,
         "market_value": 61400,
         "assessed_value_change_pct": -1.9,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0284D00062000000",
@@ -171,7 +184,7 @@
         "assessed_value": 42000,
         "market_value": 60000,
         "assessed_value_change_pct": -3.5,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0284D00048000000",
@@ -184,19 +197,6 @@
         "assessed_value": 50300,
         "market_value": 50300,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285C00079000000",
-        "address": "SAXONBURG BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "REGULAR",
-        "land_use_description": "VACANT LAND",
-        "acreage": null,
-        "assessed_value": 51200,
-        "market_value": 51200,
-        "assessed_value_change_pct": -1.9,
         "distance_miles": 1.1
       }
     ]

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "ROWHOUSE",
     "acreage": 0.022,
-    "latitude": 40.46264,
-    "longitude": -79.95228
+    "latitude": 40.46404,
+    "longitude": -79.94428
   },
   "assessments": {
     "parcel_id": "0025D00155000100",
@@ -122,6 +122,19 @@
     "parcel_id": "0025D00155000100",
     "comparables": [
       {
+        "parcel_id": "0026C00008000000",
+        "address": "3713 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3713   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51200,
+        "market_value": 69200,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0025D00205000000",
         "address": "3343 LIGONIER ST",
         "city": "10601",
@@ -132,7 +145,20 @@
         "assessed_value": 51300,
         "market_value": 51300,
         "assessed_value_change_pct": -5.1,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026B00051000000",
+        "address": "3908 LIBERTY AVE",
+        "city": "10601",
+        "zip_code": "15224",
+        "current_owner_name": "3908   LIBERTY AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 51100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0025D00155000800",
@@ -145,7 +171,7 @@
         "assessed_value": 50900,
         "market_value": 50900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0025D00155000200",
@@ -158,45 +184,19 @@
         "assessed_value": 50600,
         "market_value": 50600,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0025D00155000900",
-        "address": "3144 PENN AVE",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "4124   BUTLER ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 50100,
-        "market_value": 50100,
-        "assessed_value_change_pct": -2.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0025D00201000000",
-        "address": "3335 LIGONIER ST",
-        "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3335   LIGONIER ST",
-        "land_use_description": "ROWHOUSE",
-        "acreage": null,
-        "assessed_value": 48300,
-        "market_value": 48300,
-        "assessed_value_change_pct": 14.1,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0025D00202000000",
-        "address": "3337 LIGONIER ST",
+        "parcel_id": "0026F00026000000",
+        "address": "3501 FLAVIAN ST",
         "city": "10601",
-        "zip_code": "15201",
-        "current_owner_name": "3337   LIGONIER ST",
-        "land_use_description": "ROWHOUSE",
+        "zip_code": "15213",
+        "current_owner_name": "3505   FLAVIAN ST",
+        "land_use_description": "TWO FAMILY",
         "acreage": null,
-        "assessed_value": 55400,
-        "market_value": 55400,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 52000,
+        "market_value": 70000,
+        "assessed_value_change_pct": -4.3,
         "distance_miles": 1.1
       }
     ]

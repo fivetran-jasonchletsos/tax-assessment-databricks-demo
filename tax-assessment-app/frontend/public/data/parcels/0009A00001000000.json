@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.05,
-    "latitude": 40.4657,
-    "longitude": -80.01272
+    "latitude": 40.4396,
+    "longitude": -80.07992
   },
   "assessments": {
     "parcel_id": "0009A00001000000",
@@ -174,6 +174,19 @@
     "parcel_id": "0009A00001000000",
     "comparables": [
       {
+        "parcel_id": "0009A00039000000",
+        "address": "604 PRESSLEY ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "30625  N 47TH PL",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 97000,
+        "market_value": 97000,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
         "parcel_id": "0008D00166000000",
         "address": "510 LOCKHART ST",
         "city": "Ward 23 - East Allegheny",
@@ -184,7 +197,20 @@
         "assessed_value": 96100,
         "market_value": 96100,
         "assessed_value_change_pct": -3.7,
-        "distance_miles": 0.1
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0009A00009000000",
+        "address": "521 LOCKHART ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "521   LOCKHART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 95100,
+        "market_value": 113100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
       },
       {
         "parcel_id": "0008D00169000000",
@@ -197,7 +223,20 @@
         "assessed_value": 93800,
         "market_value": 111800,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.3
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0009A00018000000",
+        "address": "607 LOCKHART ST",
+        "city": "Ward 23 - East Allegheny",
+        "zip_code": "15212",
+        "current_owner_name": "607   LOCKHART ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 93000,
+        "market_value": 111000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0008D00134000000",
@@ -210,45 +249,6 @@
         "assessed_value": 107200,
         "market_value": 125200,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0008D00179000000",
-        "address": "420 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "420   LOCKHART ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 107400,
-        "market_value": 125400,
-        "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0008D00180000100",
-        "address": "418 LOCKHART ST",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "418   LOCKHART ST",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 107900,
-        "market_value": 125900,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0008D00190000200",
-        "address": "502 CEDAR AVE",
-        "city": "Ward 23 - East Allegheny",
-        "zip_code": "15212",
-        "current_owner_name": "502   CEDAR AVE",
-        "land_use_description": "TOWNHOUSE",
-        "acreage": null,
-        "assessed_value": 109300,
-        "market_value": 127300,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.048,
-    "latitude": 40.45574,
-    "longitude": -79.96068
+    "latitude": 40.45564,
+    "longitude": -79.95508
   },
   "assessments": {
     "parcel_id": "0011D00043000000",
@@ -184,30 +184,43 @@
         "distance_miles": 0.5
       },
       {
-        "parcel_id": "0011D00045000000",
-        "address": "20 ELLERS ST",
+        "parcel_id": "0011H00402000000",
+        "address": "112 BURROWS ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "816   WESTERN AVE  # 3",
-        "land_use_description": "TWO FAMILY",
+        "current_owner_name": "112   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 149000,
-        "market_value": 149000,
-        "assessed_value_change_pct": 14.3,
+        "assessed_value": 199600,
+        "market_value": 217600,
+        "assessed_value_change_pct": -5.5,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0011D00041000000",
-        "address": "3121 ELLERS ST",
+        "parcel_id": "0011H00410000000",
+        "address": "120 BURROWS ST",
         "city": "10402",
         "zip_code": "15213",
-        "current_owner_name": "816   WESTERN AVE  UNIT 3",
-        "land_use_description": "SINGLE FAMILY",
+        "current_owner_name": "120   BURROWS ST",
+        "land_use_description": "TOWNHOUSE",
         "acreage": null,
-        "assessed_value": 215200,
-        "market_value": 215200,
-        "assessed_value_change_pct": 13.5,
+        "assessed_value": 199600,
+        "market_value": 217600,
+        "assessed_value_change_pct": 14.3,
         "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0011H00400000000",
+        "address": "110 BURROWS ST",
+        "city": "10402",
+        "zip_code": "15213",
+        "current_owner_name": "110   BURROWS ST ST",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 200800,
+        "market_value": 218800,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 1.1
       }
     ]
   }

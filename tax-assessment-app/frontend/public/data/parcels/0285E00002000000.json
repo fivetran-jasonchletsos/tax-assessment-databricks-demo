@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.237,
-    "latitude": 40.51652,
-    "longitude": -79.95968
+    "latitude": 40.52622,
+    "longitude": -79.96428
   },
   "assessments": {
     "parcel_id": "0285E00002000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0434C00046000000",
+        "address": "2535 COLLEGE PARK RD",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "2535   COLLEGE PARK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 152200,
+        "market_value": 170200,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0285B00235000000",
         "address": "218 S MAGNOLIA DR",
         "city": "Shaler",
@@ -210,45 +223,32 @@
         "assessed_value": 152200,
         "market_value": 170200,
         "assessed_value_change_pct": -3.3,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0520G00266000000",
-        "address": "3001 MOUNT ROYAL BLVD",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3001   MOUNT ROYAL BLVD",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 151400,
-        "market_value": 151400,
-        "assessed_value_change_pct": -3.1,
         "distance_miles": 0.7
       },
       {
-        "parcel_id": "0520C00059000000",
-        "address": "3403 MOUNT ROYAL BLVD",
+        "parcel_id": "0434C00014000000",
+        "address": "2705 WOOSTER DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "3403   MOUNT ROYAL BLVD",
+        "zip_code": "15101",
+        "current_owner_name": "2705   WOOSTER DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 153900,
-        "market_value": 171900,
-        "assessed_value_change_pct": -3.9,
+        "assessed_value": 153400,
+        "market_value": 171400,
+        "assessed_value_change_pct": -4.9,
         "distance_miles": 0.9
       },
       {
-        "parcel_id": "0353G00027000000",
-        "address": "833 VILSACK RD",
+        "parcel_id": "0434C00016000000",
+        "address": "2712 WOOSTER DR",
         "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "833   VILSACK RD",
+        "zip_code": "15101",
+        "current_owner_name": "2712   WOOSTER DR",
         "land_use_description": "SINGLE FAMILY",
         "acreage": null,
-        "assessed_value": 150800,
-        "market_value": 150800,
-        "assessed_value_change_pct": -3.3,
+        "assessed_value": 153400,
+        "market_value": 171400,
+        "assessed_value_change_pct": -4.5,
         "distance_miles": 1.1
       }
     ]

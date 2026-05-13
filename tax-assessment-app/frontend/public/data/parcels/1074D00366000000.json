@@ -1,0 +1,162 @@
+{
+  "parcel": {
+    "parcel_id": "1074D00366000000",
+    "address": "4809 AU SABLE DR",
+    "city": "Hampton",
+    "zip_code": "15044",
+    "county": "Allegheny",
+    "current_owner_name": "4809   AU SABLE DR",
+    "current_mailing_address": "4809   AU SABLE DR",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 1.1,
+    "latitude": 40.615,
+    "longitude": -79.95582
+  },
+  "assessments": {
+    "parcel_id": "1074D00366000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 546900,
+        "market_value": 546900,
+        "land_value": 63800,
+        "improvement_value": 483100,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 13469,
+        "assessed_value_change_pct": 2.52,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 546900,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 533431,
+        "market_value": 533431,
+        "land_value": 62228,
+        "improvement_value": 471203,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 20516,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 533431,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 512915,
+        "market_value": 512915,
+        "land_value": 59835,
+        "improvement_value": 453080,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 14939,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 512915,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 497976,
+        "market_value": 497976,
+        "land_value": 58092,
+        "improvement_value": 439884,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 9764,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 497976,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 488212,
+        "market_value": 488212,
+        "land_value": 56953,
+        "improvement_value": 431259,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 4833,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 488212,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 483379,
+        "market_value": 483379,
+        "land_value": 56389,
+        "improvement_value": 426990,
+        "land_value_percentage": 11.7,
+        "improvement_value_percentage": 88.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 483379,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "1074D00366000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "1074D00366000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-54353-2021",
+        "filed_date": null,
+        "hearing_date": "30-Jun-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "1074D00366000000",
+    "comparables": [
+      {
+        "parcel_id": "1074C00225000000",
+        "address": "4818 ANDREWS RD",
+        "city": "Hampton",
+        "zip_code": "15044",
+        "current_owner_name": "4818   ANDREWS RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 488100,
+        "market_value": 488100,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

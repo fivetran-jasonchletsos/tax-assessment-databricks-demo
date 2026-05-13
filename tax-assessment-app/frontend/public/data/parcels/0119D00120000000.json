@@ -1,0 +1,230 @@
+{
+  "parcel": {
+    "parcel_id": "0119D00120000000",
+    "address": "29 ANN ST",
+    "city": "Etna",
+    "zip_code": "15223",
+    "county": "Allegheny",
+    "current_owner_name": "29   ANN ST",
+    "current_mailing_address": "29   ANN ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.11,
+    "latitude": 40.49334,
+    "longitude": -79.9534
+  },
+  "assessments": {
+    "parcel_id": "0119D00120000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 35100,
+        "market_value": 53100,
+        "land_value": 22500,
+        "improvement_value": 12600,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": -489,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 17100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 35589,
+        "market_value": 53839,
+        "land_value": 22813,
+        "improvement_value": 12776,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": 1694,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 17589,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 33895,
+        "market_value": 51277,
+        "land_value": 21727,
+        "improvement_value": 12168,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": 1303,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 15895,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 32592,
+        "market_value": 49305,
+        "land_value": 20892,
+        "improvement_value": 11700,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": 949,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 14592,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 31643,
+        "market_value": 47870,
+        "land_value": 20283,
+        "improvement_value": 11360,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": 620,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13643,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 31023,
+        "market_value": 46932,
+        "land_value": 19886,
+        "improvement_value": 11137,
+        "land_value_percentage": 64.1,
+        "improvement_value_percentage": 35.9,
+        "market_to_assessed_ratio": 1.51,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13023,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0119D00120000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0119D00120000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0119D00120000000",
+    "comparables": [
+      {
+        "parcel_id": "0119D00004000000",
+        "address": "143 VISTA ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "188   BUTLER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 38600,
+        "market_value": 38600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0119C00011000000",
+        "address": "167 WOOD ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "167   WOOD ST",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 31000,
+        "market_value": 49000,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0119C00019000000",
+        "address": "179 VISTA ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "106  W PENNVIEW ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 40600,
+        "market_value": 40600,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0119C00020000000",
+        "address": "175 VISTA ST",
+        "city": "Etna",
+        "zip_code": "15223",
+        "current_owner_name": "175   VISTA ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 42200,
+        "market_value": 60200,
+        "assessed_value_change_pct": -5.5,
+        "distance_miles": 0.7
+      }
+    ]
+  }
+}

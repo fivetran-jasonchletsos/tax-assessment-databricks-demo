@@ -1,0 +1,227 @@
+{
+  "parcel": {
+    "parcel_id": "0304B00063000000",
+    "address": "106 HERMAN AVE",
+    "city": "1st Ward - Duquesne",
+    "zip_code": "15110",
+    "county": "Allegheny",
+    "current_owner_name": "1021  E LINCOLNWAY   UNIT 361",
+    "current_mailing_address": "1021  E LINCOLNWAY   UNIT 361",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.061,
+    "latitude": 40.35864,
+    "longitude": -79.84932
+  },
+  "assessments": {
+    "parcel_id": "0304B00063000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 32400,
+        "market_value": 32400,
+        "land_value": 4000,
+        "improvement_value": 28400,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -451,
+        "assessed_value_change_pct": -1.37,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32400,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 32851,
+        "market_value": 32851,
+        "land_value": 4055,
+        "improvement_value": 28796,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1564,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32851,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 31287,
+        "market_value": 31287,
+        "land_value": 3862,
+        "improvement_value": 27425,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1203,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31287,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 30084,
+        "market_value": 30084,
+        "land_value": 3714,
+        "improvement_value": 26370,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 876,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30084,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 29208,
+        "market_value": 29208,
+        "land_value": 3605,
+        "improvement_value": 25603,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 572,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29208,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28636,
+        "market_value": 28636,
+        "land_value": 3535,
+        "improvement_value": 25101,
+        "land_value_percentage": 12.3,
+        "improvement_value_percentage": 87.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28636,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0304B00063000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0304B00063000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-62368-2022",
+        "filed_date": null,
+        "hearing_date": "27-Jun-22",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0304B00063000000",
+    "comparables": [
+      {
+        "parcel_id": "0304F00018000000",
+        "address": "217 MILLER AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "217   MILLER AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32300,
+        "market_value": 50300,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0304E00214000000",
+        "address": "226 MILLER AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "226   MILLER AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 32100,
+        "market_value": 50100,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0304E00216000000",
+        "address": "222 MILLER AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "222   MILLER AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33100,
+        "market_value": 51100,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0304B00210000000",
+        "address": "115 HARDEN AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "115   HARDEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33200,
+        "market_value": 33200,
+        "assessed_value_change_pct": 13.7,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0304B00057000000",
+        "address": "100 HERMAN AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "98   HERMAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33300,
+        "market_value": 33300,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0304B00094000000",
+        "address": "213 HERMAN AVE",
+        "city": "1st Ward - Duquesne",
+        "zip_code": "15110",
+        "current_owner_name": "213   HERMAN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 33400,
+        "market_value": 51400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

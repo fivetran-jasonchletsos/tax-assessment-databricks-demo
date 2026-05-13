@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "THREE FAMILY",
     "acreage": 0.161,
-    "latitude": 40.46228,
-    "longitude": -79.93122
+    "latitude": 40.46438,
+    "longitude": -79.93262
   },
   "assessments": {
     "parcel_id": "0051C00240000000",
@@ -174,6 +174,45 @@
     "parcel_id": "0051C00240000000",
     "comparables": [
       {
+        "parcel_id": "0051G00170000000",
+        "address": "442 S AIKEN AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "442  S AIKEN AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 157000,
+        "market_value": 175000,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0051D00310000000",
+        "address": "321 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "321   STRATFORD AVE",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 155800,
+        "market_value": 155800,
+        "assessed_value_change_pct": 14.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0051D00308000000",
+        "address": "325 STRATFORD AVE",
+        "city": "10802",
+        "zip_code": "15232",
+        "current_owner_name": "325   STRATFORD AVE",
+        "land_use_description": "THREE FAMILY",
+        "acreage": null,
+        "assessed_value": 162400,
+        "market_value": 180400,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0051D00151000000",
         "address": "338 S FAIRMOUNT ST",
         "city": "10802",
@@ -184,7 +223,7 @@
         "assessed_value": 162500,
         "market_value": 162500,
         "assessed_value_change_pct": -5.3,
-        "distance_miles": 0.1
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0051C00236000000",
@@ -197,7 +236,7 @@
         "assessed_value": 150000,
         "market_value": 150000,
         "assessed_value_change_pct": -4.7,
-        "distance_miles": 0.3
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0051D00141000000",
@@ -210,45 +249,6 @@
         "assessed_value": 167000,
         "market_value": 185000,
         "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.5
-      },
-      {
-        "parcel_id": "0051C00223000000",
-        "address": "320 S AIKEN AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "320  S AIKEN AVE",
-        "land_use_description": "TWO FAMILY",
-        "acreage": null,
-        "assessed_value": 167500,
-        "market_value": 185500,
-        "assessed_value_change_pct": -5.5,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0051D00137000000",
-        "address": "336 ROUP AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "336   ROUP ST",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 144400,
-        "market_value": 162400,
-        "assessed_value_change_pct": -4.5,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0051D00145000000",
-        "address": "352 ROUP AVE",
-        "city": "10802",
-        "zip_code": "15232",
-        "current_owner_name": "352   ROUP AVE",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 142000,
-        "market_value": 160000,
-        "assessed_value_change_pct": -4.7,
         "distance_miles": 1.1
       }
     ]

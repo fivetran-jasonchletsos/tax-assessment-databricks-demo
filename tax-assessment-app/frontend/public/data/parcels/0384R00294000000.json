@@ -1,0 +1,152 @@
+{
+  "parcel": {
+    "parcel_id": "0384R00294000000",
+    "address": "201 N MONONGAHELA AVE",
+    "city": "Glassport",
+    "zip_code": "15045",
+    "county": "Allegheny",
+    "current_owner_name": "201  N MONONGAHELA AVE",
+    "current_mailing_address": "201  N MONONGAHELA AVE",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.276,
+    "latitude": 40.31784,
+    "longitude": -79.89058
+  },
+  "assessments": {
+    "parcel_id": "0384R00294000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 147100,
+        "market_value": 147100,
+        "land_value": 9600,
+        "improvement_value": 137500,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6546,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 147100,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 140554,
+        "market_value": 140554,
+        "land_value": 9172,
+        "improvement_value": 131382,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140554,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 140554,
+        "market_value": 140554,
+        "land_value": 9172,
+        "improvement_value": 131382,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -1420,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 140554,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 141974,
+        "market_value": 141974,
+        "land_value": 9265,
+        "improvement_value": 132709,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 6760,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 141974,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 135214,
+        "market_value": 135214,
+        "land_value": 8824,
+        "improvement_value": 126390,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5200,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 135214,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 130014,
+        "market_value": 130014,
+        "land_value": 8484,
+        "improvement_value": 121530,
+        "land_value_percentage": 6.5,
+        "improvement_value_percentage": 93.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 130014,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0384R00294000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0384R00294000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0384R00294000000",
+    "comparables": [
+      {
+        "parcel_id": "0384R00265000000",
+        "address": "231 N MONONGAHELA AVE",
+        "city": "Glassport",
+        "zip_code": "15045",
+        "current_owner_name": "231  N MONONGAHELA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130800,
+        "market_value": 148800,
+        "assessed_value_change_pct": 0.5,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0384R00224000000",
+        "address": "300 N MONONGAHELA AVE",
+        "city": "Glassport",
+        "zip_code": "15045",
+        "current_owner_name": "300  N MONONGAHELA AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130200,
+        "market_value": 130200,
+        "assessed_value_change_pct": -0.5,
+        "distance_miles": 0.3
+      }
+    ]
+  }
+}

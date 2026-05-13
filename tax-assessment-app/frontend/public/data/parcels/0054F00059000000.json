@@ -1,0 +1,191 @@
+{
+  "parcel": {
+    "parcel_id": "0054F00059000000",
+    "address": "721 SALINE ST",
+    "city": "11401",
+    "zip_code": "15207",
+    "county": "Allegheny",
+    "current_owner_name": "721   SALINE ST",
+    "current_mailing_address": "721   SALINE ST",
+    "current_ownership_type": "REGULAR-ETAL",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.082,
+    "latitude": 40.38986,
+    "longitude": -79.94532
+  },
+  "assessments": {
+    "parcel_id": "0054F00059000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 31500,
+        "market_value": 49500,
+        "land_value": 9500,
+        "improvement_value": 22000,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": 3107,
+        "assessed_value_change_pct": 10.94,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 13500,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 28393,
+        "market_value": 44617,
+        "land_value": 8562,
+        "improvement_value": 19831,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": 556,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 10393,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 27837,
+        "market_value": 43743,
+        "land_value": 8395,
+        "improvement_value": 19442,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": 275,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 9837,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 27562,
+        "market_value": 43311,
+        "land_value": 8312,
+        "improvement_value": 19250,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 9562,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 27562,
+        "market_value": 43311,
+        "land_value": 8312,
+        "improvement_value": 19250,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": -279,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 9562,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 27841,
+        "market_value": 43750,
+        "land_value": 8396,
+        "improvement_value": 19445,
+        "land_value_percentage": 30.2,
+        "improvement_value_percentage": 69.8,
+        "market_to_assessed_ratio": 1.57,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 9841,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0054F00059000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0054F00059000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0054F00059000000",
+    "comparables": [
+      {
+        "parcel_id": "0054F00148000000",
+        "address": "718 NAYLOR ST",
+        "city": "11401",
+        "zip_code": "15207",
+        "current_owner_name": "244   ACRE AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 34000,
+        "market_value": 52000,
+        "assessed_value_change_pct": -3.1,
+        "distance_miles": 0.1
+      }
+    ]
+  }
+}

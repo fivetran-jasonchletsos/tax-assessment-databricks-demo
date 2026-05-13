@@ -1,0 +1,239 @@
+{
+  "parcel": {
+    "parcel_id": "0001J00039000000",
+    "address": "620 GRANDVIEW AVE",
+    "city": "11901",
+    "zip_code": "15211",
+    "county": "Allegheny",
+    "current_owner_name": "620   GRANDVIEW AVE",
+    "current_mailing_address": "620   GRANDVIEW AVE",
+    "current_ownership_type": "REGULAR-ETUX OR ET VIR",
+    "land_use_code": null,
+    "land_use_description": "TOWNHOUSE",
+    "acreage": 0.125,
+    "latitude": 40.41834,
+    "longitude": -80.00492
+  },
+  "assessments": {
+    "parcel_id": "0001J00039000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 952800,
+        "market_value": 952800,
+        "land_value": 90100,
+        "improvement_value": 862700,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 59205,
+        "assessed_value_change_pct": 6.63,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 952800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 893595,
+        "market_value": 893595,
+        "land_value": 84501,
+        "improvement_value": 809094,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 26027,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 893595,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 867568,
+        "market_value": 867568,
+        "land_value": 82040,
+        "improvement_value": 785528,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 17011,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 867568,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 850557,
+        "market_value": 850557,
+        "land_value": 80431,
+        "improvement_value": 770126,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 8421,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 850557,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 842136,
+        "market_value": 842136,
+        "land_value": 79635,
+        "improvement_value": 762501,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 842136,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 842136,
+        "market_value": 842136,
+        "land_value": 79635,
+        "improvement_value": 762501,
+        "land_value_percentage": 9.5,
+        "improvement_value_percentage": 90.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 842136,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0001J00039000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0001J00039000000",
+    "summary": {
+      "total_appeals": 2,
+      "approved_count": 0,
+      "denied_count": 2,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-22227-2018",
+        "filed_date": null,
+        "hearing_date": "30-May-18",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      },
+      {
+        "appeal_id": "WPRDC-45215-2021",
+        "filed_date": null,
+        "hearing_date": "20-Sep-21",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0001J00039000000",
+    "comparables": [
+      {
+        "parcel_id": "0001J00035000000",
+        "address": "606 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "606   GRANDVIEW AVE",
+        "land_use_description": "TWO FAMILY",
+        "acreage": null,
+        "assessed_value": 949700,
+        "market_value": 967700,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0001J00043000000",
+        "address": "624 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "624   GRANDVIEW AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 969700,
+        "market_value": 969700,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0001J00045000000",
+        "address": "626 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "626   GRANDVIEW AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 882800,
+        "market_value": 882800,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0001J00047000000",
+        "address": "628 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "628   GRANDVIEW AVE",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 867100,
+        "market_value": 867100,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0001J00048000000",
+        "address": "630 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "PO BOX 325",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 824700,
+        "market_value": 824700,
+        "assessed_value_change_pct": -4.1,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0001J00052000000",
+        "address": "636 GRANDVIEW AVE",
+        "city": "11901",
+        "zip_code": "15211",
+        "current_owner_name": "100   CHEROKEE DR",
+        "land_use_description": "TOWNHOUSE",
+        "acreage": null,
+        "assessed_value": 806500,
+        "market_value": 806500,
+        "assessed_value_change_pct": -5.1,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

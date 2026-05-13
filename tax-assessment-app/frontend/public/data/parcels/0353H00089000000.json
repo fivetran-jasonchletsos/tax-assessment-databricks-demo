@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.208,
-    "latitude": 40.5182,
-    "longitude": -79.96664
+    "latitude": 40.5279,
+    "longitude": -79.97124
   },
   "assessments": {
     "parcel_id": "0353H00089000000",
@@ -223,6 +223,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0435A00036000000",
+        "address": "601 STONERIDGE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "601   STONERIDGE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 161400,
+        "market_value": 179400,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0520R00147000000",
         "address": "2703 MOUNT ROYAL BLVD",
         "city": "Shaler",
@@ -233,7 +246,7 @@
         "assessed_value": 161400,
         "market_value": 179400,
         "assessed_value_change_pct": -1.3,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
       },
       {
         "parcel_id": "0353H00014000000",
@@ -246,7 +259,7 @@
         "assessed_value": 159900,
         "market_value": 159900,
         "assessed_value_change_pct": -3.9,
-        "distance_miles": 0.7
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0520L00162000000",
@@ -259,19 +272,6 @@
         "assessed_value": 161700,
         "market_value": 179700,
         "assessed_value_change_pct": -3.1,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0353D00117000000",
-        "address": "210 TARTLINE DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "210   TARTLINE DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 162000,
-        "market_value": 180000,
-        "assessed_value_change_pct": -3.9,
         "distance_miles": 1.1
       }
     ]

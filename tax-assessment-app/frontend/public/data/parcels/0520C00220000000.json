@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "SINGLE FAMILY",
     "acreage": 0.437,
-    "latitude": 40.53956,
-    "longitude": -79.96304
+    "latitude": 40.54926,
+    "longitude": -79.96764
   },
   "assessments": {
     "parcel_id": "0520C00220000000",
@@ -200,6 +200,19 @@
         "distance_miles": 0.3
       },
       {
+        "parcel_id": "0434D00324000000",
+        "address": "903 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "903   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 131800,
+        "market_value": 149800,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      },
+      {
         "parcel_id": "0353H00079000000",
         "address": "106 PARK LN",
         "city": "Shaler",
@@ -210,7 +223,20 @@
         "assessed_value": 131800,
         "market_value": 149800,
         "assessed_value_change_pct": -1.7,
-        "distance_miles": 0.5
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0434D00302000000",
+        "address": "910 LIMESTONE DR",
+        "city": "Shaler",
+        "zip_code": "15101",
+        "current_owner_name": "910   LIMESTONE DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 130900,
+        "market_value": 148900,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.9
       },
       {
         "parcel_id": "0355K00024000000",
@@ -223,32 +249,6 @@
         "assessed_value": 131900,
         "market_value": 131900,
         "assessed_value_change_pct": -2.7,
-        "distance_miles": 0.7
-      },
-      {
-        "parcel_id": "0285A00024000000",
-        "address": "203 WADSWORTH DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "203   WADSWORTH DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130700,
-        "market_value": 148700,
-        "assessed_value_change_pct": -4.3,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0285E00018000000",
-        "address": "503 GLEN MALCOLM DR",
-        "city": "Shaler",
-        "zip_code": "15116",
-        "current_owner_name": "503   GLEN MALCOLM DR",
-        "land_use_description": "SINGLE FAMILY",
-        "acreage": null,
-        "assessed_value": 130700,
-        "market_value": 148700,
-        "assessed_value_change_pct": -2.9,
         "distance_miles": 1.1
       }
     ]

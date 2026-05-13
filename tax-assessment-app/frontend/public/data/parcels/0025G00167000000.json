@@ -1,0 +1,188 @@
+{
+  "parcel": {
+    "parcel_id": "0025G00167000000",
+    "address": "3057 PENN AVE",
+    "city": "10601",
+    "zip_code": "15201",
+    "county": "Allegheny",
+    "current_owner_name": "1072   UNION VALLEY RD",
+    "current_mailing_address": "1072   UNION VALLEY RD",
+    "current_ownership_type": "CORPORATION",
+    "land_use_code": null,
+    "land_use_description": "THREE FAMILY",
+    "acreage": 0.072,
+    "latitude": 40.46464,
+    "longitude": -79.96468
+  },
+  "assessments": {
+    "parcel_id": "0025G00167000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 414600,
+        "market_value": 414600,
+        "land_value": 65000,
+        "improvement_value": 349600,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 29872,
+        "assessed_value_change_pct": 7.76,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 414600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 384728,
+        "market_value": 384728,
+        "land_value": 60316,
+        "improvement_value": 324412,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3809,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384728,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 380919,
+        "market_value": 380919,
+        "land_value": 59719,
+        "improvement_value": 321200,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 380919,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 380919,
+        "market_value": 380919,
+        "land_value": 59719,
+        "improvement_value": 321200,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -3848,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 380919,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 384767,
+        "market_value": 384767,
+        "land_value": 60322,
+        "improvement_value": 324445,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 18322,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 384767,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 366445,
+        "market_value": 366445,
+        "land_value": 57450,
+        "improvement_value": 308995,
+        "land_value_percentage": 15.7,
+        "improvement_value_percentage": 84.3,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 366445,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0025G00167000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0025G00167000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-8212-2016",
+        "filed_date": null,
+        "hearing_date": "24-Jun-16",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0025G00167000000",
+    "comparables": [
+      {
+        "parcel_id": "0026B00322000000",
+        "address": "3711 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3711   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 384500,
+        "market_value": 402500,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0026B00326000000",
+        "address": "3707 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3707   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 359900,
+        "market_value": 377900,
+        "assessed_value_change_pct": -4.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0026B00324000000",
+        "address": "3709 MELWOOD AVE",
+        "city": "10601",
+        "zip_code": "15213",
+        "current_owner_name": "3709   MELWOOD AVE",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 358000,
+        "market_value": 376000,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

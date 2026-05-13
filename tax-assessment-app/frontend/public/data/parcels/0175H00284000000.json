@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0175H00284000000",
+    "address": "1331 SINGER PL",
+    "city": "Wilkinsburg",
+    "zip_code": "15221",
+    "county": "Allegheny",
+    "current_owner_name": "537   TALBOT AVE  APT 9",
+    "current_mailing_address": "537   TALBOT AVE  APT 9",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.119,
+    "latitude": 40.42488,
+    "longitude": -79.87522
+  },
+  "assessments": {
+    "parcel_id": "0175H00284000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 73300,
+        "market_value": 73300,
+        "land_value": 4000,
+        "improvement_value": 69300,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 5283,
+        "assessed_value_change_pct": 7.77,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 73300,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 68017,
+        "market_value": 68017,
+        "land_value": 3711,
+        "improvement_value": 64306,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 673,
+        "assessed_value_change_pct": 1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68017,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 67344,
+        "market_value": 67344,
+        "land_value": 3674,
+        "improvement_value": 63670,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67344,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 67344,
+        "market_value": 67344,
+        "land_value": 3674,
+        "improvement_value": 63670,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -681,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 67344,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 68025,
+        "market_value": 68025,
+        "land_value": 3712,
+        "improvement_value": 64313,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 3239,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 68025,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 64786,
+        "market_value": 64786,
+        "land_value": 3535,
+        "improvement_value": 61251,
+        "land_value_percentage": 5.5,
+        "improvement_value_percentage": 94.5,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 64786,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0175H00284000000",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0175H00284000000",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0175H00284000000",
+    "comparables": [
+      {
+        "parcel_id": "0175H00270000000",
+        "address": "1343 SINGER PL",
+        "city": "Wilkinsburg",
+        "zip_code": "15221",
+        "current_owner_name": "112   WASHINGTON PL  UNIT 18A",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 64200,
+        "market_value": 64200,
+        "assessed_value_change_pct": -2.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0175H00298000000",
+        "address": "1330 WOOD ST",
+        "city": "Wilkinsburg",
+        "zip_code": "15221",
+        "current_owner_name": "PO BOX 82505",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 60300,
+        "market_value": 60300,
+        "assessed_value_change_pct": -0.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0175H00300000000",
+        "address": "1332 WOOD ST",
+        "city": "Wilkinsburg",
+        "zip_code": "15221",
+        "current_owner_name": "315   MILER ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 59400,
+        "market_value": 59400,
+        "assessed_value_change_pct": -3.9,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}

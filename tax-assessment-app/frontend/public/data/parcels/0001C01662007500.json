@@ -11,8 +11,8 @@
     "land_use_code": null,
     "land_use_description": "CONDOMINIUM",
     "acreage": null,
-    "latitude": 40.4343,
-    "longitude": -79.99476
+    "latitude": 40.4375,
+    "longitude": -79.99126
   },
   "assessments": {
     "parcel_id": "0001C01662007500",
@@ -226,6 +226,19 @@
         "distance_miles": 0.7
       },
       {
+        "parcel_id": "0001C01662020800",
+        "address": "320 FORT DUQUESNE BLVD",
+        "city": "Pennhouse & Gateway Tower",
+        "zip_code": "15222",
+        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 20-H",
+        "land_use_description": "CONDOMINIUM",
+        "acreage": null,
+        "assessed_value": 133800,
+        "market_value": 133800,
+        "assessed_value_change_pct": -2.9,
+        "distance_miles": 0.9
+      },
+      {
         "parcel_id": "0001C01662005500",
         "address": "320 FORT DUQUESNE BLVD",
         "city": "Pennhouse & Gateway Tower",
@@ -236,19 +249,6 @@
         "assessed_value": 133700,
         "market_value": 151700,
         "assessed_value_change_pct": -2.9,
-        "distance_miles": 0.9
-      },
-      {
-        "parcel_id": "0001C01662006800",
-        "address": "320 FORT DUQUESNE BLVD",
-        "city": "Pennhouse & Gateway Tower",
-        "zip_code": "15222",
-        "current_owner_name": "320   FORT DUQUESNE BLVD  UNIT 6 H",
-        "land_use_description": "CONDOMINIUM",
-        "acreage": null,
-        "assessed_value": 139600,
-        "market_value": 139600,
-        "assessed_value_change_pct": -2.1,
         "distance_miles": 1.1
       }
     ]

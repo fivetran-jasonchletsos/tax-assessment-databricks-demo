@@ -1,0 +1,279 @@
+{
+  "parcel": {
+    "parcel_id": "0583B00018000000",
+    "address": "529 MAIN ST",
+    "city": "South Fayette",
+    "zip_code": "15082",
+    "county": "Allegheny",
+    "current_owner_name": "529   MAIN ST",
+    "current_mailing_address": "529   MAIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.092,
+    "latitude": 40.37562,
+    "longitude": -80.20194
+  },
+  "assessments": {
+    "parcel_id": "0583B00018000000",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 115600,
+        "market_value": 133600,
+        "land_value": 17400,
+        "improvement_value": 98200,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": 5145,
+        "assessed_value_change_pct": 4.66,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 97600,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 110455,
+        "market_value": 127653,
+        "land_value": 16625,
+        "improvement_value": 93830,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 92455,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 110455,
+        "market_value": 127653,
+        "land_value": 16625,
+        "improvement_value": 93830,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": -1116,
+        "assessed_value_change_pct": -1.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 92455,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 111571,
+        "market_value": 128943,
+        "land_value": 16793,
+        "improvement_value": 94778,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": 5312,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 93571,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 106259,
+        "market_value": 122804,
+        "land_value": 15994,
+        "improvement_value": 90265,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": 4086,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 88259,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 102173,
+        "market_value": 118082,
+        "land_value": 15378,
+        "improvement_value": 86795,
+        "land_value_percentage": 15.1,
+        "improvement_value_percentage": 84.9,
+        "market_to_assessed_ratio": 1.16,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 18000,
+        "net_assessed_value": 84173,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0583B00018000000",
+    "exemptions": [
+      {
+        "tax_year": 2026,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2025,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      },
+      {
+        "tax_year": 2024,
+        "total_exemption_amount": 18000,
+        "total_exemption_count": 1,
+        "homestead_exemption_amount": 18000,
+        "senior_exemption_amount": 0,
+        "veteran_exemption_amount": 0,
+        "disability_exemption_amount": 0,
+        "homestead_count": 1,
+        "senior_count": 0,
+        "veteran_count": 0,
+        "disability_count": 0,
+        "active_exemptions": 1,
+        "pending_exemptions": 0,
+        "expired_exemptions": 0,
+        "exemption_types": "HOMESTEAD"
+      }
+    ]
+  },
+  "appeals": {
+    "parcel_id": "0583B00018000000",
+    "summary": {
+      "total_appeals": 1,
+      "approved_count": 0,
+      "denied_count": 1,
+      "success_rate_pct": 0.0,
+      "avg_value_reduction": 0,
+      "total_value_reduction": 0,
+      "first_appeal_date": "",
+      "most_recent_appeal_date": "",
+      "latest_appeal_status": "full bd approve"
+    },
+    "appeals": [
+      {
+        "appeal_id": "WPRDC-42545-2020",
+        "filed_date": null,
+        "hearing_date": "13-Aug-20",
+        "appeal_status": "full bd approve",
+        "original_value": 0,
+        "requested_value": 0,
+        "final_value": 0,
+        "value_reduction": 0,
+        "reduction_percentage": 0,
+        "resolution_notes": null
+      }
+    ]
+  },
+  "comparables": {
+    "parcel_id": "0583B00018000000",
+    "comparables": [
+      {
+        "parcel_id": "0325E00004000000",
+        "address": "230 WALLACE ST",
+        "city": "South Fayette",
+        "zip_code": "15031",
+        "current_owner_name": "230   WALLACE ST",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 115600,
+        "market_value": 133600,
+        "assessed_value_change_pct": -4.9,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0325K00037000000",
+        "address": "100 BOWMAN ST",
+        "city": "South Fayette",
+        "zip_code": "15031",
+        "current_owner_name": "1474   YORKTOWN DR",
+        "land_use_description": "FOUR FAMILY",
+        "acreage": null,
+        "assessed_value": 116500,
+        "market_value": 116500,
+        "assessed_value_change_pct": -2.5,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0324B00054000000",
+        "address": "309 MEADE ST",
+        "city": "South Fayette",
+        "zip_code": "15064",
+        "current_owner_name": "169   GREENWOOD DR",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 114500,
+        "market_value": 114500,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.5
+      },
+      {
+        "parcel_id": "0257R00020000000",
+        "address": "118 BLYTHE RD",
+        "city": "South Fayette",
+        "zip_code": "15064",
+        "current_owner_name": "118   BLYTHE RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 117200,
+        "market_value": 117200,
+        "assessed_value_change_pct": -1.9,
+        "distance_miles": 0.7
+      },
+      {
+        "parcel_id": "0258B00005000000",
+        "address": "414 KRAMERS LN",
+        "city": "South Fayette",
+        "zip_code": "15071",
+        "current_owner_name": "414   KRAMERS LN",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 113700,
+        "market_value": 113700,
+        "assessed_value_change_pct": -4.3,
+        "distance_miles": 0.9
+      },
+      {
+        "parcel_id": "0325E00005000000",
+        "address": "1161 MOHAWK RD",
+        "city": "South Fayette",
+        "zip_code": "15031",
+        "current_owner_name": "1161   MOHAWK RD",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 113400,
+        "market_value": 131400,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 1.1
+      }
+    ]
+  }
+}

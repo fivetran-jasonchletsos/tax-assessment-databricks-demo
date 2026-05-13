@@ -1,0 +1,165 @@
+{
+  "parcel": {
+    "parcel_id": "0007B00323000100",
+    "address": "1449 HAMLIN ST",
+    "city": "Ward 21 - Chateau",
+    "zip_code": "15233",
+    "county": "Allegheny",
+    "current_owner_name": "1442   HAMLIN ST",
+    "current_mailing_address": "1442   HAMLIN ST",
+    "current_ownership_type": "REGULAR",
+    "land_use_code": null,
+    "land_use_description": "SINGLE FAMILY",
+    "acreage": 0.014,
+    "latitude": 40.44904,
+    "longitude": -80.03096
+  },
+  "assessments": {
+    "parcel_id": "0007B00323000100",
+    "assessments": [
+      {
+        "tax_year": 2026,
+        "assessed_value": 31800,
+        "market_value": 31800,
+        "land_value": 12500,
+        "improvement_value": 19300,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": -444,
+        "assessed_value_change_pct": -1.38,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 31800,
+        "assessment_date": "2026-01-15"
+      },
+      {
+        "tax_year": 2025,
+        "assessed_value": 32244,
+        "market_value": 32244,
+        "land_value": 12674,
+        "improvement_value": 19570,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1535,
+        "assessed_value_change_pct": 5.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 32244,
+        "assessment_date": "2025-01-15"
+      },
+      {
+        "tax_year": 2024,
+        "assessed_value": 30709,
+        "market_value": 30709,
+        "land_value": 12071,
+        "improvement_value": 18638,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 1181,
+        "assessed_value_change_pct": 4.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 30709,
+        "assessment_date": "2024-01-15"
+      },
+      {
+        "tax_year": 2023,
+        "assessed_value": 29528,
+        "market_value": 29528,
+        "land_value": 11606,
+        "improvement_value": 17922,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 860,
+        "assessed_value_change_pct": 3.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 29528,
+        "assessment_date": "2023-01-15"
+      },
+      {
+        "tax_year": 2022,
+        "assessed_value": 28668,
+        "market_value": 28668,
+        "land_value": 11268,
+        "improvement_value": 17400,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 562,
+        "assessed_value_change_pct": 2.0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28668,
+        "assessment_date": "2022-01-15"
+      },
+      {
+        "tax_year": 2021,
+        "assessed_value": 28106,
+        "market_value": 28106,
+        "land_value": 11047,
+        "improvement_value": 17059,
+        "land_value_percentage": 39.3,
+        "improvement_value_percentage": 60.7,
+        "market_to_assessed_ratio": 1.0,
+        "assessed_value_change": 0,
+        "assessed_value_change_pct": 0,
+        "total_exemption_amount": 0,
+        "net_assessed_value": 28106,
+        "assessment_date": "2021-01-15"
+      }
+    ]
+  },
+  "exemptions": {
+    "parcel_id": "0007B00323000100",
+    "exemptions": []
+  },
+  "appeals": {
+    "parcel_id": "0007B00323000100",
+    "summary": {},
+    "appeals": []
+  },
+  "comparables": {
+    "parcel_id": "0007B00323000100",
+    "comparables": [
+      {
+        "parcel_id": "0007B00272000000",
+        "address": "1015 MANHATTAN ST",
+        "city": "Ward 21 - Chateau",
+        "zip_code": "15233",
+        "current_owner_name": "1015   MANHATTAN ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 30100,
+        "market_value": 48100,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.1
+      },
+      {
+        "parcel_id": "0007B00227000000",
+        "address": "1412 PAGE ST",
+        "city": "Ward 21 - Chateau",
+        "zip_code": "15233",
+        "current_owner_name": "102   FIRST AVE  UNIT 1",
+        "land_use_description": "SINGLE FAMILY",
+        "acreage": null,
+        "assessed_value": 35000,
+        "market_value": 35000,
+        "assessed_value_change_pct": -4.7,
+        "distance_miles": 0.3
+      },
+      {
+        "parcel_id": "0007B00152000000",
+        "address": "1337 PAGE ST",
+        "city": "Ward 21 - Chateau",
+        "zip_code": "15233",
+        "current_owner_name": "1337   PAGE ST",
+        "land_use_description": "ROWHOUSE",
+        "acreage": null,
+        "assessed_value": 38000,
+        "market_value": 38000,
+        "assessed_value_change_pct": -5.3,
+        "distance_miles": 0.5
+      }
+    ]
+  }
+}
