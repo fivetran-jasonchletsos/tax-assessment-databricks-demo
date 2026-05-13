@@ -41,16 +41,43 @@ const TOOLTIP_STYLE = {
   padding: '8px 10px',
 } as const;
 
+interface Filter {
+  bin?: { lo: number; hi: number; label: string };
+  city?: string;
+  zip?: string;
+  landUse?: string;
+}
+
 export default function DashboardPage() {
-  const [parcels, setParcels] = useState<ParcelSearchResult[]>([]);
+  const [allParcels, setAllParcels] = useState<ParcelSearchResult[]>([]);
   const [loading, setLoading] = useState(true);
+  const [filter, setFilter] = useState<Filter>({});
 
   useEffect(() => {
+    // Pull everything available — at 100K-scale the limit guard keeps this safe.
     api
-      .searchParcels({ limit: 5000 })
-      .then((r) => setParcels(r.results))
+      .searchParcels({ limit: 200000 })
+      .then((r) => setAllParcels(r.results))
       .finally(() => setLoading(false));
   }, []);
+
+  // Apply active filters to every chart + KPI.
+  const parcels = useMemo(() => {
+    let rows = allParcels;
+    if (filter.bin) {
+      const { lo, hi } = filter.bin;
+      rows = rows.filter((p) => p.assessed_value >= lo && p.assessed_value < hi);
+    }
+    if (filter.city) rows = rows.filter((p) => p.city === filter.city);
+    if (filter.zip) rows = rows.filter((p) => p.zip_code === filter.zip);
+    if (filter.landUse) {
+      rows = rows.filter((p) => (p.land_use_description ?? 'Unspecified') === filter.landUse);
+    }
+    return rows;
+  }, [allParcels, filter]);
+
+  const filterCount = Object.values(filter).filter(Boolean).length;
+  const filtered = filterCount > 0;
 
   const byCity = useMemo(() => groupByCity(parcels), [parcels]);
   const byZip = useMemo(() => groupByZip(parcels), [parcels]);
@@ -79,18 +106,76 @@ export default function DashboardPage() {
     [parcels],
   );
 
+  // --- Filter toggles ----------------------------------------------------
+  const toggleBin = (idx: number) => {
+    const b = histogram[idx];
+    setFilter((prev) =>
+      prev.bin?.label === b.label
+        ? { ...prev, bin: undefined }
+        : { ...prev, bin: { lo: b.lo, hi: b.hi, label: b.label } },
+    );
+  };
+  const toggleCity = (city: string) =>
+    setFilter((prev) => ({ ...prev, city: prev.city === city ? undefined : city }));
+  const toggleZip = (zip: string) =>
+    setFilter((prev) => ({ ...prev, zip: prev.zip === zip ? undefined : zip }));
+  const toggleLandUse = (use: string) =>
+    setFilter((prev) => ({ ...prev, landUse: prev.landUse === use ? undefined : use }));
+  const clearFilters = () => setFilter({});
+
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-      <header className="mb-8 max-w-3xl">
+      <header className="mb-6 max-w-3xl">
         <div className="inline-flex items-center rounded-full bg-primary-100 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
           Dashboard
         </div>
         <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
         <p className="text-sm text-slate-500 mt-2">
-          Residential parcels across {byCity.length} municipalities, derived from the gold-layer marts.
-          All aggregations run in your browser; nothing roundtrips to Databricks.
+          Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, derived
+          from the gold-layer marts. Click any chart bar to cross-filter every other chart.
         </p>
       </header>
+
+      {filtered && (
+        <div className="mb-6 rounded-lg border border-primary-200 bg-primary-50 px-4 py-3 flex flex-wrap items-center gap-2">
+          <span className="text-xs uppercase tracking-wider text-primary-700 font-semibold mr-1">
+            Filtered:
+          </span>
+          {filter.bin && (
+            <FilterChip
+              label={`Value ${filter.bin.label}`}
+              onClear={() => setFilter((p) => ({ ...p, bin: undefined }))}
+            />
+          )}
+          {filter.city && (
+            <FilterChip
+              label={`City ${filter.city}`}
+              onClear={() => setFilter((p) => ({ ...p, city: undefined }))}
+            />
+          )}
+          {filter.zip && (
+            <FilterChip
+              label={`ZIP ${filter.zip}`}
+              onClear={() => setFilter((p) => ({ ...p, zip: undefined }))}
+            />
+          )}
+          {filter.landUse && (
+            <FilterChip
+              label={`Use ${filter.landUse}`}
+              onClear={() => setFilter((p) => ({ ...p, landUse: undefined }))}
+            />
+          )}
+          <span className="text-xs text-primary-700 ml-1">
+            Showing {formatNumber(parcels.length)} of {formatNumber(allParcels.length)} parcels
+          </span>
+          <button
+            onClick={clearFilters}
+            className="ml-auto text-xs font-medium text-primary-700 hover:text-primary-900"
+          >
+            Clear all
+          </button>
+        </div>
+      )}
 
       {/* KPIs — vary visual weight so the eye lands on the most informative one. */}
       <div className="grid grid-cols-2 md:grid-cols-5 gap-2 mb-10">
@@ -149,10 +234,24 @@ export default function DashboardPage() {
                 formatter={(v: any) => [`${v} parcels`, '']}
                 separator=""
               />
-              <Bar dataKey="count" fill={ACCENT} radius={[3, 3, 0, 0]} maxBarSize={56}>
-                {histogram.map((_, i) => (
-                  <Cell key={i} fill={i === medianBucketIdx ? '#1e40af' : ACCENT} />
-                ))}
+              <Bar
+                dataKey="count"
+                radius={[3, 3, 0, 0]}
+                maxBarSize={56}
+                onClick={(_, idx) => toggleBin(idx as number)}
+                cursor="pointer"
+              >
+                {histogram.map((b, i) => {
+                  const selected = filter.bin?.label === b.label;
+                  const dim = filter.bin && !selected;
+                  return (
+                    <Cell
+                      key={i}
+                      fill={selected ? '#1e3a8a' : i === medianBucketIdx ? '#1e40af' : ACCENT}
+                      opacity={dim ? 0.3 : 1}
+                    />
+                  );
+                })}
               </Bar>
               {medianBucketIdx >= 0 && (
                 <ReferenceLine
@@ -205,7 +304,10 @@ export default function DashboardPage() {
           </div>
         </Panel>
 
-        <Panel title="Top municipalities" subtitle="By total assessed value in the snapshot">
+        <Panel
+          title="Top municipalities"
+          subtitle="Click a bar to filter the dashboard to that municipality"
+        >
           <div className="h-72">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
@@ -235,7 +337,24 @@ export default function DashboardPage() {
                   formatter={(v: any) => [formatCurrency(v as number), '']}
                   separator=""
                 />
-                <Bar dataKey="total_assessed" fill={ACCENT} radius={[0, 3, 3, 0]} maxBarSize={20} />
+                <Bar
+                  dataKey="total_assessed"
+                  radius={[0, 3, 3, 0]}
+                  maxBarSize={20}
+                  onClick={(d: any) => toggleCity(d?.city)}
+                  cursor="pointer"
+                >
+                  {[...byCity]
+                    .sort((a, b) => b.total_assessed - a.total_assessed)
+                    .slice(0, 10)
+                    .map((c, i) => {
+                      const selected = filter.city === c.city;
+                      const dim = filter.city && !selected;
+                      return (
+                        <Cell key={i} fill={selected ? '#1e3a8a' : ACCENT} opacity={dim ? 0.3 : 1} />
+                      );
+                    })}
+                </Bar>
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -282,13 +401,21 @@ export default function DashboardPage() {
           </div>
         </Panel>
 
-        <Panel title="Land use mix" subtitle="Composition of assessed value across property types">
-          <div className="space-y-2 pt-2">
+        <Panel title="Land use mix" subtitle="Click a row to filter by property type">
+          <div className="space-y-1 pt-2">
             {byUse.slice(0, 6).map((u, i) => {
               const totalAll = byUse.reduce((s, x) => s + x.total_assessed, 0);
               const pct = totalAll === 0 ? 0 : (u.total_assessed / totalAll) * 100;
+              const selected = filter.landUse === u.use;
+              const dim = filter.landUse && !selected;
               return (
-                <div key={u.use}>
+                <button
+                  key={u.use}
+                  onClick={() => toggleLandUse(u.use)}
+                  className={`w-full text-left px-2 py-1.5 rounded transition-colors ${
+                    selected ? 'bg-primary-50' : 'hover:bg-slate-50'
+                  } ${dim ? 'opacity-50' : ''}`}
+                >
                   <div className="flex justify-between text-xs mb-1">
                     <span className="font-medium text-slate-700 truncate pr-2">{u.use}</span>
                     <span className="text-slate-500 tabular-nums whitespace-nowrap">
@@ -300,12 +427,12 @@ export default function DashboardPage() {
                       className="h-full"
                       style={{
                         width: `${pct}%`,
-                        backgroundColor: i === 0 ? ACCENT : ACCENT_SOFT,
+                        backgroundColor: selected ? '#1e3a8a' : i === 0 ? ACCENT : ACCENT_SOFT,
                         opacity: 1 - i * 0.12,
                       }}
                     />
                   </div>
-                </div>
+                </button>
               );
             })}
           </div>
@@ -318,7 +445,7 @@ export default function DashboardPage() {
         return (
           <Panel
             title="ZIP code performance"
-            subtitle="Bullet shows median (filled bar) and P90 (outline) relative to the highest in the table"
+            subtitle="Click a row to filter the dashboard to that ZIP — bullet shows median (filled) and P90 (outline)"
             className="mt-6"
           >
             <div className="overflow-x-auto -mx-2 px-2">
@@ -333,28 +460,41 @@ export default function DashboardPage() {
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
-                  {rows.map((z) => (
-                    <tr key={z.zip}>
-                      <td className="px-3 py-2.5 font-mono text-slate-700">{z.zip}</td>
-                      <td className="px-3 py-2.5 text-right">{formatNumber(z.count)}</td>
-                      <td className="px-3 py-2.5">
-                        <BulletBar median={z.median_assessed} p90={z.p90_assessed} max={maxP90} />
-                      </td>
-                      <td className="px-3 py-2.5 text-right text-slate-900 font-medium">
-                        {formatCurrency(z.median_assessed)}
-                      </td>
-                      <td className="px-3 py-2.5 text-right">
-                        <span
-                          className={`font-medium ${
-                            z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
-                          }`}
-                        >
-                          {z.avg_change_pct >= 0 ? '+' : ''}
-                          {z.avg_change_pct.toFixed(2)}%
-                        </span>
-                      </td>
-                    </tr>
-                  ))}
+                  {rows.map((z) => {
+                    const selected = filter.zip === z.zip;
+                    return (
+                      <tr
+                        key={z.zip}
+                        onClick={() => toggleZip(z.zip)}
+                        className={`cursor-pointer transition-colors ${
+                          selected ? 'bg-primary-50' : 'hover:bg-slate-50'
+                        }`}
+                      >
+                        <td className="px-3 py-2.5 font-mono text-slate-700">{z.zip}</td>
+                        <td className="px-3 py-2.5 text-right">{formatNumber(z.count)}</td>
+                        <td className="px-3 py-2.5">
+                          <BulletBar
+                            median={z.median_assessed}
+                            p90={z.p90_assessed}
+                            max={maxP90}
+                          />
+                        </td>
+                        <td className="px-3 py-2.5 text-right text-slate-900 font-medium">
+                          {formatCurrency(z.median_assessed)}
+                        </td>
+                        <td className="px-3 py-2.5 text-right">
+                          <span
+                            className={`font-medium ${
+                              z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
+                            }`}
+                          >
+                            {z.avg_change_pct >= 0 ? '+' : ''}
+                            {z.avg_change_pct.toFixed(2)}%
+                          </span>
+                        </td>
+                      </tr>
+                    );
+                  })}
                 </tbody>
               </table>
             </div>
@@ -505,6 +645,21 @@ function TrafficLight({ pct }: { pct: number }) {
         {pct.toFixed(1)}%
       </span>
     </div>
+  );
+}
+
+function FilterChip({ label, onClear }: { label: string; onClear: () => void }) {
+  return (
+    <span className="inline-flex items-center gap-1.5 rounded-full bg-white border border-primary-300 text-primary-800 text-xs font-medium px-2.5 py-1">
+      {label}
+      <button
+        onClick={onClear}
+        aria-label={`Remove ${label} filter`}
+        className="text-primary-500 hover:text-primary-700"
+      >
+        ×
+      </button>
+    </span>
   );
 }
 
