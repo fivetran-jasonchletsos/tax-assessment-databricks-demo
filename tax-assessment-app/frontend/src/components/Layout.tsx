@@ -9,7 +9,6 @@ const NAV_ITEMS: [string, string][] = [
   ['/dashboard', 'Dashboard'],
   ['/map', 'Map'],
   ['/agent', 'Ask AI'],
-  ['/about-agent', 'How AI Works'],
   ['/pipeline', 'Pipeline'],
   ['/about', 'About'],
 ];
