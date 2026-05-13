@@ -233,8 +233,10 @@ export default function MapPage() {
       <div className="relative flex-1">
         {zipAggs.length > 0 && (
           <MapContainer
-            center={[40.4406, -79.9959]}
-            zoom={10}
+            center={[40.4673, -80.0]}
+            zoom={11}
+            minZoom={9}
+            maxZoom={18}
             scrollWheelZoom
             style={{ height: '100%', width: '100%' }}
           >
@@ -245,6 +247,7 @@ export default function MapPage() {
               maxZoom={19}
             />
 
+            <FitToBoundsOnce zipAggs={zipAggs} disabled={!!selected} />
             <FlyToOnSelect target={selected ? [selected.lat, selected.lng] : null} zoom={14} />
 
             {/* COUNTY VIEW: one bubble per ZIP, size = parcel count, color = median value */}
@@ -443,9 +446,29 @@ function FlyToOnSelect({ target, zoom }: { target: [number, number] | null; zoom
   const map = useMap();
   useEffect(() => {
     if (target) map.flyTo(target, zoom, { duration: 0.8 });
-    else map.flyTo([40.4406, -79.9959], 10, { duration: 0.8 });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [target?.[0], target?.[1], zoom]);
+  return null;
+}
+
+// Frame the map to all the ZIP centroids whenever we're in county view.
+// Fires on first mount AND when transitioning back from drill-in view,
+// so "← Back to county view" always returns to the framed Allegheny shot
+// instead of staying zoomed in on the previously-selected ZIP.
+function FitToBoundsOnce({
+  zipAggs,
+  disabled,
+}: {
+  zipAggs: ZipAgg[];
+  disabled: boolean;
+}) {
+  const map = useMap();
+  useEffect(() => {
+    if (disabled || zipAggs.length === 0) return;
+    const latLngs = zipAggs.map((z) => [z.lat, z.lng] as [number, number]);
+    const bounds = L.latLngBounds(latLngs);
+    map.flyToBounds(bounds, { padding: [40, 40], maxZoom: 12, duration: 0.8 });
+  }, [disabled, zipAggs.length, map]);
   return null;
 }
 
