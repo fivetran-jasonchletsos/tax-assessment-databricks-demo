@@ -1,7 +1,17 @@
 import { useEffect, useState, type FormEvent } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { MapContainer, Marker, TileLayer } from 'react-leaflet';
+import L from 'leaflet';
 import { api, formatCurrency, formatNumber } from '../api/queries';
 import type { SummaryStats, ParcelSearchResult } from '../types';
+
+// Leaflet's default marker icon URLs are bundler-hostile; point them at the
+// CDN explicitly (same fix used on the parcel detail page).
+L.Icon.Default.mergeOptions({
+  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
+  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+});
 
 export default function HomePage() {
   const navigate = useNavigate();
@@ -52,6 +62,7 @@ export default function HomePage() {
           <AgentSpotlight
             onAsk={(q) => navigate(`/agent?q=${encodeURIComponent(q)}`)}
             onOpen={() => navigate('/agent')}
+            onAbout={() => navigate('/about-agent')}
           />
         </div>
       </section>
@@ -192,7 +203,15 @@ function FindPropertySpotlight({
   );
 }
 
-function AgentSpotlight({ onAsk, onOpen }: { onAsk: (q: string) => void; onOpen: () => void }) {
+function AgentSpotlight({
+  onAsk,
+  onOpen,
+  onAbout,
+}: {
+  onAsk: (q: string) => void;
+  onOpen: () => void;
+  onAbout: () => void;
+}) {
   const samples = [
     'Biggest YoY assessment jumps?',
     'Parcels in ZIP 15217',
@@ -224,34 +243,53 @@ function AgentSpotlight({ onAsk, onOpen }: { onAsk: (q: string) => void; onOpen:
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+        <div className="flex flex-col gap-2.5">
           {samples.map((s) => (
             <button
               key={s}
               onClick={() => onAsk(s)}
-              className="text-left text-sm rounded-lg bg-white/10 hover:bg-white/20 backdrop-blur-sm px-3 py-2.5 transition-colors border border-white/15"
+              className="group/chip text-left text-sm sm:text-base rounded-lg bg-white/10 hover:bg-white/20 backdrop-blur-sm px-4 py-3 transition-colors border border-white/15 flex items-center justify-between gap-3"
             >
-              <span className="text-violet-200 mr-1.5">→</span>
-              {s}
+              <span className="flex items-center gap-2.5">
+                <span aria-hidden className="text-violet-200">✨</span>
+                <span>{s}</span>
+              </span>
+              <span
+                aria-hidden
+                className="text-violet-200 group-hover/chip:translate-x-0.5 transition-transform"
+              >
+                →
+              </span>
             </button>
           ))}
         </div>
 
-        <button
-          onClick={onOpen}
-          className="mt-auto inline-flex w-fit items-center gap-2 rounded-md bg-white text-violet-700 px-5 py-3 text-base font-semibold shadow-lg hover:bg-violet-50 transition-colors"
-        >
-          Open the agent
-          <span aria-hidden>→</span>
-        </button>
+        <div className="mt-auto flex items-center gap-3 flex-wrap">
+          <button
+            onClick={onOpen}
+            className="inline-flex w-fit items-center gap-2 rounded-md bg-white text-violet-700 px-5 py-3 text-base font-semibold shadow-lg hover:bg-violet-50 transition-colors"
+          >
+            Open the agent
+            <span aria-hidden>→</span>
+          </button>
+          <button
+            onClick={onAbout}
+            className="inline-flex items-center gap-1.5 text-sm text-violet-100 hover:text-white font-medium underline-offset-4 hover:underline"
+          >
+            How it works
+            <span aria-hidden>→</span>
+          </button>
+        </div>
       </div>
     </div>
   );
 }
 
-// Featured property card with a map "photo" — we don't have parcel
-// imagery, but a small OSM static map of the neighborhood does the
-// visual job of conveying "this is a real place."
+// Featured property card with a live mini-map. WPRDC doesn't ship parcel
+// imagery and every third-party static-map service we tried is either
+// dead (staticmap.openstreetmap.de) or returns 403 (Wikimedia). A small
+// non-interactive Leaflet map is reliable and uses the same OSM tile
+// infra the parcel detail page already loads.
 function FeaturedPropertyCard({
   parcel,
   onClick,
@@ -259,38 +297,43 @@ function FeaturedPropertyCard({
   parcel: ParcelSearchResult;
   onClick: () => void;
 }) {
-  const [imgError, setImgError] = useState(false);
   const hasCoords = parcel.latitude != null && parcel.longitude != null;
-  // Public OSM static map service (no key). Falls back to gradient if
-  // it 503s or is blocked.
-  const mapUrl = hasCoords
-    ? `https://staticmap.openstreetmap.de/staticmap.php?center=${parcel.latitude},${parcel.longitude}&zoom=16&size=400x180&maptype=mapnik&markers=${parcel.latitude},${parcel.longitude},red-pushpin`
-    : null;
   const gradient = gradientForLandUse(parcel.land_use_description);
 
   return (
-    <button
+    <div
       onClick={onClick}
-      className="text-left rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-lg hover:border-primary-300 transition-all overflow-hidden group"
+      className="text-left rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-lg hover:border-primary-300 transition-all overflow-hidden group cursor-pointer"
     >
       <div className={`relative h-36 overflow-hidden ${gradient}`}>
-        {mapUrl && !imgError && (
-          <img
-            src={mapUrl}
-            alt=""
-            loading="lazy"
-            onError={() => setImgError(true)}
-            className="absolute inset-0 h-full w-full object-cover opacity-90 group-hover:opacity-100 transition-opacity"
-          />
+        {hasCoords && (
+          <div className="absolute inset-0 pointer-events-none">
+            <MapContainer
+              center={[parcel.latitude!, parcel.longitude!]}
+              zoom={16}
+              zoomControl={false}
+              attributionControl={false}
+              dragging={false}
+              scrollWheelZoom={false}
+              doubleClickZoom={false}
+              touchZoom={false}
+              boxZoom={false}
+              keyboard={false}
+              style={{ height: '100%', width: '100%' }}
+            >
+              <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+              <Marker position={[parcel.latitude!, parcel.longitude!]} />
+            </MapContainer>
+          </div>
         )}
         {/* dark gradient overlay so the address chip is always readable */}
-        <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/55 to-transparent" />
-        <div className="absolute top-2 left-2">
-          <span className="rounded-full bg-white/85 backdrop-blur px-2 py-0.5 text-[10px] font-mono text-slate-700">
+        <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/55 to-transparent pointer-events-none" />
+        <div className="absolute top-2 left-2 z-[400]">
+          <span className="rounded-full bg-white/90 backdrop-blur px-2 py-0.5 text-[10px] font-mono text-slate-700 shadow">
             {parcel.parcel_id}
           </span>
         </div>
-        <div className="absolute bottom-2 right-2">
+        <div className="absolute bottom-2 right-2 z-[400]">
           <ChangeChip pct={parcel.assessed_value_change_pct} />
         </div>
       </div>
@@ -308,7 +351,7 @@ function FeaturedPropertyCard({
           </div>
         </div>
       </div>
-    </button>
+    </div>
   );
 }
 

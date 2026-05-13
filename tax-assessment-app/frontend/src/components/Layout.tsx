@@ -8,6 +8,7 @@ const NAV_ITEMS: [string, string][] = [
   ['/search', 'Properties'],
   ['/dashboard', 'Dashboard'],
   ['/agent', 'Ask AI'],
+  ['/about-agent', 'How AI Works'],
   ['/pipeline', 'Pipeline'],
   ['/about', 'About'],
 ];
