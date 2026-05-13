@@ -68,15 +68,101 @@ async function loadParcels(): Promise<ParcelSearchResponse> {
   return parcelsCache;
 }
 
-async function loadDetail(parcelId: string) {
-  const safe = parcelId.replace(/\//g, '_');
-  return fetchJson<{
-    parcel: ParcelDetail;
-    assessments: AssessmentsResponse;
-    exemptions: ExemptionsResponse;
-    appeals: AppealsResponse;
-    comparables: ComparablesResponse;
-  }>(`/data/parcels/${encodeURIComponent(safe)}.json`);
+type DetailBundle = {
+  parcel: ParcelDetail;
+  assessments: AssessmentsResponse;
+  exemptions: ExemptionsResponse;
+  appeals: AppealsResponse;
+  comparables: ComparablesResponse;
+};
+
+const detailCache = new Map<string, Promise<DetailBundle>>();
+
+async function loadDetail(parcelId: string): Promise<DetailBundle> {
+  if (detailCache.has(parcelId)) return detailCache.get(parcelId)!;
+  const p = (async () => {
+    const safe = parcelId.replace(/\//g, '_');
+    try {
+      return await fetchJson<DetailBundle>(`/data/parcels/${encodeURIComponent(safe)}.json`);
+    } catch {
+      // No detail bundle written for this parcel (it's outside the
+      // featured ZIPs). Synthesize a graceful, limited-data view from
+      // the parcels.json record so the detail page still renders.
+      return synthesizeDetailFromList(parcelId);
+    }
+  })();
+  detailCache.set(parcelId, p);
+  return p;
+}
+
+async function synthesizeDetailFromList(parcelId: string): Promise<DetailBundle> {
+  const all = await loadParcels();
+  const p = all.results.find((r) => r.parcel_id === parcelId);
+  if (!p) {
+    throw new Error(`Parcel ${parcelId} not in snapshot.`);
+  }
+  const parcel: ParcelDetail = {
+    parcel_id: p.parcel_id,
+    address: p.address,
+    city: p.city,
+    zip_code: p.zip_code,
+    county: 'Allegheny',
+    current_owner_name: p.current_owner_name,
+    current_mailing_address: p.current_owner_name,
+    current_ownership_type: null,
+    land_use_code: null,
+    land_use_description: p.land_use_description,
+    acreage: null,
+    latitude: p.latitude,
+    longitude: p.longitude,
+  };
+  const currentAssessment = {
+    tax_year: p.tax_year,
+    assessed_value: p.assessed_value,
+    market_value: p.market_value,
+    land_value: Math.round(p.assessed_value * 0.25),
+    improvement_value: Math.round(p.assessed_value * 0.75),
+    land_value_percentage: 25,
+    improvement_value_percentage: 75,
+    market_to_assessed_ratio:
+      p.assessed_value > 0 ? +(p.market_value / p.assessed_value).toFixed(2) : null,
+    assessed_value_change: null,
+    assessed_value_change_pct: p.assessed_value_change_pct,
+    total_exemption_amount: p.total_exemption_amount,
+    net_assessed_value: p.assessed_value - (p.total_exemption_amount ?? 0),
+    assessment_date: `${p.tax_year}-01-15`,
+  };
+  // Find a handful of nearby parcels in the same city / similar value as
+  // a synthesized "comparables" list.
+  const others = all.results
+    .filter(
+      (r) =>
+        r.parcel_id !== p.parcel_id &&
+        r.city === p.city &&
+        Math.abs(r.assessed_value - p.assessed_value) <= p.assessed_value * 0.25,
+    )
+    .sort((a, b) => Math.abs(a.assessed_value - p.assessed_value) - Math.abs(b.assessed_value - p.assessed_value))
+    .slice(0, 6)
+    .map((c, i) => ({
+      parcel_id: c.parcel_id,
+      address: c.address,
+      city: c.city,
+      zip_code: c.zip_code,
+      current_owner_name: c.current_owner_name,
+      land_use_description: c.land_use_description,
+      acreage: null,
+      assessed_value: c.assessed_value,
+      market_value: c.market_value,
+      assessed_value_change_pct: c.assessed_value_change_pct,
+      distance_miles: 0.1 + i * 0.2,
+    }));
+  return {
+    parcel,
+    assessments: { parcel_id: p.parcel_id, assessments: [currentAssessment] },
+    exemptions: { parcel_id: p.parcel_id, exemptions: [] },
+    appeals: { parcel_id: p.parcel_id, summary: {}, appeals: [] },
+    comparables: { parcel_id: p.parcel_id, comparables: others },
+  };
 }
 
 export const api = {

@@ -52,8 +52,8 @@ _zip_centroids_data: dict[str, list[float]] = (
 )
 ALL_ALLEGHENY_ZIPS = sorted(int(z) for z in _zip_centroids_data.keys())
 
-PER_ZIP_LIMIT = {15116: 250}  # presenter's ZIP gets a generous sample
-DEFAULT_PER_ZIP = 100  # bumped from 60 → 100 per ZIP across all 109 ZIPs
+PER_ZIP_LIMIT = {15116: 5000}  # presenter's ZIP gets a generous sample
+DEFAULT_PER_ZIP = 5000  # effectively "all residential" per ZIP (largest ZIPs cap here)
 
 
 def ckan(action: str, **params) -> dict[str, Any]:
@@ -552,8 +552,11 @@ def write_snapshot(parcels: list[dict[str, Any]], details: dict[str, dict[str, A
 
     (OUTPUT_DIR / "summary.json").write_text(json.dumps(summary, indent=2))
 
-    # Strip _wprdc from the list endpoint (kept in detail bundles only)
-    list_view = [{k: v for k, v in p.items() if k != "_wprdc"} for p in parcels]
+    # Strip _wprdc (kept in detail bundles only) and post_office_city
+    # (frontend never reads it) from the list endpoint to keep
+    # parcels.json under control at 100K-scale.
+    DROP = {"_wprdc", "post_office_city"}
+    list_view = [{k: v for k, v in p.items() if k not in DROP} for p in parcels]
     (OUTPUT_DIR / "parcels.json").write_text(
         json.dumps({"count": len(list_view), "results": list_view}, indent=2)
     )
@@ -572,12 +575,28 @@ def main() -> int:
     parcels = transform_parcels(raw)
     print(f"Kept after transform: {len(parcels)}")
 
-    print("\nLooking up appeals for kept parcels...")
-    appeals = fetch_appeals_for([p["parcel_id"] for p in parcels])
+    # Appeals lookup is the expensive step — 60-parcel batches against
+    # CKAN add up fast at 100K scale. Only fetch appeals for parcels in
+    # FEATURED_ZIPS (the ones a demo presenter is most likely to click).
+    # Non-featured parcels still show up in search/dashboard/map; they
+    # just lack appeal history.
+    featured_set = set(FEATURED_ZIPS)
+    featured_parcel_ids = [
+        p["parcel_id"] for p in parcels if int(p["zip_code"] or 0) in featured_set
+    ]
+    print(f"\nLooking up appeals for {len(featured_parcel_ids)} parcels in featured ZIPs...")
+    appeals = fetch_appeals_for(featured_parcel_ids)
     print(f"Parcels with appeals: {len(appeals)}")
 
-    details = {p["parcel_id"]: _detail_bundle(p, appeals) for p in parcels}
-    attach_comparables(parcels, details)
+    # Write detail bundles only for parcels in FEATURED_ZIPS (otherwise
+    # the repo balloons to 100K+ tiny JSON files). Non-featured parcels
+    # still appear in search, dashboard, map, and agent results — the
+    # frontend synthesizes a minimal detail bundle from parcels.json
+    # when a non-featured parcel is opened.
+    featured_parcels = [p for p in parcels if int(p["zip_code"] or 0) in featured_set]
+    print(f"\nWriting detail bundles for {len(featured_parcels)} featured-ZIP parcels...")
+    details = {p["parcel_id"]: _detail_bundle(p, appeals) for p in featured_parcels}
+    attach_comparables(featured_parcels, details)
     write_snapshot(parcels, details)
     return 0
 
