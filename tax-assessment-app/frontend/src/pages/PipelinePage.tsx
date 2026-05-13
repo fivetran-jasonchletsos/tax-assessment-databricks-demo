@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
 interface ConnectorStatus {
   id: string;
@@ -79,9 +79,13 @@ interface PipelineBundle {
   pages: PagesStatus;
 }
 
+// Layer identifiers for the demo-mode failure simulator.
+type FailureKey = `connector:${string}` | 'destination' | 'project' | 'pages';
+
 export default function PipelinePage() {
-  const [bundle, setBundle] = useState<PipelineBundle | null>(null);
+  const [rawBundle, setBundle] = useState<PipelineBundle | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [failures, setFailures] = useState<Set<FailureKey>>(new Set());
 
   useEffect(() => {
     const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -90,6 +94,53 @@ export default function PipelinePage() {
       .then(setBundle)
       .catch((e) => setError(e.message));
   }, []);
+
+  // Apply user-toggled simulated failures to a copy of the bundle so the
+  // existing cards keep their normal rendering paths.
+  const bundle = useMemo(() => {
+    if (!rawBundle) return null;
+    if (failures.size === 0) return rawBundle;
+    const now = new Date().toISOString();
+    const cloned: PipelineBundle = JSON.parse(JSON.stringify(rawBundle));
+    cloned.fivetran.connectors = cloned.fivetran.connectors.map((c) =>
+      failures.has(`connector:${c.id}`)
+        ? { ...c, sync_state: 'failed', failed_at: now, succeeded_at: c.succeeded_at, error: 'Simulated: source API returned 500 on last sync attempt.' }
+        : c,
+    );
+    if (failures.has('destination')) {
+      cloned.fivetran.destination = {
+        ...cloned.fivetran.destination,
+        setup_status: 'incomplete',
+        error: 'Simulated: warehouse rejected last connection — token may have expired.',
+      };
+    }
+    if (failures.has('project') && cloned.fivetran.project) {
+      cloned.fivetran.project = { ...cloned.fivetran.project, status: 'NOT_READY' };
+      cloned.fivetran.transformations = cloned.fivetran.transformations.map((t) => ({
+        ...t,
+        status: 'FAILED',
+        last_ended_at: now,
+      }));
+    }
+    if (failures.has('pages')) {
+      cloned.pages = {
+        ...cloned.pages,
+        status: 'errored',
+        last_deploy_at: null,
+        last_deploy_message: 'Simulated: GitHub Actions deploy workflow failed.',
+      };
+    }
+    return cloned;
+  }, [rawBundle, failures]);
+
+  const toggle = (key: FailureKey) => {
+    setFailures((prev) => {
+      const next = new Set(prev);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      return next;
+    });
+  };
 
   if (error) {
     return (
@@ -106,6 +157,7 @@ export default function PipelinePage() {
 
   const { fivetran, pages } = bundle;
   const overallStatus = computeOverallStatus(bundle);
+  const demoMode = failures.size > 0;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
@@ -123,6 +175,24 @@ export default function PipelinePage() {
 
       <OverallBanner status={overallStatus} />
 
+      {/* Demo mode banner */}
+      {demoMode && (
+        <div className="mt-4 rounded-xl border border-amber-300 bg-amber-50 px-4 py-3 flex items-start justify-between gap-3">
+          <div className="text-sm text-amber-900">
+            <strong>Demo mode active</strong> — {failures.size}{' '}
+            {failures.size === 1 ? 'layer is' : 'layers are'} showing simulated failures so you can
+            walk an audience through what observability looks like when something breaks. None of
+            this affects the real pipeline.
+          </div>
+          <button
+            onClick={() => setFailures(new Set())}
+            className="shrink-0 rounded-md bg-amber-200 hover:bg-amber-300 text-amber-900 text-xs font-medium px-3 py-1.5"
+          >
+            Restore all
+          </button>
+        </div>
+      )}
+
       <section className="mt-6">
         <h2 className="text-lg font-semibold text-slate-900 mb-3 flex items-center gap-2">
           <LayerNum n={1} /> Fivetran connectors
@@ -132,7 +202,12 @@ export default function PipelinePage() {
         </h2>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           {fivetran.connectors.map((c) => (
-            <ConnectorCard key={c.id} c={c} />
+            <ConnectorCard
+              key={c.id}
+              c={c}
+              simulated={failures.has(`connector:${c.id}`)}
+              onSimulate={() => toggle(`connector:${c.id}`)}
+            />
           ))}
         </div>
       </section>
@@ -141,21 +216,34 @@ export default function PipelinePage() {
         <h2 className="text-lg font-semibold text-slate-900 mb-3 flex items-center gap-2">
           <LayerNum n={2} /> Databricks warehouse
         </h2>
-        <DestinationCard d={fivetran.destination} />
+        <DestinationCard
+          d={fivetran.destination}
+          simulated={failures.has('destination')}
+          onSimulate={() => toggle('destination')}
+        />
       </section>
 
       <section className="mt-8">
         <h2 className="text-lg font-semibold text-slate-900 mb-3 flex items-center gap-2">
           <LayerNum n={3} /> dbt transformation
         </h2>
-        <ProjectCard project={fivetran.project} transformations={fivetran.transformations} />
+        <ProjectCard
+          project={fivetran.project}
+          transformations={fivetran.transformations}
+          simulated={failures.has('project')}
+          onSimulate={() => toggle('project')}
+        />
       </section>
 
       <section className="mt-8 mb-6">
         <h2 className="text-lg font-semibold text-slate-900 mb-3 flex items-center gap-2">
           <LayerNum n={4} /> Website
         </h2>
-        <PagesCard pages={pages} />
+        <PagesCard
+          pages={pages}
+          simulated={failures.has('pages')}
+          onSimulate={() => toggle('pages')}
+        />
       </section>
 
       <div className="mt-8 rounded-xl border border-slate-200 bg-white p-4 text-xs text-slate-500">
@@ -200,7 +288,15 @@ function OverallBanner({
   );
 }
 
-function ConnectorCard({ c }: { c: ConnectorStatus }) {
+function ConnectorCard({
+  c,
+  simulated,
+  onSimulate,
+}: {
+  c: ConnectorStatus;
+  simulated?: boolean;
+  onSimulate?: () => void;
+}) {
   const ok = !c.failed_at && !c.error && c.sync_state !== 'failed';
   return (
     <article className="rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
@@ -226,20 +322,31 @@ function ConnectorCard({ c }: { c: ConnectorStatus }) {
       </dl>
       <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex items-center justify-between">
         <span className="text-slate-500">Connection ID: <code className="font-mono">{c.id}</code></span>
-        <a
-          href={c.dashboard_url}
-          target="_blank"
-          rel="noreferrer"
-          className="text-primary-700 hover:text-primary-900 font-medium"
-        >
-          Fivetran dashboard ↗
-        </a>
+        <div className="flex items-center gap-3">
+          <SimulateButton simulated={simulated} onClick={onSimulate} />
+          <a
+            href={c.dashboard_url}
+            target="_blank"
+            rel="noreferrer"
+            className="text-primary-700 hover:text-primary-900 font-medium"
+          >
+            Fivetran dashboard ↗
+          </a>
+        </div>
       </footer>
     </article>
   );
 }
 
-function DestinationCard({ d }: { d: DestinationStatus }) {
+function DestinationCard({
+  d,
+  simulated,
+  onSimulate,
+}: {
+  d: DestinationStatus;
+  simulated?: boolean;
+  onSimulate?: () => void;
+}) {
   const ok = d.setup_status === 'connected' && !d.error;
   return (
     <article className="rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
@@ -272,6 +379,14 @@ function DestinationCard({ d }: { d: DestinationStatus }) {
         <DT>Networking</DT>
         <DD value={d.networking_method} />
       </dl>
+      {d.error && (
+        <div className="mx-4 mb-4 rounded-md bg-rose-100 text-rose-800 text-xs p-3">
+          ⚠️ {d.error}
+        </div>
+      )}
+      <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex justify-end">
+        <SimulateButton simulated={simulated} onClick={onSimulate} />
+      </footer>
     </article>
   );
 }
@@ -279,9 +394,13 @@ function DestinationCard({ d }: { d: DestinationStatus }) {
 function ProjectCard({
   project,
   transformations,
+  simulated,
+  onSimulate,
 }: {
   project: ProjectStatus | null;
   transformations: TransformationStatus[];
+  simulated?: boolean;
+  onSimulate?: () => void;
 }) {
   if (!project) {
     return (
@@ -333,6 +452,9 @@ function ProjectCard({
           until the project is swapped.
         </div>
       )}
+      <div className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex justify-end">
+        <SimulateButton simulated={simulated} onClick={onSimulate} />
+      </div>
       {mostRecent && (
         <div className="px-4 py-3 border-t border-slate-100 bg-slate-50 text-sm">
           <div className="text-xs uppercase tracking-wider text-slate-500 font-medium mb-2">
@@ -360,7 +482,15 @@ function ProjectCard({
   );
 }
 
-function PagesCard({ pages }: { pages: PagesStatus }) {
+function PagesCard({
+  pages,
+  simulated,
+  onSimulate,
+}: {
+  pages: PagesStatus;
+  simulated?: boolean;
+  onSimulate?: () => void;
+}) {
   const ok = pages.status === 'built' && !!pages.last_deploy_at;
   return (
     <article className="rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
@@ -402,12 +532,37 @@ function PagesCard({ pages }: { pages: PagesStatus }) {
           <div className="text-sm text-slate-700">{pages.last_deploy_message}</div>
         </div>
       )}
-      <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs">
+      <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex items-center justify-between">
         <a href={pages.runs_url} target="_blank" rel="noreferrer" className="text-primary-700 hover:text-primary-900 font-medium">
           View deploy history ↗
         </a>
+        <SimulateButton simulated={simulated} onClick={onSimulate} />
       </footer>
     </article>
+  );
+}
+
+function SimulateButton({
+  simulated,
+  onClick,
+}: {
+  simulated?: boolean;
+  onClick?: () => void;
+}) {
+  if (!onClick) return null;
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      title={simulated ? 'Restore the real status of this layer' : 'Make this layer look failed for the demo'}
+      className={`inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-[11px] font-medium border transition-colors ${
+        simulated
+          ? 'bg-amber-100 hover:bg-amber-200 border-amber-300 text-amber-900'
+          : 'bg-white hover:bg-rose-50 border-slate-300 hover:border-rose-300 text-slate-600 hover:text-rose-700'
+      }`}
+    >
+      {simulated ? '⟲ Restore' : '⚠ Simulate failure'}
+    </button>
   );
 }
 

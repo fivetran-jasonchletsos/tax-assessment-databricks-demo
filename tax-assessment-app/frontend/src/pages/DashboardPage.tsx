@@ -364,7 +364,6 @@ export default function DashboardPage() {
 
       {(() => {
         const top = movers.slice(0, 10);
-        const maxAbs = Math.max(0, ...top.map((p) => Math.abs(p.assessed_value_change_pct ?? 0)));
         return (
           <Panel
             title="Biggest YoY movers"
@@ -379,7 +378,7 @@ export default function DashboardPage() {
                     <th className="px-3 py-2 text-left font-medium">Address</th>
                     <th className="px-3 py-2 text-left font-medium">Municipality</th>
                     <th className="px-3 py-2 text-right font-medium">Assessed</th>
-                    <th className="px-3 py-2 text-center font-medium w-[28%]">YoY change</th>
+                    <th className="px-3 py-2 text-center font-medium w-[140px]">YoY</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
@@ -390,10 +389,7 @@ export default function DashboardPage() {
                       <td className="px-3 py-2.5 text-slate-500">{p.city}</td>
                       <td className="px-3 py-2.5 text-right text-slate-900 font-medium">{formatCurrency(p.assessed_value)}</td>
                       <td className="px-3 py-2.5">
-                        <DirectionalBar
-                          pct={p.assessed_value_change_pct ?? 0}
-                          maxAbs={maxAbs}
-                        />
+                        <TrafficLight pct={p.assessed_value_change_pct ?? 0} />
                       </td>
                     </tr>
                   ))}
@@ -481,36 +477,31 @@ function BulletBar({
   );
 }
 
-// Diverging bar centered on zero. Right = rising (rose), left = falling
-// (emerald). Width scaled to maxAbs in the table.
-function DirectionalBar({ pct, maxAbs }: { pct: number; maxAbs: number }) {
-  if (maxAbs <= 0) {
-    return (
-      <div className="text-center text-xs text-slate-500 font-medium tabular-nums">
-        {pct.toFixed(1)}%
-      </div>
-    );
+// Traffic-light indicator: green = falling or flat, yellow = modest rise,
+// red = significant rise. Higher assessed value = bigger tax bill, so up
+// is "bad" semantics in this context.
+function TrafficLight({ pct }: { pct: number }) {
+  let color: string;
+  let label: string;
+  if (pct >= 8) {
+    color = 'bg-rose-500';
+    label = 'High rise';
+  } else if (pct >= 3) {
+    color = 'bg-amber-400';
+    label = 'Moderate rise';
+  } else {
+    color = 'bg-emerald-500';
+    label = pct < 0 ? 'Falling' : 'Stable';
   }
-  const w = Math.min(50, (Math.abs(pct) / maxAbs) * 50);
-  const isUp = pct >= 0;
   return (
-    <div className="flex items-center gap-2 w-full">
-      <div className="relative flex-1 h-3.5">
-        {/* center line */}
-        <div className="absolute inset-y-0 left-1/2 -translate-x-1/2 w-px bg-slate-300" />
-        <div
-          className={`absolute inset-y-0 ${
-            isUp ? 'left-1/2 bg-rose-600' : 'right-1/2 bg-emerald-600'
-          } rounded-sm`}
-          style={{ width: `${w}%` }}
-        />
-      </div>
+    <div className="flex items-center justify-center gap-2" title={label}>
+      <span className={`inline-block h-3 w-3 rounded-full ${color} ring-2 ring-white shadow`} />
       <span
         className={`text-xs font-semibold tabular-nums w-12 text-right ${
-          isUp ? 'text-rose-700' : 'text-emerald-700'
+          pct >= 8 ? 'text-rose-700' : pct >= 3 ? 'text-amber-700' : 'text-emerald-700'
         }`}
       >
-        {isUp ? '+' : ''}
+        {pct >= 0 ? '+' : ''}
         {pct.toFixed(1)}%
       </span>
     </div>

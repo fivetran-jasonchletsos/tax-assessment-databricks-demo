@@ -7,6 +7,7 @@ const NAV_ITEMS: [string, string][] = [
   ['/', 'Home'],
   ['/search', 'Properties'],
   ['/dashboard', 'Dashboard'],
+  ['/map', 'Map'],
   ['/agent', 'Ask AI'],
   ['/about-agent', 'How AI Works'],
   ['/pipeline', 'Pipeline'],
@@ -72,9 +73,10 @@ export default function Layout() {
               />
               <button
                 type="submit"
-                className="rounded-r-md bg-primary-600 hover:bg-primary-500 px-4 py-2 text-sm font-medium border border-primary-600 transition-colors"
+                aria-label="Search"
+                className="inline-flex items-center justify-center rounded-r-md bg-primary-600 hover:bg-primary-500 px-3 border border-primary-600 transition-colors"
               >
-                Search
+                <SearchIcon className="h-4 w-4" />
               </button>
             </form>
 
@@ -147,9 +149,10 @@ export default function Layout() {
                 />
                 <button
                   type="submit"
-                  className="rounded-r-md bg-primary-600 hover:bg-primary-500 px-3 py-2 text-sm font-medium border border-primary-600 transition-colors"
+                  aria-label="Search"
+                  className="inline-flex items-center justify-center rounded-r-md bg-primary-600 hover:bg-primary-500 px-3 border border-primary-600 transition-colors"
                 >
-                  Search
+                  <SearchIcon className="h-4 w-4" />
                 </button>
               </form>
               <nav className="grid grid-cols-2 gap-1 text-sm">
@@ -215,6 +218,24 @@ function SourceBadge({ source, snapshotAt }: { source: DataSource; snapshotAt: s
       <span className="hidden xs:inline sm:inline">{live ? `Databricks · ${ago ?? 'snapshot'}` : 'Demo'}</span>
       <span className="xs:hidden sm:hidden">{live ? '●' : '○'}</span>
     </div>
+  );
+}
+
+function SearchIcon({ className = '' }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+      aria-hidden
+    >
+      <circle cx="11" cy="11" r="7" />
+      <path d="m21 21-4.3-4.3" />
+    </svg>
   );
 }
 

@@ -9,6 +9,7 @@ import DashboardPage from './pages/DashboardPage';
 import AgentPage from './pages/AgentPage';
 import AboutAgentPage from './pages/AboutAgentPage';
 import PipelinePage from './pages/PipelinePage';
+import MapPage from './pages/MapPage';
 import WatchlistPage from './pages/WatchlistPage';
 import AboutPage from './pages/AboutPage';
 import NotFoundPage from './pages/NotFoundPage';
@@ -35,6 +36,7 @@ export default function App() {
             <Route path="/agent" element={<AgentPage />} />
             <Route path="/about-agent" element={<AboutAgentPage />} />
             <Route path="/pipeline" element={<PipelinePage />} />
+            <Route path="/map" element={<MapPage />} />
             <Route path="/watchlist" element={<WatchlistPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="*" element={<NotFoundPage />} />
