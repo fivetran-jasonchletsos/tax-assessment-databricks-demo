@@ -140,41 +140,50 @@ def extract_from_databricks() -> dict[str, Any]:
             )
             assessments = rows_to_dicts(cur)
 
-            cur.execute(
-                f"""
-                SELECT tax_year, total_exemption_amount, total_exemption_count,
-                       homestead_exemption_amount, senior_exemption_amount,
-                       veteran_exemption_amount, disability_exemption_amount,
-                       homestead_count, senior_count, veteran_count, disability_count,
-                       active_exemptions, pending_exemptions, expired_exemptions,
-                       exemption_types
-                FROM {CATALOG}.{MARTS_SCHEMA}.fct_exemptions_summary
-                WHERE parcel_id = '{pid}' ORDER BY tax_year DESC
-                """
-            )
-            exemptions = rows_to_dicts(cur)
+            try:
+                cur.execute(
+                    f"""
+                    SELECT tax_year, total_exemption_amount, total_exemption_count,
+                           homestead_exemption_amount, senior_exemption_amount,
+                           veteran_exemption_amount, disability_exemption_amount,
+                           homestead_count, senior_count, veteran_count, disability_count,
+                           active_exemptions, pending_exemptions, expired_exemptions,
+                           exemption_types
+                    FROM {CATALOG}.{MARTS_SCHEMA}.fct_exemptions_summary
+                    WHERE parcel_id = '{pid}' ORDER BY tax_year DESC
+                    """
+                )
+                exemptions = rows_to_dicts(cur)
+            except Exception:
+                exemptions = []
 
-            cur.execute(
-                f"""
-                SELECT appeal_id, filed_date, hearing_date, appeal_status,
-                       original_value, requested_value, final_value,
-                       value_reduction, reduction_percentage, resolution_notes
-                FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals
-                WHERE parcel_id = '{pid}' ORDER BY filed_date DESC
-                """
-            )
-            appeals = rows_to_dicts(cur)
+            try:
+                cur.execute(
+                    f"""
+                    SELECT appeal_id, filed_date, hearing_date, appeal_status,
+                           original_value, requested_value, final_value,
+                           value_reduction, reduction_percentage, resolution_notes
+                    FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals
+                    WHERE parcel_id = '{pid}' ORDER BY filed_date DESC
+                    """
+                )
+                appeals = rows_to_dicts(cur)
+            except Exception:
+                appeals = []
 
-            cur.execute(
-                f"""
-                SELECT total_appeals, approved_count, denied_count, success_rate_pct,
-                       avg_value_reduction, total_value_reduction, first_appeal_date,
-                       most_recent_appeal_date, latest_appeal_status
-                FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals_summary
-                WHERE parcel_id = '{pid}'
-                """
-            )
-            appeals_summary = first(cur) or {}
+            try:
+                cur.execute(
+                    f"""
+                    SELECT total_appeals, approved_count, denied_count, success_rate_pct,
+                           avg_value_reduction, total_value_reduction, first_appeal_date,
+                           most_recent_appeal_date, latest_appeal_status
+                    FROM {CATALOG}.{MARTS_SCHEMA}.fct_appeals_summary
+                    WHERE parcel_id = '{pid}'
+                    """
+                )
+                appeals_summary = first(cur) or {}
+            except Exception:
+                appeals_summary = {}
 
             cur.execute(
                 f"""
