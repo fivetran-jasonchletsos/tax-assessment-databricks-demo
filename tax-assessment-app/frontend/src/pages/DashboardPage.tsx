@@ -25,6 +25,12 @@ import {
   valueHistogram,
 } from '../analytics';
 import type { ParcelSearchResult } from '../types';
+import {
+  KPISkeleton,
+  LoadingBanner,
+  PanelSkeleton,
+  SkeletonBlock,
+} from '../components/Skeleton';
 
 // Tufte: small multiples-style restraint. Single accent color (primary-700)
 // varied by saturation. Light gridlines. No tooltip border. Median is
@@ -95,17 +101,24 @@ export default function DashboardPage() {
   const medianBucketIdx = histogram.findIndex((b) => median >= b.lo && median < b.hi);
   const medianLabel = medianBucketIdx >= 0 ? histogram[medianBucketIdx].label : null;
 
-  const scatter = useMemo(
-    () =>
-      parcels
-        .filter((p) => p.market_value > 0 && p.assessed_value > 0)
-        .map((p) => ({
-          x: p.assessed_value,
-          y: p.market_value,
-          z: 1,
-        })),
-    [parcels],
-  );
+  // Plotting all 575K parcels in a scatter chart locks up the browser.
+  // Stratified random sample by hash-of-parcel-id so the visible cloud
+  // is deterministic across renders, and the regression below still
+  // computes over the same sample (proportional, unbiased).
+  const SCATTER_CAP = 5000;
+  const scatter = useMemo(() => {
+    const valid = parcels.filter((p) => p.market_value > 0 && p.assessed_value > 0);
+    if (valid.length <= SCATTER_CAP) {
+      return valid.map((p) => ({ x: p.assessed_value, y: p.market_value, z: 1 }));
+    }
+    const stride = valid.length / SCATTER_CAP;
+    const out: { x: number; y: number; z: number }[] = [];
+    for (let i = 0; i < SCATTER_CAP; i++) {
+      const p = valid[Math.floor(i * stride)];
+      out.push({ x: p.assessed_value, y: p.market_value, z: 1 });
+    }
+    return out;
+  }, [parcels]);
 
   // --- Filter toggles ----------------------------------------------------
   const toggleBin = (idx: number) => {
@@ -123,6 +136,49 @@ export default function DashboardPage() {
   const toggleLandUse = (use: string) =>
     setFilter((prev) => ({ ...prev, landUse: prev.landUse === use ? undefined : use }));
   const clearFilters = () => setFilter({});
+
+  // While parcels.json is downloading + parsing (~77 MB at 575K-scale)
+  // the page would otherwise render empty for 5-15s on slower wifi.
+  // Show a skeleton screen so it reads as "loading" instead of "broken."
+  if (loading) {
+    return (
+      <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+        <header className="mb-6 max-w-3xl">
+          <div className="inline-flex items-center rounded-full bg-primary-100 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
+            Dashboard
+          </div>
+          <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
+          <p className="text-sm text-slate-500 mt-2">Loading 575,000+ parcels from the published snapshot…</p>
+          <div className="mt-3">
+            <LoadingBanner
+              label="Downloading parcels.json"
+              detail="~15 MB gzipped · one-time fetch · cached for the rest of the session"
+            />
+          </div>
+        </header>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-2 mb-10">
+          <KPISkeleton />
+          <KPISkeleton primary />
+          <KPISkeleton />
+          <KPISkeleton />
+          <KPISkeleton />
+        </div>
+        <PanelSkeleton title="Assessed value distribution" height={240} />
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-6">
+          <PanelSkeleton title="Assessed vs market value" height={240} />
+          <PanelSkeleton title="Top municipalities" height={240} />
+          <PanelSkeleton title="Year-over-year change" height={240} />
+          <PanelSkeleton title="Land use mix" height={180} />
+        </div>
+        <div className="mt-6 rounded-lg border border-slate-200 bg-white p-5">
+          <SkeletonBlock className="h-3 w-1/4 mb-3" />
+          <SkeletonBlock className="h-2 w-full mb-1.5" />
+          <SkeletonBlock className="h-2 w-full mb-1.5" />
+          <SkeletonBlock className="h-2 w-3/4" />
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">

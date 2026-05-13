@@ -195,11 +195,16 @@ export default function MapPage() {
               )}
             </h1>
             <p className="text-xs text-slate-500 mt-0.5">
-              {loading
-                ? 'Loading parcels…'
-                : selected
-                ? `${formatNumber(selected.count)} residential parcels in this ZIP. Click another ZIP or "Back to county view" to switch.`
-                : `${formatNumber(zipAggs.length)} ZIPs · ${formatNumber(placed.length)} parcels. Click any ZIP bubble to drill in.`}
+              {loading ? (
+                <span className="inline-flex items-center gap-2">
+                  <span className="h-1.5 w-1.5 rounded-full bg-primary-500 animate-pulse" />
+                  Loading 575,000+ parcels — one-time fetch, ~15 MB gzipped…
+                </span>
+              ) : selected ? (
+                `${formatNumber(selected.count)} parcels in this ZIP. Click another ZIP or "Back to county view" to switch.`
+              ) : (
+                `${formatNumber(zipAggs.length)} ZIPs · ${formatNumber(placed.length)} parcels. Click any ZIP bubble to drill in.`
+              )}
             </p>
           </div>
 
