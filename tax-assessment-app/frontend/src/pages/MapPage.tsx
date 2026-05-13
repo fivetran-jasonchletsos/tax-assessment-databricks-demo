@@ -70,14 +70,27 @@ export default function MapPage() {
     return [0.2, 0.4, 0.6, 0.8].map((q) => quantile(values, q) ?? 0);
   }, [placed, mode]);
 
+  const bucketIndex = (val: number | null): number => {
+    if (val === null || !Number.isFinite(val)) return -1;
+    if (val < breakpoints[0]) return 0;
+    if (val < breakpoints[1]) return 1;
+    if (val < breakpoints[2]) return 2;
+    if (val < breakpoints[3]) return 3;
+    return 4;
+  };
+
   const colorFor = (val: number | null): string => {
-    if (val === null || !Number.isFinite(val)) return '#94a3b8';
-    const ramp = COLOR_RAMPS[mode];
-    if (val < breakpoints[0]) return ramp[0];
-    if (val < breakpoints[1]) return ramp[1];
-    if (val < breakpoints[2]) return ramp[2];
-    if (val < breakpoints[3]) return ramp[3];
-    return ramp[4];
+    const i = bucketIndex(val);
+    if (i < 0) return '#94a3b8';
+    return COLOR_RAMPS[mode][i];
+  };
+
+  // Bottom quintile → 4px, top quintile → 11px. Linear ramp so the eye
+  // reads both color AND size as redundant encodings of the same value.
+  const radiusFor = (val: number | null): number => {
+    const i = bucketIndex(val);
+    if (i < 0) return 3;
+    return 4 + i * 1.75;
   };
 
   const fmtForMode = (val: number | null) => {
@@ -130,8 +143,10 @@ export default function MapPage() {
             style={{ height: '100%', width: '100%' }}
           >
             <TileLayer
-              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+              url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
+              subdomains="abcd"
+              maxZoom={19}
             />
             {placed.map((p) => {
               const v = MODE_META[mode].valueOf(p);
@@ -139,11 +154,11 @@ export default function MapPage() {
                 <CircleMarker
                   key={p.parcel_id}
                   center={[p.latitude!, p.longitude!]}
-                  radius={5}
+                  radius={radiusFor(v)}
                   pathOptions={{
-                    color: colorFor(v),
+                    color: '#ffffff',
                     fillColor: colorFor(v),
-                    fillOpacity: 0.7,
+                    fillOpacity: 0.85,
                     weight: 1,
                   }}
                 >
@@ -176,18 +191,28 @@ export default function MapPage() {
         )}
 
         {/* Legend (floats on top of map) */}
-        <div className="absolute bottom-4 right-4 z-[400] rounded-xl bg-white/95 backdrop-blur shadow-lg border border-slate-200 p-3 text-xs max-w-[260px]">
+        <div className="absolute bottom-4 right-4 z-[400] rounded-xl bg-white/95 backdrop-blur shadow-lg border border-slate-200 p-3 text-xs max-w-[280px]">
           <div className="font-semibold text-slate-900 mb-2">{MODE_META[mode].label}</div>
-          <div className="space-y-1">
+          <div className="space-y-1.5">
             {COLOR_RAMPS[mode].map((color, i) => {
               const lo = i === 0 ? null : breakpoints[i - 1];
               const hi = i === 4 ? null : breakpoints[i];
+              const px = 8 + i * 3.5; // mirror the radiusFor() scale visually
               return (
-                <div key={i} className="flex items-center gap-2">
+                <div key={i} className="flex items-center gap-2.5">
                   <span
-                    className="inline-block h-3 w-3 rounded-full"
-                    style={{ backgroundColor: color }}
-                  />
+                    className="inline-flex shrink-0 items-center justify-center"
+                    style={{ width: 22, height: 22 }}
+                  >
+                    <span
+                      className="rounded-full ring-2 ring-white"
+                      style={{
+                        backgroundColor: color,
+                        width: px,
+                        height: px,
+                      }}
+                    />
+                  </span>
                   <span className="tabular-nums text-slate-700">
                     {lo === null ? '< ' : `${fmtForMode(lo)} – `}
                     {hi === null ? `${fmtForMode(breakpoints[3])}+` : fmtForMode(hi)}
@@ -197,7 +222,7 @@ export default function MapPage() {
             })}
           </div>
           <div className="mt-2 pt-2 border-t border-slate-100 text-[10px] text-slate-400">
-            Buckets are quintiles (every 20%) of the visible parcels.
+            Bigger + darker = higher value. Quintiles of the visible parcels.
           </div>
         </div>
 
