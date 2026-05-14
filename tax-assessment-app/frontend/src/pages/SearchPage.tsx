@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { api, formatCurrency } from '../api/queries';
+import { api, formatCurrency, formatCurrencyShort, formatNumber } from '../api/queries';
+import { quantile } from '../analytics';
 import type { ParcelSearchResult } from '../types';
 
 export default function SearchPage() {
@@ -35,6 +36,19 @@ export default function SearchPage() {
     });
     return copy;
   }, [results, sort]);
+
+  // Aggregate stats for the filtered set — useful for a treasurer scanning
+  // "what's the total roll value and median in this slice?"
+  const summary = useMemo(() => {
+    if (results.length === 0) return null;
+    const vals = results.map((r) => r.assessed_value);
+    const totalAssessed = vals.reduce((s, v) => s + v, 0);
+    const median = quantile(vals, 0.5) ?? 0;
+    const avgChg =
+      results.reduce((s, r) => s + (r.assessed_value_change_pct ?? 0), 0) / results.length;
+    const withExempt = results.filter((r) => (r.total_exemption_amount ?? 0) > 0).length;
+    return { totalAssessed, median, avgChg, withExempt };
+  }, [results]);
 
   const applyFilters = (e: React.FormEvent) => {
     e.preventDefault();
@@ -118,6 +132,22 @@ export default function SearchPage() {
         </div>
       </form>
 
+      {summary && !loading && (
+        <div className="mb-4 grid grid-cols-2 md:grid-cols-4 gap-2">
+          <SummaryStat label="Total assessed" value={formatCurrencyShort(summary.totalAssessed)} primary />
+          <SummaryStat label="Median" value={formatCurrency(summary.median)} />
+          <SummaryStat
+            label="Avg YoY"
+            value={`${summary.avgChg >= 0 ? '+' : ''}${summary.avgChg.toFixed(1)}%`}
+            tone={summary.avgChg >= 0 ? 'rose' : 'emerald'}
+          />
+          <SummaryStat
+            label="Exempt parcels"
+            value={`${formatNumber(summary.withExempt)} (${((summary.withExempt / results.length) * 100).toFixed(0)}%)`}
+          />
+        </div>
+      )}
+
       <div className="flex items-center justify-between mb-3">
         <div className="text-xs text-slate-500">Sort:</div>
         <div className="flex gap-1 rounded-md bg-slate-100 p-1 text-xs">
@@ -193,6 +223,37 @@ export default function SearchPage() {
           </table>
         </div>
       )}
+    </div>
+  );
+}
+
+function SummaryStat({
+  label,
+  value,
+  primary,
+  tone,
+}: {
+  label: string;
+  value: string;
+  primary?: boolean;
+  tone?: 'rose' | 'emerald';
+}) {
+  const valueColor = primary
+    ? 'text-white'
+    : tone === 'rose'
+    ? 'text-rose-700'
+    : tone === 'emerald'
+    ? 'text-emerald-700'
+    : 'text-slate-900';
+  const container = primary
+    ? 'bg-primary-700 text-white'
+    : 'bg-white border border-slate-200';
+  return (
+    <div className={`rounded-lg p-3 ${container}`}>
+      <div className={`text-[10px] uppercase tracking-wider font-medium ${primary ? 'text-primary-100' : 'text-slate-500'}`}>
+        {label}
+      </div>
+      <div className={`mt-1 text-lg font-semibold tabular-nums ${valueColor}`}>{value}</div>
     </div>
   );
 }

@@ -12,9 +12,6 @@ import {
   Tooltip,
   XAxis,
   YAxis,
-  Cell,
-  PieChart,
-  Pie,
 } from 'recharts';
 import { MapContainer, Marker, Popup, TileLayer, Circle } from 'react-leaflet';
 import L from 'leaflet';
@@ -183,53 +180,38 @@ export default function ParcelDetailPage() {
         </section>
 
         <section className="lg:col-span-2 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-slate-900 mb-3">
+          <h2 className="text-lg font-semibold text-slate-900">
             Value breakdown — {latest.tax_year}
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            <div className="h-56">
-              <ResponsiveContainer width="100%" height="100%">
-                <PieChart>
-                  <Pie
-                    data={[
-                      { name: 'Land', value: latest.land_value },
-                      { name: 'Improvements', value: latest.improvement_value },
-                    ]}
-                    dataKey="value"
-                    innerRadius={50}
-                    outerRadius={80}
-                    paddingAngle={2}
-                  >
-                    <Cell fill="#0ea5e9" />
-                    <Cell fill="#0c4a6e" />
-                  </Pie>
-                  <Tooltip formatter={(v: any) => formatCurrency(v)} />
-                  <Legend wrapperStyle={{ fontSize: 12 }} />
-                </PieChart>
-              </ResponsiveContainer>
-            </div>
-            <div className="space-y-3 text-sm">
-              <Field label="Land value" value={formatCurrency(latest.land_value)} />
-              <Field label="Improvement value" value={formatCurrency(latest.improvement_value)} />
-              <Field
-                label="Market : assessed ratio"
-                value={latest.market_to_assessed_ratio?.toFixed(2) ?? '—'}
-              />
-              <Field
-                label="YoY change"
-                value={
-                  <span
-                    className={
-                      latest.assessed_value_change_pct && latest.assessed_value_change_pct >= 0
-                        ? 'text-rose-600 font-semibold'
-                        : 'text-emerald-600 font-semibold'
-                    }
-                  >
-                    {formatPercent(latest.assessed_value_change_pct ?? 0)}
-                  </span>
-                }
-              />
-            </div>
+          <p className="text-xs text-slate-500 mb-4">
+            How the assessed value splits between land and improvements
+          </p>
+          <ValueComposition
+            land={latest.land_value}
+            improvement={latest.improvement_value}
+            total={latest.assessed_value}
+          />
+          <div className="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-3 text-sm">
+            <Field label="Land value" value={formatCurrency(latest.land_value)} />
+            <Field label="Improvement value" value={formatCurrency(latest.improvement_value)} />
+            <Field
+              label="Market : assessed ratio"
+              value={latest.market_to_assessed_ratio?.toFixed(2) ?? '—'}
+            />
+            <Field
+              label="YoY change"
+              value={
+                <span
+                  className={
+                    latest.assessed_value_change_pct && latest.assessed_value_change_pct >= 0
+                      ? 'text-rose-700 font-semibold'
+                      : 'text-emerald-700 font-semibold'
+                  }
+                >
+                  {formatPercent(latest.assessed_value_change_pct ?? 0)}
+                </span>
+              }
+            />
           </div>
         </section>
       </div>
@@ -425,6 +407,49 @@ function Field({ label, value }: { label: string; value: React.ReactNode }) {
     <div className="flex justify-between gap-3 border-b border-slate-100 pb-2 last:border-b-0 last:pb-0">
       <span className="text-slate-500">{label}</span>
       <span className="text-slate-900 text-right">{value}</span>
+    </div>
+  );
+}
+
+function ValueComposition({
+  land,
+  improvement,
+  total,
+}: {
+  land: number;
+  improvement: number;
+  total: number;
+}) {
+  const denom = total > 0 ? total : land + improvement;
+  if (denom <= 0) {
+    return <div className="text-sm text-slate-400">No value breakdown on file.</div>;
+  }
+  const landPct = (land / denom) * 100;
+  const impPct = (improvement / denom) * 100;
+  return (
+    <div>
+      <div className="flex h-6 w-full overflow-hidden rounded border border-slate-200">
+        <div
+          className="bg-amber-400"
+          style={{ width: `${landPct}%` }}
+          title={`Land · ${formatCurrency(land)}`}
+        />
+        <div
+          className="bg-primary-700"
+          style={{ width: `${impPct}%` }}
+          title={`Improvements · ${formatCurrency(improvement)}`}
+        />
+      </div>
+      <div className="mt-2 flex justify-between text-xs tabular-nums">
+        <span className="text-slate-700">
+          <span className="inline-block h-2 w-2 rounded-sm bg-amber-400 mr-1.5 align-middle" />
+          Land {landPct.toFixed(0)}%
+        </span>
+        <span className="text-slate-700">
+          <span className="inline-block h-2 w-2 rounded-sm bg-primary-700 mr-1.5 align-middle" />
+          Improvements {impPct.toFixed(0)}%
+        </span>
+      </div>
     </div>
   );
 }

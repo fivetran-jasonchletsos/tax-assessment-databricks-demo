@@ -104,6 +104,10 @@ export default function DashboardPage() {
   const median = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.5) ?? 0, [parcels]);
   const p90 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.9) ?? 0, [parcels]);
   const p10 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.1) ?? 0, [parcels]);
+  const totalAssessed = useMemo(
+    () => parcels.reduce((s, p) => s + p.assessed_value, 0),
+    [parcels],
+  );
 
   // County-wide yearly trend series derived from per-ZIP median histories.
   // We average each year's medians across all trended ZIPs (or the filtered
@@ -230,11 +234,10 @@ export default function DashboardPage() {
           Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, derived
           from the gold-layer marts.
         </p>
-        <div className="mt-3 inline-flex items-center gap-2 rounded-full bg-amber-50 border border-amber-200 px-3 py-1.5 text-xs text-amber-900">
-          <span aria-hidden>👉</span>
+        <div className="mt-3 inline-flex items-center gap-2 rounded-md bg-slate-100 border border-slate-200 px-3 py-1.5 text-xs text-slate-700">
           <span>
-            <strong>Interactive:</strong> click any bar, row, or land-use slice to cross-filter every
-            chart, KPI, and table on this page.
+            <strong className="text-slate-900">Interactive —</strong> click any bar, row, or land-use
+            slice to cross-filter every chart, KPI, and table on this page.
           </span>
         </div>
       </header>
@@ -280,13 +283,13 @@ export default function DashboardPage() {
         </div>
       )}
 
-      {/* KPIs — vary visual weight so the eye lands on the most informative one. */}
+      {/* KPIs — leads with total roll value (the treasurer's headline number),
+          then drill-downs that describe distribution and direction. */}
       <div className="grid grid-cols-2 md:grid-cols-5 gap-2 mb-10">
-        <KPI label="Parcels" value={loading ? '—' : formatNumber(parcels.length)} muted />
         <KPI
-          label="Median assessed"
-          value={loading ? '—' : formatCurrency(median)}
-          caption="50th percentile"
+          label="Total assessed roll"
+          value={loading ? '—' : formatCurrencyShort(totalAssessed)}
+          caption={`${formatNumber(parcels.length)} parcels`}
           primary
           spark={
             medianSeries.length >= 2
@@ -294,7 +297,16 @@ export default function DashboardPage() {
               : undefined
           }
         />
-        <KPI label="P10 — P90" value={loading ? '—' : `${formatCurrencyShort(p10)} – ${formatCurrencyShort(p90)}`} caption="Middle 80%" />
+        <KPI
+          label="Median assessed"
+          value={loading ? '—' : formatCurrency(median)}
+          caption="50th percentile"
+        />
+        <KPI
+          label="P10 — P90"
+          value={loading ? '—' : `${formatCurrencyShort(p10)} – ${formatCurrencyShort(p90)}`}
+          caption="Middle 80%"
+        />
         <KPI
           label="Avg YoY change"
           value={
@@ -318,7 +330,7 @@ export default function DashboardPage() {
         <KPI
           label="Exemption coverage"
           value={loading ? '—' : `${exemption.coverage_pct.toFixed(0)}%`}
-          caption={`${formatNumber(exemption.with_exemption)} parcels`}
+          caption={`${formatNumber(exemption.with_exemption)} parcels exempt`}
         />
       </div>
 

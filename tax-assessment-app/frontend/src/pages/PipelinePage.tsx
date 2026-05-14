@@ -381,7 +381,7 @@ function DestinationCard({
       </dl>
       {d.error && (
         <div className="mx-4 mb-4 rounded-md bg-rose-100 text-rose-800 text-xs p-3">
-          ⚠️ {d.error}
+          {d.error}
         </div>
       )}
       <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex justify-end">
@@ -447,7 +447,7 @@ function ProjectCard({
       </dl>
       {!correctRepo && (
         <div className="mx-4 mb-4 rounded-md bg-amber-100 text-amber-900 text-xs p-3">
-          ⚠️ This dbt project points at the <strong>{project.git_remote_url?.split('/').slice(-1)[0]}</strong> repo,
+          This dbt project points at the <strong>{project.git_remote_url?.split('/').slice(-1)[0]}</strong> repo,
           not <strong>fivetran-sheetz-demo</strong>. Tax-assessment dbt runs won't fire from this transformation
           until the project is swapped.
         </div>
