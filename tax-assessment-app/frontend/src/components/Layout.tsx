@@ -17,6 +17,15 @@ const NAV_ITEMS: [string, string][] = [
   ['/about', 'About'],
 ];
 
+type DemoEntry = { key: string; name: string; industry: string; url: string; accent: string };
+const DEMOS: DemoEntry[] = [
+  { key: 'healthcare', name: 'Epic Clarity', industry: 'Healthcare · Clinical analytics', url: 'https://fivetran-jasonchletsos.github.io/Healthcare-EPIC-Snowflake-Demo/', accent: '#0d9488' },
+  { key: 'sheetz',     name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/', accent: '#dc2626' },
+  { key: 'finserv',    name: 'Meridian', industry: 'Financial Services · Wealth & banking', url: 'https://fivetran-jasonchletsos.github.io/FinServ-ODI-Demo/', accent: '#1d4ed8' },
+  { key: 'media',      name: 'Lighthouse', industry: 'Media · Audience & content intel', url: 'https://fivetran-jasonchletsos.github.io/Media-ODI-Demo/', accent: '#7c3aed' },
+];
+const CURRENT_DEMO = 'sheetz';
+
 export default function Layout() {
   const [source, setSource] = useState<DataSource>('demo');
   const [snapshotAt, setSnapshotAt] = useState<string | null>(null);
@@ -137,7 +146,7 @@ export default function Layout() {
                   </span>
                 )}
               </button>
-              <SourceBadge source={source} snapshotAt={snapshotAt} />
+              <DemoSwitcher source={source} snapshotAt={snapshotAt} />
               {/* Mobile menu toggle */}
               <button
                 type="button"
@@ -194,6 +203,49 @@ export default function Layout() {
                   </NavLink>
                 ))}
               </nav>
+              <div className="pt-2 border-t border-primary-700/40">
+                <div className="text-[10px] uppercase tracking-wider text-primary-200 mb-2">
+                  Switch demo
+                </div>
+                <div className="grid grid-cols-1 gap-1">
+                  {DEMOS.map((d) => {
+                    const isCurrent = d.key === CURRENT_DEMO;
+                    const inner = (
+                      <>
+                        <span
+                          className="h-2 w-2 rounded-full shrink-0"
+                          style={{ backgroundColor: d.accent }}
+                        />
+                        <div className="flex-1 min-w-0">
+                          <div className="text-sm font-semibold truncate">{d.name}</div>
+                          <div className="text-[11px] text-primary-200 truncate">{d.industry}</div>
+                        </div>
+                        {isCurrent && (
+                          <span className="text-[10px] uppercase tracking-wider bg-primary-700 text-primary-100 rounded px-1.5 py-0.5">
+                            Current
+                          </span>
+                        )}
+                      </>
+                    );
+                    return isCurrent ? (
+                      <div
+                        key={d.key}
+                        className="flex items-center gap-2 px-3 py-2 rounded-md bg-primary-700/30 opacity-70"
+                      >
+                        {inner}
+                      </div>
+                    ) : (
+                      <a
+                        key={d.key}
+                        href={d.url}
+                        className="flex items-center gap-2 px-3 py-2 rounded-md bg-primary-700/30 hover:bg-primary-700/60 transition-colors"
+                      >
+                        {inner}
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
           )}
         </div>
@@ -220,28 +272,115 @@ export default function Layout() {
   );
 }
 
-function SourceBadge({ source, snapshotAt }: { source: DataSource; snapshotAt: string | null }) {
+function DemoSwitcher({ source, snapshotAt }: { source: DataSource; snapshotAt: string | null }) {
   const live = source === 'live';
   const when = snapshotAt ? new Date(snapshotAt) : null;
   const ago = when ? relativeTime(when) : null;
+  const [open, setOpen] = useState(false);
+  const wrapRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onDocClick = (e: MouseEvent) => {
+      if (wrapRef.current && !wrapRef.current.contains(e.target as Node)) setOpen(false);
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setOpen(false);
+    };
+    document.addEventListener('mousedown', onDocClick);
+    document.addEventListener('keydown', onKey);
+    return () => {
+      document.removeEventListener('mousedown', onDocClick);
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [open]);
+
+  const title = live
+    ? `Live Databricks snapshot${ago ? ` · refreshed ${ago}` : ''} — click to switch demo`
+    : 'Curated sample — click to switch demo';
+
   return (
-    <div
-      title={
-        live
-          ? `Live Databricks snapshot${ago ? ` · refreshed ${ago}` : ''}`
-          : 'Curated sample — set DATABRICKS_* repo secrets to enable live snapshots'
-      }
-      className={`inline-flex items-center gap-1.5 rounded-full px-2 sm:px-3 py-1 text-[10px] sm:text-xs font-medium ${
-        live ? 'bg-emerald-500/20 text-emerald-100' : 'bg-amber-500/20 text-amber-100'
-      }`}
-    >
-      <span
-        className={`h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full ${
-          live ? 'bg-emerald-400' : 'bg-amber-300'
-        } animate-pulse`}
-      />
-      <span className="hidden xs:inline sm:inline">{live ? `Databricks · ${ago ?? 'snapshot'}` : 'Demo'}</span>
-      <span className="xs:hidden sm:hidden">{live ? '●' : '○'}</span>
+    <div ref={wrapRef} className="relative">
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        title={title}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        className={`inline-flex items-center gap-1.5 rounded-full px-2 sm:px-3 py-1 text-[10px] sm:text-xs font-medium transition-colors ${
+          live ? 'bg-emerald-500/20 text-emerald-100 hover:bg-emerald-500/30' : 'bg-amber-500/20 text-amber-100 hover:bg-amber-500/30'
+        }`}
+      >
+        <span
+          className={`h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full ${
+            live ? 'bg-emerald-400' : 'bg-amber-300'
+          } animate-pulse`}
+        />
+        <span className="hidden xs:inline sm:inline">{live ? `Databricks · ${ago ?? 'snapshot'}` : 'Demo'}</span>
+        <span className="xs:hidden sm:hidden">{live ? '●' : '○'}</span>
+        <svg
+          viewBox="0 0 24 24"
+          className={`h-3 w-3 transition-transform ${open ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          aria-hidden
+        >
+          <path d="m6 9 6 6 6-6" />
+        </svg>
+      </button>
+      {open && (
+        <div
+          role="menu"
+          className="absolute right-0 top-full mt-2 w-[280px] rounded-lg bg-white text-slate-900 shadow-lg ring-1 ring-black/10 overflow-hidden z-40"
+        >
+          <div className="px-3 pt-3 pb-1 text-[10px] uppercase tracking-wider text-slate-500 font-semibold">
+            Switch demo
+          </div>
+          <div className="py-1">
+            {DEMOS.map((d) => {
+              const isCurrent = d.key === CURRENT_DEMO;
+              const inner = (
+                <>
+                  <span
+                    className="h-2.5 w-2.5 rounded-full shrink-0 mt-1"
+                    style={{ backgroundColor: d.accent }}
+                  />
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2">
+                      <span className="text-sm font-semibold truncate">{d.name}</span>
+                      {isCurrent && (
+                        <span className="text-[9px] uppercase tracking-wider bg-slate-200 text-slate-700 rounded px-1.5 py-0.5">
+                          Current
+                        </span>
+                      )}
+                    </div>
+                    <div className="text-[11px] text-slate-500 truncate">{d.industry}</div>
+                  </div>
+                </>
+              );
+              return isCurrent ? (
+                <div
+                  key={d.key}
+                  className="flex items-start gap-2.5 px-3 py-2 opacity-70"
+                >
+                  {inner}
+                </div>
+              ) : (
+                <a
+                  key={d.key}
+                  href={d.url}
+                  className="flex items-start gap-2.5 px-3 py-2 hover:bg-slate-100 transition-colors"
+                >
+                  {inner}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
