@@ -622,27 +622,39 @@ function draw(canvas: HTMLCanvasElement | null, s: GameState) {
 }
 
 function drawPlayerShip(ctx: CanvasRenderingContext2D, x: number, y: number) {
-  // Fivetran-inspired arrow/chevron ship in brand blue with cyan accent
-  ctx.fillStyle = '#2563eb';
-  // Hull
-  ctx.beginPath();
-  ctx.moveTo(x + PLAYER_W / 2, y);                       // top point
-  ctx.lineTo(x + PLAYER_W,     y + PLAYER_H);            // bottom right
-  ctx.lineTo(x + PLAYER_W * 0.78, y + PLAYER_H);
-  ctx.lineTo(x + PLAYER_W * 0.62, y + PLAYER_H * 0.55);
-  ctx.lineTo(x + PLAYER_W * 0.38, y + PLAYER_H * 0.55);
-  ctx.lineTo(x + PLAYER_W * 0.22, y + PLAYER_H);
-  ctx.lineTo(x,                y + PLAYER_H);
-  ctx.closePath();
+  // Fivetran-icon ship: rounded blue badge with the iconic stacked F bars
+  const r = 4;
+  // Badge background
+  ctx.fillStyle = '#0073ea'; // Fivetran brand blue
+  roundedRect(ctx, x, y, PLAYER_W, PLAYER_H, r);
   ctx.fill();
 
-  // Cyan accent stripe
-  ctx.fillStyle = '#22d3ee';
-  ctx.fillRect(x + PLAYER_W / 2 - 2, y + 4, 4, 10);
+  // Inner highlight (subtle gloss)
+  const grad = ctx.createLinearGradient(x, y, x, y + PLAYER_H);
+  grad.addColorStop(0, 'rgba(255,255,255,0.18)');
+  grad.addColorStop(0.45, 'rgba(255,255,255,0)');
+  ctx.fillStyle = grad;
+  roundedRect(ctx, x, y, PLAYER_W, PLAYER_H, r);
+  ctx.fill();
 
-  // Cockpit dot
-  ctx.fillStyle = '#f8fafc';
-  ctx.fillRect(x + PLAYER_W / 2 - 1, y + 4, 2, 2);
+  // Fivetran "F" icon — 3 white horizontal bars + left stem
+  ctx.fillStyle = '#ffffff';
+  const stemX = x + PLAYER_W * 0.18;
+  const stemW = PLAYER_W * 0.12;
+  const stemY = y + PLAYER_H * 0.18;
+  const stemH = PLAYER_H * 0.64;
+  // Vertical stem
+  ctx.fillRect(stemX, stemY, stemW, stemH);
+  // Top arm
+  ctx.fillRect(stemX, stemY, PLAYER_W * 0.62, PLAYER_H * 0.2);
+  // Middle arm
+  ctx.fillRect(stemX, y + PLAYER_H * 0.46, PLAYER_W * 0.45, PLAYER_H * 0.18);
+
+  // Cyan accent — Fivetran's data-flow dot
+  ctx.fillStyle = '#22d3ee';
+  ctx.beginPath();
+  ctx.arc(x + PLAYER_W * 0.85, y + PLAYER_H * 0.32, 2, 0, Math.PI * 2);
+  ctx.fill();
 
   // Thruster glow
   const t = performance.now() / 80;
@@ -696,4 +708,18 @@ function drawUfo(ctx: CanvasRenderingContext2D, x: number, y: number) {
   ctx.textAlign = 'center';
   ctx.fillText('SCHEMA', x + 20, y + 11);
   ctx.textAlign = 'left';
+}
+
+function roundedRect(ctx: CanvasRenderingContext2D, x: number, y: number, w: number, h: number, r: number) {
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.lineTo(x + w - r, y);
+  ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+  ctx.lineTo(x + w, y + h - r);
+  ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+  ctx.lineTo(x + r, y + h);
+  ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+  ctx.lineTo(x, y + r);
+  ctx.quadraticCurveTo(x, y, x + r, y);
+  ctx.closePath();
 }
