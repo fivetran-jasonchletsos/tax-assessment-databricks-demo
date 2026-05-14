@@ -1,7 +1,11 @@
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { api, getSnapshotTime, subscribeSource, type DataSource } from '../api/queries';
 import * as watchlist from '../watchlist';
+import SpaceSync from './SpaceSync';
+
+// Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the SpaceSync easter egg.
+const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
 const NAV_ITEMS: [string, string][] = [
   ['/', 'Home'],
@@ -19,6 +23,8 @@ export default function Layout() {
   const [query, setQuery] = useState('');
   const [mobileOpen, setMobileOpen] = useState(false);
   const [watchCount, setWatchCount] = useState(0);
+  const [spaceSyncOpen, setSpaceSyncOpen] = useState(false);
+  const konamiBufferRef = useRef<string[]>([]);
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -30,6 +36,24 @@ export default function Layout() {
       unsub();
       wsub();
     };
+  }, []);
+
+  // Konami code listener — unlocks the SpaceSync easter egg.
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      const tag = (e.target as HTMLElement)?.tagName?.toLowerCase();
+      if (tag === 'input' || tag === 'textarea' || (e.target as HTMLElement)?.isContentEditable) return;
+      const key = e.key.toLowerCase();
+      const buf = konamiBufferRef.current;
+      buf.push(key);
+      if (buf.length > KONAMI.length) buf.shift();
+      if (buf.length === KONAMI.length && buf.every((k, i) => k === KONAMI[i])) {
+        konamiBufferRef.current = [];
+        setSpaceSyncOpen(true);
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
   }, []);
 
   // Close mobile drawer on route change.
@@ -190,6 +214,8 @@ export default function Layout() {
           <div>© 2026 Allegheny County · Demo build</div>
         </div>
       </footer>
+
+      {spaceSyncOpen && <SpaceSync onClose={() => setSpaceSyncOpen(false)} />}
     </div>
   );
 }
