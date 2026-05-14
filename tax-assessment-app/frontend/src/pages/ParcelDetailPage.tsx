@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import {
+  Area,
   Bar,
   CartesianGrid,
   ComposedChart,
   Legend,
   Line,
+  ReferenceDot,
   ResponsiveContainer,
   Tooltip,
   XAxis,
@@ -22,6 +24,7 @@ import WatchlistButton from '../components/WatchlistButton';
 import NeighborhoodPercentile from '../components/NeighborhoodPercentile';
 import type {
   AppealsResponse,
+  AssessmentRow,
   AssessmentsResponse,
   ComparablesResponse,
   ExemptionsResponse,
@@ -125,59 +128,7 @@ export default function ParcelDetailPage() {
       </header>
 
       <div className="mt-6 grid grid-cols-1 lg:grid-cols-3 gap-6">
-        <section className="lg:col-span-2 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
-          <div className="flex items-start justify-between mb-4">
-            <div>
-              <h2 className="text-lg font-semibold text-slate-900">Assessment history</h2>
-              <p className="text-sm text-slate-500">
-                Assessed vs. market value across the past {sortedAssessments.length} tax years.
-              </p>
-            </div>
-            {totalGrowth !== null && (
-              <div className="text-right">
-                <div className="text-xs text-slate-500">Total change</div>
-                <div
-                  className={`text-lg font-semibold ${
-                    totalGrowth >= 0 ? 'text-rose-600' : 'text-emerald-600'
-                  }`}
-                >
-                  {formatPercent(totalGrowth)}
-                </div>
-              </div>
-            )}
-          </div>
-          <div className="h-72">
-            <ResponsiveContainer width="100%" height="100%">
-              <ComposedChart data={sortedAssessments}>
-                <CartesianGrid stroke="#e2e8f0" vertical={false} />
-                <XAxis dataKey="tax_year" tick={{ fill: '#64748b', fontSize: 12 }} />
-                <YAxis
-                  tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`}
-                  tick={{ fill: '#64748b', fontSize: 12 }}
-                />
-                <Tooltip
-                  formatter={(value: any) => formatCurrency(value)}
-                  labelFormatter={(label) => `Tax year ${label}`}
-                  contentStyle={{
-                    border: '1px solid #e2e8f0',
-                    borderRadius: 8,
-                    fontSize: 12,
-                  }}
-                />
-                <Legend wrapperStyle={{ fontSize: 12 }} />
-                <Bar dataKey="assessed_value" name="Assessed" fill="#0284c7" radius={[6, 6, 0, 0]} />
-                <Line
-                  type="monotone"
-                  dataKey="market_value"
-                  name="Market"
-                  stroke="#f59e0b"
-                  strokeWidth={3}
-                  dot={{ r: 4 }}
-                />
-              </ComposedChart>
-            </ResponsiveContainer>
-          </div>
-        </section>
+        <AssessmentHistorySection sortedAssessments={sortedAssessments} totalGrowth={totalGrowth} />
 
         <section className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
           <h2 className="text-lg font-semibold text-slate-900 mb-2">Location</h2>
@@ -521,4 +472,398 @@ function StatusBadge({ status }: { status: string }) {
       ? 'bg-rose-50 text-rose-700'
       : 'bg-amber-50 text-amber-700';
   return <span className={`text-xs font-medium rounded-full px-2 py-0.5 ${tone}`}>{s}</span>;
+}
+
+// ============================================================
+// Assessment History — KPI-driven redesign
+// ============================================================
+
+function AssessmentHistorySection({
+  sortedAssessments,
+  totalGrowth,
+}: {
+  sortedAssessments: AssessmentRow[];
+  totalGrowth: number | null;
+}) {
+  const n = sortedAssessments.length;
+  const latest = sortedAssessments[n - 1];
+  const prior = n > 1 ? sortedAssessments[n - 2] : null;
+  const earliest = sortedAssessments[0];
+
+  // Year-over-year deltas
+  const assessedDelta = prior ? latest.assessed_value - prior.assessed_value : null;
+  const assessedPct = prior && prior.assessed_value > 0
+    ? ((latest.assessed_value - prior.assessed_value) / prior.assessed_value) * 100
+    : null;
+  const marketDelta = prior ? latest.market_value - prior.market_value : null;
+  const marketPct = prior && prior.market_value > 0
+    ? ((latest.market_value - prior.market_value) / prior.market_value) * 100
+    : null;
+  const netLatest = latest.net_assessed_value ?? latest.assessed_value;
+  const netPrior = prior ? (prior.net_assessed_value ?? prior.assessed_value) : null;
+  const netDelta = netPrior !== null ? netLatest - netPrior : null;
+  const netPct = netPrior !== null && netPrior > 0 ? ((netLatest - netPrior) / netPrior) * 100 : null;
+  const ratio = latest.market_to_assessed_ratio;
+  const priorRatio = prior?.market_to_assessed_ratio ?? null;
+  const ratioDelta = ratio !== null && priorRatio !== null ? ratio - priorRatio : null;
+
+  // Peak / trough
+  const peak = sortedAssessments.reduce((p, c) => (c.assessed_value > p.assessed_value ? c : p), sortedAssessments[0]);
+  const trough = sortedAssessments.reduce((p, c) => (c.assessed_value < p.assessed_value ? c : p), sortedAssessments[0]);
+  const years = latest && earliest && latest.tax_year !== earliest.tax_year ? latest.tax_year - earliest.tax_year : 0;
+  const cagr = years > 0 && earliest.assessed_value > 0
+    ? (Math.pow(latest.assessed_value / earliest.assessed_value, 1 / years) - 1) * 100
+    : null;
+
+  // Land vs improvement breakdown (latest)
+  const landPct = latest.land_value_percentage ?? (latest.assessed_value > 0 ? (latest.land_value / latest.assessed_value) * 100 : null);
+
+  return (
+    <section className="lg:col-span-2 rounded-xl border border-slate-200 bg-white shadow-sm overflow-hidden">
+      {/* Header */}
+      <header className="px-6 py-4 border-b border-slate-100 flex items-start justify-between gap-4 bg-gradient-to-b from-white to-slate-50">
+        <div>
+          <div className="inline-flex items-center gap-2 text-[10px] uppercase tracking-[0.14em] font-semibold text-primary-700">
+            <span className="inline-block h-1.5 w-1.5 rounded-full bg-primary-600 animate-pulse" />
+            Tax Roll History
+          </div>
+          <h2 className="mt-1 text-xl font-bold text-slate-900 tracking-tight">Valuation trend</h2>
+          <p className="text-sm text-slate-500">
+            {n > 1
+              ? `${n} tax years on record · ${earliest.tax_year}–${latest.tax_year}`
+              : `Single tax year on record · ${latest.tax_year}`}
+          </p>
+        </div>
+        {totalGrowth !== null && n > 1 && (
+          <div className="text-right shrink-0">
+            <div className="text-[10px] uppercase tracking-wider text-slate-500 font-semibold">
+              {earliest.tax_year}→{latest.tax_year}
+            </div>
+            <div className={`text-2xl font-bold tabular-nums ${totalGrowth >= 0 ? 'text-rose-600' : 'text-emerald-600'}`}>
+              {totalGrowth >= 0 ? '▲' : '▼'} {Math.abs(totalGrowth).toFixed(1)}%
+            </div>
+            {cagr !== null && (
+              <div className="text-[11px] text-slate-500">CAGR {cagr.toFixed(2)}%/yr</div>
+            )}
+          </div>
+        )}
+      </header>
+
+      {/* KPI strip */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-px bg-slate-100">
+        <KpiTile
+          accent="primary"
+          label="Assessed"
+          value={formatCurrency(latest.assessed_value)}
+          delta={assessedDelta}
+          pct={assessedPct}
+          sparkValues={sortedAssessments.map((a) => a.assessed_value)}
+          sparkColor="#0284c7"
+        />
+        <KpiTile
+          accent="gold"
+          label="Market"
+          value={formatCurrency(latest.market_value)}
+          delta={marketDelta}
+          pct={marketPct}
+          sparkValues={sortedAssessments.map((a) => a.market_value)}
+          sparkColor="#f59e0b"
+        />
+        <KpiTile
+          accent="emerald"
+          label="Net of Exemptions"
+          value={formatCurrency(netLatest)}
+          delta={netDelta}
+          pct={netPct}
+          sparkValues={sortedAssessments.map((a) => a.net_assessed_value ?? a.assessed_value)}
+          sparkColor="#059669"
+        />
+        <RatioTile
+          ratio={ratio}
+          delta={ratioDelta}
+          landPct={landPct}
+        />
+      </div>
+
+      {/* Chart */}
+      <div className="p-6 pt-5">
+        {n === 1 ? (
+          <SingleYearLadder row={latest} />
+        ) : (
+          <div className="h-80">
+            <ResponsiveContainer width="100%" height="100%">
+              <ComposedChart data={sortedAssessments} margin={{ top: 8, right: 16, left: 0, bottom: 0 }}>
+                <defs>
+                  <linearGradient id="gradAssessed" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stopColor="#0284c7" stopOpacity={0.95} />
+                    <stop offset="100%" stopColor="#0284c7" stopOpacity={0.55} />
+                  </linearGradient>
+                  <linearGradient id="gradMarket" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stopColor="#f59e0b" stopOpacity={0.35} />
+                    <stop offset="100%" stopColor="#f59e0b" stopOpacity={0.02} />
+                  </linearGradient>
+                </defs>
+                <CartesianGrid stroke="#e2e8f0" vertical={false} strokeDasharray="3 3" />
+                <XAxis
+                  dataKey="tax_year"
+                  tick={{ fill: '#64748b', fontSize: 11, fontWeight: 600 }}
+                  axisLine={{ stroke: '#cbd5e1' }}
+                  tickLine={false}
+                />
+                <YAxis
+                  tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`}
+                  tick={{ fill: '#94a3b8', fontSize: 11 }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={56}
+                />
+                <Tooltip
+                  cursor={{ fill: 'rgba(2,132,199,0.05)' }}
+                  content={<TrendTooltip />}
+                />
+                <Legend
+                  wrapperStyle={{ fontSize: 11, paddingTop: 8 }}
+                  iconType="rect"
+                />
+                <Area
+                  type="monotone"
+                  dataKey="market_value"
+                  name="Market value"
+                  stroke="#f59e0b"
+                  strokeWidth={2.5}
+                  fill="url(#gradMarket)"
+                />
+                <Bar
+                  dataKey="assessed_value"
+                  name="Assessed value"
+                  fill="url(#gradAssessed)"
+                  radius={[6, 6, 0, 0]}
+                  maxBarSize={48}
+                />
+                <Line
+                  type="monotone"
+                  dataKey="net_assessed_value"
+                  name="Net assessed"
+                  stroke="#059669"
+                  strokeWidth={2}
+                  strokeDasharray="4 4"
+                  dot={{ r: 3, fill: '#059669' }}
+                />
+                <ReferenceDot
+                  x={peak.tax_year}
+                  y={peak.assessed_value}
+                  r={6}
+                  fill="#0284c7"
+                  stroke="#fff"
+                  strokeWidth={2}
+                />
+              </ComposedChart>
+            </ResponsiveContainer>
+          </div>
+        )}
+      </div>
+
+      {/* Stats strip */}
+      {n > 1 && (
+        <div className="px-6 py-3 border-t border-slate-100 bg-slate-50/50 flex flex-wrap gap-x-6 gap-y-2 text-[11px] text-slate-600">
+          <StripStat label="Peak" value={`${formatCurrency(peak.assessed_value)} · ${peak.tax_year}`} color="primary" />
+          <StripStat label="Trough" value={`${formatCurrency(trough.assessed_value)} · ${trough.tax_year}`} color="muted" />
+          {cagr !== null && (
+            <StripStat label="CAGR" value={`${cagr >= 0 ? '+' : ''}${cagr.toFixed(2)}% / yr`} color={cagr >= 0 ? 'rose' : 'emerald'} />
+          )}
+          {assessedPct !== null && prior && (
+            <StripStat label={`${prior.tax_year}→${latest.tax_year}`} value={`${assessedPct >= 0 ? '+' : ''}${assessedPct.toFixed(1)}%`} color={assessedPct >= 0 ? 'rose' : 'emerald'} />
+          )}
+        </div>
+      )}
+    </section>
+  );
+}
+
+function KpiTile({
+  accent, label, value, delta, pct, sparkValues, sparkColor,
+}: {
+  accent: 'primary' | 'gold' | 'emerald';
+  label: string;
+  value: string;
+  delta: number | null;
+  pct: number | null;
+  sparkValues: number[];
+  sparkColor: string;
+}) {
+  const accentBorder = accent === 'primary' ? 'before:bg-primary-500' : accent === 'gold' ? 'before:bg-amber-500' : 'before:bg-emerald-500';
+  const up = (pct ?? 0) >= 0;
+  return (
+    <div className={`relative bg-white p-4 sm:p-5 before:content-[''] before:absolute before:left-0 before:top-0 before:bottom-0 before:w-[3px] ${accentBorder}`}>
+      <div className="text-[10px] uppercase tracking-[0.12em] font-bold text-slate-500">{label}</div>
+      <div className="mt-1.5 text-2xl sm:text-[26px] font-bold text-slate-900 tabular-nums tracking-tight">{value}</div>
+      <div className="mt-1.5 flex items-center justify-between gap-2">
+        <div className="flex items-center gap-1.5">
+          {pct !== null ? (
+            <>
+              <span className={`inline-flex items-center justify-center rounded-sm px-1.5 py-0.5 text-[10px] font-bold ${up ? 'bg-rose-50 text-rose-700' : 'bg-emerald-50 text-emerald-700'}`}>
+                {up ? '▲' : '▼'} {Math.abs(pct).toFixed(1)}%
+              </span>
+              {delta !== null && (
+                <span className={`text-[11px] tabular-nums ${up ? 'text-rose-600' : 'text-emerald-600'}`}>
+                  {delta >= 0 ? '+' : '−'}{formatCurrency(Math.abs(delta))}
+                </span>
+              )}
+            </>
+          ) : (
+            <span className="text-[10px] text-slate-400 font-medium uppercase tracking-wider">First year</span>
+          )}
+        </div>
+        {sparkValues.length > 1 && (
+          <MiniSpark values={sparkValues} color={sparkColor} />
+        )}
+      </div>
+    </div>
+  );
+}
+
+function RatioTile({ ratio, delta, landPct }: { ratio: number | null; delta: number | null; landPct: number | null }) {
+  const value = ratio !== null ? `${ratio.toFixed(2)}×` : '—';
+  const overUnder = ratio !== null && ratio !== 1 ? (ratio > 1 ? 'Market over assessed' : 'Assessed over market') : null;
+  return (
+    <div className="relative bg-white p-4 sm:p-5 before:content-[''] before:absolute before:left-0 before:top-0 before:bottom-0 before:w-[3px] before:bg-slate-400">
+      <div className="text-[10px] uppercase tracking-[0.12em] font-bold text-slate-500">Market / Assessed</div>
+      <div className="mt-1.5 text-2xl sm:text-[26px] font-bold text-slate-900 tabular-nums tracking-tight">{value}</div>
+      <div className="mt-1.5 flex items-center justify-between gap-2">
+        <div className="flex items-center gap-1.5">
+          {delta !== null ? (
+            <span className={`inline-flex items-center rounded-sm px-1.5 py-0.5 text-[10px] font-bold ${delta >= 0 ? 'bg-rose-50 text-rose-700' : 'bg-emerald-50 text-emerald-700'}`}>
+              {delta >= 0 ? '▲' : '▼'} {Math.abs(delta).toFixed(2)}
+            </span>
+          ) : null}
+          {overUnder && <span className="text-[10px] text-slate-500 uppercase tracking-wider">{overUnder}</span>}
+        </div>
+        {landPct !== null && (
+          <div className="flex items-center gap-1 text-[10px] text-slate-500 font-medium">
+            <div className="w-12 h-1.5 rounded-full bg-slate-100 overflow-hidden">
+              <div className="h-full bg-amber-400" style={{ width: `${Math.min(100, Math.max(0, landPct))}%` }} />
+            </div>
+            <span className="tabular-nums">{landPct.toFixed(0)}% land</span>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function MiniSpark({ values, color }: { values: number[]; color: string }) {
+  const w = 56, h = 20;
+  const min = Math.min(...values), max = Math.max(...values);
+  const range = max - min || 1;
+  const pts = values.map((v, i) => {
+    const x = (i / (values.length - 1)) * (w - 2) + 1;
+    const y = h - 1 - ((v - min) / range) * (h - 2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  });
+  return (
+    <svg width={w} height={h} viewBox={`0 0 ${w} ${h}`} aria-hidden>
+      <polyline points={pts.join(' ')} fill="none" stroke={color} strokeWidth={1.6} strokeLinejoin="round" strokeLinecap="round" />
+      {pts.length > 0 && (
+        <circle cx={pts[pts.length - 1].split(',')[0]} cy={pts[pts.length - 1].split(',')[1]} r="2" fill={color} />
+      )}
+    </svg>
+  );
+}
+
+function StripStat({ label, value, color }: { label: string; value: string; color: 'primary' | 'muted' | 'rose' | 'emerald' }) {
+  const colorClass =
+    color === 'primary' ? 'text-primary-700' :
+    color === 'rose' ? 'text-rose-600' :
+    color === 'emerald' ? 'text-emerald-600' :
+    'text-slate-700';
+  return (
+    <div className="flex items-baseline gap-1.5">
+      <span className="text-[9px] uppercase tracking-[0.12em] font-bold text-slate-400">{label}</span>
+      <span className={`font-semibold tabular-nums ${colorClass}`}>{value}</span>
+    </div>
+  );
+}
+
+function TrendTooltip({ active, payload, label }: any) {
+  if (!active || !payload || !payload.length) return null;
+  const byKey: Record<string, any> = {};
+  for (const p of payload) byKey[p.dataKey] = p.value;
+  return (
+    <div className="rounded-md border border-slate-200 bg-white shadow-lg px-3 py-2 text-xs min-w-[160px]">
+      <div className="font-semibold text-slate-900 mb-1.5">Tax year {label}</div>
+      {byKey.assessed_value !== undefined && (
+        <div className="flex justify-between gap-4">
+          <span className="text-slate-600">Assessed</span>
+          <span className="font-semibold text-primary-700 tabular-nums">{formatCurrency(byKey.assessed_value)}</span>
+        </div>
+      )}
+      {byKey.market_value !== undefined && (
+        <div className="flex justify-between gap-4">
+          <span className="text-slate-600">Market</span>
+          <span className="font-semibold text-amber-600 tabular-nums">{formatCurrency(byKey.market_value)}</span>
+        </div>
+      )}
+      {byKey.net_assessed_value !== undefined && byKey.net_assessed_value !== null && (
+        <div className="flex justify-between gap-4">
+          <span className="text-slate-600">Net</span>
+          <span className="font-semibold text-emerald-600 tabular-nums">{formatCurrency(byKey.net_assessed_value)}</span>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function SingleYearLadder({ row }: { row: AssessmentRow }) {
+  // Horizontal bar comparison: assessed / market / net + land / improvement breakdown
+  const max = Math.max(row.assessed_value, row.market_value, row.net_assessed_value ?? row.assessed_value);
+  const bar = (label: string, value: number, color: string, sub?: string) => (
+    <div className="space-y-1">
+      <div className="flex items-baseline justify-between text-xs">
+        <span className="font-semibold text-slate-700">{label}</span>
+        <span className="tabular-nums font-bold text-slate-900">{formatCurrency(value)} {sub && <span className="text-[10px] font-medium text-slate-500 ml-1">{sub}</span>}</span>
+      </div>
+      <div className="h-3 bg-slate-100 rounded-sm overflow-hidden">
+        <div
+          className="h-full rounded-sm transition-all"
+          style={{ width: `${(value / max) * 100}%`, background: color }}
+        />
+      </div>
+    </div>
+  );
+  const netVal = row.net_assessed_value ?? row.assessed_value;
+  return (
+    <div className="space-y-3">
+      <p className="text-xs text-slate-500">
+        Only one tax year on record so far — here's how this year's values stack against each other.
+      </p>
+      {bar('Market value', row.market_value, 'linear-gradient(90deg, #f59e0b, #fbbf24)')}
+      {bar('Assessed value', row.assessed_value, 'linear-gradient(90deg, #0284c7, #38bdf8)')}
+      {bar('Net of exemptions', netVal, 'linear-gradient(90deg, #059669, #10b981)')}
+      {(row.land_value || row.improvement_value) && (
+        <div className="mt-4 pt-4 border-t border-slate-100">
+          <div className="text-[10px] uppercase tracking-wider font-bold text-slate-500 mb-2">Composition</div>
+          <div className="flex h-5 rounded-md overflow-hidden border border-slate-200">
+            <div
+              className="bg-amber-400 flex items-center justify-center text-[10px] font-bold text-amber-900"
+              style={{ width: `${row.land_value_percentage ?? (row.land_value / row.assessed_value * 100)}%` }}
+              title={`Land ${formatCurrency(row.land_value)}`}
+            >
+              LAND
+            </div>
+            <div
+              className="bg-primary-500 flex items-center justify-center text-[10px] font-bold text-white"
+              style={{ width: `${row.improvement_value_percentage ?? (row.improvement_value / row.assessed_value * 100)}%` }}
+              title={`Improvements ${formatCurrency(row.improvement_value)}`}
+            >
+              IMPROVEMENTS
+            </div>
+          </div>
+          <div className="flex justify-between text-[11px] mt-1.5 text-slate-600 tabular-nums">
+            <span>Land · {formatCurrency(row.land_value)}</span>
+            <span>Improvements · {formatCurrency(row.improvement_value)}</span>
+          </div>
+        </div>
+      )}
+    </div>
+  );
 }
