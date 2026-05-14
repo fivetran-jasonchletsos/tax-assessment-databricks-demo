@@ -222,7 +222,48 @@ def extract_from_databricks() -> dict[str, Any]:
                 "comparables": {"parcel_id": pid, "comparables": comparables},
             }
 
-        return {"summary": summary, "parcels": parcels, "details": details}
+        # ---- per-ZIP yearly trend (median assessed value)
+        # Top 50 ZIPs by parcel count, last 6 tax years.
+        cur.execute(
+            f"""
+            WITH top_zips AS (
+                SELECT p.zip_code, COUNT(*) AS n
+                FROM {CATALOG}.{MARTS_SCHEMA}.dim_parcels p
+                JOIN {CATALOG}.{MARTS_SCHEMA}.fct_assessments a ON p.parcel_id = a.parcel_id
+                WHERE a.tax_year = (SELECT MAX(tax_year) FROM {CATALOG}.{MARTS_SCHEMA}.fct_assessments)
+                GROUP BY p.zip_code
+                ORDER BY n DESC LIMIT 50
+            ),
+            recent_years AS (
+                SELECT DISTINCT tax_year FROM {CATALOG}.{MARTS_SCHEMA}.fct_assessments
+                ORDER BY tax_year DESC LIMIT 6
+            )
+            SELECT p.zip_code, a.tax_year,
+                   PERCENTILE_APPROX(a.assessed_value, 0.5) AS median_assessed
+            FROM {CATALOG}.{MARTS_SCHEMA}.dim_parcels p
+            JOIN {CATALOG}.{MARTS_SCHEMA}.fct_assessments a ON p.parcel_id = a.parcel_id
+            JOIN top_zips tz ON p.zip_code = tz.zip_code
+            JOIN recent_years ry ON a.tax_year = ry.tax_year
+            GROUP BY p.zip_code, a.tax_year
+            ORDER BY p.zip_code, a.tax_year
+            """
+        )
+        trend_rows = rows_to_dicts(cur)
+        zip_trends: dict[str, dict[str, list]] = {}
+        for r in trend_rows:
+            zip_ = r["zip_code"]
+            d = zip_trends.setdefault(zip_, {"years": [], "median_assessed": []})
+            d["years"].append(int(r["tax_year"]))
+            d["median_assessed"].append(float(r["median_assessed"]))
+
+        return {
+            "summary": summary,
+            "parcels": parcels,
+            "details": details,
+            "zip_trends": [
+                {"zip": z, **d} for z, d in zip_trends.items()
+            ],
+        }
     finally:
         cur.close()
         conn.close()
@@ -241,7 +282,42 @@ def fallback_sample() -> dict[str, Any]:
     for p in base_parcels:
         pid = p["parcel_id"]
         details[pid] = _synthesize_detail(p, base_parcels)
-    return {"summary": summary, "parcels": base_parcels, "details": details}
+    return {
+        "summary": summary,
+        "parcels": base_parcels,
+        "details": details,
+        "zip_trends": _synthesize_zip_trends(base_parcels),
+    }
+
+
+def _synthesize_zip_trends(parcels: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Build per-ZIP 6-year median trends from the current-year parcels by
+    walking each ZIP's current median backwards with a varied annual rate.
+    Used only for demo mode — production reads PERCENTILE_APPROX from Databricks."""
+    import statistics
+    years = [2020, 2021, 2022, 2023, 2024, 2025]
+    by_zip: dict[str, list[int]] = {}
+    for p in parcels:
+        by_zip.setdefault(p["zip_code"], []).append(int(p["assessed_value"]))
+    out: list[dict[str, Any]] = []
+    for zip_, vals in by_zip.items():
+        if not vals:
+            continue
+        current_med = statistics.median(vals)
+        # Pick a per-ZIP growth-rate seed deterministically so the same ZIP
+        # gets the same trend each run.
+        seed = sum(ord(c) for c in zip_)
+        base_rate = 0.025 + ((seed % 50) / 1000.0)   # 2.5%-7.5% annual avg
+        medians = []
+        v = current_med
+        for i in range(len(years) - 1, -1, -1):
+            medians.append(round(v))
+            # Walk one year back with a small per-year wiggle.
+            wiggle = ((seed + i * 37) % 17) / 1000.0 - 0.008
+            v = v / (1 + base_rate + wiggle)
+        medians.reverse()
+        out.append({"zip": zip_, "years": years, "median_assessed": medians})
+    return out
 
 
 def _synthesize_detail(p: dict[str, Any], all_parcels: list[dict[str, Any]]):
@@ -377,11 +453,19 @@ def write_snapshot(bundle: dict[str, Any], source: str) -> None:
         json.dumps({"count": len(bundle["parcels"]), "results": bundle["parcels"]}, indent=2)
     )
 
+    zip_trends = bundle.get("zip_trends") or []
+    (OUTPUT_DIR / "zip-trends.json").write_text(
+        json.dumps({"generated_at": generated_at, "zips": zip_trends}, indent=2)
+    )
+
     for pid, detail in bundle["details"].items():
         safe = pid.replace("/", "_")
         (PARCEL_DIR / f"{safe}.json").write_text(json.dumps(detail, indent=2))
 
-    print(f"Wrote snapshot ({source}): {len(bundle['parcels'])} parcels, {len(bundle['details'])} detail bundles")
+    print(
+        f"Wrote snapshot ({source}): {len(bundle['parcels'])} parcels, "
+        f"{len(bundle['details'])} detail bundles, {len(zip_trends)} ZIP trends"
+    )
 
 
 def main() -> int:

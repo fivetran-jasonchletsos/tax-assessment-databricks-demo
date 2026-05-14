@@ -16,6 +16,7 @@ import type {
   ExemptionsResponse,
   AppealsResponse,
   ComparablesResponse,
+  ZipTrendsResponse,
 } from '../types';
 
 export type DataSource = 'live' | 'demo';
@@ -218,6 +219,17 @@ export const api = {
   getAppeals: async (id: string): Promise<AppealsResponse> => (await loadDetail(id)).appeals,
   getComparables: async (id: string): Promise<ComparablesResponse> =>
     (await loadDetail(id)).comparables,
+
+  // Per-ZIP yearly median assessed values, used to render sparklines on the
+  // dashboard ZIP performance table. Falls back to an empty list if the
+  // snapshot doesn't include zip-trends.json (older snapshots).
+  getZipTrends: async (): Promise<ZipTrendsResponse> => {
+    try {
+      return await fetchJson<ZipTrendsResponse>('/data/zip-trends.json');
+    } catch {
+      return { zips: [] };
+    }
+  },
 };
 
 export function formatCurrency(n: number | null | undefined): string {

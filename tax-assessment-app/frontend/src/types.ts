@@ -140,3 +140,14 @@ export interface ComparablesResponse {
   parcel_id: string;
   comparables: ComparableRow[];
 }
+
+export interface ZipTrend {
+  zip: string;
+  years: number[];          // ascending
+  median_assessed: number[]; // same length as years
+}
+
+export interface ZipTrendsResponse {
+  generated_at?: string;
+  zips: ZipTrend[];
+}

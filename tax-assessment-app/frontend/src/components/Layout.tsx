@@ -2,9 +2,9 @@ import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-do
 import { useEffect, useRef, useState } from 'react';
 import { api, getSnapshotTime, subscribeSource, type DataSource } from '../api/queries';
 import * as watchlist from '../watchlist';
-import SpaceSync from './SpaceSync';
+import DefenderSync from './DefenderSync';
 
-// Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the SpaceSync easter egg.
+// Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the DefenderSync easter egg.
 const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
 const NAV_ITEMS: [string, string][] = [
@@ -47,7 +47,7 @@ export default function Layout() {
     };
   }, []);
 
-  // Konami code listener — unlocks the SpaceSync easter egg.
+  // Konami code listener — unlocks the DefenderSync easter egg.
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const tag = (e.target as HTMLElement)?.tagName?.toLowerCase();
@@ -267,7 +267,7 @@ export default function Layout() {
         </div>
       </footer>
 
-      {spaceSyncOpen && <SpaceSync onClose={() => setSpaceSyncOpen(false)} />}
+      {spaceSyncOpen && <DefenderSync onClose={() => setSpaceSyncOpen(false)} />}
     </div>
   );
 }

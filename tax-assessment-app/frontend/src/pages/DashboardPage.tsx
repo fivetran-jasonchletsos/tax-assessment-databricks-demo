@@ -24,13 +24,14 @@ import {
   quantile,
   valueHistogram,
 } from '../analytics';
-import type { ParcelSearchResult } from '../types';
+import type { ParcelSearchResult, ZipTrend } from '../types';
 import {
   KPISkeleton,
   LoadingBanner,
   PanelSkeleton,
   SkeletonBlock,
 } from '../components/Skeleton';
+import SparklineSvg from '../components/Sparkline';
 
 // Tufte: small multiples-style restraint. Single accent color (primary-700)
 // varied by saturation. Light gridlines. No tooltip border. Median is
@@ -57,6 +58,7 @@ interface Filter {
 
 export default function DashboardPage() {
   const [allParcels, setAllParcels] = useState<ParcelSearchResult[]>([]);
+  const [zipTrends, setZipTrends] = useState<Map<string, ZipTrend>>(new Map());
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState<Filter>({});
 
@@ -66,6 +68,12 @@ export default function DashboardPage() {
       .searchParcels({ limit: 200000 })
       .then((r) => setAllParcels(r.results))
       .finally(() => setLoading(false));
+    // ZIP trends are non-critical; failure leaves the column blank.
+    api.getZipTrends().then((r) => {
+      const m = new Map<string, ZipTrend>();
+      for (const t of r.zips) m.set(t.zip, t);
+      setZipTrends(m);
+    });
   }, []);
 
   // Apply active filters to every chart + KPI.
@@ -96,6 +104,37 @@ export default function DashboardPage() {
   const median = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.5) ?? 0, [parcels]);
   const p90 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.9) ?? 0, [parcels]);
   const p10 = useMemo(() => quantile(parcels.map((p) => p.assessed_value), 0.1) ?? 0, [parcels]);
+
+  // County-wide yearly trend series derived from per-ZIP median histories.
+  // We average each year's medians across all trended ZIPs (or the filtered
+  // ZIP only, if a ZIP filter is active) to produce a single time series
+  // for the KPI sparklines. yoyPctSeries is the year-over-year % change
+  // of that median series.
+  const { medianSeries, yoyPctSeries } = useMemo(() => {
+    const trends = filter.zip
+      ? Array.from(zipTrends.values()).filter((t) => t.zip === filter.zip)
+      : Array.from(zipTrends.values());
+    if (trends.length === 0) return { medianSeries: [] as number[], yoyPctSeries: [] as number[] };
+    const years = trends[0].years;
+    const m: number[] = [];
+    for (let i = 0; i < years.length; i++) {
+      let sum = 0;
+      let n = 0;
+      for (const t of trends) {
+        if (t.median_assessed[i] !== undefined) {
+          sum += t.median_assessed[i];
+          n += 1;
+        }
+      }
+      if (n > 0) m.push(sum / n);
+    }
+    const yoy: number[] = [];
+    for (let i = 1; i < m.length; i++) {
+      const prev = m[i - 1];
+      if (prev > 0) yoy.push(((m[i] - prev) / prev) * 100);
+    }
+    return { medianSeries: m, yoyPctSeries: yoy };
+  }, [zipTrends, filter.zip]);
 
   // Find which histogram bucket contains the median, for the reference line
   const medianBucketIdx = histogram.findIndex((b) => median >= b.lo && median < b.hi);
@@ -249,6 +288,11 @@ export default function DashboardPage() {
           value={loading ? '—' : formatCurrency(median)}
           caption="50th percentile"
           primary
+          spark={
+            medianSeries.length >= 2
+              ? { values: medianSeries, stroke: '#bae6fd', fill: '#bae6fd' }
+              : undefined
+          }
         />
         <KPI label="P10 — P90" value={loading ? '—' : `${formatCurrencyShort(p10)} – ${formatCurrencyShort(p90)}`} caption="Middle 80%" />
         <KPI
@@ -259,6 +303,17 @@ export default function DashboardPage() {
               : `${parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length) >= 0 ? '+' : ''}${(parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length)).toFixed(1)}%`
           }
           caption="Across all parcels"
+          spark={
+            yoyPctSeries.length >= 2
+              ? {
+                  values: yoyPctSeries,
+                  stroke:
+                    yoyPctSeries[yoyPctSeries.length - 1] >= yoyPctSeries[0] ? RISING : FALLING,
+                  fill:
+                    yoyPctSeries[yoyPctSeries.length - 1] >= yoyPctSeries[0] ? RISING : FALLING,
+                }
+              : undefined
+          }
         />
         <KPI
           label="Exemption coverage"
@@ -553,7 +608,7 @@ export default function DashboardPage() {
         return (
           <Panel
             title="ZIP code performance"
-            subtitle="Click a row to filter the dashboard to that ZIP — bullet shows median (filled) and P90 (outline)"
+            subtitle="Click a row to filter the dashboard to that ZIP — bullet shows median (filled) and P90 (outline); trend shows median assessed value over time"
             className="mt-6"
           >
             <div className="overflow-x-auto -mx-2 px-2">
@@ -562,14 +617,16 @@ export default function DashboardPage() {
                   <tr className="border-b border-slate-200">
                     <th className="px-3 py-2 text-left font-medium">ZIP</th>
                     <th className="px-3 py-2 text-right font-medium">Parcels</th>
-                    <th className="px-3 py-2 text-left font-medium w-[40%]">Median · P90</th>
+                    <th className="px-3 py-2 text-left font-medium w-[32%]">Median · P90</th>
                     <th className="px-3 py-2 text-right font-medium">Median</th>
+                    <th className="px-3 py-2 text-center font-medium">Trend</th>
                     <th className="px-3 py-2 text-right font-medium">Avg YoY</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
                   {rows.map((z) => {
                     const selected = filter.zip === z.zip;
+                    const trend = zipTrends.get(z.zip);
                     return (
                       <tr
                         key={z.zip}
@@ -589,6 +646,14 @@ export default function DashboardPage() {
                         </td>
                         <td className="px-3 py-2.5 text-right text-slate-900 font-medium">
                           {formatCurrency(z.median_assessed)}
+                        </td>
+                        <td className="px-3 py-2.5 text-center">
+                          <div className="inline-block align-middle">
+                            <Sparkline
+                              values={trend?.median_assessed ?? []}
+                              years={trend?.years}
+                            />
+                          </div>
                         </td>
                         <td className="px-3 py-2.5 text-right">
                           <span
@@ -663,12 +728,14 @@ function KPI({
   caption,
   primary,
   muted,
+  spark,
 }: {
   label: string;
   value: string;
   caption?: string;
   primary?: boolean;
   muted?: boolean;
+  spark?: { values: number[]; stroke: string; fill?: string };
 }) {
   return (
     <div
@@ -686,6 +753,18 @@ function KPI({
       <div className={`mt-1 text-xl sm:text-2xl font-semibold tabular-nums ${primary ? 'text-white' : 'text-slate-900'}`}>
         {value}
       </div>
+      {spark && spark.values.length >= 2 && (
+        <div className="mt-1.5">
+          <SparklineSvg
+            values={spark.values}
+            stroke={spark.stroke}
+            fill={spark.fill}
+            width={88}
+            height={20}
+            strokeWidth={1.5}
+          />
+        </div>
+      )}
       {caption && (
         <div className={`mt-0.5 text-[11px] ${primary ? 'text-primary-100' : 'text-slate-400'}`}>{caption}</div>
       )}
@@ -722,6 +801,58 @@ function BulletBar({
         style={{ width: `${medianPct}%` }}
       />
     </div>
+  );
+}
+
+// Compact inline-SVG sparkline. Stroke is auto-colored (rising = RISING,
+// falling = FALLING) so the trend reads without a legend. Endpoint dot marks
+// the most recent year. Empty/single-point series render as an em dash.
+function Sparkline({
+  values,
+  years,
+  width = 96,
+  height = 24,
+}: {
+  values: number[];
+  years?: number[];
+  width?: number;
+  height?: number;
+}) {
+  if (!values || values.length < 2) {
+    return <span className="text-slate-400">—</span>;
+  }
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const span = max - min || 1;
+  const pad = 2;
+  const w = width - pad * 2;
+  const h = height - pad * 2;
+  const points = values.map((v, i) => {
+    const x = pad + (i / (values.length - 1)) * w;
+    const y = pad + h - ((v - min) / span) * h;
+    return [x, y] as const;
+  });
+  const path = points.map(([x, y], i) => `${i === 0 ? 'M' : 'L'}${x.toFixed(1)} ${y.toFixed(1)}`).join(' ');
+  const fillPath = `${path} L${points[points.length - 1][0].toFixed(1)} ${(height - pad).toFixed(1)} L${points[0][0].toFixed(1)} ${(height - pad).toFixed(1)} Z`;
+  const rising = values[values.length - 1] >= values[0];
+  const stroke = rising ? RISING : FALLING;
+  const last = points[points.length - 1];
+  const yearRange = years && years.length >= 2 ? `${years[0]}–${years[years.length - 1]}` : '';
+  const delta = ((values[values.length - 1] - values[0]) / values[0]) * 100;
+  return (
+    <svg
+      width={width}
+      height={height}
+      viewBox={`0 0 ${width} ${height}`}
+      role="img"
+      aria-label={`Trend ${yearRange}: ${delta >= 0 ? '+' : ''}${delta.toFixed(1)}%`}
+      className="overflow-visible"
+    >
+      <title>{`${yearRange}  ${delta >= 0 ? '+' : ''}${delta.toFixed(1)}%`}</title>
+      <path d={fillPath} fill={stroke} opacity={0.08} />
+      <path d={path} fill="none" stroke={stroke} strokeWidth={1.25} strokeLinecap="round" strokeLinejoin="round" />
+      <circle cx={last[0]} cy={last[1]} r={1.75} fill={stroke} />
+    </svg>
   );
 }
 
