@@ -440,7 +440,7 @@ function ProjectCard({
       </article>
     );
   }
-  const correctRepo = (project.git_remote_url ?? '').includes('tax-assessment-databricks-demo');
+  const correctRepo = (project.git_remote_url ?? '').includes('fivetran-sheetz-demo');
   const mostRecent = [...transformations].sort((a, b) =>
     (b.last_ended_at ?? '').localeCompare(a.last_ended_at ?? ''),
   )[0];
@@ -474,7 +474,7 @@ function ProjectCard({
       {!correctRepo && (
         <div className="mx-4 mb-4 rounded-md bg-amber-100 text-amber-900 text-xs p-3">
           This dbt project points at the <strong>{project.git_remote_url?.split('/').slice(-1)[0]}</strong> repo,
-          not <strong>tax-assessment-databricks-demo</strong>. Tax-assessment dbt runs won't fire from this transformation
+          not <strong>fivetran-sheetz-demo</strong>. Tax-assessment dbt runs won't fire from this transformation
           until the project is swapped.
         </div>
       )}
@@ -642,7 +642,7 @@ function computeOverallStatus(b: PipelineBundle): { tone: 'healthy' | 'warning' 
   if (b.fivetran.destination.setup_status !== 'connected') {
     issues.push(`destination ${b.fivetran.destination.name} setup=${b.fivetran.destination.setup_status}`);
   }
-  const projectMisaligned = b.fivetran.project && !(b.fivetran.project.git_remote_url ?? '').includes('tax-assessment-databricks-demo');
+  const projectMisaligned = b.fivetran.project && !(b.fivetran.project.git_remote_url ?? '').includes('fivetran-sheetz-demo');
   if (projectMisaligned) {
     issues.push('dbt project points at a different repo');
   }

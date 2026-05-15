@@ -3,7 +3,7 @@
 Public-facing portal for the Allegheny County property tax assessment data,
 deployed as a static SPA on GitHub Pages and refreshed daily from Databricks.
 
-**Live site:** https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/
+**Live site:** https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/
 
 ## Architecture
 

@@ -9,7 +9,7 @@ Env vars (all optional — missing creds just produces "unknown" status for
 that layer):
     FIVETRAN_API_KEY, FIVETRAN_API_SECRET
     GITHUB_TOKEN                (for unauthenticated GitHub API access to
-                                 fivetran-jasonchletsos/tax-assessment-databricks-demo,
+                                 fivetran-jasonchletsos/fivetran-sheetz-demo,
                                  the default rate limits suffice — no token
                                  needed for a public repo's pages info)
 """
@@ -34,7 +34,7 @@ OUTPUT = ROOT / "frontend" / "public" / "data" / "pipeline.json"
 
 FIVETRAN_KEY = os.getenv("FIVETRAN_API_KEY")
 FIVETRAN_SECRET = os.getenv("FIVETRAN_API_SECRET")
-GITHUB_REPO = "fivetran-jasonchletsos/tax-assessment-databricks-demo"
+GITHUB_REPO = "fivetran-jasonchletsos/fivetran-sheetz-demo"
 
 # Stable identifiers learned during deploy
 CONNECTORS = [
