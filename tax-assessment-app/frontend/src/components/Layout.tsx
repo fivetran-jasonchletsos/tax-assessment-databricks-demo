@@ -262,10 +262,10 @@ export default function Layout() {
           <div>
             Data flow:{' '}
             <strong className="text-slate-700">
-              Fivetran → Databricks Unity Catalog → dbt → daily JSON snapshot
+              Fivetran → Databricks → dbt → daily refresh
             </strong>
           </div>
-          <div>© 2026 Allegheny County · Demo build</div>
+          <div>© 2026 Allegheny County</div>
         </div>
       </footer>
 

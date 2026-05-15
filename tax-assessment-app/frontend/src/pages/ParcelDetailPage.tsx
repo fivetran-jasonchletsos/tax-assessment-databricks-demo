@@ -44,9 +44,11 @@ export default function ParcelDetailPage() {
   const [appeals, setAppeals] = useState<AppealsResponse | null>(null);
   const [comparables, setComparables] = useState<ComparablesResponse | null>(null);
   const [loading, setLoading] = useState(true);
+  const [loadError, setLoadError] = useState<string | null>(null);
 
   useEffect(() => {
     setLoading(true);
+    setLoadError(null);
     Promise.all([
       api.getParcel(parcelId),
       api.getAssessments(parcelId),
@@ -61,8 +63,34 @@ export default function ParcelDetailPage() {
         setAppeals(ap);
         setComparables(c);
       })
+      .catch((err) => {
+        setLoadError(err instanceof Error ? err.message : 'Failed to load parcel');
+      })
       .finally(() => setLoading(false));
   }, [parcelId]);
+
+  if (loadError) {
+    return (
+      <div className="mx-auto max-w-2xl px-4 py-20 text-center">
+        <h1 className="text-2xl font-bold text-slate-900">Couldn't load this parcel</h1>
+        <p className="mt-2 text-sm text-slate-500">{loadError}</p>
+        <div className="mt-6 flex justify-center gap-3">
+          <button
+            onClick={() => navigate(0)}
+            className="rounded-md bg-primary-600 hover:bg-primary-700 text-white text-sm font-medium px-4 py-2"
+          >
+            Try again
+          </button>
+          <button
+            onClick={() => navigate('/search')}
+            className="rounded-md bg-slate-100 hover:bg-slate-200 text-slate-700 text-sm font-medium px-4 py-2"
+          >
+            Back to search
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   if (loading || !parcel || !assessments) {
     return (
@@ -234,8 +262,7 @@ export default function ParcelDetailPage() {
           <div>
             <h2 className="text-lg font-semibold text-slate-900">Exemptions</h2>
             <p className="text-sm text-slate-500">
-              Aggregated from{' '}
-              <code className="font-mono text-xs bg-slate-100 px-1 rounded">fct_exemptions_summary</code>.
+              Per-year exemption totals for this parcel — homestead, senior, veteran, disability.
             </p>
           </div>
           {currentExemption && (

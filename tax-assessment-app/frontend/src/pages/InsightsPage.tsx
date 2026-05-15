@@ -42,10 +42,16 @@ export default function InsightsPage() {
   const byUse = useMemo(() => aggregateByLandUse(parcels), [parcels]);
   const totalAssessed = parcels.reduce((s, p) => s + p.assessed_value, 0);
   const totalExempted = parcels.reduce((s, p) => s + (p.total_exemption_amount ?? 0), 0);
-  const avgGrowth =
-    parcels.length > 0
-      ? parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / parcels.length
-      : 0;
+  // Median YoY — drops nulls; arithmetic mean was biased toward 0 + outliers.
+  const avgGrowth = (() => {
+    if (parcels.length === 0) return 0;
+    const vals = parcels
+      .map((p) => p.assessed_value_change_pct)
+      .filter((v): v is number => v !== null && v !== undefined)
+      .sort((a, b) => a - b);
+    if (vals.length === 0) return 0;
+    return vals[Math.floor(vals.length / 2)];
+  })();
   const useTotalAll = byUse.reduce((s, u) => s + u.total, 0);
 
   return (
@@ -53,8 +59,8 @@ export default function InsightsPage() {
       <header className="mb-8 max-w-3xl">
         <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County insights</h1>
         <p className="text-sm text-slate-500 mt-2">
-          Aggregations across <code className="font-mono text-xs bg-slate-100 px-1 rounded">fct_assessments</code>{' '}
-          for the current tax year. Use the <a href="#/dashboard" className="text-primary-700 hover:text-primary-900">Dashboard</a>{' '}
+          Aggregated highlights for the current tax year. Use the{' '}
+          <a href="#/dashboard" className="text-primary-700 hover:text-primary-900">Dashboard</a>{' '}
           for the full county-scale view.
         </p>
       </header>
@@ -67,7 +73,7 @@ export default function InsightsPage() {
         />
         <Tile label="Parcels in sample" value={loading ? '—' : formatNumber(parcels.length)} muted />
         <Tile
-          label="Avg YoY change"
+          label="Median YoY change"
           value={loading ? '—' : `${avgGrowth >= 0 ? '+' : ''}${avgGrowth.toFixed(2)}%`}
           tone={avgGrowth >= 0 ? 'up' : 'down'}
         />

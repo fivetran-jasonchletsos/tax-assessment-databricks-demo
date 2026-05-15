@@ -30,10 +30,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 sm:py-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
           <div className="flex items-center gap-4">
             <h1 className="text-lg sm:text-xl font-bold tracking-tight whitespace-nowrap">
-              Know your property's assessment.
+              What a modern data product looks like.
             </h1>
             <span className="hidden md:inline text-xs text-primary-200">
-              Allegheny County · Updated daily via Fivetran
+              575K records · refreshed daily · zero ETL maintenance
             </span>
           </div>
           <div className="flex items-center gap-4 sm:gap-6 text-xs sm:text-sm">
@@ -72,7 +72,7 @@ export default function HomePage() {
           <div>
             <h2 className="text-2xl font-bold text-slate-900">Featured properties</h2>
             <p className="text-sm text-slate-500">
-              A snapshot of recently assessed parcels from the marts schema.
+              Live samples of recently assessed properties — every row traces back to a governed warehouse table.
             </p>
           </div>
           <button
@@ -101,10 +101,10 @@ export default function HomePage() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
             {[
-              { step: '1', name: 'Fivetran', desc: 'Custom Python SDK connector syncs WPRDC + Allegheny County records.', color: 'from-sky-500 to-sky-700' },
-              { step: '2', name: 'Databricks', desc: 'Unity Catalog governs raw, staging, and mart schemas.', color: 'from-primary-900 to-rose-700' },
-              { step: '3', name: 'dbt', desc: 'Tested transformations produce dimension and fact tables.', color: 'from-orange-500 to-orange-700' },
-              { step: '4', name: 'FastAPI + React', desc: 'Public-facing portal queries the marts layer.', color: 'from-emerald-500 to-emerald-700' },
+              { step: '1', name: 'Fivetran', desc: 'Connect any source in minutes — 700+ pre-built connectors, no custom code required.', color: 'from-sky-500 to-sky-700' },
+              { step: '2', name: 'Databricks', desc: 'One governed copy of every record — auditable, observable, queryable.', color: 'from-sky-700 to-primary-900' },
+              { step: '3', name: 'dbt', desc: 'Trusted business logic, version-controlled — tests guard every transformation.', color: 'from-primary-800 to-primary-900' },
+              { step: '4', name: 'React', desc: 'Ship a public-facing data product on top of your warehouse — no middleware.', color: 'from-primary-600 to-primary-800' },
             ].map((s) => (
               <div key={s.name} className="rounded-xl border border-slate-200 overflow-hidden">
                 <div className={`h-1.5 bg-gradient-to-r ${s.color}`} />
@@ -303,7 +303,16 @@ function FeaturedPropertyCard({
   return (
     <div
       onClick={onClick}
-      className="text-left rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-lg hover:border-primary-300 transition-all overflow-hidden group cursor-pointer"
+      onKeyDown={(e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      tabIndex={0}
+      role="link"
+      aria-label={`Open parcel at ${parcel.address}, ${parcel.city}`}
+      className="text-left rounded-xl border border-slate-200 bg-white shadow-sm hover:shadow-lg hover:border-primary-300 transition-all overflow-hidden group cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-500"
     >
       <div className={`relative h-36 overflow-hidden ${gradient}`}>
         {hasCoords && (

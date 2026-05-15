@@ -70,7 +70,12 @@ export function groupByCity(parcels: ParcelSearchResult[]) {
     count: rows.length,
     total_assessed: rows.reduce((s, r) => s + r.assessed_value, 0),
     median_assessed: quantile(rows.map((r) => r.assessed_value), 0.5) ?? 0,
-    avg_change_pct: mean(rows.map((r) => r.assessed_value_change_pct ?? 0)),
+    // Median YoY — robust to the long tail of reassessment outliers; null
+    // values are dropped, not coerced to zero (that biased the old mean toward 0).
+    median_change_pct: quantile(
+      rows.map((r) => r.assessed_value_change_pct).filter((v): v is number => v !== null && v !== undefined),
+      0.5,
+    ) ?? 0,
     exemption_coverage: rows.filter((r) => (r.total_exemption_amount ?? 0) > 0).length / rows.length,
     rows,
   }));
@@ -88,7 +93,10 @@ export function groupByZip(parcels: ParcelSearchResult[]) {
     count: rows.length,
     median_assessed: quantile(rows.map((r) => r.assessed_value), 0.5) ?? 0,
     p90_assessed: quantile(rows.map((r) => r.assessed_value), 0.9) ?? 0,
-    avg_change_pct: mean(rows.map((r) => r.assessed_value_change_pct ?? 0)),
+    median_change_pct: quantile(
+      rows.map((r) => r.assessed_value_change_pct).filter((v): v is number => v !== null && v !== undefined),
+      0.5,
+    ) ?? 0,
   }));
 }
 

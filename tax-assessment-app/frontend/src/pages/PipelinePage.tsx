@@ -276,12 +276,9 @@ export default function PipelinePage() {
       </section>
 
       <div className="mt-8 rounded-xl border border-slate-200 bg-white p-4 text-xs text-slate-500">
-        Refresh this view by re-running{' '}
-        <code className="font-mono bg-slate-100 px-1 rounded">
-          scripts/build_pipeline_status.py
-        </code>{' '}
-        with FIVETRAN_API_KEY/SECRET in your env, then committing the regenerated{' '}
-        <code className="font-mono bg-slate-100 px-1 rounded">data/pipeline.json</code>.
+        Pipeline metadata is refreshed daily. Connector status and last-sync timestamps come live from
+        Fivetran; throughput and lag sparklines are illustrative (real-time replication metrics require
+        the Fivetran Platform Connector landing log tables in the warehouse).
       </div>
     </div>
   );

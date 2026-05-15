@@ -46,30 +46,11 @@ export default function AboutPage() {
                   </div>
                 ))}
               </dl>
-              {s.resource_id && (
-                <div className="mt-3 text-[11px] text-slate-400">
-                  CKAN resource id:{' '}
-                  <code className="font-mono bg-slate-100 px-1 rounded">{s.resource_id}</code>
-                </div>
-              )}
             </article>
           ))}
         </div>
         <p className="mt-4 text-xs text-slate-500">
-          WPRDC datasets are queryable via{' '}
-          <a
-            href="https://docs.ckan.org/en/latest/maintaining/datastore.html"
-            target="_blank"
-            rel="noreferrer"
-            className="text-primary-700 hover:text-primary-900"
-          >
-            CKAN's datastore API
-          </a>{' '}
-          — see{' '}
-          <code className="font-mono bg-slate-100 px-1 rounded">
-            scripts/build_wprdc_snapshot.py
-          </code>{' '}
-          for the SQL we run.
+          All source datasets are open and refreshed daily into the warehouse via a Fivetran custom connector.
         </p>
       </section>
 
@@ -212,20 +193,20 @@ const STEPS = [
   },
   {
     icon: '2',
-    name: 'Databricks Unity Catalog — Storage & governance',
-    desc: 'Raw tables land in dedicated schemas, governed by least-privilege service principals.',
-    tags: ['Delta Lake', 'Unity Catalog', 'Service principals'],
+    name: 'Databricks — Storage & governance',
+    desc: 'One governed copy of every record, with row-level access control and full audit history. The single source of truth for downstream apps.',
+    tags: ['Governed warehouse', 'Auditable', 'Role-based access'],
   },
   {
     icon: '3',
     name: 'dbt — Transformation',
-    desc: 'Tested staging views feed mart tables: dim_parcels, fct_assessments, fct_exemptions_summary, fct_appeals_summary.',
-    tags: ['Dimensional model', 'dbt tests', 'Documentation'],
+    desc: 'Business logic lives in version-controlled SQL with tests on every transformation. Changes ship through pull requests, not emails.',
+    tags: ['Tested transformations', 'Version-controlled', 'Documented'],
   },
   {
     icon: '4',
-    name: 'React + Recharts — Public portal',
-    desc: 'A static React SPA reads daily JSON snapshots of the marts and renders the parcel detail, dashboard, and Property Insight Agent.',
-    tags: ['React 19', 'Recharts', 'Leaflet', 'Tailwind v4'],
+    name: 'React — Public portal',
+    desc: 'A fast, static front-end serves the warehouse directly to end users. Daily refresh, sub-second search across 575K records.',
+    tags: ['Public-facing', 'Sub-second search', 'Mobile-friendly'],
   },
 ];

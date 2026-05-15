@@ -231,8 +231,8 @@ export default function DashboardPage() {
         </div>
         <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
         <p className="text-sm text-slate-500 mt-2">
-          Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, derived
-          from the gold-layer marts.
+          Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, served
+          live from your governed warehouse.
         </p>
         <div className="mt-3 inline-flex items-center gap-2 rounded-md bg-slate-100 border border-slate-200 px-3 py-1.5 text-xs text-slate-700">
           <span>
@@ -308,11 +308,19 @@ export default function DashboardPage() {
           caption="Middle 80%"
         />
         <KPI
-          label="Avg YoY change"
+          label="Median YoY change"
           value={
             loading
               ? '—'
-              : `${parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length) >= 0 ? '+' : ''}${(parcels.reduce((s, p) => s + (p.assessed_value_change_pct ?? 0), 0) / Math.max(1, parcels.length)).toFixed(1)}%`
+              : (() => {
+                  // Median of per-parcel YoY changes — drops nulls instead of
+                  // coercing to 0 (which biased the old arithmetic mean toward zero).
+                  const vals = parcels
+                    .map((p) => p.assessed_value_change_pct)
+                    .filter((v): v is number => v !== null && v !== undefined);
+                  const m = quantile(vals, 0.5) ?? 0;
+                  return `${m >= 0 ? '+' : ''}${m.toFixed(1)}%`;
+                })()
           }
           caption="Across all parcels"
           spark={
@@ -539,7 +547,7 @@ export default function DashboardPage() {
           <div className="h-72">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
-                data={[...byCity].sort((a, b) => b.avg_change_pct - a.avg_change_pct).slice(0, 10)}
+                data={[...byCity].sort((a, b) => b.median_change_pct - a.median_change_pct).slice(0, 10)}
                 layout="vertical"
                 margin={{ left: 8, right: 16, top: 4, bottom: 4 }}
               >
@@ -566,9 +574,9 @@ export default function DashboardPage() {
                   separator=""
                 />
                 <ReferenceLine x={0} stroke="#94a3b8" />
-                <Bar dataKey="avg_change_pct" radius={[0, 3, 3, 0]} maxBarSize={20}>
+                <Bar dataKey="median_change_pct" radius={[0, 3, 3, 0]} maxBarSize={20}>
                   {byCity.map((c, i) => (
-                    <Cell key={i} fill={c.avg_change_pct >= 0 ? RISING : FALLING} />
+                    <Cell key={i} fill={c.median_change_pct >= 0 ? RISING : FALLING} />
                   ))}
                 </Bar>
               </BarChart>
@@ -632,7 +640,7 @@ export default function DashboardPage() {
                     <th className="px-3 py-2 text-left font-medium w-[32%]">Median · P90</th>
                     <th className="px-3 py-2 text-right font-medium">Median</th>
                     <th className="px-3 py-2 text-center font-medium">Trend</th>
-                    <th className="px-3 py-2 text-right font-medium">Avg YoY</th>
+                    <th className="px-3 py-2 text-right font-medium">Median YoY</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-100">
@@ -643,7 +651,17 @@ export default function DashboardPage() {
                       <tr
                         key={z.zip}
                         onClick={() => toggleZip(z.zip)}
-                        className={`cursor-pointer transition-colors ${
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault();
+                            toggleZip(z.zip);
+                          }
+                        }}
+                        tabIndex={0}
+                        role="button"
+                        aria-pressed={selected}
+                        aria-label={`Filter dashboard to ZIP ${z.zip}`}
+                        className={`cursor-pointer transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-inset ${
                           selected ? 'bg-primary-50' : 'hover:bg-slate-50'
                         }`}
                       >
@@ -670,11 +688,11 @@ export default function DashboardPage() {
                         <td className="px-3 py-2.5 text-right">
                           <span
                             className={`font-medium ${
-                              z.avg_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
+                              z.median_change_pct >= 0 ? 'text-rose-700' : 'text-emerald-700'
                             }`}
                           >
-                            {z.avg_change_pct >= 0 ? '+' : ''}
-                            {z.avg_change_pct.toFixed(2)}%
+                            {z.median_change_pct >= 0 ? '+' : ''}
+                            {z.median_change_pct.toFixed(2)}%
                           </span>
                         </td>
                       </tr>
@@ -726,9 +744,8 @@ export default function DashboardPage() {
       })()}
 
       <p className="mt-8 text-xs text-slate-500 max-w-3xl">
-        <strong className="text-slate-700">Methodology:</strong> Distribution bins are aligned to natural property
-        brackets (not equal-width) so the shape of a heavy-tailed dataset reads correctly. Per-year history is
-        synthesized deterministically per parcel — for live multi-year history, see individual parcel pages.
+        Distribution bins are aligned to natural property value brackets so the shape of the
+        dataset reads correctly. Click any parcel for full multi-year history.
       </p>
     </div>
   );

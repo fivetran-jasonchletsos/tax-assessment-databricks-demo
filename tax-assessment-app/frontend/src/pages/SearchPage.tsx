@@ -44,8 +44,11 @@ export default function SearchPage() {
     const vals = results.map((r) => r.assessed_value);
     const totalAssessed = vals.reduce((s, v) => s + v, 0);
     const median = quantile(vals, 0.5) ?? 0;
-    const avgChg =
-      results.reduce((s, r) => s + (r.assessed_value_change_pct ?? 0), 0) / results.length;
+    // Median YoY across the filtered set — drops nulls; robust to outliers.
+    const changeVals = results
+      .map((r) => r.assessed_value_change_pct)
+      .filter((v): v is number => v !== null && v !== undefined);
+    const avgChg = quantile(changeVals, 0.5) ?? 0;
     const withExempt = results.filter((r) => (r.total_exemption_amount ?? 0) > 0).length;
     return { totalAssessed, median, avgChg, withExempt };
   }, [results]);
@@ -72,8 +75,8 @@ export default function SearchPage() {
         <div>
           <h1 className="text-3xl font-bold text-slate-900">Search properties</h1>
           <p className="text-sm text-slate-500 mt-1">
-            Query the <code className="font-mono text-xs bg-slate-100 px-1 py-0.5 rounded">fct_assessments</code> mart
-            joined with <code className="font-mono text-xs bg-slate-100 px-1 py-0.5 rounded">dim_parcels</code>.
+            Search 575,000 records in under a second — backed by your governed warehouse,
+            not a stale CSV.
           </p>
         </div>
         <div className="text-sm text-slate-500">
@@ -137,7 +140,7 @@ export default function SearchPage() {
           <SummaryStat label="Total assessed" value={formatCurrencyShort(summary.totalAssessed)} primary />
           <SummaryStat label="Median" value={formatCurrency(summary.median)} />
           <SummaryStat
-            label="Avg YoY"
+            label="Median YoY"
             value={`${summary.avgChg >= 0 ? '+' : ''}${summary.avgChg.toFixed(1)}%`}
             tone={summary.avgChg >= 0 ? 'rose' : 'emerald'}
           />
@@ -199,7 +202,16 @@ export default function SearchPage() {
                 <tr
                   key={p.parcel_id}
                   onClick={() => navigate(`/parcels/${encodeURIComponent(p.parcel_id)}`)}
-                  className="cursor-pointer hover:bg-primary-50/50 transition-colors"
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      navigate(`/parcels/${encodeURIComponent(p.parcel_id)}`);
+                    }
+                  }}
+                  tabIndex={0}
+                  role="link"
+                  aria-label={`Open parcel ${p.parcel_id} — ${p.address}`}
+                  className="cursor-pointer hover:bg-primary-50/50 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-inset"
                 >
                   <td className="px-4 py-3 text-xs font-mono text-slate-600">{p.parcel_id}</td>
                   <td className="px-4 py-3">

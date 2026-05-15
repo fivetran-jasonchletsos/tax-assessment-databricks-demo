@@ -159,7 +159,7 @@ const intents: Array<{
             c.count,
             `$${Math.round(c.total_assessed).toLocaleString()}`,
             `$${Math.round(c.median_assessed).toLocaleString()}`,
-            `${c.avg_change_pct.toFixed(2)}%`,
+            `${c.median_change_pct.toFixed(2)}%`,
             `${(c.exemption_coverage * 100).toFixed(0)}%`,
           ]),
         },
@@ -374,7 +374,7 @@ function summariseForClaude(parcels: ParcelSearchResult[]) {
       city: c.city,
       count: c.count,
       median: Math.round(c.median_assessed),
-      avg_change_pct: +c.avg_change_pct.toFixed(2),
+      median_change_pct: +c.median_change_pct.toFixed(2),
       exempt_pct: +(c.exemption_coverage * 100).toFixed(1),
     }));
   const byZip = groupByZip(parcels)
@@ -384,7 +384,7 @@ function summariseForClaude(parcels: ParcelSearchResult[]) {
       zip: z.zip,
       count: z.count,
       median: Math.round(z.median_assessed),
-      avg_change_pct: +z.avg_change_pct.toFixed(2),
+      median_change_pct: +z.median_change_pct.toFixed(2),
     }));
   return {
     parcel_count: parcels.length,
