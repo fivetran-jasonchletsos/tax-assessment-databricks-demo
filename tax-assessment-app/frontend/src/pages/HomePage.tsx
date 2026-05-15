@@ -102,7 +102,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
             {[
               { step: '1', name: 'Fivetran', desc: 'Custom Python SDK connector syncs WPRDC + Allegheny County records.', color: 'from-sky-500 to-sky-700' },
-              { step: '2', name: 'Databricks', desc: 'Unity Catalog governs raw, staging, and mart schemas.', color: 'from-rose-500 to-rose-700' },
+              { step: '2', name: 'Databricks', desc: 'Unity Catalog governs raw, staging, and mart schemas.', color: 'from-primary-900 to-rose-700' },
               { step: '3', name: 'dbt', desc: 'Tested transformations produce dimension and fact tables.', color: 'from-orange-500 to-orange-700' },
               { step: '4', name: 'FastAPI + React', desc: 'Public-facing portal queries the marts layer.', color: 'from-emerald-500 to-emerald-700' },
             ].map((s) => (
@@ -219,7 +219,7 @@ function AgentSpotlight({
     'Compare cities',
   ];
   return (
-    <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-violet-600 via-fuchsia-600 to-rose-500 text-white shadow-xl h-full flex flex-col">
+    <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-primary-600 via-primary-700 to-primary-900 text-white shadow-xl h-full flex flex-col">
       <div
         className="absolute inset-0 opacity-20 pointer-events-none"
         style={{
@@ -237,7 +237,7 @@ function AgentSpotlight({
           <h2 className="text-2xl sm:text-3xl font-bold leading-tight">
             Ask the Property Insight Agent
           </h2>
-          <p className="mt-2 text-sm sm:text-base text-violet-100">
+          <p className="mt-2 text-sm sm:text-base text-primary-50">
             Skip the form — ask in plain English. The local rules engine answers instantly;
             opt-in Claude mode handles harder questions.
           </p>
@@ -251,12 +251,12 @@ function AgentSpotlight({
               className="group/chip text-left text-sm sm:text-base rounded-lg bg-white/10 hover:bg-white/20 backdrop-blur-sm px-4 py-3 transition-colors border border-white/15 flex items-center justify-between gap-3"
             >
               <span className="flex items-center gap-2.5">
-                <span aria-hidden className="text-violet-200">✨</span>
+                <span aria-hidden className="text-primary-100">✨</span>
                 <span>{s}</span>
               </span>
               <span
                 aria-hidden
-                className="text-violet-200 group-hover/chip:translate-x-0.5 transition-transform"
+                className="text-primary-100 group-hover/chip:translate-x-0.5 transition-transform"
               >
                 →
               </span>
@@ -267,14 +267,14 @@ function AgentSpotlight({
         <div className="mt-auto flex items-center gap-3 flex-wrap">
           <button
             onClick={onOpen}
-            className="inline-flex w-fit items-center gap-2 rounded-md bg-white text-violet-700 px-5 py-3 text-base font-semibold shadow-lg hover:bg-violet-50 transition-colors"
+            className="inline-flex w-fit items-center gap-2 rounded-md bg-white text-primary-700 px-5 py-3 text-base font-semibold shadow-lg hover:bg-primary-50 transition-colors"
           >
             Open the agent
             <span aria-hidden>→</span>
           </button>
           <button
             onClick={onAbout}
-            className="inline-flex items-center gap-1.5 text-sm text-violet-100 hover:text-white font-medium underline-offset-4 hover:underline"
+            className="inline-flex items-center gap-1.5 text-sm text-primary-50 hover:text-white font-medium underline-offset-4 hover:underline"
           >
             How it works
             <span aria-hidden>→</span>
@@ -359,7 +359,7 @@ function gradientForLandUse(use: string | null | undefined): string {
   const u = (use ?? '').toLowerCase();
   if (u.includes('commercial')) return 'bg-gradient-to-br from-amber-400 to-orange-600';
   if (u.includes('industrial')) return 'bg-gradient-to-br from-slate-500 to-slate-700';
-  if (u.includes('multi') || u.includes('apartment')) return 'bg-gradient-to-br from-violet-500 to-fuchsia-700';
+  if (u.includes('multi') || u.includes('apartment')) return 'bg-gradient-to-br from-primary-500 to-primary-800';
   if (u.includes('vacant')) return 'bg-gradient-to-br from-emerald-400 to-teal-600';
   // Residential / single family / default
   return 'bg-gradient-to-br from-sky-500 to-primary-700';

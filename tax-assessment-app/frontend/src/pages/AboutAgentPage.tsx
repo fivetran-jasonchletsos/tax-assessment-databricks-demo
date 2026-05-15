@@ -16,7 +16,7 @@ export default function AboutAgentPage() {
   return (
     <div className="bg-slate-50">
       {/* HERO */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-violet-700 via-fuchsia-600 to-rose-500 text-white">
+      <section className="relative overflow-hidden bg-gradient-to-br from-primary-700 via-primary-800 to-primary-900 text-white">
         <div
           className="absolute inset-0 opacity-15 pointer-events-none"
           style={{
@@ -32,7 +32,7 @@ export default function AboutAgentPage() {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight max-w-3xl">
             Skip the search form. Just ask.
           </h1>
-          <p className="mt-5 text-lg sm:text-xl text-violet-100 max-w-2xl">
+          <p className="mt-5 text-lg sm:text-xl text-primary-50 max-w-2xl">
             A natural-language layer on top of the same Allegheny County data the rest of the
             portal uses. Type a question — get back a table, a chart, and a short summary in
             under a second.
@@ -40,7 +40,7 @@ export default function AboutAgentPage() {
           <div className="mt-8 flex flex-col sm:flex-row gap-3">
             <button
               onClick={() => navigate('/agent')}
-              className="inline-flex items-center gap-2 rounded-md bg-white text-violet-700 px-6 py-3.5 text-base font-semibold shadow-lg hover:bg-violet-50 transition-colors"
+              className="inline-flex items-center gap-2 rounded-md bg-white text-primary-700 px-6 py-3.5 text-base font-semibold shadow-lg hover:bg-primary-50 transition-colors"
             >
               Open the agent
               <span aria-hidden>→</span>
@@ -124,11 +124,11 @@ export default function AboutAgentPage() {
             <button
               key={q}
               onClick={() => ask(q)}
-              className="group text-left rounded-xl border border-slate-200 bg-white hover:border-violet-300 hover:shadow-md p-4 transition-all"
+              className="group text-left rounded-xl border border-slate-200 bg-white hover:border-primary-300 hover:shadow-md p-4 transition-all"
             >
               <div className="flex items-center justify-between gap-3">
                 <span className="text-sm text-slate-800">{q}</span>
-                <span className="text-violet-500 group-hover:translate-x-0.5 transition-transform">→</span>
+                <span className="text-primary-500 group-hover:translate-x-0.5 transition-transform">→</span>
               </div>
             </button>
           ))}
@@ -266,7 +266,7 @@ function TierCard({
   const accent =
     tone === 'primary'
       ? 'bg-primary-100 text-primary-700'
-      : 'bg-violet-100 text-violet-700';
+      : 'bg-primary-50 text-primary-700';
   return (
     <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
       <div className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium uppercase tracking-wider ${accent}`}>
@@ -316,7 +316,7 @@ function FileCard({
 }) {
   return (
     <div className="rounded-xl border border-slate-200 bg-white p-5">
-      <code className="block text-xs font-mono text-violet-700">{path}</code>
+      <code className="block text-xs font-mono text-primary-700">{path}</code>
       <div className="mt-2 font-semibold text-slate-900">{role}</div>
       <p className="mt-1 text-xs text-slate-500">{detail}</p>
     </div>

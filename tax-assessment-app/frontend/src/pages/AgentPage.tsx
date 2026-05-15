@@ -101,14 +101,14 @@ export default function AgentPage() {
   return (
     <div className="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8">
       <header className="mb-6">
-        <div className="inline-flex items-center rounded-full bg-violet-100 text-violet-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
+        <div className="inline-flex items-center rounded-full bg-primary-50 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
           Property Insight Agent
         </div>
         <div className="flex items-start justify-between gap-4">
           <h1 className="text-3xl font-bold text-slate-900">Ask anything about the data</h1>
           <Link
             to="/about-agent"
-            className="hidden sm:inline-flex shrink-0 items-center gap-1 text-sm text-violet-700 hover:text-violet-900 font-medium"
+            className="hidden sm:inline-flex shrink-0 items-center gap-1 text-sm text-primary-700 hover:text-primary-900 font-medium"
           >
             How it works <span aria-hidden>→</span>
           </Link>
@@ -140,7 +140,7 @@ export default function AgentPage() {
                 checked={useClaude}
                 onChange={() => hasKey && setUseClaude(true)}
                 disabled={!hasKey}
-                className="accent-violet-600"
+                className="accent-primary-600"
               />
               <span className="font-medium">Ask Claude</span>
               {!hasKey && <span className="text-xs text-slate-400">(needs API key)</span>}
@@ -172,7 +172,7 @@ export default function AgentPage() {
               />
               <button
                 onClick={saveKey}
-                className="rounded-md bg-violet-600 hover:bg-violet-700 text-white text-sm font-medium px-4 py-2"
+                className="rounded-md bg-primary-600 hover:bg-primary-700 text-white text-sm font-medium px-4 py-2"
               >
                 Save
               </button>
@@ -264,7 +264,7 @@ function ResponseCard({
         </div>
         <span
           className={`shrink-0 inline-flex items-center rounded-full px-2 py-0.5 text-[11px] font-medium ${
-            isClaude ? 'bg-violet-100 text-violet-700' : 'bg-primary-100 text-primary-700'
+            isClaude ? 'bg-primary-50 text-primary-700' : 'bg-primary-100 text-primary-700'
           }`}
         >
           {isClaude ? 'Claude' : 'Rules'}

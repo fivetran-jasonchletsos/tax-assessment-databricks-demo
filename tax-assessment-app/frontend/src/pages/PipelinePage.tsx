@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import ReplicationPipelinesCard, { type PipelineRow } from '../components/ReplicationPipelinesCard';
 
 interface ConnectorStatus {
   id: string;
@@ -16,6 +17,12 @@ interface ConnectorStatus {
   schedule_type: string | null;
   dashboard_url: string;
   error?: string | null;
+  // Optional metrics populated by build_pipeline_status.py — used by the
+  // top "Replication pipelines" summary card. Older snapshots may not have these.
+  source_db?: string;
+  rows_synced_total?: number;
+  throughput_24h?: { points: number[]; current: number; min: number; max: number };
+  lag_24h?: { points: number[]; current: number; min: number; max: number };
 }
 
 interface DestinationStatus {
@@ -174,6 +181,28 @@ export default function PipelinePage() {
       </header>
 
       <OverallBanner status={overallStatus} />
+
+      {/* Replication pipelines monitoring console — at-a-glance summary of
+          every Fivetran connector with throughput + lag sparklines. */}
+      <div className="mt-6 p-1.5 rounded-2xl bg-gradient-to-br from-slate-900 to-neutral-900 shadow-xl">
+        <ReplicationPipelinesCard
+          pipelines={fivetran.connectors.map<PipelineRow>((c) => ({
+            id: c.id,
+            name: c.name,
+            schema: c.schema,
+            service: c.service,
+            sync_state: c.sync_state,
+            failed_at: c.failed_at,
+            paused: c.paused,
+            dashboard_url: c.dashboard_url,
+            destination: fivetran.destination.service || 'databricks',
+            source_db: c.source_db,
+            rows_synced_total: c.rows_synced_total,
+            throughput_24h: c.throughput_24h,
+            lag_24h: c.lag_24h,
+          }))}
+        />
+      </div>
 
       {/* Demo mode banner */}
       {demoMode && (
@@ -414,7 +443,7 @@ function ProjectCard({
       </article>
     );
   }
-  const correctRepo = (project.git_remote_url ?? '').includes('fivetran-sheetz-demo');
+  const correctRepo = (project.git_remote_url ?? '').includes('tax-assessment-databricks-demo');
   const mostRecent = [...transformations].sort((a, b) =>
     (b.last_ended_at ?? '').localeCompare(a.last_ended_at ?? ''),
   )[0];
@@ -448,7 +477,7 @@ function ProjectCard({
       {!correctRepo && (
         <div className="mx-4 mb-4 rounded-md bg-amber-100 text-amber-900 text-xs p-3">
           This dbt project points at the <strong>{project.git_remote_url?.split('/').slice(-1)[0]}</strong> repo,
-          not <strong>fivetran-sheetz-demo</strong>. Tax-assessment dbt runs won't fire from this transformation
+          not <strong>tax-assessment-databricks-demo</strong>. Tax-assessment dbt runs won't fire from this transformation
           until the project is swapped.
         </div>
       )}
@@ -616,7 +645,7 @@ function computeOverallStatus(b: PipelineBundle): { tone: 'healthy' | 'warning' 
   if (b.fivetran.destination.setup_status !== 'connected') {
     issues.push(`destination ${b.fivetran.destination.name} setup=${b.fivetran.destination.setup_status}`);
   }
-  const projectMisaligned = b.fivetran.project && !(b.fivetran.project.git_remote_url ?? '').includes('fivetran-sheetz-demo');
+  const projectMisaligned = b.fivetran.project && !(b.fivetran.project.git_remote_url ?? '').includes('tax-assessment-databricks-demo');
   if (projectMisaligned) {
     issues.push('dbt project points at a different repo');
   }

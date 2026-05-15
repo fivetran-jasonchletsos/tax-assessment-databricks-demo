@@ -31,7 +31,7 @@ const FALL_SPEED = 2.0;
 
 const HS_KEY = 'defender-sync:high-score';
 
-// Allegheny / Sheetz palette — sky-blue primary scale + tax accents.
+// Allegheny / Tax Assessment palette — sky-blue primary scale + tax accents.
 const COLOR_BG = '#0c1a26';            // deep navy, evokes county-tax institutional
 const COLOR_PANEL = '#0f2233';
 const COLOR_PRIMARY = '#0284c7';        // primary-600

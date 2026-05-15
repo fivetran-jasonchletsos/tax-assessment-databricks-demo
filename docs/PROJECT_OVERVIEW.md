@@ -5,8 +5,8 @@
 > property tax data. Designed as a Sales Engineer demo, deployed as a
 > public-facing community portal.
 >
-> **Live site:** https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/
-> **Repo:** https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo
+> **Live site:** https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/
+> **Repo:** https://github.com/fivetran-jasonchletsos/tax-assessment-databricks-demo
 > **Audience:** Sales Engineering leadership, Fivetran customer prospects,
 > Allegheny County stakeholders.
 > **Presenter:** Chris (Senior Sales Engineer, Fivetran).
@@ -309,7 +309,7 @@ from marts) or **"Demo"** (curated fallback). The badge reads
 
 | Repo | Branch | What lives there |
 | --- | --- | --- |
-| `fivetran-jasonchletsos/fivetran-sheetz-demo` | `main` | Everything: frontend, backend, dbt, connector, scripts, workflows |
+| `fivetran-jasonchletsos/tax-assessment-databricks-demo` | `main` | Everything: frontend, backend, dbt, connector, scripts, workflows |
 
 ### GitHub Actions
 
@@ -321,9 +321,9 @@ from marts) or **"Demo"** (curated fallback). The badge reads
 ### GitHub Pages
 
 - Source: GitHub Actions
-- URL: https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/
+- URL: https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/
 - HTTPS enforced
-- Base path configured in `vite.config.ts` as `/fivetran-sheetz-demo/`
+- Base path configured in `vite.config.ts` as `/tax-assessment-databricks-demo/`
 
 ### Required secrets / environment variables
 
@@ -454,8 +454,8 @@ A suggested 6-minute walkthrough:
 
 | Thing | Value |
 | --- | --- |
-| Live site | https://fivetran-jasonchletsos.github.io/fivetran-sheetz-demo/ |
-| Repo | https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo |
+| Live site | https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/ |
+| Repo | https://github.com/fivetran-jasonchletsos/tax-assessment-databricks-demo |
 | Fivetran WPRDC connector | https://fivetran.com/dashboard/connectors/equilibrium_safely |
 | Fivetran AlleghenyRE connector | https://fivetran.com/dashboard/connectors/manifesto_surer |
 | Fivetran destination | `unduly_parental` (`jason_chletsos_databricks`) |
