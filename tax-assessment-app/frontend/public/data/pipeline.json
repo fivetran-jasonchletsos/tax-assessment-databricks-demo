@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T03:53:29+00:00",
+  "generated_at": "2026-05-15T03:56:49+00:00",
   "fivetran": {
     "connectors": [
       {
@@ -178,9 +178,9 @@
     "status": null,
     "build_type": null,
     "https_enforced": null,
-    "last_deploy_at": "2026-05-15T02:44:01Z",
-    "last_deploy_sha": "774d431",
-    "last_deploy_message": "Exec-grade polish: median YoY, plain-English copy, error states, a11y",
-    "runs_url": "https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo/actions/workflows/deploy.yml"
+    "last_deploy_at": "2026-05-15T03:54:20Z",
+    "last_deploy_sha": "8370318",
+    "last_deploy_message": "Fix: revert base path + URL refs to fivetran-sheetz-demo (the live slug)",
+    "runs_url": "https://github.com/fivetran-jasonchletsos/tax-assessment-databricks-demo/actions/workflows/deploy.yml"
   }
 }

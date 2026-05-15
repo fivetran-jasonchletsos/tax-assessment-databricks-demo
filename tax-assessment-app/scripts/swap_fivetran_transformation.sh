@@ -2,7 +2,7 @@
 # ============================================================
 # Swap the Fivetran transformation project for group
 # `unduly_parental` from the pokemon repo to the tax-assessment
-# (fivetran-sheetz-demo) repo, and create a transformation that
+# (tax-assessment-databricks-demo) repo, and create a transformation that
 # runs `dbt deps && dbt run` after the equilibrium_safely
 # connector sync completes.
 #
@@ -26,7 +26,7 @@ ACCEPT_V2=(-H "Accept: application/json;version=2")
 GROUP_ID="unduly_parental"
 OLD_TRANSFORMATION="suffrage_screened"
 OLD_PROJECT="hanky_capitalism"
-NEW_REPO_URL="https://github.com/fivetran-jasonchletsos/fivetran-sheetz-demo.git"
+NEW_REPO_URL="https://github.com/fivetran-jasonchletsos/tax-assessment-databricks-demo.git"
 NEW_FOLDER_PATH="tax-assessment-app/dbt_project/jason_chletsos_tax_assessment"
 NEW_BRANCH="main"
 NEW_SCHEMA="jason_chletsos_marts"
