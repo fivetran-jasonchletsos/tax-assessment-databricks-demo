@@ -8,6 +8,7 @@ import InsightsPage from './pages/InsightsPage';
 import DashboardPage from './pages/DashboardPage';
 import AgentPage from './pages/AgentPage';
 import AboutAgentPage from './pages/AboutAgentPage';
+import AskPage from './pages/AskPage';
 import PipelinePage from './pages/PipelinePage';
 import MapPage from './pages/MapPage';
 import WatchlistPage from './pages/WatchlistPage';
@@ -35,6 +36,7 @@ export default function App() {
             <Route path="/analytics" element={<DashboardPage />} />
             <Route path="/agent" element={<AgentPage />} />
             <Route path="/about-agent" element={<AboutAgentPage />} />
+            <Route path="/ask" element={<AskPage />} />
             <Route path="/pipeline" element={<PipelinePage />} />
             <Route path="/map" element={<MapPage />} />
             <Route path="/watchlist" element={<WatchlistPage />} />
