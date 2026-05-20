@@ -14,6 +14,7 @@ const NAV_ITEMS: [string, string][] = [
   ['/dashboard', 'Dashboard'],
   ['/map', 'Map'],
   ['/agent', 'Ask AI'],
+  ['/ask', 'Ask (Cortex)'],
   ['/pipeline', 'Pipeline'],
   ['/about', 'About'],
 ];
