@@ -87,16 +87,17 @@ export default function Layout() {
 
   return (
     <div className="min-h-full flex flex-col">
-      <header className="bg-primary-800 text-white shadow-sm sticky top-0 z-30">
+      <header className="sticky top-0 z-30 shadow-md" style={{ background: '#111827' }}>
+        <div className="fuel-stripe" />
         <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8">
           <div className="flex h-14 sm:h-16 items-center justify-between gap-2 sm:gap-4">
             <Link to="/" className="flex items-center gap-2 sm:gap-3 shrink-0 min-w-0">
-              <div className="h-8 w-8 sm:h-9 sm:w-9 rounded-lg bg-primary-500 flex items-center justify-center font-bold text-sm">
+              <div className="h-8 w-8 sm:h-9 sm:w-9 rounded-lg flex items-center justify-center font-display font-bold text-sm" style={{ background: '#f59e0b', color: '#111827' }}>
                 AC
               </div>
               <div className="leading-tight min-w-0">
-                <div className="font-semibold text-sm sm:text-base truncate">Allegheny County</div>
-                <div className="text-[10px] sm:text-xs text-primary-200 hidden xs:block sm:block">
+                <div className="font-display font-semibold text-sm sm:text-base truncate text-white">Allegheny County</div>
+                <div className="text-[10px] sm:text-xs hidden xs:block sm:block" style={{ color: '#9ca3af' }}>
                   Tax Assessment Portal
                 </div>
               </div>
@@ -109,12 +110,14 @@ export default function Layout() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Search address, parcel ID, or owner..."
-                className="flex-1 rounded-l-md border-0 px-4 py-2 text-sm text-slate-900 placeholder:text-slate-400 focus:outline-2 focus:outline-primary-300"
+                className="flex-1 rounded-l-md border-0 px-4 py-2 text-sm text-slate-900 placeholder:text-slate-400 focus:outline-2 focus:outline-amber-400"
+                style={{ background: '#1f2937', color: '#f3f4f6', outline: 'none' }}
               />
               <button
                 type="submit"
                 aria-label="Search"
-                className="inline-flex items-center justify-center rounded-r-md bg-primary-600 hover:bg-primary-500 px-3 border border-primary-600 transition-colors"
+                className="inline-flex items-center justify-center rounded-r-md px-3 transition-colors"
+                style={{ background: '#f59e0b', color: '#111827' }}
               >
                 <SearchIcon className="h-4 w-4" />
               </button>
@@ -128,8 +131,10 @@ export default function Layout() {
                   to={to}
                   end={to === '/'}
                   className={({ isActive }) =>
-                    `px-3 py-2 rounded-md transition-colors ${
-                      isActive ? 'bg-primary-700' : 'hover:bg-primary-700/60'
+                    `px-3 py-2 rounded-md transition-colors font-body ${
+                      isActive
+                        ? 'text-amber-400 font-semibold bg-white/5'
+                        : 'text-gray-300 hover:text-white hover:bg-white/5'
                     }`
                   }
                 >
@@ -178,19 +183,21 @@ export default function Layout() {
 
           {/* Mobile drawer */}
           {mobileOpen && (
-            <div className="lg:hidden pb-3 border-t border-primary-700/40 pt-3 space-y-3">
+            <div className="lg:hidden pb-3 pt-3 space-y-3" style={{ borderTop: '1px solid #374151' }}>
               <form onSubmit={onSubmit} className="md:hidden flex">
                 <input
                   type="text"
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                   placeholder="Search address, parcel, owner..."
-                  className="flex-1 rounded-l-md border-0 px-3 py-2 text-sm text-slate-900 placeholder:text-slate-400 focus:outline-2 focus:outline-primary-300"
+                  className="flex-1 rounded-l-md border-0 px-3 py-2 text-sm placeholder:text-gray-500 focus:outline-none"
+                  style={{ background: '#1f2937', color: '#f3f4f6' }}
                 />
                 <button
                   type="submit"
                   aria-label="Search"
-                  className="inline-flex items-center justify-center rounded-r-md bg-primary-600 hover:bg-primary-500 px-3 border border-primary-600 transition-colors"
+                  className="inline-flex items-center justify-center rounded-r-md px-3 transition-colors"
+                  style={{ background: '#f59e0b', color: '#111827' }}
                 >
                   <SearchIcon className="h-4 w-4" />
                 </button>
@@ -202,8 +209,10 @@ export default function Layout() {
                     to={to}
                     end={to === '/'}
                     className={({ isActive }) =>
-                      `px-3 py-2 rounded-md transition-colors text-center ${
-                        isActive ? 'bg-primary-700' : 'bg-primary-700/30 hover:bg-primary-700/60'
+                      `px-3 py-2 rounded-md transition-colors text-center font-body ${
+                        isActive
+                          ? 'text-amber-400 font-semibold bg-white/8'
+                          : 'text-gray-300 bg-white/5 hover:bg-white/10'
                       }`
                     }
                   >
@@ -211,8 +220,8 @@ export default function Layout() {
                   </NavLink>
                 ))}
               </nav>
-              <div className="pt-2 border-t border-primary-700/40">
-                <div className="text-[10px] uppercase tracking-wider text-primary-200 mb-2">
+              <div className="pt-2" style={{ borderTop: '1px solid #374151' }}>
+                <div className="text-[10px] uppercase tracking-wider mb-2" style={{ color: '#9ca3af' }}>
                   Switch demo
                 </div>
                 <div className="grid grid-cols-1 gap-1">
@@ -264,15 +273,16 @@ export default function Layout() {
       </main>
       <HelpTour />
 
-      <footer className="border-t bg-white">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6 text-xs sm:text-sm text-slate-500 flex flex-col md:flex-row gap-2 md:items-center md:justify-between">
+      <footer className="border-t" style={{ background: '#111827', borderColor: '#1f2937' }}>
+        <div className="fuel-stripe" />
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6 text-xs sm:text-sm flex flex-col md:flex-row gap-2 md:items-center md:justify-between" style={{ color: '#6b7280' }}>
           <div>
             Data flow:{' '}
-            <strong className="text-slate-700">
+            <strong style={{ color: '#f59e0b' }}>
               Fivetran → Databricks → dbt → daily refresh
             </strong>
           </div>
-          <div>© 2026 Allegheny County</div>
+          <div style={{ color: '#4b5563' }}>© 2026 Allegheny County</div>
         </div>
       </footer>
 
@@ -316,8 +326,8 @@ function DemoSwitcher({ source, snapshotAt }: { source: DataSource; snapshotAt: 
         title={title}
         aria-haspopup="menu"
         aria-expanded={open}
-        className={`inline-flex items-center gap-1.5 rounded-full px-2 sm:px-3 py-1 text-[10px] sm:text-xs font-medium transition-colors ${
-          live ? 'bg-emerald-500/20 text-emerald-100 hover:bg-emerald-500/30' : 'bg-amber-500/20 text-amber-100 hover:bg-amber-500/30'
+        className={`inline-flex items-center gap-1.5 rounded-full px-2 sm:px-3 py-1 text-[10px] sm:text-xs font-medium transition-colors font-body ${
+          live ? 'bg-emerald-500/20 text-emerald-300 hover:bg-emerald-500/30' : 'bg-amber-500/20 text-amber-300 hover:bg-amber-500/30'
         }`}
       >
         <span

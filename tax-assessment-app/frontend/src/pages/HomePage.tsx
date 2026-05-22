@@ -26,13 +26,13 @@ export default function HomePage() {
   return (
     <>
       {/* MINIMAL TITLE STRIP */}
-      <section className="bg-gradient-to-r from-primary-800 to-primary-900 text-white">
+      <section className="text-white animate-fade-up" style={{ background: 'linear-gradient(135deg, #111827 0%, #1f2937 60%, #111827 100%)' }}>
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 sm:py-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
           <div className="flex items-center gap-4">
-            <h1 className="text-lg sm:text-xl font-bold tracking-tight whitespace-nowrap">
+            <h1 className="text-lg sm:text-xl font-display font-bold tracking-tight whitespace-nowrap text-white">
               What a modern data product looks like.
             </h1>
-            <span className="hidden md:inline text-xs text-primary-200">
+            <span className="hidden md:inline text-xs" style={{ color: '#6b7280' }}>
               575K records · refreshed daily · zero ETL maintenance
             </span>
           </div>
@@ -42,10 +42,11 @@ export default function HomePage() {
             <InlineStat label="Exemptions" value={stats ? formatCurrency(stats.total_exemptions) : '—'} />
             <button
               onClick={() => navigate('/pipeline')}
-              className="inline-flex items-center gap-1.5 rounded-full bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-100 px-2.5 py-1 text-[11px] font-medium transition-colors"
+              className="inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[11px] font-medium transition-colors"
+              style={{ background: 'rgba(34,197,94,0.15)', color: '#86efac', border: '1px solid rgba(34,197,94,0.2)' }}
               title="Pipeline Health"
             >
-              <span className="inline-block h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
+              <span className="inline-block h-1.5 w-1.5 rounded-full bg-green-400 animate-pulse" />
               Pipeline Live
             </button>
           </div>
@@ -93,24 +94,24 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="bg-white border-t border-slate-200">
+      <section className="border-t border-slate-200 bg-white">
         <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-bold text-slate-900 mb-2">Built on a modern data stack</h2>
+          <h2 className="text-2xl font-display font-bold text-slate-900 mb-2">Built on a modern data stack</h2>
           <p className="text-slate-500 mb-10">
             Every value on this page traces back through governed, observable infrastructure.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
             {[
-              { step: '1', name: 'Fivetran', desc: 'Connect any source in minutes — 700+ pre-built connectors, no custom code required.', color: 'from-sky-500 to-sky-700' },
-              { step: '2', name: 'Databricks', desc: 'One governed copy of every record — auditable, observable, queryable.', color: 'from-sky-700 to-primary-900' },
-              { step: '3', name: 'dbt', desc: 'Trusted business logic, version-controlled — tests guard every transformation.', color: 'from-primary-800 to-primary-900' },
-              { step: '4', name: 'React', desc: 'Ship a public-facing data product on top of your warehouse — no middleware.', color: 'from-primary-600 to-primary-800' },
+              { step: '1', name: 'Fivetran', desc: 'Connect any source in minutes — 700+ pre-built connectors, no custom code required.', bar: '#f59e0b' },
+              { step: '2', name: 'Databricks', desc: 'One governed copy of every record — auditable, observable, queryable.', bar: '#d97706' },
+              { step: '3', name: 'dbt', desc: 'Trusted business logic, version-controlled — tests guard every transformation.', bar: '#b45309' },
+              { step: '4', name: 'React', desc: 'Ship a public-facing data product on top of your warehouse — no middleware.', bar: '#92400e' },
             ].map((s) => (
               <div key={s.name} className="rounded-xl border border-slate-200 overflow-hidden">
-                <div className={`h-1.5 bg-gradient-to-r ${s.color}`} />
+                <div className="h-1" style={{ background: s.bar }} />
                 <div className="p-5">
                   <div className="text-xs font-mono text-slate-400">STEP {s.step}</div>
-                  <div className="mt-1 text-lg font-semibold text-slate-900">{s.name}</div>
+                  <div className="mt-1 text-lg font-display font-semibold text-slate-900">{s.name}</div>
                   <div className="mt-2 text-sm text-slate-500">{s.desc}</div>
                 </div>
               </div>
@@ -125,8 +126,8 @@ export default function HomePage() {
 function InlineStat({ label, value }: { label: string; value: string }) {
   return (
     <div className="leading-tight">
-      <div className="text-[10px] uppercase tracking-wider text-primary-200 font-medium">{label}</div>
-      <div className="text-sm sm:text-base font-semibold tabular-nums">{value}</div>
+      <div className="text-[10px] uppercase tracking-wider font-medium" style={{ color: '#6b7280' }}>{label}</div>
+      <div className="text-sm sm:text-base font-display font-semibold tabular-nums text-white">{value}</div>
     </div>
   );
 }
@@ -145,25 +146,27 @@ function FindPropertySpotlight({
   };
   const samples = ['Squirrel Hill', 'Mt Lebanon', 'Glenshaw', '15217', '15116'];
   return (
-    <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-500 via-primary-600 to-primary-800 text-white shadow-xl h-full flex flex-col">
+    <div className="relative overflow-hidden rounded-2xl text-white shadow-xl h-full flex flex-col" style={{ background: 'linear-gradient(135deg, #b45309 0%, #d97706 40%, #f59e0b 100%)' }}>
+      {/* Road-grid pattern */}
       <div
-        className="absolute inset-0 opacity-15 pointer-events-none"
+        className="absolute inset-0 pointer-events-none"
         style={{
           backgroundImage:
-            'radial-gradient(circle at 20% 30%, white 1px, transparent 1px), radial-gradient(circle at 80% 70%, white 1px, transparent 1px)',
-          backgroundSize: '40px 40px',
+            'linear-gradient(rgba(0,0,0,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(0,0,0,0.1) 1px, transparent 1px)',
+          backgroundSize: '32px 32px',
+          opacity: 0.35,
         }}
       />
 
       <div className="relative p-6 sm:p-7 flex flex-col gap-5 flex-1">
-        <div className="inline-flex w-fit items-center gap-2 rounded-full bg-white/15 backdrop-blur-sm px-3 py-1 text-xs font-medium uppercase tracking-wider">
-          🔎 Find Property
+        <div className="inline-flex w-fit items-center gap-2 rounded-full bg-black/20 backdrop-blur-sm px-3 py-1 text-xs font-display font-medium uppercase tracking-wider text-amber-100">
+          Find Property
         </div>
         <div>
-          <h2 className="text-2xl sm:text-3xl font-bold leading-tight">
+          <h2 className="text-2xl sm:text-3xl font-display font-bold leading-tight text-white">
             Search any parcel in Allegheny County
           </h2>
-          <p className="mt-2 text-sm sm:text-base text-primary-100">
+          <p className="mt-2 text-sm sm:text-base" style={{ color: 'rgba(255,255,255,0.85)' }}>
             Address, parcel ID, owner, or neighborhood. Returns assessment history, exemptions,
             appeals, comparables, and an estimated tax bill.
           </p>
@@ -175,11 +178,12 @@ function FindPropertySpotlight({
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="2920 Angeline Dr, Glenshaw"
-            className="flex-1 min-w-0 rounded-md border-0 px-4 py-3 text-base text-slate-900 placeholder:text-slate-400 shadow-lg focus:outline-2 focus:outline-amber-300"
+            className="flex-1 min-w-0 rounded-md border-0 px-4 py-3 text-base text-slate-900 placeholder:text-slate-500 shadow-lg focus:outline-2 focus:outline-white"
           />
           <button
             type="submit"
-            className="inline-flex items-center justify-center gap-2 rounded-md bg-amber-500 hover:bg-amber-400 px-5 py-3 text-base font-semibold text-slate-900 shadow-lg shadow-amber-500/30 transition-all hover:shadow-amber-500/50 whitespace-nowrap"
+            className="inline-flex items-center justify-center gap-2 rounded-md px-5 py-3 text-base font-display font-semibold shadow-lg transition-all whitespace-nowrap"
+            style={{ background: '#111827', color: '#f59e0b' }}
           >
             Search
             <span aria-hidden>→</span>
@@ -187,12 +191,13 @@ function FindPropertySpotlight({
         </form>
 
         <div className="flex flex-wrap gap-2 mt-auto">
-          <span className="text-xs text-primary-200 self-center mr-1">Try:</span>
+          <span className="text-xs self-center mr-1" style={{ color: 'rgba(255,255,255,0.6)' }}>Try:</span>
           {samples.map((s) => (
             <button
               key={s}
               onClick={() => onGo(s)}
-              className="text-xs sm:text-sm rounded-lg bg-white/10 hover:bg-white/20 backdrop-blur-sm px-3 py-1.5 transition-colors border border-white/15"
+              className="text-xs sm:text-sm rounded-lg backdrop-blur-sm px-3 py-1.5 transition-colors"
+              style={{ background: 'rgba(0,0,0,0.2)', border: '1px solid rgba(255,255,255,0.2)', color: 'white' }}
             >
               {s}
             </button>
@@ -219,25 +224,25 @@ function AgentSpotlight({
     'Compare cities',
   ];
   return (
-    <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-primary-600 via-primary-700 to-primary-900 text-white shadow-xl h-full flex flex-col">
+    <div className="relative overflow-hidden rounded-2xl text-white shadow-xl h-full flex flex-col" style={{ background: 'linear-gradient(135deg, #111827 0%, #1f2937 60%, #111827 100%)' }}>
+      {/* Subtle dot grid */}
       <div
-        className="absolute inset-0 opacity-20 pointer-events-none"
+        className="absolute inset-0 pointer-events-none"
         style={{
-          backgroundImage:
-            'radial-gradient(circle at 20% 30%, white 1px, transparent 1px), radial-gradient(circle at 80% 70%, white 1px, transparent 1px)',
-          backgroundSize: '40px 40px',
+          backgroundImage: 'radial-gradient(circle, rgba(245,158,11,0.18) 1px, transparent 1px)',
+          backgroundSize: '28px 28px',
         }}
       />
 
       <div className="relative p-6 sm:p-7 flex flex-col gap-5 flex-1">
-        <div className="inline-flex w-fit items-center gap-2 rounded-full bg-white/15 backdrop-blur-sm px-3 py-1 text-xs font-medium uppercase tracking-wider">
-          <span aria-hidden>✨</span> AI Agent
+        <div className="inline-flex w-fit items-center gap-2 rounded-full px-3 py-1 text-xs font-display font-medium uppercase tracking-wider" style={{ background: 'rgba(245,158,11,0.12)', color: '#fbbf24', border: '1px solid rgba(245,158,11,0.2)' }}>
+          AI Agent
         </div>
         <div>
-          <h2 className="text-2xl sm:text-3xl font-bold leading-tight">
+          <h2 className="text-2xl sm:text-3xl font-display font-bold leading-tight text-white">
             Ask the Property Insight Agent
           </h2>
-          <p className="mt-2 text-sm sm:text-base text-primary-50">
+          <p className="mt-2 text-sm sm:text-base" style={{ color: '#9ca3af' }}>
             Skip the form — ask in plain English. The local rules engine answers instantly;
             opt-in Claude mode handles harder questions.
           </p>
@@ -248,15 +253,17 @@ function AgentSpotlight({
             <button
               key={s}
               onClick={() => onAsk(s)}
-              className="group/chip text-left text-sm sm:text-base rounded-lg bg-white/10 hover:bg-white/20 backdrop-blur-sm px-4 py-3 transition-colors border border-white/15 flex items-center justify-between gap-3"
+              className="group/chip text-left text-sm sm:text-base rounded-lg px-4 py-3 transition-colors flex items-center justify-between gap-3"
+              style={{ background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.08)', color: '#e5e7eb' }}
             >
               <span className="flex items-center gap-2.5">
-                <span aria-hidden className="text-primary-100">✨</span>
+                <span aria-hidden style={{ color: '#fbbf24' }}>→</span>
                 <span>{s}</span>
               </span>
               <span
                 aria-hidden
-                className="text-primary-100 group-hover/chip:translate-x-0.5 transition-transform"
+                className="group-hover/chip:translate-x-0.5 transition-transform"
+                style={{ color: '#6b7280' }}
               >
                 →
               </span>
@@ -267,14 +274,16 @@ function AgentSpotlight({
         <div className="mt-auto flex items-center gap-3 flex-wrap">
           <button
             onClick={onOpen}
-            className="inline-flex w-fit items-center gap-2 rounded-md bg-white text-primary-700 px-5 py-3 text-base font-semibold shadow-lg hover:bg-primary-50 transition-colors"
+            className="inline-flex w-fit items-center gap-2 rounded-md px-5 py-3 text-base font-display font-semibold shadow-lg transition-colors"
+            style={{ background: '#f59e0b', color: '#111827' }}
           >
             Open the agent
             <span aria-hidden>→</span>
           </button>
           <button
             onClick={onAbout}
-            className="inline-flex items-center gap-1.5 text-sm text-primary-50 hover:text-white font-medium underline-offset-4 hover:underline"
+            className="inline-flex items-center gap-1.5 text-sm font-medium underline-offset-4 hover:underline"
+            style={{ color: '#9ca3af' }}
           >
             How it works
             <span aria-hidden>→</span>

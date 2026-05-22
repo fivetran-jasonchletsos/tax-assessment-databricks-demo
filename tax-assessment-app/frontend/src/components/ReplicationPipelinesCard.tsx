@@ -242,19 +242,32 @@ export default function ReplicationPipelinesCard({
             >
               {/* Pipeline */}
               <div className="min-w-0">
-                <a
-                  href={row.dashboard_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center text-[15px] font-semibold leading-tight hover:underline"
-                  style={{ color: '#f5f5f4' }}
-                >
-                  <span className="truncate">{row.schema || row.id}</span>
+                <div className="flex items-center gap-2">
+                  <span className="text-[15px] font-semibold leading-tight truncate" style={{ color: '#f5f5f4' }}>
+                    {row.schema || row.id}
+                  </span>
                   <DestinationGlyph name={row.destination} />
-                  <span style={{ color: '#a3a3a3' }} className="truncate">{row.destination.toLowerCase()}</span>
-                </a>
-                <div className="text-[12px] mt-1" style={{ color: '#737373' }}>
-                  {sourceDb} · {rowsTotal}
+                  <span style={{ color: '#a3a3a3' }} className="truncate text-[13px]">{row.destination.toLowerCase()}</span>
+                </div>
+                <div className="flex items-center gap-3 mt-1.5 flex-wrap">
+                  <span className="text-[11px]" style={{ color: '#737373' }}>
+                    {sourceDb} · {rowsTotal}
+                  </span>
+                  <span className="text-[10px] font-mono" style={{ color: '#525252' }}>
+                    id: {row.id}
+                  </span>
+                  <a
+                    href={row.dashboard_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 rounded px-1.5 py-0.5 text-[10px] font-semibold transition-colors"
+                    style={{ background: 'rgba(245,158,11,0.15)', color: '#fbbf24', border: '1px solid rgba(245,158,11,0.2)' }}
+                  >
+                    Open in Fivetran
+                    <svg viewBox="0 0 16 16" className="h-2.5 w-2.5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <path d="M6 3h7v7M13 3 3 13" />
+                    </svg>
+                  </a>
                 </div>
               </div>
 

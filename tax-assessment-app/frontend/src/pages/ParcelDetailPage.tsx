@@ -124,13 +124,13 @@ export default function ParcelDetailPage() {
         <span className="text-slate-700">{parcel.parcel_id}</span>
       </nav>
 
-      <header className="rounded-2xl bg-gradient-to-br from-primary-700 to-primary-900 text-white p-6 sm:p-8 shadow-lg">
+      <header className="rounded-2xl text-white p-6 sm:p-8 shadow-lg" style={{ background: 'linear-gradient(135deg, #111827 0%, #1f2937 70%, #111827 100%)' }}>
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4">
           <div>
-            <div className="text-xs uppercase tracking-wider text-primary-200 font-mono">
+            <div className="text-xs uppercase tracking-wider font-mono" style={{ color: '#f59e0b' }}>
               Parcel {parcel.parcel_id}
             </div>
-            <h1 className="mt-1 text-3xl sm:text-4xl font-bold">{parcel.address}</h1>
+            <h1 className="mt-1 text-3xl sm:text-4xl font-display font-bold">{parcel.address}</h1>
             <div className="mt-1 text-primary-100">
               {parcel.city}, PA {parcel.zip_code} · {parcel.county} County
             </div>

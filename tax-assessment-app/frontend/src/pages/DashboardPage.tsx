@@ -187,10 +187,10 @@ export default function DashboardPage() {
     return (
       <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
         <header className="mb-6 max-w-3xl">
-          <div className="inline-flex items-center rounded-full bg-primary-100 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
+          <div className="inline-flex items-center rounded-full px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3" style={{ background: '#fef3c7', color: '#b45309' }}>
             Dashboard
           </div>
-          <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
+          <h1 className="text-3xl font-display font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
           <p className="text-sm text-slate-500 mt-2">Loading 575,000+ parcels from the published snapshot…</p>
           <div className="mt-3">
             <LoadingBanner
@@ -226,10 +226,10 @@ export default function DashboardPage() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
       <header className="mb-6 max-w-3xl">
-        <div className="inline-flex items-center rounded-full bg-primary-100 text-primary-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
+        <div className="inline-flex items-center rounded-full px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3" style={{ background: '#fef3c7', color: '#b45309' }}>
           Dashboard
         </div>
-        <h1 className="text-3xl font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
+        <h1 className="text-3xl font-display font-bold text-slate-900 tracking-tight">County-wide deep dive</h1>
         <p className="text-sm text-slate-500 mt-2">
           Residential parcels across {byCity.length}{filtered ? ' filtered' : ''} municipalities, served
           live from your governed warehouse.
@@ -770,16 +770,17 @@ function KPI({
     <div
       className={`rounded-lg p-4 ${
         primary
-          ? 'bg-primary-700 text-white shadow-md'
+          ? 'text-white shadow-md'
           : muted
           ? 'bg-slate-100 text-slate-700'
           : 'bg-white border border-slate-200'
       }`}
+      style={primary ? { background: '#111827' } : undefined}
     >
-      <div className={`text-[10px] uppercase tracking-wider font-medium ${primary ? 'text-primary-100' : 'text-slate-500'}`}>
+      <div className={`text-[10px] uppercase tracking-wider font-medium ${primary ? '' : 'text-slate-500'}`} style={primary ? { color: '#f59e0b' } : undefined}>
         {label}
       </div>
-      <div className={`mt-1 text-xl sm:text-2xl font-semibold tabular-nums ${primary ? 'text-white' : 'text-slate-900'}`}>
+      <div className={`mt-1 text-xl sm:text-2xl font-display font-semibold tabular-nums ${primary ? 'text-white' : 'text-slate-900'}`}>
         {value}
       </div>
       {spark && spark.values.length >= 2 && (
@@ -795,7 +796,7 @@ function KPI({
         </div>
       )}
       {caption && (
-        <div className={`mt-0.5 text-[11px] ${primary ? 'text-primary-100' : 'text-slate-400'}`}>{caption}</div>
+        <div className={`mt-0.5 text-[11px] ${primary ? '' : 'text-slate-400'}`} style={primary ? { color: '#9ca3af' } : undefined}>{caption}</div>
       )}
     </div>
   );

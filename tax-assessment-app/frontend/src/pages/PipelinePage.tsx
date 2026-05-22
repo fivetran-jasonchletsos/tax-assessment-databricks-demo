@@ -168,11 +168,11 @@ export default function PipelinePage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-      <header className="mb-6">
-        <div className="inline-flex items-center rounded-full bg-emerald-100 text-emerald-700 px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3">
+      <header className="mb-6 animate-fade-up">
+        <div className="inline-flex items-center rounded-full px-3 py-1 text-xs font-medium uppercase tracking-wider mb-3" style={{ background: '#fef3c7', color: '#b45309' }}>
           Pipeline Health
         </div>
-        <h1 className="text-3xl font-bold text-slate-900">End-to-end status</h1>
+        <h1 className="text-3xl font-display font-bold text-slate-900">End-to-end status</h1>
         <p className="text-sm text-slate-500 mt-1">
           Live snapshot of every layer in the stack: Fivetran connectors, the Databricks warehouse,
           the dbt transformation, and this site. Generated{' '}
@@ -346,17 +346,23 @@ function ConnectorCard({
         <DT>Last failure</DT>
         <DD value={c.failed_at ? relTime(c.failed_at) : 'none'} tone={c.failed_at ? 'error' : undefined} />
       </dl>
-      <footer className="px-4 py-2 border-t border-slate-100 bg-slate-50 text-xs flex items-center justify-between">
-        <span className="text-slate-500">Connection ID: <code className="font-mono">{c.id}</code></span>
+      <footer className="px-4 py-2.5 border-t border-slate-100 bg-slate-50 text-xs flex items-center justify-between gap-3">
+        <div className="flex flex-col gap-0.5">
+          <span className="text-[10px] uppercase tracking-wider text-slate-400 font-medium">Fivetran ID</span>
+          <code className="font-mono text-slate-600 text-[11px]">{c.id}</code>
+        </div>
         <div className="flex items-center gap-3">
           <SimulateButton simulated={simulated} onClick={onSimulate} />
           <a
             href={c.dashboard_url}
             target="_blank"
             rel="noreferrer"
-            className="text-primary-700 hover:text-primary-900 font-medium"
+            className="btn-fivetran"
           >
-            Fivetran dashboard ↗
+            Open in Fivetran
+            <svg viewBox="0 0 16 16" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <path d="M6 3h7v7M13 3 3 13" />
+            </svg>
           </a>
         </div>
       </footer>
@@ -500,7 +506,11 @@ function ProjectCard({
             <DT>Last ended</DT>
             <DD value={mostRecent.last_ended_at ? relTime(mostRecent.last_ended_at) : '—'} />
             <DT>Models</DT>
-            <DD value={mostRecent.output_model_names?.join(', ') || '—'} mono />
+            <DD value={
+              mostRecent.output_model_names
+                ?.map((m) => m.replace(/^gold\./i, ''))
+                .join(', ') || '—'
+            } mono />
           </div>
         </div>
       )}
