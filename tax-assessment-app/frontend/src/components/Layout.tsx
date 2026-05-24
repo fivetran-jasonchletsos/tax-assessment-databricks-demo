@@ -8,23 +8,56 @@ import HelpTour from './HelpTour';
 // Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unlocks the DefenderSync easter egg.
 const KONAMI = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
 
-const NAV_ITEMS: [string, string][] = [
-  ['/', 'Home'],
-  ['/search', 'Properties'],
-  ['/dashboard', 'Dashboard'],
-  ['/map', 'Map'],
-  ['/agent', 'Ask AI'],
-  ['/ask', 'Ask (Cortex)'],
-  ['/pipeline', 'Pipeline'],
-  ['/about', 'About'],
+// Three-cluster nav, mirrors Clarity / Verity / Altavest:
+//   1. Persona links (Home + industry pages, flat)
+//   2. dbt-Wizard ▾ — narrative dropdown (Overview / Scenario / Live / Outcome)
+//   3. ODI ▾ — plumbing dropdown (Architecture / Pipeline / About)
+type NavEntry =
+  | { kind: 'link'; to: string; label: string }
+  | { kind: 'group'; label: string; rootTo: string; matchPrefixes: string[]; children: { to: string; label: string }[] };
+
+const NAV: NavEntry[] = [
+  { kind: 'link', to: '/',          label: 'Home' },
+  { kind: 'link', to: '/search',    label: 'Properties' },
+  { kind: 'link', to: '/dashboard', label: 'Dashboard' },
+  { kind: 'link', to: '/map',       label: 'Map' },
+  { kind: 'link', to: '/agent',     label: 'Ask AI' },
+  { kind: 'link', to: '/ask',       label: 'Ask (Cortex)' },
+  {
+    kind: 'group',
+    label: 'dbt-Wizard',
+    rootTo: '/dbt-wizard',
+    matchPrefixes: ['/dbt-wizard', '/scenario', '/wizard-live', '/outcome'],
+    children: [
+      { to: '/dbt-wizard',  label: 'Overview' },
+      { to: '/scenario',    label: 'Scenario' },
+      { to: '/wizard-live', label: 'Live build' },
+      { to: '/outcome',     label: 'Outcome' },
+    ],
+  },
+  {
+    kind: 'group',
+    label: 'ODI',
+    rootTo: '/architecture',
+    matchPrefixes: ['/architecture', '/pipeline', '/about'],
+    children: [
+      { to: '/architecture', label: 'Architecture' },
+      { to: '/pipeline',     label: 'Pipeline' },
+      { to: '/about',        label: 'About' },
+    ],
+  },
 ];
+
+const NAV_FLAT: { to: string; label: string }[] = NAV.flatMap((e) =>
+  e.kind === 'link' ? [{ to: e.to, label: e.label }] : e.children,
+);
 
 type DemoEntry = { key: string; name: string; industry: string; url: string; accent: string };
 const DEMOS: DemoEntry[] = [
-  { key: 'tax-assessment', name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/', accent: '#dc2626' },
-  { key: 'healthcare',     name: 'Epic Clarity',         industry: 'Healthcare · Clinical analytics',     url: 'https://fivetran-jasonchletsos.github.io/Healthcare-EPIC-Snowflake-Demo/', accent: '#0d9488' },
-  { key: 'finserv',        name: 'Meridian Capital',     industry: 'Financial Services · Wealth & banking', url: 'https://fivetran-jasonchletsos.github.io/FinServ-ODI-Demo/', accent: '#1d4ed8' },
-  { key: 'insurance',     name: 'Atlas Risk',           industry: 'Insurance · Policies, claims, reinsurance', url: 'https://fivetran-jasonchletsos.github.io/Insurance-ODI-Demo/', accent: '#0369a1' },
+  { key: 'tax-assessment', name: 'Allegheny County Tax', industry: 'Public sector · Property assessment', url: 'https://fivetran-jasonchletsos.github.io/tax-assessment-databricks-demo/', accent: '#f59e0b' },
+  { key: 'healthcare',     name: 'Clarity Health',         industry: 'Healthcare · Clinical analytics',     url: 'https://fivetran-jasonchletsos.github.io/Healthcare-EPIC-Snowflake-Demo/', accent: '#0d9488' },
+  { key: 'finserv',        name: 'Altavest Capital',     industry: 'Financial Services · Wealth & banking', url: 'https://fivetran-jasonchletsos.github.io/FinServ-ODI-Demo/', accent: '#1d4ed8' },
+  { key: 'insurance',     name: 'Verity Insurance',           industry: 'Insurance · Policies, claims, reinsurance', url: 'https://fivetran-jasonchletsos.github.io/Insurance-ODI-Demo/', accent: '#0369a1' },
   { key: 'media',          name: 'Lighthouse Media',     industry: 'Media · Audience intelligence',       url: 'https://fivetran-jasonchletsos.github.io/Media-ODI-Demo/', accent: '#7c3aed' },
   { key: 'retail',         name: 'Storefront Analytics', industry: 'Retail & e-commerce',                  url: 'https://fivetran-jasonchletsos.github.io/RetailEcom-ODI-Demo/', accent: '#ea580c' },
   { key: 'techsaas',       name: 'SaaS Pulse',           industry: 'Tech · SaaS analytics',                url: 'https://fivetran-jasonchletsos.github.io/TechSaaS-ODI-Demo/', accent: '#059669' },
@@ -33,6 +66,88 @@ const DEMOS: DemoEntry[] = [
   { key: 'mission-control', name: 'Mission Control', industry: 'Admin · Governance + observability', url: 'https://fivetran-jasonchletsos.github.io/ODI-Mission-Control/', accent: '#22d3ee' },
 ];
 const CURRENT_DEMO = 'tax-assessment';
+
+// ─── NavEntryEl — dark-theme variant (amber-400 active on dark slate) ───────
+function NavEntryEl({ entry, pathname }: { entry: NavEntry; pathname: string }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLSpanElement>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e: MouseEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false);
+    };
+    const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setOpen(false); };
+    document.addEventListener('mousedown', onDown);
+    document.addEventListener('keydown', onKey);
+    return () => {
+      document.removeEventListener('mousedown', onDown);
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [open]);
+
+  useEffect(() => { setOpen(false); }, [pathname]);
+
+  if (entry.kind === 'link') {
+    return (
+      <NavLink
+        to={entry.to}
+        end={entry.to === '/'}
+        className={({ isActive }) =>
+          `relative px-3 py-2 rounded-md font-medium tracking-tight transition-colors text-[13px] whitespace-nowrap font-body ${
+            isActive
+              ? 'text-amber-400 font-semibold bg-white/5'
+              : 'text-gray-300 hover:text-white hover:bg-white/5'
+          }`
+        }
+      >
+        {entry.label}
+      </NavLink>
+    );
+  }
+
+  const isActive = entry.matchPrefixes.some((p) => pathname === p || pathname.startsWith(p + '/'));
+  return (
+    <span ref={ref} className="relative inline-block">
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        className={`relative px-3 py-2 rounded-md font-medium tracking-tight transition-colors text-[13px] whitespace-nowrap inline-flex items-center gap-1 font-body ${
+          isActive
+            ? 'text-amber-400 font-semibold bg-white/5'
+            : 'text-gray-300 hover:text-white hover:bg-white/5'
+        }`}
+      >
+        {entry.label}
+        <svg width="9" height="9" viewBox="0 0 10 10" aria-hidden className={`transition-transform ${open ? 'rotate-180' : ''}`}>
+          <path d="M2 4 L5 7 L8 4" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      </button>
+      {open && (
+        <span role="menu" className="absolute left-0 top-full mt-1 min-w-[200px] rounded-md shadow-xl overflow-hidden z-50" style={{ background: '#1f2937', border: '1px solid #374151' }}>
+          {entry.children.map((c) => (
+            <NavLink
+              key={c.to}
+              to={c.to}
+              end={c.to === '/'}
+              className={({ isActive: ia }) =>
+                `block px-4 py-2.5 text-[13px] font-medium transition-colors font-body ${
+                  ia
+                    ? 'bg-white/10 text-amber-400'
+                    : 'text-gray-300 hover:bg-white/10 hover:text-white'
+                }`
+              }
+            >
+              {c.label}
+            </NavLink>
+          ))}
+        </span>
+      )}
+    </span>
+  );
+}
 
 export default function Layout() {
   const [source, setSource] = useState<DataSource>('demo');
@@ -55,7 +170,6 @@ export default function Layout() {
     };
   }, []);
 
-  // Konami code listener — unlocks the DefenderSync easter egg.
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       const tag = (e.target as HTMLElement)?.tagName?.toLowerCase();
@@ -73,7 +187,6 @@ export default function Layout() {
     return () => window.removeEventListener('keydown', onKey);
   }, []);
 
-  // Close mobile drawer on route change.
   useEffect(() => {
     setMobileOpen(false);
   }, [location.pathname]);
@@ -110,7 +223,7 @@ export default function Layout() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Search address, parcel ID, or owner..."
-                className="flex-1 rounded-l-md border-0 px-4 py-2 text-sm text-slate-900 placeholder:text-slate-400 focus:outline-2 focus:outline-amber-400"
+                className="flex-1 rounded-l-md border-0 px-4 py-2 text-sm placeholder:text-slate-400 focus:outline-2 focus:outline-amber-400"
                 style={{ background: '#1f2937', color: '#f3f4f6', outline: 'none' }}
               />
               <button
@@ -123,30 +236,17 @@ export default function Layout() {
               </button>
             </form>
 
-            {/* Desktop nav */}
-            <nav className="hidden lg:flex items-center gap-1 text-sm">
-              {NAV_ITEMS.map(([to, label]) => (
-                <NavLink
-                  key={to}
-                  to={to}
-                  end={to === '/'}
-                  className={({ isActive }) =>
-                    `px-3 py-2 rounded-md transition-colors font-body ${
-                      isActive
-                        ? 'text-amber-400 font-semibold bg-white/5'
-                        : 'text-gray-300 hover:text-white hover:bg-white/5'
-                    }`
-                  }
-                >
-                  {label}
-                </NavLink>
+            {/* Desktop nav — dbt-Wizard ▾ + ODI ▾ */}
+            <nav className="hidden lg:flex items-center gap-0.5 text-sm">
+              {NAV.map((entry) => (
+                <NavEntryEl key={entry.kind === 'link' ? entry.to : entry.label} entry={entry} pathname={location.pathname} />
               ))}
             </nav>
 
             <div className="flex items-center gap-2">
               <button
                 onClick={() => navigate('/watchlist')}
-                className="relative inline-flex h-9 w-9 items-center justify-center rounded-md hover:bg-primary-700/70"
+                className="relative inline-flex h-9 w-9 items-center justify-center rounded-md hover:bg-white/5"
                 aria-label="Watchlist"
                 title="Watchlist"
               >
@@ -166,7 +266,7 @@ export default function Layout() {
                 onClick={() => setMobileOpen((o) => !o)}
                 aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
                 aria-expanded={mobileOpen}
-                className="lg:hidden h-9 w-9 inline-flex items-center justify-center rounded-md hover:bg-primary-700/70"
+                className="lg:hidden h-9 w-9 inline-flex items-center justify-center rounded-md hover:bg-white/5"
               >
                 {mobileOpen ? (
                   <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
@@ -203,9 +303,9 @@ export default function Layout() {
                 </button>
               </form>
               <nav className="grid grid-cols-2 gap-1 text-sm">
-                {NAV_ITEMS.map(([to, label]) => (
+                {NAV_FLAT.map(({ to, label }) => (
                   <NavLink
-                    key={to}
+                    key={to + label}
                     to={to}
                     end={to === '/'}
                     className={({ isActive }) =>
@@ -234,11 +334,11 @@ export default function Layout() {
                           style={{ backgroundColor: d.accent }}
                         />
                         <div className="flex-1 min-w-0">
-                          <div className="text-sm font-semibold truncate">{d.name}</div>
-                          <div className="text-[11px] text-primary-200 truncate">{d.industry}</div>
+                          <div className="text-sm font-semibold truncate text-white">{d.name}</div>
+                          <div className="text-[11px] truncate" style={{ color: '#9ca3af' }}>{d.industry}</div>
                         </div>
                         {isCurrent && (
-                          <span className="text-[10px] uppercase tracking-wider bg-primary-700 text-primary-100 rounded px-1.5 py-0.5">
+                          <span className="text-[10px] uppercase tracking-wider rounded px-1.5 py-0.5" style={{ background: '#374151', color: '#fbbf24' }}>
                             Current
                           </span>
                         )}
@@ -247,7 +347,8 @@ export default function Layout() {
                     return isCurrent ? (
                       <div
                         key={d.key}
-                        className="flex items-center gap-2 px-3 py-2 rounded-md bg-primary-700/30 opacity-70"
+                        className="flex items-center gap-2 px-3 py-2 rounded-md opacity-70"
+                        style={{ background: 'rgba(255,255,255,0.05)' }}
                       >
                         {inner}
                       </div>
@@ -255,7 +356,8 @@ export default function Layout() {
                       <a
                         key={d.key}
                         href={d.url}
-                        className="flex items-center gap-2 px-3 py-2 rounded-md bg-primary-700/30 hover:bg-primary-700/60 transition-colors"
+                        className="flex items-center gap-2 px-3 py-2 rounded-md hover:bg-white/10 transition-colors"
+                        style={{ background: 'rgba(255,255,255,0.05)' }}
                       >
                         {inner}
                       </a>
