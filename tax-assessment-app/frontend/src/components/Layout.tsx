@@ -381,7 +381,7 @@ export default function Layout() {
           <div>
             Data flow:{' '}
             <strong style={{ color: '#f59e0b' }}>
-              Fivetran → Databricks → dbt → daily refresh
+              Fivetran → Iceberg on S3 → dbt → Great Expectations → Databricks → daily refresh
             </strong>
           </div>
           <div style={{ color: '#4b5563' }}>© 2026 Allegheny County</div>

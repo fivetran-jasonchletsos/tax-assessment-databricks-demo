@@ -1,5 +1,5 @@
 // ============================================================
-// API helpers — reads static JSON snapshots written by
+// API helpers — reads the gold layer written by
 // scripts/build_snapshot.py. The snapshot is regenerated daily
 // by .github/workflows/refresh-data.yml against Databricks.
 //
@@ -45,7 +45,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 async function fetchJson<T>(path: string): Promise<T> {
   const url = `${BASE}${path}`;
-  const res = await fetch(url, { cache: 'no-cache' });
+  const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`);
   return (await res.json()) as T;
 }

@@ -6,10 +6,11 @@ import { api, formatCurrency, formatNumber, formatPercent } from '../api/queries
 import { quantile, valueHistogram } from '../analytics';
 import type { ParcelSearchResult } from '../types';
 
+const LEAFLET_BASE = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/leaflet`;
 L.Icon.Default.mergeOptions({
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  iconRetinaUrl: `${LEAFLET_BASE}/marker-icon-2x.png`,
+  iconUrl: `${LEAFLET_BASE}/marker-icon.png`,
+  shadowUrl: `${LEAFLET_BASE}/marker-shadow.png`,
 });
 
 type Mode = 'assessed' | 'market' | 'ratio' | 'change';

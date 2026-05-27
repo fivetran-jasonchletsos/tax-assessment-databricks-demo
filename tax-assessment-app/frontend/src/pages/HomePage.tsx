@@ -5,12 +5,13 @@ import L from 'leaflet';
 import { api, formatCurrency, formatNumber } from '../api/queries';
 import type { SummaryStats, ParcelSearchResult } from '../types';
 
-// Leaflet's default marker icon URLs are bundler-hostile; point them at the
-// CDN explicitly (same fix used on the parcel detail page).
+// Leaflet's default marker icon URLs are bundler-hostile; serve from
+// public/leaflet via BASE_URL (Fastly-cached) instead of hot-linking unpkg.
+const LEAFLET_BASE = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/leaflet`;
 L.Icon.Default.mergeOptions({
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  iconRetinaUrl: `${LEAFLET_BASE}/marker-icon-2x.png`,
+  iconUrl: `${LEAFLET_BASE}/marker-icon.png`,
+  shadowUrl: `${LEAFLET_BASE}/marker-shadow.png`,
 });
 
 export default function HomePage() {

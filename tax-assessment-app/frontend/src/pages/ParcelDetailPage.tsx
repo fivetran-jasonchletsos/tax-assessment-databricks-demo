@@ -28,11 +28,13 @@ import type {
   ParcelDetail,
 } from '../types';
 
-// Fix Leaflet default marker icon paths (Vite would otherwise 404)
+// Fix Leaflet default marker icon paths (Vite would otherwise 404).
+// Served locally from public/leaflet so we don't hot-link unpkg.
+const LEAFLET_BASE = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/leaflet`;
 L.Icon.Default.mergeOptions({
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
-  iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  iconRetinaUrl: `${LEAFLET_BASE}/marker-icon-2x.png`,
+  iconUrl: `${LEAFLET_BASE}/marker-icon.png`,
+  shadowUrl: `${LEAFLET_BASE}/marker-shadow.png`,
 });
 
 export default function ParcelDetailPage() {
