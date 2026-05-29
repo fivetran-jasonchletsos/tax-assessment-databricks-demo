@@ -110,6 +110,9 @@ async function loadDetail(parcelId: string): Promise<DetailBundle> {
       return synthesizeDetailFromList(parcelId);
     }
   })();
+  // Don't cache a rejected promise — a transient failure would otherwise
+  // poison the cache and make every later lookup for this parcel fail.
+  p.catch(() => detailCache.delete(parcelId));
   detailCache.set(parcelId, p);
   return p;
 }
@@ -194,10 +197,10 @@ export const api = {
       const q = params.q.toLowerCase();
       results = results.filter(
         (p) =>
-          p.address.toLowerCase().includes(q) ||
-          p.parcel_id.toLowerCase().includes(q) ||
+          (p.address ?? '').toLowerCase().includes(q) ||
+          (p.parcel_id ?? '').toLowerCase().includes(q) ||
           (p.current_owner_name ?? '').toLowerCase().includes(q) ||
-          p.city.toLowerCase().includes(q) ||
+          (p.city ?? '').toLowerCase().includes(q) ||
           (p.land_use_description ?? '').toLowerCase().includes(q),
       );
     }
