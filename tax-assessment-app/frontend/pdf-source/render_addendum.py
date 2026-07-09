@@ -11,7 +11,7 @@ with sync_playwright() as p:
     page.goto(HTML)
     page.pdf(
         path=OUT,
-        width="612px", height="792px",   # US letter in points, matches @page
+        format="Letter",
         print_background=True,
         margin={"top": "0", "bottom": "0", "left": "0", "right": "0"},
     )
