@@ -14,6 +14,7 @@ import MapPage from './pages/MapPage';
 import WatchlistPage from './pages/WatchlistPage';
 import AboutPage from './pages/AboutPage';
 import ArchitecturePage from './pages/ArchitecturePage';
+import ActivationLivePage from './pages/ActivationLivePage';
 import NotFoundPage from './pages/NotFoundPage';
 
 const queryClient = new QueryClient({
@@ -43,6 +44,7 @@ export default function App() {
             <Route path="/watchlist" element={<WatchlistPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/architecture" element={<ArchitecturePage />} />
+            <Route path="/activations-live" element={<ActivationLivePage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Route>
         </Routes>

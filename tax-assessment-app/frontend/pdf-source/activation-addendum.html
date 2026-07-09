@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @page { size: 612pt 792pt; margin: 0; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; width: 612pt; height: 792pt; padding: 40pt 44pt;
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    color: #1a1a1a; background: #ffffff;
+  }
+  .eyebrow {
+    font-size: 9pt; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.14em; color: #0e7490; margin-bottom: 4pt;
+  }
+  h1 { font-size: 20pt; margin: 0 0 6pt; font-weight: 700; }
+  .sub { font-size: 10.5pt; color: #4b5563; margin: 0 0 18pt; line-height: 1.4; }
+  .tiles { display: flex; gap: 10pt; margin-bottom: 20pt; }
+  .tile {
+    flex: 1; border: 1pt solid #d9d3c4; border-radius: 3pt; padding: 10pt 12pt;
+  }
+  .tile .label { font-size: 8pt; text-transform: uppercase; letter-spacing: 0.1em; color: #6b7280; }
+  .tile .value { font-size: 16pt; font-weight: 700; margin-top: 3pt; color: #0e7490; }
+  .tile .note { font-size: 8.5pt; color: #6b7280; margin-top: 3pt; }
+  table.beats { width: 100%; border-collapse: collapse; font-size: 9.5pt; }
+  table.beats th {
+    text-align: left; font-size: 8pt; text-transform: uppercase; letter-spacing: 0.1em;
+    color: #6b7280; border-bottom: 1pt solid #d9d3c4; padding: 6pt 8pt;
+  }
+  table.beats td { padding: 8pt; border-bottom: 0.5pt solid #e8e4d8; vertical-align: top; line-height: 1.4; }
+  table.beats tr:last-child td { border-bottom: none; }
+  .say { color: #1a1a1a; }
+  .show { color: #0e7490; font-weight: 600; }
+  .footnote { margin-top: 16pt; font-size: 8pt; color: #9ca3af; line-height: 1.5; }
+</style>
+</head>
+<body>
+  <div class="eyebrow">Activations &middot; NewCo</div>
+  <h1>The gold layer gets acted on, not just queried</h1>
+  <p class="sub">
+    Activations is the fourth native NewCo stage, right after Transformations. The instant
+    gold.fct_assessment_current flags a parcel with an assessed-value jump over 20% year over year,
+    no matching row in gold.fct_appeals for the current filing year, and the county's appeal-filing
+    deadline inside 30 days, Activations pushes that parcel straight into Granicus GovDelivery as a
+    segmented subscriber &mdash; no reverse-ETL vendor, no second copy of the data, no analyst
+    re-keying names into a spreadsheet once a quarter.
+  </p>
+
+  <div class="tiles">
+    <div class="tile"><div class="label">Trigger</div><div class="value">20%+ YoY</div><div class="note">value shock, no appeal, deadline &le;30 days</div></div>
+    <div class="tile"><div class="label">Destination</div><div class="value">GovDelivery</div><div class="note">Assessment_Shock_Subscribers</div></div>
+    <div class="tile"><div class="label">Pre-deadline filing rate</div><div class="value">18% &rarr; 52%</div><div class="note">assessment-shock parcels, per cycle</div></div>
+  </div>
+
+  <table class="beats">
+    <thead><tr><th style="width:45%">What you say</th><th>What you show</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="say">"Assessment shock drives most of our appeal-season call volume. Right now, the moment a parcel's assessed value jumps more than 20% year over year with no appeal on file, that fact sits in gold.fct_assessment_current &mdash; but nobody acts on it until an analyst runs Friday's report."</td>
+        <td class="show">gold.fct_assessment_current flips a row's shock flag to true on screen &mdash; assessed value up 24.6%, no appeal on file, deadline in 22 days.</td>
+      </tr>
+      <tr>
+        <td class="say">"Watch this instead. The second dbt marks a parcel 'shock, no appeal, deadline in 30 days,' Activations picks up that segment on the next scheduled sync and pushes it straight into Granicus GovDelivery as a subscriber list &mdash; value-change percentage, deadline date, and neighborhood already sitting in merge fields."</td>
+        <td class="show">Architecture page &rarr; Activations panel &rarr; /activations-live: Segment Definition &rarr; Field Mapping &rarr; API Push.</td>
+      </tr>
+      <tr>
+        <td class="say">"The outreach team's deadline-reminder campaign fires against a list that's minutes old, not weeks old."</td>
+        <td class="show">/activations-live &rarr; Destination Confirmation table; subscriber count ticks up and merge fields populate within the sync window.</td>
+      </tr>
+      <tr>
+        <td class="say">"Last cycle, moving this from quarterly-manual to sync-on-build took the pre-deadline filing rate from 18 percent to 52 percent, and cut projected post-certification refund liability by an estimated $1.8 million."</td>
+        <td class="show">Before/After panel &rarr; Reverse-ETL hop row: Census + Hightouch replaced by NewCo Activations, native.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="footnote">
+    Modeled outcome: closing the pre-deadline window is estimated to cut projected post-certification
+    refund-and-interest liability by $1.8M per appeal cycle and pull roughly 3,100 avoidable calls out of
+    the assessor's call-center queue during the 40-day appeal window. Allegheny County Tax is a fictional
+    demo entity &mdash; synthetic data only.
+  </div>
+</body>
+</html>

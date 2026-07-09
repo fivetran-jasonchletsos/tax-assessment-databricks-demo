@@ -39,11 +39,12 @@ const NAV: NavEntry[] = [
     kind: 'group',
     label: 'ODI',
     rootTo: '/architecture',
-    matchPrefixes: ['/architecture', '/pipeline', '/about'],
+    matchPrefixes: ['/architecture', '/pipeline', '/about', '/activations-live'],
     children: [
-      { to: '/architecture', label: 'Architecture' },
-      { to: '/pipeline',     label: 'Pipeline' },
-      { to: '/about',        label: 'About' },
+      { to: '/architecture',      label: 'Architecture' },
+      { to: '/activations-live',  label: 'Activations' },
+      { to: '/pipeline',          label: 'Pipeline' },
+      { to: '/about',             label: 'About' },
     ],
   },
 ];
@@ -377,14 +378,20 @@ export default function Layout() {
 
       <footer className="border-t" style={{ background: '#111827', borderColor: '#1f2937' }}>
         <div className="fuel-stripe" />
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6 text-xs sm:text-sm flex flex-col md:flex-row gap-2 md:items-center md:justify-between" style={{ color: '#6b7280' }}>
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6 text-xs sm:text-sm flex flex-col md:flex-row gap-3 md:items-center md:justify-between" style={{ color: '#6b7280' }}>
           <div>
             Data flow:{' '}
             <strong style={{ color: '#f59e0b' }}>
-              Fivetran → Iceberg on S3 → dbt → Great Expectations → Databricks → daily refresh
+              Fivetran → Iceberg on S3 → dbt → Great Expectations → Databricks → NewCo Activations → Granicus GovDelivery → daily refresh
             </strong>
           </div>
-          <div style={{ color: '#4b5563' }}>© 2026 Allegheny County</div>
+          <div className="flex items-center gap-3">
+            <span className="inline-flex items-center gap-1.5 rounded-md border px-2 py-1" style={{ borderColor: '#1f2937', background: 'rgba(255,255,255,0.03)' }}>
+              <span className="inline-flex items-center justify-center h-4 px-1 rounded text-[9px] font-bold text-white" style={{ background: '#0073FF' }}>N</span>
+              <span className="font-semibold" style={{ color: '#e5e7eb' }}>NewCo</span>
+            </span>
+            <span style={{ color: '#4b5563' }}>© 2026 Allegheny County</span>
+          </div>
         </div>
       </footer>
 

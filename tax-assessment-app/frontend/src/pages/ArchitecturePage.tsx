@@ -7,7 +7,9 @@
 // history (Oracle) + USPS address stream + Census ACS annual pull.
 
 import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import { AliveMedallion, type SourceNode, type EngineNode } from '../components/AliveMedallion';
+import ProductStageRail from '../components/ProductStageRail';
 
 const TAX_SOURCES: SourceNode[] = [
   { id: 'parcel', label: 'Parcel Records',      sub: 'SQL Server log-CDC',     logo: 'sqlserver', freshness: '52s lag',  status: 'healthy' },
@@ -197,6 +199,8 @@ export default function ArchitecturePage() {
           From CAMA + four open sources to one governed gold layer
         </h2>
 
+        <ProductStageRail accent="#0e7490" />
+
         <AliveMedallion
           sources={TAX_SOURCES}
           bronze={{ ...layerStats('bronze'), trend: [180, 195, 210, 222, 240, 255, 270] }}
@@ -379,8 +383,70 @@ export default function ArchitecturePage() {
         </div>
       </section>
 
+      {/* ── Activations — NewCo native reverse-ETL, right after Transformations ── */}
+      <ActivationsPanel />
+
       <BeforeAfterPanel />
     </div>
+  );
+}
+
+// =============================================================================
+// ActivationsPanel — NewCo Activations, the native reverse-ETL stage that
+// sits directly after Transformations. TRIGGER / DESTINATION / OUTCOME below
+// are vertical-specific to Allegheny County's "assessment shock, no appeal,
+// deadline approaching" segment.
+// =============================================================================
+function ActivationsPanel() {
+  // TRIGGER — the gold-layer condition that fires the sync
+  const TRIGGER = "gold.fct_assessment_current flags a parcel where the assessed value is up more than 20% year over year, gold.fct_appeals has no matching row for the current filing_year (no appeal on file), and the parcel is within 30 days of the county's appeal-filing deadline.";
+  // DESTINATION — the downstream system NewCo Activations pushes into
+  const DESTINATION = 'Granicus GovDelivery · assessment-shock subscriber list';
+  // OUTCOME — the business payoff the SE narrates
+  const OUTCOME = "Moving assessment-shock alerts from a quarterly manual export to sync-on-build lifts the pre-deadline appeal-filing rate from 18% to 52%, cuts projected post-certification refund-and-interest liability by an estimated $1.8M per appeal cycle, and pulls roughly 3,100 avoidable calls out of the assessor's call-center queue during the 40-day appeal window.";
+
+  return (
+    <section className="mb-8 bg-white border border-gray-200 rounded-sm overflow-hidden">
+      <header className="px-5 py-5 border-b border-gray-200 flex items-start justify-between gap-4">
+        <div>
+          <div className="text-[11px] font-semibold uppercase tracking-[0.18em]" style={{ color: '#0e7490' }}>Activations · NewCo</div>
+          <h2 className="font-serif text-xl font-semibold text-ink-900 mt-0.5">
+            The gold layer doesn't just get queried. It gets acted on.
+          </h2>
+          <p className="text-sm text-slate-600 mt-1 max-w-3xl">
+            Activations is the fourth native stage in NewCo, immediately after Transformations. It
+            reads straight from the same Iceberg/Delta gold tables dbt just built in Unity Catalog and
+            syncs the result to an operational system of record &mdash; no separate reverse-ETL vendor,
+            no second copy of the data, no second connector to maintain.
+          </p>
+        </div>
+        <div className="inline-flex items-center gap-1.5 rounded-sm px-2.5 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white shrink-0" style={{ background: '#0e7490' }}>
+          Activations
+        </div>
+      </header>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-gray-100">
+        <div className="p-5">
+          <div className="text-[10px] uppercase tracking-[0.16em] text-slate-500 font-semibold mb-2">Trigger · gold layer</div>
+          <p className="text-sm text-slate-800 leading-relaxed">{TRIGGER}</p>
+        </div>
+        <div className="p-5">
+          <div className="text-[10px] uppercase tracking-[0.16em] text-slate-500 font-semibold mb-2">Destination</div>
+          <p className="text-sm text-slate-800 leading-relaxed font-mono">{DESTINATION}</p>
+        </div>
+        <div className="p-5">
+          <div className="text-[10px] uppercase tracking-[0.16em] text-slate-500 font-semibold mb-2">Outcome</div>
+          <p className="text-sm text-slate-800 leading-relaxed">{OUTCOME}</p>
+        </div>
+      </div>
+
+      <div className="px-5 py-3 border-t border-gray-100 flex items-center justify-between text-[11px] text-slate-500 bg-gray-50">
+        <span>Connections &rarr; Destinations &rarr; Transformations &rarr; <strong style={{ color: '#0e7490' }}>Activations</strong> &middot; one platform, one lineage graph</span>
+        <Link to="/activations-live" className="uppercase tracking-wider font-semibold hover:underline" style={{ color: '#0e7490' }}>
+          Watch it sync &rarr;
+        </Link>
+      </div>
+    </section>
   );
 }
 
